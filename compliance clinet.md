@@ -61,15 +61,18 @@ Before proceeding with the installation, ensure that your system meets the minim
 2. There you will first see the name of the Compliance Client app in the header.
 3. There it will show you the platform version name and profile name.
 4. There you will see the Rights Side setting.
+   
   ![main window 2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/eb702e42-24af-4a74-8bdc-48072af1efb7)
 
 5. The first time you are installing, it will be written that the setting before using the application will be written. You have to go to the settings and set the profile.
+   
   ![main window 3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/a1dc8444-a281-4d1c-9eb3-cd04ce7a1265)
 
 6. You will then be shown the name Device below. There you have to write in the  Device Id.
 7. Then you have to write the reason for disabling your device where you will be shown the reason.
 8. Then you will see a button for “OK” and “Cancel” at the.
 9.  To do this thing first you have to set.
+   
     ![main window 4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2d305c61-07d6-4500-8bf3-ad6c91a1c85e) 
 
 ### How to configure
@@ -78,26 +81,26 @@ Before proceeding with the installation, ensure that your system meets the minim
   
 ### Compliance Client profile
 1. As seen in the image, the compliance client's profile.
-  ![Alt text](<compliance client profile image.PNG>)
+ ![compliance client profile image](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d00e62ec-9bef-4934-91c7-d15d6d00090e)
 
 2. To reach the compliance client profile you have to click on the settings shown in the main windows.
-   ![Alt text](<compliance client profile 1.PNG>)
+  ![compliance client profile 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/13838f61-9b5c-454e-a814-93e68524cee1)
 
 #### What is a profile
 - A profile is an object containing a set of requirements where specific pages define compliance requirements and Contain controls, outputs, and configurations. It acts as a blueprint for evaluating the organization towards its policies.
 - Here the profile includes Name, API Token, Language, and URL. 
 - Profiles can be tailored for cyber security and to address specific moments.
   
-  ![Alt text](<what is profile.PNG>)
+  ![what is profile](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/63037121-cf2a-4c8a-a164-5956efe844bf)
 
 #### Why do we need a profile
   - To do any work, its profile is needed. Profiles are essential for effective compliance management because they provide a structured framework for evaluating an organization's compliance posture. By defining the specific requirements that need to be met, profiles help organizations identify potential risks, prioritize remediation efforts, and demonstrate compliance to auditors and stakeholders! 
-   ![Alt text](<what is profile.PNG>)
+   ![what is profile](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/63037121-cf2a-4c8a-a164-5956efe844bf)
 
 #### How to configure the profile
 1. To configure the profile, first go to the settings shown in Windows.
 2. When you go to settings you will see something like the image shown below.
-   ![Alt text](<how to config profile.PNG>)
+   ![how to config profile](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e2dd09ca-951e-4d9c-a55b-16bc7a42c31e)
 
 3. As seen in the image you have to fill up which is as follows.
   
@@ -111,32 +114,32 @@ Before proceeding with the installation, ensure that your system meets the minim
 ### How to create a profile
 1. To activate a profile you have to select a new profile by going to select profile as shown in the image.
 2. Then you have to write the profile name. Then the profile has to be done as explained in **"[How to configure the profile](#how-to-configure-the-profile)”**.
-   ![Alt text](<how to create.png>)
+   ![how to create](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2dd3c1e1-8fd2-43c8-a34c-447b60517930)
 
 ### How to edit a profile
 1. How to open from the main windows to edit a profile is described in **"[Compliance Client profile](#compliance-client-profile)"**.
 2. You can edit your profile from there as shown in the image. From there you can also select New Profile and edit the existing name.
-   ![Alt text](<how to create.png>)
+   ![how to create](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2dd3c1e1-8fd2-43c8-a34c-447b60517930)
 
 ### How to remove a profile
   - If you want to remove your profile after you fill up all your details here as shown in the image As shown in the red box You can delete the profile by clicking on its **“remove”** button.
-  ![Alt text](<remove .png>)
+  ![remove ](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/71e91d83-943a-4310-8597-670a9c6715d5)
 
 ### How to use a profile
 1. If you want to use your profile, complete your details as described in **"[How to configure](#how-to-configure)"**. You can click on the **“save”** button in your profile And you can use your profile.
-   ![Alt text](<use .png>)
+   ![use ](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/be11137a-9479-4023-a6a3-aa52c0f49f3c)
 
 2. After clicking on the save button, something like the see image will open in which you have to click **“OK”**.
-   ![Alt text](<use 1.PNG>)
+   ![use 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6d1446ce-3a08-468c-b535-904bf6bf435e)
 
 ### How to go back to the main windows
 1. If you want to go across your main window from profile settings Then click on the arrow on the right side of your profile.
 2. Clicking on the arrow will directly take you to your main window.
-   ![Alt text](<go back.png>)  
+   ![go back](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/bd41e732-ad27-49a5-9f93-d1e99dc2ae8e)
 
  ## Use a compliance client
  1. After setting the profile and saving it, you will directly reach the main window as shown in the image.
-   ![Alt text](<main window 1.PNG>)
+   ![use compliance client](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/388e01d1-0fa2-4837-9526-eb04d526c187)
 
 2. Then you have to fill it up as written below.
 - **CE Device ID**: You have to contact the support team of Hiclouds to get the CE device ID. Then write here.
@@ -144,7 +147,7 @@ Before proceeding with the installation, ensure that your system meets the minim
   
  3. After that click **“OK”**.
  4. After that, it will be written that the process has been disabled.
-   ![Alt text](disable.PNG)   
+   ![disable](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/502a3fb8-445e-4c2d-9dff-fb442e7c624e) 
 
 ## Conclusion
 
