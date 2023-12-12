@@ -46,9 +46,10 @@ Before proceeding with the installation, ensure that your system meets the minim
 #### Run the installation file
 1. Once the download is complete, locate the installation file (usually a .exe or .pkg file) right-click it to start the installation process, and install the file by clicking Run as Administration.
    
-![run administator](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f77324fb-9e80-42b4-92af-53cbf52575f1)
+  ![run administator](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f77324fb-9e80-42b4-92af-53cbf52575f1)
+
 2. When the file is installed you will see something like the image below.
-![run administator 2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c556fa7d-5075-4ec7-997d-72c700c1556a)
+  ![run administator 2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c556fa7d-5075-4ec7-997d-72c700c1556a)
 
 3. Click on “Yes” as shown in the red box.
    
@@ -73,7 +74,7 @@ Before proceeding with the installation, ensure that your system meets the minim
 8. Then you will see a button for “OK” and “Cancel” at the.
 9.  To do this thing first you have to set.
    
-    ![main window 4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2d305c61-07d6-4500-8bf3-ad6c91a1c85e) 
+   ![main window 4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2d305c61-07d6-4500-8bf3-ad6c91a1c85e) 
 
 ### How to configure
 - To configure the profile you have to go to settings.
@@ -82,17 +83,17 @@ Before proceeding with the installation, ensure that your system meets the minim
 ### Compliance Client profile
 1. As seen in the image, the compliance client's profile.
  
- ![compliance client profile image](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d00e62ec-9bef-4934-91c7-d15d6d00090e)
+   ![compliance client profile image](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d00e62ec-9bef-4934-91c7-d15d6d00090e)
 
 2. To reach the compliance client profile you have to click on the settings shown in the main windows.
-  ![compliance client profile 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/13838f61-9b5c-454e-a814-93e68524cee1)
+   ![compliance client profile 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/13838f61-9b5c-454e-a814-93e68524cee1)
 
 #### What is a profile
 - A profile is an object containing a set of requirements where specific pages define compliance requirements and Contain controls, outputs, and configurations. It acts as a blueprint for evaluating the organization towards its policies.
 - Here the profile includes Name, API Token, Language, and URL. 
 - Profiles can be tailored for cyber security and to address specific moments.
   
-  ![what is profile](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/63037121-cf2a-4c8a-a164-5956efe844bf)
+   ![what is profile](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/63037121-cf2a-4c8a-a164-5956efe844bf)
 
 #### Why do we need a profile
   - To do any work, its profile is needed. Profiles are essential for effective compliance management because they provide a structured framework for evaluating an organization's compliance posture. By defining the specific requirements that need to be met, profiles help organizations identify potential risks, prioritize remediation efforts, and demonstrate compliance to auditors and stakeholders! 
@@ -126,7 +127,7 @@ Before proceeding with the installation, ensure that your system meets the minim
 ### How to remove a profile
   - If you want to remove your profile after you fill up all your details here as shown in the image As shown in the red box You can delete the profile by clicking on its **“remove”** button.
 
-![remove ](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/71e91d83-943a-4310-8597-670a9c6715d5)
+   ![remove ](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/71e91d83-943a-4310-8597-670a9c6715d5)
 
 ### How to use a profile
 1. If you want to use your profile, complete your details as described in **"[How to configure](#how-to-configure)"**. You can click on the **“save”** button in your profile And you can use your profile.
@@ -140,7 +141,7 @@ Before proceeding with the installation, ensure that your system meets the minim
 1. If you want to go across your main window from profile settings Then click on the arrow on the right side of your profile.
 2. Clicking on the arrow will directly take you to your main window.
 
- ![go back](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/bd41e732-ad27-49a5-9f93-d1e99dc2ae8e)
+  ![go back](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/bd41e732-ad27-49a5-9f93-d1e99dc2ae8e)
 
  ## Use a compliance client
  1. After setting the profile and saving it, you will directly reach the main window as shown in the image.
