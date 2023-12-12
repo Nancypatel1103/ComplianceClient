@@ -45,9 +45,10 @@ Before proceeding with the installation, ensure that your system meets the minim
 
 #### Run the installation file
 1. Once the download is complete, locate the installation file (usually a .exe or .pkg file) right-click it to start the installation process, and install the file by clicking Run as Administration.
+   
    ![run administator](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f77324fb-9e80-42b4-92af-53cbf52575f1)
 2. When the file is installed you will see something like the image below.
-   ![Alt text](<run administator 2.PNG>)
+  ![run administator 2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c556fa7d-5075-4ec7-997d-72c700c1556a)
 
 3. Click on “Yes” as shown in the red box.
    
@@ -55,21 +56,21 @@ Before proceeding with the installation, ensure that your system meets the minim
 #### Main window
 1. When you first install the app, you will see something like the following image.
    
-   ![Alt text](<main window 1.PNG>)  
+  ![main window 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/56f86ffb-a06a-40d6-9bea-29798fc0ee7b) 
 
 2. There you will first see the name of the Compliance Client app in the header.
 3. There it will show you the platform version name and profile name.
 4. There you will see the Rights Side setting.
-   ![Alt text](<main window 2.PNG>)
+  ![main window 2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/eb702e42-24af-4a74-8bdc-48072af1efb7)
 
 5. The first time you are installing, it will be written that the setting before using the application will be written. You have to go to the settings and set the profile.
-   ![Alt text](<main window 3.PNG>)  
+  ![main window 3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/a1dc8444-a281-4d1c-9eb3-cd04ce7a1265)
 
 6. You will then be shown the name Device below. There you have to write in the  Device Id.
 7. Then you have to write the reason for disabling your device where you will be shown the reason.
 8. Then you will see a button for “OK” and “Cancel” at the.
 9.  To do this thing first you have to set.
-    ![Alt text](<main window 4.png>)  
+    ![main window 4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2d305c61-07d6-4500-8bf3-ad6c91a1c85e) 
 
 ### How to configure
 - To configure the profile you have to go to settings.
