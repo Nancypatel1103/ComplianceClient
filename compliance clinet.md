@@ -127,7 +127,7 @@ Before proceeding with the installation, ensure that your system meets the minim
 ### How to remove a profile
   - If you want to remove your profile after you fill up all your details here as shown in the image As shown in the red box You can delete the profile by clicking on its **“remove”** button.
 
-   ![remove ](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/71e91d83-943a-4310-8597-670a9c6715d5)
+    ![remove ](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/71e91d83-943a-4310-8597-670a9c6715d5)
 
 ### How to use a profile
 1. If you want to use your profile, complete your details as described in **"[How to configure](#how-to-configure)"**. You can click on the **“save”** button in your profile And you can use your profile.
@@ -141,7 +141,7 @@ Before proceeding with the installation, ensure that your system meets the minim
 1. If you want to go across your main window from profile settings Then click on the arrow on the right side of your profile.
 2. Clicking on the arrow will directly take you to your main window.
 
-  ![go back](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/bd41e732-ad27-49a5-9f93-d1e99dc2ae8e)
+   ![go back](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/bd41e732-ad27-49a5-9f93-d1e99dc2ae8e)
 
  ## Use a compliance client
  1. After setting the profile and saving it, you will directly reach the main window as shown in the image.
@@ -154,7 +154,7 @@ Before proceeding with the installation, ensure that your system meets the minim
  3. After that click **“OK”**.
  4. After that, it will be written that the process has been disabled.
   
-   ![disable](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/502a3fb8-445e-4c2d-9dff-fb442e7c624e) 
+    ![disable](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/502a3fb8-445e-4c2d-9dff-fb442e7c624e) 
 
 ## Conclusion
 
