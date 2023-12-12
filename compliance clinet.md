@@ -46,16 +46,16 @@ Before proceeding with the installation, ensure that your system meets the minim
 #### Run the installation file
 1. Once the download is complete, locate the installation file (usually a .exe or .pkg file) right-click it to start the installation process, and install the file by clicking Run as Administration.
    
-   ![run administator](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f77324fb-9e80-42b4-92af-53cbf52575f1)
+![run administator](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f77324fb-9e80-42b4-92af-53cbf52575f1)
 2. When the file is installed you will see something like the image below.
-  ![run administator 2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c556fa7d-5075-4ec7-997d-72c700c1556a)
+![run administator 2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c556fa7d-5075-4ec7-997d-72c700c1556a)
 
 3. Click on “Yes” as shown in the red box.
    
 ### Application Tour
 #### Main window
 1. When you first install the app, you will see something like the following image.
-   
+ 
   ![main window 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/56f86ffb-a06a-40d6-9bea-29798fc0ee7b) 
 
 2. There you will first see the name of the Compliance Client app in the header.
@@ -101,6 +101,7 @@ Before proceeding with the installation, ensure that your system meets the minim
 #### How to configure the profile
 1. To configure the profile, first go to the settings shown in Windows.
 2. When you go to settings you will see something like the image shown below.
+
    ![how to config profile](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e2dd09ca-951e-4d9c-a55b-16bc7a42c31e)
 
 3. As seen in the image you have to fill up which is as follows.
