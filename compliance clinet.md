@@ -83,10 +83,12 @@ ministator](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/
   
 ### Compliance Client profile
 1. As seen in the image, the compliance client's profile.
- 
+
+   compliance client profile image.PNG
+   
    ![compliance client profile image](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d00e62ec-9bef-4934-91c7-d15d6d00090e)
 
-2. To reach the compliance client profile you have to click on the settings shown in the main windows.
+1. To reach the compliance client profile you have to click on the settings shown in the main windows.
    ![compliance client profile 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/13838f61-9b5c-454e-a814-93e68524cee1)
 
 #### What is a profile
