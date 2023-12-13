@@ -97,6 +97,7 @@ Before proceeding with the installation, ensure that your system meets the minim
 
 #### Why do we need a profile
   - To do any work, its profile is needed. Profiles are essential for effective compliance management because they provide a structured framework for evaluating an organization's compliance posture. By defining the specific requirements that need to be met, profiles help organizations identify potential risks, prioritize remediation efforts, and demonstrate compliance to auditors and stakeholders! 
+  
    ![what is profile](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/63037121-cf2a-4c8a-a164-5956efe844bf)
 
 #### How to configure the profile
