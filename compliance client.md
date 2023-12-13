@@ -46,9 +46,9 @@ Before proceeding with the installation, ensure that your system meets the minim
 #### Run the installation file
 1. Once the download is complete, locate the installation file (usually a .exe or .pkg file) right-click it to start the installation process, and install the file by clicking Run as Administration.
    
-   IMAGES/run administator.PNG
+   (https://github.com/Nancypatel1103/ComplianceClient/blob/76b088874555695f86eb62bc62c0750ebda49e71/IMAGES/run%20administator.PNG)
    
-3. When the file is installed you will see something like the image below.
+2. When the file is installed you will see something like the image below.
   ![run administator 2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c556fa7d-5075-4ec7-997d-72c700c1556a)
 
 4. Click on “Yes” as shown in the red box.
