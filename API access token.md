@@ -7,7 +7,8 @@
         - [How to create a new API token](#how-to-create-a-new-api-token)       
         - [API Tour](#api-tour)           
             - [Main window](#main-window)       
-        - [How to allow API](#how-to-allow-api)        
+        - [How to allow API](#how-to-allow-api) 
+    - [EXAMPLES](#--examples)
         - [How to block API](#how-to-block-api)        
         - [How to allow IP](#how-to-allow-ip)   
         - [How to block IP](#how-to-block-ip)     
@@ -86,7 +87,7 @@ Following are the steps on how to generate an API token and how to use it.
    ![allow API 4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/097877fa-bf9a-4cdb-b949-4e070cb22f26)
 
 
-- ##**EXAMPLES**   
+## - **EXAMPLES**   
  
   **EX-1**.
      ![allow api ex1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/68de3312-4111-4fa1-b2de-a579ecf19088)
