@@ -1,6 +1,6 @@
 # API Access Token
+<!-- TOC -->
 <!-- /TOC -->
-
 
 ## What is an API access token?
 An access token is issued to grant access to  3rd party. Disabling ID requires an API token first, so an API token must be generated. 
