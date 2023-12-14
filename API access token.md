@@ -28,7 +28,7 @@ The ID can be disabled using an API token and an API token for the ID needs to b
 Following are the steps on how to generate an API token and how to use it.
 
 ### How to create a new API token
-1. First, we will go to its portal which here is the dev.CLOUDS(https://dev.hi-clouds.com/login) and beta.COUDS(https://beta1.hi-clouds.com/login). So first go to dev.CLOUDS.
+1. First, we will go to its portal which here is the dev.CLOUDS (https://dev.hi-clouds.com/login) and beta.ClOUDS (https://beta1.hi-clouds.com/login). So first go to dev.CLOUDS.
 ![create new API token 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f7806c48-e7b6-40c0-9da8-75d538444468)
 2. If there are features, we will go there if there is a feature in the name of Manage API.
 ![create new API token 2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5e7eb1a4-2a53-4b01-873b-3946765063cc)
