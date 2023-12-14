@@ -1,7 +1,6 @@
 # API Access Token
 <!-- TOC -->
-[API Access Token](#api-access-token)
-    
+[API Access Token](#api-access-token)   
     - [What is an API access token?](#what-is-an-api-access-token)   
     - [Why do we need an API token?](#why-do-we-need-an-api-token)    
     - [How to use an API token](#how-to-use-an-api-token)        
@@ -13,10 +12,10 @@
         - [How to allow IP](#how-to-allow-ip)
         - [How to block IP](#how-to-block-ip)
         - [What is token expiry?](#what-is-token-expiry) 
-        - [How to token Expiry](#how-to-token-expiry)
-        - [How to update the token](#how-to-update-the-token)
-        - [How to delete the token](#how-to-delete-the-token)
-     - [How to use API access token with compliance client](#how-to-use-api-access-token-with-compliance-client)
+        - [How to token Expiry](#how-to-token-expiry)        
+        - [How to update the token](#how-to-update-the-token)        
+        - [How to delete the token](#how-to-delete-the-token)           
+     - [How to use API access token with compliance client](#how-to-use-api-access-token-with-compliance-client)     
 <!-- /TOC -->
 
 ## What is an API access token?
