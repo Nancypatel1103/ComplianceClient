@@ -11,11 +11,11 @@
         - [How to block API](#how-to-block-api)        
         - [How to allow IP](#how-to-allow-ip)
         - [How to block IP](#how-to-block-ip)
-    - [What is token expiry?](#what-is-token-expiry) 
+        - [What is token expiry?](#what-is-token-expiry) 
         - [How to token Expiry](#how-to-token-expiry)
         - [How to update the token](#how-to-update-the-token)
         - [How to delete the token](#how-to-delete-the-token)
-    - [How to use API access token with compliance client](#how-to-use-api-access-token-with-compliance-client)
+     - [How to use API access token with compliance client](#how-to-use-api-access-token-with-compliance-client)
 <!-- /TOC -->
 
 ## What is an API access token?
