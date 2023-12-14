@@ -100,7 +100,7 @@ Following are the steps on how to generate an API token and how to use it.
    ![block API 4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ee4ef2c8-46e7-4269-97ba-5c487d0f7881)
 
 ### How to allow IP
-1. Go to the add new button as shown in "How to allow API" and "How to block API"
+1. Go to the add new button as shown in **"[How to allow IP](#how-to-allow-ip)"** and **"[How to block IP](#how-to-block-ip)"**
    ![allow API 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2c6b3104-7f40-4490-8886-50a9a1ed7a84)
 
 2. Then add the IP address you want to access as shown in the image.
@@ -110,7 +110,7 @@ Following are the steps on how to generate an API token and how to use it.
    ![allow ip 2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d64c80f5-dbbf-4e7c-b645-f3d9000532dd)
 
 ### How to block IP
-1. Go to add new button as shown in "How to allow API" and "How to block API".
+1. Go to add new button as shown in **"[How to allow IP](#how-to-allow-ip)"** and **"[How to block IP](#how-to-block-ip)"**.
    ![allow API 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2c6b3104-7f40-4490-8886-50a9a1ed7a84)
 
 2. Then add the IP address you want to access as shown in the image.
@@ -154,14 +154,14 @@ If the date of the given token is gone, then the API token becomes invalid, i.e.
    ![delete2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ebdf9602-2b08-4604-bbc1-e9ad46795aae)
 
 ## How to use API access token with compliance client
-How to generate API token should be generated as shown in "how to new API token".
+How to generate API token should be generated as shown in **"how to new API token"**.
 - How to use API access token with compliance client
 1. The generated API has to be added inside the compliance client.
-2. When you go to the compliance client's profile and go to the setting as shown in **"how to configure profile"**, you will see something as shown in the image,
+2. When you go to the compliance client's profile and go to the setting as shown in **" [How to configure the profile](#how-to-configure-the-profile"**, you will see something as shown in the image,
 
    ![how to config profile](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e2dd09ca-951e-4d9c-a55b-16bc7a42c31e)
 
-4. There you need an API token, name, language, and URL as explained in **"How to configure profile"**. Also, the newly generated API token will be added here.
+4. There you need an API token, name, language, and URL as explained in **"[How to configure the profile](#how-to-configure-the-profile"**. Also, the newly generated API token will be added here.
 5. After that click on **"save"** button.
 6. There you will see a message on the screen as shown in the image that your profile is saved, click on **"ok"**.
     ![use 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6d1446ce-3a08-468c-b535-904bf6bf435e)
