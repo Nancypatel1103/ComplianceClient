@@ -85,13 +85,11 @@ Following are the steps on how to generate an API token and how to use it.
 3. Then Click on the **"save"** button in the list below.
 
    ![allow API 4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/097877fa-bf9a-4cdb-b949-4e070cb22f26)
-
-
-## -EXAMPLES:1 
-    ![allow api ex1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/68de3312-4111-4fa1-b2de-a579ecf19088)
-    ![allow api ex2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/87e0a868-52c6-4d2c-91f9-cd60dbfcc9b3)
-    ![allow ex1 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/623eb780-0fba-4838-9c6e-08b682730980)
-
+ 
+ ##- EXAMPLES:1 
+   ![allow api ex1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/733b4d68-2bc9-4082-8a26-96a1ebb75d75)
+   ![allow api ex2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/14757175-b8de-4fd0-a2d9-9b60d7e26e53)
+   ![allow api ex3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d6d515fe-e55d-4d9e-bab4-c7f3e350ca83)
  
 ### How to block API
 1. Go to API to allow manage API after going to manage API, click on add new API token shown on the right side.
