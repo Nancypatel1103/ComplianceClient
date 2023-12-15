@@ -123,6 +123,12 @@ Following are the steps on how to generate an API token and how to use it.
 3. And then click on the **"save"** button in the list below.
    ![allow ip 2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d64c80f5-dbbf-4e7c-b645-f3d9000532dd)
 
+## Example
+1. Ex:1
+   ![allow ip ex1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/df3152d4-e695-4143-8581-77a0cb21c875)
+   ![allow ip ex2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f4dcc174-4974-4311-af87-06918b6b1cca)
+   ![allow ip ex3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b8bf8e17-afc9-4816-836b-46309e5bed0a)
+
 ### How to block IP
 1. Go to add new button as shown in **"[How to allow IP](#how-to-allow-ip)"** and **"[How to block IP](#how-to-block-ip)"**.
    ![allow API 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2c6b3104-7f40-4490-8886-50a9a1ed7a84)
