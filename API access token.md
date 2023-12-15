@@ -184,14 +184,15 @@ If the date of the given token is gone, then the API token becomes invalid, i.e.
 ## How to use API access token with compliance client
 How to generate API token should be generated as shown in **"how to new API token"**.
 - How to use API access token with compliance client
-1. The generated API has to be added inside the compliance client.
-2. When you go to the compliance client's profile and go to the setting as shown in **"[How to configure the profile](#how-to-configure-the-profile)"**, you will see something as shown in the image,
+1. Installing the compliance client application as explained in **"[How to install compliance client app in windows](#how-to-install-compliance-client-app-in-windows)."**
+2. The generated API has to be added inside the compliance client.
+3. When you go to the compliance client's profile and go to the setting as shown in **"[How to configure the profile](#how-to-configure-the-profile)"**, you will see something as shown in the image,
 
    ![how to config profile](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e2dd09ca-951e-4d9c-a55b-16bc7a42c31e)
 
-4. There you need an API token, name, language, and URL as explained in **"[How to configure the profile](#how-to-configure-the-profile)"**. Also, the newly generated API token will be added here.
-5. After that click on **"save"** button.
-6. There you will see a message on the screen as shown in the image that your profile is saved, click on **"ok"**.
+5. There you need an API token, name, language, and URL as explained in **"[How to configure the profile](#how-to-configure-the-profile)"**. Also, the newly generated API token will be added here.
+6. After that click on **"save"** button.
+7. There you will see a message on the screen as shown in the image that your profile is saved, click on **"ok"**.
     ![use 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6d1446ce-3a08-468c-b535-904bf6bf435e)
 
 
