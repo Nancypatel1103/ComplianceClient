@@ -125,6 +125,7 @@ Following are the steps on how to generate an API token and how to use it.
 
 ## Example
 1. Ex:1
+
    ![allow ip ex1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/df3152d4-e695-4143-8581-77a0cb21c875)
    ![allow ip ex2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f4dcc174-4974-4311-af87-06918b6b1cca)
    ![allow ip ex3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b8bf8e17-afc9-4816-836b-46309e5bed0a)
@@ -138,6 +139,13 @@ Following are the steps on how to generate an API token and how to use it.
 
 3. And then click on the **"save"** button in the list below.
    ![block ip2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/9cfb200b-dac9-48a6-8da3-f7dda2c93534)
+
+## Example
+1. Ex:1
+
+   ![block ip ex1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7f081b4a-1694-4573-951c-0dbb4bb7b7d3)
+   ![block ip ex2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/9a06ce12-1197-41c5-9a32-4f589f4f3e5c)
+   ![block ip ex3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/eee32fc1-2527-4758-a7cb-555b5ccf28f6)
 
 ## What is token expiry?
 If the date of the given token is gone, then the API token becomes invalid, i.e. it expires. such a token is called an expired token.
