@@ -88,7 +88,7 @@ Following are the steps on how to generate an API token and how to use it.
 
 
 ## - EXAMPLES  
-  **EX-1**. 
+
       ![allow api ex1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/68de3312-4111-4fa1-b2de-a579ecf19088)
       ![allow api ex2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/87e0a868-52c6-4d2c-91f9-cd60dbfcc9b3)
       ![allow ex1 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/623eb780-0fba-4838-9c6e-08b682730980)
@@ -109,7 +109,7 @@ Following are the steps on how to generate an API token and how to use it.
    ![block API 4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ee4ef2c8-46e7-4269-97ba-5c487d0f7881)
 
 ## - EXAMPLES  
-**EX-1**
+
     ![block  api ex1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5ca36d30-10b2-4051-b94b-4d157dbfb103)  
     ![block  api ex2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/42b93c04-1fd8-456b-ae61-b3880711f6d4)  
     ![block api ex3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8e034428-d384-434f-b43b-38a26268fd4f)  
