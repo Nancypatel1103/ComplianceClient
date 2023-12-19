@@ -1,4 +1,20 @@
 # Cloud gateway testing
+<!-- TOC -->
+
+- [Cloud gateway testing](#cloud-gateway-testing)
+    - [How to connect CE and PE](#how-to-connect-ce-and-pe)
+    - [CGW Global Mode](#cgw-global-mode)
+        - [How to the global mode in CGW](#how-to-the-global-mode-in-cgw)
+    - [CGW Full Mode](#cgw-full-mode)
+        - [How to full mode in CGW](#how-to-full-mode-in-cgw)
+    - [CGW selective Mode](#cgw-selective-mode)
+        - [How to select mode in CGW](#how-to-select-mode-in-cgw)
+    - [What is a single-arm?](#what-is-a-single-arm)
+        - [How to do a single-arm](#how-to-do-a-single-arm)
+    - [How to disable cloud gateway](#how-to-disable-cloud-gateway)
+
+<!-- /TOC -->
+
 - CE and PE need to be connected to enable cloud gateway.
 - so first check whether it is connected or not.
   
