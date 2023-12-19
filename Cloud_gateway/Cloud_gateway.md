@@ -80,10 +80,10 @@ In full mode, all local and global sites will be connected to a VPN.
 ![full 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b4f1b842-0132-4548-ba92-b33ebd786534)
 
 5. If you want to use the internet. Then click Enable NAT on the right side.
-![CE PE 6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/347fd1cb-1bdf-4f95-af05-dc0a4816dc36)
+![global 4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/37167ecd-86fa-4002-92de-a1eb695b8de2)
 
 6. After that finally click on save config.
-![CE PE 7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1e09390c-bd99-4d0d-8b39-3bd39e9439a2)
+![global 5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/78de39a9-e4e2-4bfd-a2fd-cc348b9211bb)
 
 ## CGW selective Mode
 In Selective Mode, the domain (website) added will be connected to the VPN.
@@ -106,10 +106,10 @@ In Selective Mode, the domain (website) added will be connected to the VPN.
 ![selective 2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/99d2613c-5e2b-4b87-b3f1-3de6a12d267c)
 
 7. If you want to use the Internet. Then click Enable NAT on the right side.
-![CE PE 6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/347fd1cb-1bdf-4f95-af05-dc0a4816dc36)
+![global 4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/37167ecd-86fa-4002-92de-a1eb695b8de2)
 
 8. After that finally click on save config.
-![CE PE 7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1e09390c-bd99-4d0d-8b39-3bd39e9439a2)
+![global 5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/78de39a9-e4e2-4bfd-a2fd-cc348b9211bb)
 
 ## What is a single-arm?
 A single arm is something that once you have set something and you want to change something without removing it, is called a single arm.
@@ -132,7 +132,7 @@ A single arm is something that once you have set something and you want to chang
 ![single3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f1a91b76-6cdb-4b46-936b-2718aace5139)
 
 7. After that finally click on **"save"** config.
-![CE PE 7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1e09390c-bd99-4d0d-8b39-3bd39e9439a2)
+![global 5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/78de39a9-e4e2-4bfd-a2fd-cc348b9211bb)
 
 ## How to disable cloud gateway
 1. Go to CE device and click on your own device.
@@ -142,9 +142,7 @@ A single arm is something that once you have set something and you want to chang
 ![cloud disable](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1250ee7e-141d-4b4b-887d-48a6b2abd191)
 
 3. After that finally click on **"save"** config.
-![CE PE 7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1e09390c-bd99-4d0d-8b39-3bd39e9439a2)
-
-
+![global 5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/78de39a9-e4e2-4bfd-a2fd-cc348b9211bb)
 
 
 
