@@ -117,7 +117,7 @@ In Selective Mode, the domain (website) added will be connected to the VPN.
 - A one-armed router is the name for a router that routes traffic between one or more virtual local area networks (LAN). These routers work basically the same way as a normal router; they take in information and send it out to the correct location. In the case of a one-armed router, the networks that they route between are on the same physical network. Virtual LANs, and the routers that connect them, are primarily used as security devices.
 
 ## Why do we need single-arm?
-The use of a single-arm router is required when the setup in an office is not to be disturbed, then a single-arm router should be used. For that, configure the CE in the same LAN of the office and give the gateway of the CE in the DHCP server. Now Internet or VPN will be directly through the gateway of CE.
+The use of a single-arm router is required when the setup in an office is not to be disturbed, then a single-arm router should be used. For that, configure the CE in the same LAN of the office and give the gateway of the CE in the DHCP server. Now internet or VPN will be directly through the gateway of CE.
 
 ### How to do a single-arm
 1. Go to CE device and click on your own device.
@@ -126,7 +126,7 @@ The use of a single-arm router is required when the setup in an office is not to
 2. After that go to gateway and click on cloud gateway.
 ![global 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/991733cd-4306-477e-a69e-b75589f4024b)
 
-3. Then do as explained in **" how to full mode, "how to global mode", and "how to selective mode"**.
+3. Then do as explained in **"[How to the full mode in CGW](#how-to-full-mode-in-cgw), "[How to the global mode in CGW](#how-to-the-global-mode-in-cgw)", and "[How to select the mode in CGW](#how-to-select-mode-in-cgw)"**.
 4. Then click on a single arm.
 ![single1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4ae790e3-6424-483f-bfeb-5edc7e7d00ab)
 
