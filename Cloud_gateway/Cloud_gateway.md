@@ -1,7 +1,7 @@
-# Cloud gateway
+# Cloud gateway testing
 - CE and PE need to be connected to enable cloud gateway.
 - so first check whether it is connected or not.
-
+  
 ## How to connect CE and PE
 1. First, we will go to its portal, which is the dev.CLOUDS and beta.CLOUDS. So first go to dev.CLOUDS.
 ![CE PE 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/00ff65fa-bddf-427f-9648-1c648491dcd7)
@@ -25,14 +25,17 @@
 8. If you click on assign, it will connect and the message successfully will come as you can see in the image.
 ![CE PE 7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1e09390c-bd99-4d0d-8b39-3bd39e9439a2)
 
-## How to global mode in CGW
+## CGW Global Mode
+By doing Global Mode which will be a local domain like VPN done in India. So India will not be able to connect to any site from a VPN, even the global site will be connected from a VPN because the local site will get fast access. However, connecting the global site with a VPN will increase the speed and encrypt data.
+
+### How to the global mode in CGW
 1. Go to CE device and click on your own device.
 ![CE PE 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/00ff65fa-bddf-427f-9648-1c648491dcd7)
 
 2. After that go to gateway and click on cloud gateway.
 ![global 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/991733cd-4306-477e-a69e-b75589f4024b)
 
-3. Then select masquerade in select customer public IP.
+3. Then select masquerade in select customer public IP or if there is ab ID, you select that ID.
 ![global 2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2f194765-8b8d-4db4-bb4d-9fc1f07a742d)
 
 4. Then select global in select mode.
@@ -44,14 +47,17 @@
 6. After that finally click on save config.
 ![global 5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/78de39a9-e4e2-4bfd-a2fd-cc348b9211bb)
 
-## How to full mode in CGW
+## CGW Full Mode
+In full mode, all local and global sites will be connected to a VPN.
+
+### How to full mode in CGW
 1. Go to CE device and click on your own device.
 ![CE PE 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/00ff65fa-bddf-427f-9648-1c648491dcd7)
 
 2. After that go to gateway and click on cloud gateway.
 ![global 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/991733cd-4306-477e-a69e-b75589f4024b)
 
-3. Then select masquerade in select customer public IP.
+3. Then select masquerade in select customer public IP or if there is ab ID, you select that ID.
 ![global 2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2f194765-8b8d-4db4-bb4d-9fc1f07a742d)
 
 4. Then select full in select mode.
@@ -63,14 +69,17 @@
 6. After that finally click on save config.
 ![CE PE 7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1e09390c-bd99-4d0d-8b39-3bd39e9439a2)
 
-## How to select mode in CGW
+## CGW selective Mode
+In Selective Mode, the domain (website) added will be connected to the VPN.
+
+### How to select mode in CGW
 1. Go to CE device and click on your own device.
 ![CE PE 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/00ff65fa-bddf-427f-9648-1c648491dcd7)
 
 2. After that go to gateway and click on cloud gateway.
 ![global 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/991733cd-4306-477e-a69e-b75589f4024b)
 
-3. Then select masquerade in select customer public IP.
+3. Then select masquerade in select customer public IP or if there is ab ID, you select that ID.
 ![global 2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2f194765-8b8d-4db4-bb4d-9fc1f07a742d)
 
 4. Then select selective in select mode.
@@ -85,3 +94,31 @@
 
 8. After that finally click on save config.
 ![CE PE 7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1e09390c-bd99-4d0d-8b39-3bd39e9439a2)
+
+## What is a single-arm?
+A single arm is something that once you have set something and you want to change something without removing it, is called a single arm.
+
+### How to do a single-arm
+1. Go to CE device and click on your own device.
+![CE PE 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/00ff65fa-bddf-427f-9648-1c648491dcd7)
+
+2. After that go to gateway and click on cloud gateway.
+![global 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/991733cd-4306-477e-a69e-b75589f4024b)
+
+3. Then do as explained in **" how to full mode, "how to global mode", and "how to selective mode"**.
+4. Then click on a single arm.
+![single1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4ae790e3-6424-483f-bfeb-5edc7e7d00ab)
+
+5. After that you have to write the IP for your new setup.
+![single2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/96007196-6ac8-44db-a5de-484ccd11ec05)
+
+6. Then click on **add**.
+![single3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f1a91b76-6cdb-4b46-936b-2718aace5139)
+
+7. After that finally click on **"save"** config.
+![CE PE 7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1e09390c-bd99-4d0d-8b39-3bd39e9439a2)
+
+
+
+
+
