@@ -126,7 +126,7 @@ The use of a single-arm router is required when the setup in an office is not to
 2. After that go to gateway and click on cloud gateway.
 ![global 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/991733cd-4306-477e-a69e-b75589f4024b)
 
-3. Then do as explained in **"[How to the full mode in CGW](#how-to-full-mode-in-cgw), "[How to the global mode in CGW](#how-to-the-global-mode-in-cgw)", and "[How to select the mode in CGW](#how-to-select-mode-in-cgw)"**.
+3. Then do as explained in **"[How to the full mode in CGW](#how-to-full-mode-in-cgw),"[How to the global mode in CGW](#how-to-the-global-mode-in-cgw)", and "[How to select the mode in CGW](#how-to-select-mode-in-cgw)"**.
 4. Then click on a single arm.
 ![single1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4ae790e3-6424-483f-bfeb-5edc7e7d00ab)
 
