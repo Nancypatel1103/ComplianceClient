@@ -20,39 +20,39 @@
 - so first check whether it is connected or not.
   
 ## How to connect CE and PE
-1. First, we will go to its portal, which is the dev.CLOUDS and beta.CLOUDS. So first go to dev.CLOUDS.
+1. First go to its portal. There are two portals dev.CLOUDS and beta.CLOUDS. Go to whatever portal you have from your build here is the dev.CLOUDS.
 ![CE PE 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/00ff65fa-bddf-427f-9648-1c648491dcd7)
 
-2. Then go to CE device and click here.
-3. Select your device ID here.
+2. Then go to CE device and click.
+3. Select your device ID there.
 ![CE PE 2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8cda6821-8148-4508-9e48-569872ee22c4)
 
-4. There you will click on device ID so you will see something like this then click on VPN.
+4. There you will click on the device ID so you will see something like this then click on the VPN tab like this.
 ![CE PE 3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/a1cae77a-4af3-4402-813b-3d85e56b44a5)
 
-5. After clicking on VPN you will see the link PE on the right side click on it.
+5. After clicking on VPN click on the **Link PE** given on the right side.
 ![CE PE 4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8ba35c97-4b21-4f39-af40-c533d56b3a1a)
 
-6. After that you will see something like a screen where you have to select region and PE device IP.
+6. Then select Region and PE Device IP.
 ![CE PE 5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/a4ff5b4c-32f4-4801-bc71-16541cceab1e)
 
 7. If it is a region of India then type IND select PE device IP and click on assign.
 ![CE PE 6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/347fd1cb-1bdf-4f95-af05-dc0a4816dc36)
 
-8. If you click on assign, it will connect and the message successfully will come as you can see in the image.
+8. Then click on assign. Then it will connect and you will get the message successfully.
 ![CE PE 7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1e09390c-bd99-4d0d-8b39-3bd39e9439a2)
 
 ## CGW Global Mode
 By doing Global Mode which will be a local domain like VPN done in India. So India will not be able to connect to any site from a VPN, even the global site will be connected from a VPN because the local site will get fast access. However, connecting the global site with a VPN will increase the speed and encrypt data.
 
 ### How to the global mode in CGW
-1. Go to CE device and click on your own device.
+1. Go to the CE device menu and click on your own device.
 ![CE PE 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/00ff65fa-bddf-427f-9648-1c648491dcd7)
 
 2. After that go to gateway and click on cloud gateway.
 ![global 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/991733cd-4306-477e-a69e-b75589f4024b)
 
-3. Then select masquerade in select customer public IP or if there is ab ID, you select that ID.
+3. Then select masquerade in select customer public IP or if there is an IP ID, you select that ID.
 ![global 2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2f194765-8b8d-4db4-bb4d-9fc1f07a742d)
 
 4. Then select global in select mode.
@@ -68,13 +68,13 @@ By doing Global Mode which will be a local domain like VPN done in India. So Ind
 In full mode, all local and global sites will be connected to a VPN.
 
 ### How to full mode in CGW
-1. Go to CE device and click on your own device.
+1. Go to the CE device menu and click on your own device.
 ![CE PE 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/00ff65fa-bddf-427f-9648-1c648491dcd7)
 
 2. After that go to gateway and click on cloud gateway.
 ![global 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/991733cd-4306-477e-a69e-b75589f4024b)
 
-3. Then select masquerade in select customer public IP or if there is ab ID, you select that ID.
+3. Then select masquerade in select customer public IP or if there is an IP ID, you select that ID.
 ![global 2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2f194765-8b8d-4db4-bb4d-9fc1f07a742d)
 
 4. Then select full in select mode.
@@ -90,13 +90,13 @@ In full mode, all local and global sites will be connected to a VPN.
 In Selective Mode, the domain (website) added will be connected to the VPN.
 
 ### How to select mode in CGW
-1. Go to CE device and click on your own device.
+1. Go to CE device menu and click on your own device.
 ![CE PE 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/00ff65fa-bddf-427f-9648-1c648491dcd7)
 
 2. After that go to gateway and click on cloud gateway.
 ![global 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/991733cd-4306-477e-a69e-b75589f4024b)
 
-3. Then select masquerade in select customer public IP or if there is ab ID, you select that ID.
+3. Then select masquerade in select customer public IP or if there is an IP ID, you select that ID.
 ![global 2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2f194765-8b8d-4db4-bb4d-9fc1f07a742d)
 
 4. Then select selective in select mode.
@@ -120,7 +120,7 @@ In Selective Mode, the domain (website) added will be connected to the VPN.
 The use of a single-arm router is required when the setup in an office is not to be disturbed, then a single-arm router should be used. For that, configure the CE in the same LAN of the office and give the gateway of the CE in the DHCP server. Now internet or VPN will be directly through the gateway of CE.
 
 ### How to do a single-arm
-1. Go to CE device and click on your own device.
+1. Go to the CE device menu and click on your own device.
 ![CE PE 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/00ff65fa-bddf-427f-9648-1c648491dcd7)
 
 2. After that go to gateway and click on cloud gateway.
