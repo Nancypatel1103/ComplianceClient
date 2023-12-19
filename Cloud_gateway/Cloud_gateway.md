@@ -118,6 +118,16 @@ A single arm is something that once you have set something and you want to chang
 7. After that finally click on **"save"** config.
 ![CE PE 7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1e09390c-bd99-4d0d-8b39-3bd39e9439a2)
 
+## How to disable cloud gateway
+1. Go to CE device and click on your own device.
+![CE PE 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/00ff65fa-bddf-427f-9648-1c648491dcd7)
+
+2. After that go to gateway and click on cloud gateway.
+![cloud disable](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1250ee7e-141d-4b4b-887d-48a6b2abd191)
+
+3. After that finally click on **"save"** config.
+![CE PE 7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1e09390c-bd99-4d0d-8b39-3bd39e9439a2)
+
 
 
 
