@@ -23,7 +23,7 @@
 1. First go to its portal. There are two portals dev.CLOUDS (https://dev.hi-clouds.com/login) and beta.CLOUDS (https://beta1.hi-clouds.com/login). Go to whatever portal you have from your build here is the dev.CLOUDS.
 ![CE PE 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/00ff65fa-bddf-427f-9648-1c648491dcd7)
 
-2. Then go to CE device and click.
+2. Then go to the CE device menu and click.
 3. Select your device ID there.
 ![CE PE 2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8cda6821-8148-4508-9e48-569872ee22c4)
 
