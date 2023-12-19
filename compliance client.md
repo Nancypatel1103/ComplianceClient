@@ -117,7 +117,7 @@ Before proceeding with the installation, ensure that your system meets the minim
 4. After that click on the **“save”** button.
 
 ### How to create a profile
-1. To activate a profile you have to select a new profile by going to select profile as shown in the image.
+1. To activate a profile you have to select a new profile by going to the profile as shown in the image.
 2. Then you have to write the profile name. Then the profile has to be done as explained in **"[How to configure the profile](#how-to-configure-the-profile)”**.
    ![how to create](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2dd3c1e1-8fd2-43c8-a34c-447b60517930)
 
@@ -128,7 +128,8 @@ Before proceeding with the installation, ensure that your system meets the minim
    ![how to create](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2dd3c1e1-8fd2-43c8-a34c-447b60517930)
 
 ### How to remove a profile
-  - If you want to remove your profile after you fill up all your details here as shown in the image As shown in the red box You can delete the profile by clicking on its **“remove”** button.
+  - If you want to remove your profile after you fill up all your details here as shown in the image shown in the red box You can delete the profile by clicking on its **“remove”** button.
+  - You can delete only saved profiles, you can't delete or clear the form simply by filling out the form. If the form is already saved then you can delete it.
 
     ![remove ](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/71e91d83-943a-4310-8597-670a9c6715d5)
 
