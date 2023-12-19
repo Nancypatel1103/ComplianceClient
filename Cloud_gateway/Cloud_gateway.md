@@ -20,7 +20,7 @@
 - so first check whether it is connected or not.
   
 ## How to connect CE and PE
-1. First go to its portal. There are two portals dev.CLOUDS and beta.CLOUDS. Go to whatever portal you have from your build here is the dev.CLOUDS.
+1. First go to its portal. There are two portals dev.CLOUDS (https://dev.hi-clouds.com/login) and beta.CLOUDS (https://beta1.hi-clouds.com/login). Go to whatever portal you have from your build here is the dev.CLOUDS.
 ![CE PE 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/00ff65fa-bddf-427f-9648-1c648491dcd7)
 
 2. Then go to CE device and click.
