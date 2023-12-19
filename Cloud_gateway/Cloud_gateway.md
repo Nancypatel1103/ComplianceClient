@@ -6,10 +6,11 @@
     - [CGW Global Mode](#cgw-global-mode)
         - [How to the global mode in CGW](#how-to-the-global-mode-in-cgw)
     - [CGW Full Mode](#cgw-full-mode)
-        - [How to full mode in CGW](#how-to-full-mode-in-cgw)
+        - [How to the full mode in CGW](#how-to-full-mode-in-cgw)
     - [CGW selective Mode](#cgw-selective-mode)
-        - [How to select mode in CGW](#how-to-select-mode-in-cgw)
+        - [How to select the mode in CGW](#how-to-select-mode-in-cgw)
     - [What is a single-arm?](#what-is-a-single-arm)
+    - [Why do we need single-arm?](#why-do-we-need-single-arm)
         - [How to do a single-arm](#how-to-do-a-single-arm)
     - [How to disable cloud gateway](#how-to-disable-cloud-gateway)
 
@@ -112,7 +113,11 @@ In Selective Mode, the domain (website) added will be connected to the VPN.
 ![global 5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/78de39a9-e4e2-4bfd-a2fd-cc348b9211bb)
 
 ## What is a single-arm?
-A single arm is something that once you have set something and you want to change something without removing it, is called a single arm.
+- A single arm is something that once you have set something and you want to change something without removing it, is called a single arm.
+- A one-armed router is the name for a router that routes traffic between one or more virtual local area networks (LAN). These routers work basically the same way as a normal router; they take in information and send it out to the correct location. In the case of a one-armed router, the networks that they route between are on the same physical network. Virtual LANs, and the routers that connect them, are primarily used as security devices.
+
+## Why do we need single-arm?
+The use of a single-arm router is required when the setup in an office is not to be disturbed, then a single-arm router should be used. For that, configure the CE in the same LAN of the office and give the gateway of the CE in the DHCP server. Now Internet or VPN will be directly through the gateway of CE.
 
 ### How to do a single-arm
 1. Go to CE device and click on your own device.
