@@ -2,6 +2,9 @@
 <!-- TOC -->
 
 - [Cloud gateway testing](#cloud-gateway-testing)
+    - [What is a CLOUD gateway?](#what-is-a-cloud-gateway)   
+    - [Why do need a cloud gateway?](#why-do-need-a-cloud-gateway)   
+    - [What are CE and PE?](#what-is-ce-and-pe)   
     - [How to connect CE and PE](#how-to-connect-ce-and-pe)
     - [CGW Global Mode](#cgw-global-mode)
         - [How to the global mode in CGW](#how-to-the-global-mode-in-cgw)
@@ -16,6 +19,14 @@
 
 <!-- /TOC -->
 
+## What is a CLOUD gateway?
+A gateway is a network point that acts as access to another network.
+Here the gateway accesses the compliance client's app. With the help of the CLOUDS gateway, you can enable and disable your gateway. You can also select different modes.
+
+## Why do need a cloud gateway?
+Gateways play a crucial role in cloud computing by facilitating communication and data transfer between disparate networks, making it possible for different systems to work together seamlessly. A Gateway can enable communication between different networks, facilitating data transfer and integration.
+
+## What are CE and PE?
 - CE and PE need to be connected to enable cloud gateway.
 - so first check whether it is connected or not.
   
