@@ -58,3 +58,35 @@ Before enabling the cloud gateway, it is necessary to connect the CE and PE. So 
 16. Verify that the device ID is linked. Wait 5 to 10 minutes for the red pin to turn green. If it turns green, it is connected.
 
     ![link pe6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4808f1d7-25fd-4b7c-afb5-9c6b2929133d)
+
+## How to CGW Enable
+1. Go to beta1. hi-clouds (https://beta1.hi-clouds.com/login) and sign in there by entering your username, and password.
+  ![login](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8fecde6f-66ce-42a3-ade9-67dd2ef2c81b)
+2. After login you will see a window something like this.
+   ![window](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/0857f615-0099-40e5-a591-08927edbac40)
+3. There you will find various menus on the right side. Click on the CE Devices menu there.
+   ![CE device](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/961c3947-168e-418c-826e-5f9292cba9c9)
+4. After clicking on the CE Devices menu something like this will be displayed.
+   ![CE devices 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/36638aef-4edc-4cc9-a71b-fba2af35e679)
+5. There you will see different Devices IDs. Go to the right-side search tab to search for your own ID.
+  ![search](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8955370e-7c4e-4304-9302-05b70bdb69fe)
+6. After going to the search tab, search the ID name there. for **Ex: jaymin**.
+   ![search1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ebbdb163-1272-48e0-a9b2-e8a0d3539989)
+7. Click where you will find the device ID. For **EX here is jaymin-home-new-x86**.
+   ![search2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/595f532b-2338-4fa5-9397-51dc35c38250)
+8. If you click, you will get a summary like this.
+   ![summary](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/0ab6aa5d-5c1d-4139-8c2e-8ba739dc11fd)
+9. On the left side you will find various tabs. Click on the **GATEWAY** tab there.
+   ![CGW enable](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5253a12d-4731-4bac-898c-026ddaa58df3)
+
+10. After Clicking on GATEWAY a new window will appear.
+
+     ![CGW enable1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5aecedbc-fec6-486e-bed3-18ea3af5f1df)
+11. Click on **Cloud Gateway**.
+    ![CGW enable2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d441e84d-bd4b-4e78-ad2d-beffabf750a0)
+
+12. Click on Cloud Gateway and scroll down a little, there you will find Save Config. Click on Save Config there.
+    ![CGW enable3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/70b2576c-58b2-4147-b2e1-e423504586aa)
+
+13. Click on Save Config, and you will get the Cloud gateway is enabled Successfully message.
+    ![CGW enable4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6441f23a-042b-4c06-b5a1-0a3d7b98f18a)
