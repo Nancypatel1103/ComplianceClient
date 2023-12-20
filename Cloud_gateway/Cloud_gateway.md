@@ -70,7 +70,7 @@ By doing Global Mode which will be a local domain like VPN done in India. So Ind
 4. Then select global in select mode.
 ![global 3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/25b69e5a-8680-476e-bba3-7dd0d4efcac5)
 
-5. If you want to use the internet. Then click Enable NAT on the right side.
+5. If you want to use the internet. Then click **Enable NAT** on the right side.
 ![global 4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/37167ecd-86fa-4002-92de-a1eb695b8de2)
 
 6. After that finally click on **save config**.
@@ -118,7 +118,7 @@ In Selective Mode, the domain (website) added will be connected to the VPN.
 6. Here, Whatever you type in the allowed domain, the domain will work.
 ![selective 2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/99d2613c-5e2b-4b87-b3f1-3de6a12d267c)
 
-7. If you want to use the Internet. Then click Enable NAT on the right side.
+7. If you want to use the Internet. Then click **Enable NAT** on the right side.
 ![global 4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/37167ecd-86fa-4002-92de-a1eb695b8de2)
 
 8. After that finally click on **save config**.
