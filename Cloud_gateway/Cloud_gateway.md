@@ -44,8 +44,10 @@ Gateways play a crucial role in CLOUD computing by facilitating communication an
 5. After clicking on VPN click on the **Link PE** given on the right side.
 ![CE PE 4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8ba35c97-4b21-4f39-af40-c533d56b3a1a)
 
+
 6. Then select Region and PE Device IP.
 ![CE PE 5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/a4ff5b4c-32f4-4801-bc71-16541cceab1e)
+
 
 7. If it is a region of India then type IND select PE device IP and click on assign.
 ![CE PE 6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/347fd1cb-1bdf-4f95-af05-dc0a4816dc36)
