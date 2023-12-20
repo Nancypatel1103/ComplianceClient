@@ -4,7 +4,7 @@
 - [Cloud gateway testing](#cloud-gateway-testing)
     - [What is a CLOUD gateway?](#what-is-a-cloud-gateway)   
     - [Why do need a cloud gateway?](#why-do-need-a-cloud-gateway)   
-    - [What are CE and PE?](#what-is-ce-and-pe)   
+    - [What are CE and PE?](#what-are-ce-and-pe)   
     - [How to connect CE and PE](#how-to-connect-ce-and-pe)
     - [CGW Global Mode](#cgw-global-mode)
         - [How to the global mode in CGW](#how-to-the-global-mode-in-cgw)
