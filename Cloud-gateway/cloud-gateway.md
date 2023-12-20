@@ -57,4 +57,4 @@ Before enabling the cloud gateway, it is necessary to connect the CE and PE. So 
 
 16. Verify that the device ID is linked. Wait 5 to 10 minutes for the red pin to turn green. If it turns green, it is connected.
 
-    ![link pe6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e5c09671-20d3-46ce-b4a2-d0fca182ae87)
+    ![link pe6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4808f1d7-25fd-4b7c-afb5-9c6b2929133d)
