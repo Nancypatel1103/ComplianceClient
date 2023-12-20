@@ -27,7 +27,8 @@ Here the gateway accesses the compliance client's app. With the help of the CLOU
 Gateways play a crucial role in CLOUD computing by facilitating communication and data transfer between disparate networks, making it possible for different systems to work together seamlessly. A Gateway can enable communication between different networks, facilitating data transfer and integration.
 
 ## What are CE and PE?
-- CE and PE need to be connected to enable CLOUD gateway.
+CE and PE are routers.CE which is connected to PE. The PE is the router that is located at the provider network and that is connected to the CE router that is located the customer premises. To use the CLOUD gateway, you need to connect to CE and PE first.
+- CE and PE need to be connected to enable the CLOUD gateway.
 - so first check whether it is connected or not.
   
 ## How to connect CE and PE
