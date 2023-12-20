@@ -1,9 +1,9 @@
-# Cloud gateway testing
+# CLOUD gateway testing
 <!-- TOC -->
 
-- [Cloud gateway testing](#cloud-gateway-testing)
-    - [What is a CLOUD gateway?](#what-is-a-cloud-gateway)   
-    - [Why do need a cloud gateway?](#why-do-need-a-cloud-gateway)   
+- [CLOUD gateway testing](#CLOUD-gateway-testing)
+    - [What is a CLOUD gateway?](#what-is-a-CLOUD-gateway)   
+    - [Why do need a CLOUD gateway?](#why-do-need-a-CLOUD-gateway)   
     - [What are CE and PE?](#what-are-ce-and-pe)  
     - [How to connect CE and PE](#how-to-connect-ce-and-pe)
     - [CGW Global Mode](#cgw-global-mode)
@@ -15,7 +15,7 @@
     - [What is a single-arm?](#what-is-a-single-arm)
     - [Why do we need single-arm?](#why-do-we-need-single-arm)
         - [How to do a single-arm](#how-to-do-a-single-arm)
-    - [How to disable cloud gateway](#how-to-disable-cloud-gateway)
+    - [How to disable CLOUD gateway](#how-to-disable-CLOUD-gateway)
 
 <!-- /TOC -->
 
@@ -23,15 +23,15 @@
 A gateway is a network point that acts as access to another network.
 Here the gateway accesses the compliance client's app. With the help of the CLOUDS gateway, you can enable and disable your gateway. You can also select different modes.
 
-## Why do need a cloud gateway?
-Gateways play a crucial role in cloud computing by facilitating communication and data transfer between disparate networks, making it possible for different systems to work together seamlessly. A Gateway can enable communication between different networks, facilitating data transfer and integration.
+## Why do need a CLOUD gateway?
+Gateways play a crucial role in CLOUD computing by facilitating communication and data transfer between disparate networks, making it possible for different systems to work together seamlessly. A Gateway can enable communication between different networks, facilitating data transfer and integration.
 
 ## What are CE and PE?
-- CE and PE need to be connected to enable cloud gateway.
+- CE and PE need to be connected to enable CLOUD gateway.
 - so first check whether it is connected or not.
   
 ## How to connect CE and PE
-1. First go to its portal. There are two portals dev.CLOUDS (https://dev.hi-clouds.com/login) and beta.CLOUDS (https://beta1.hi-clouds.com/login). Go to whatever portal you have from your build here is the dev.CLOUDS.
+1. First go to its portal. There are two portals dev.CLOUDS (https://dev.hi-CLOUDs.com/login) and beta.CLOUDS (https://beta1.hi-CLOUDs.com/login). Go to whatever portal you have from your build here is the dev.CLOUDS.
 ![CE PE 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/00ff65fa-bddf-427f-9648-1c648491dcd7)
 
 2. Then go to the CE device menu and click.
@@ -60,7 +60,7 @@ By doing Global Mode which will be a local domain like VPN done in India. So Ind
 1. Go to the CE device menu and click on your own device.
 ![CE PE 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/00ff65fa-bddf-427f-9648-1c648491dcd7)
 
-2. After that go to gateway and click on cloud gateway.
+2. After that go to gateway and click on CLOUD gateway.
 ![global 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/991733cd-4306-477e-a69e-b75589f4024b)
 
 3. Then select masquerade in select customer public IP or if there is an IP ID, you select that ID.
@@ -82,7 +82,7 @@ In full mode, all local and global sites will be connected to a VPN.
 1. Go to the CE device menu and click on your own device.
 ![CE PE 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/00ff65fa-bddf-427f-9648-1c648491dcd7)
 
-2. After that go to gateway and click on cloud gateway.
+2. After that go to gateway and click on CLOUD gateway.
 ![global 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/991733cd-4306-477e-a69e-b75589f4024b)
 
 3. Then select masquerade in select customer public IP or if there is an IP ID, you select that ID.
@@ -104,7 +104,7 @@ In Selective Mode, the domain (website) added will be connected to the VPN.
 1. Go to CE device menu and click on your own device.
 ![CE PE 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/00ff65fa-bddf-427f-9648-1c648491dcd7)
 
-2. After that go to gateway and click on cloud gateway.
+2. After that go to gateway and click on CLOUD gateway.
 ![global 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/991733cd-4306-477e-a69e-b75589f4024b)
 
 3. Then select masquerade in select customer public IP or if there is an IP ID, you select that ID.
@@ -134,7 +134,7 @@ The use of a single-arm router is required when the setup in an office is not to
 1. Go to the CE device menu and click on your own device.
 ![CE PE 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/00ff65fa-bddf-427f-9648-1c648491dcd7)
 
-2. After that go to gateway and click on cloud gateway.
+2. After that go to gateway and click on CLOUD gateway.
 ![global 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/991733cd-4306-477e-a69e-b75589f4024b)
 
 3. Then do as explained in **"[How to the full mode in CGW](#how-to-full-mode-in-cgw),"[How to the global mode in CGW](#how-to-the-global-mode-in-cgw)", and "[How to select the mode in CGW](#how-to-select-mode-in-cgw)"**.
@@ -150,12 +150,12 @@ The use of a single-arm router is required when the setup in an office is not to
 7. After that finally click on **"save"** config.
 ![global 5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/78de39a9-e4e2-4bfd-a2fd-cc348b9211bb)
 
-## How to disable cloud gateway
+## How to disable CLOUD gateway
 1. Go to CE device and click on your own device.
 ![CE PE 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/00ff65fa-bddf-427f-9648-1c648491dcd7)
 
-2. After that go to gateway and click on cloud gateway.
-![cloud disable](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1250ee7e-141d-4b4b-887d-48a6b2abd191)
+2. After that go to gateway and click on CLOUD gateway.
+![CLOUD disable](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1250ee7e-141d-4b4b-887d-48a6b2abd191)
 
 3. After that finally click on **"save"** config.
 ![global 5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/78de39a9-e4e2-4bfd-a2fd-cc348b9211bb)
