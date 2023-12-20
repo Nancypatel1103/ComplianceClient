@@ -32,8 +32,10 @@ Before enabling the cloud gateway, it is necessary to connect the CE and PE. So 
    ![vpn](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/cc75e6c6-7bd6-4149-b2cf-bc16857d2925)
 10. After clicking on VPN, a new window will open, there is a **Link PE** tab on the right side, click on it.
     ![link pe](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/bc24a4f2-1168-468e-a373-3acbd34c6d7a)
+
 11. Clicking on **Link PE** will again open a new window.
     ![link pe1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e308e841-d4da-4d50-8ff8-6d92ebec10a5)
+
 12. Select Region and PE Device IP. The region has an IND code for India.
     ![link pe2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4ac74928-c1e6-443b-bab7-5e0003103cf6)
 13. Click on the given arrow. Select PE Device IP.
