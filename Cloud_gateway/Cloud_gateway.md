@@ -1,9 +1,9 @@
 # CLOUD gateway testing
 <!-- TOC -->
 
-- [CLOUD gateway testing](#CLOUD-gateway-testing)
-    - [What is a CLOUD gateway?](#what-is-a-CLOUD-gateway)   
-    - [Why do need a CLOUD gateway?](#why-do-need-a-CLOUD-gateway)   
+- [CLOUD gateway testing](#cloud-gateway-testing)
+    - [What is a CLOUD gateway?](#what-is-a-cloud-gateway)
+    - [Why do need a CLOUD gateway?](#why-do-need-a-cloud-gateway)    
     - [What are CE and PE?](#what-are-ce-and-pe)  
     - [How to connect CE and PE](#how-to-connect-ce-and-pe)
     - [CGW Global Mode](#cgw-global-mode)
@@ -44,12 +44,11 @@ Gateways play a crucial role in CLOUD computing by facilitating communication an
 5. After clicking on VPN click on the **Link PE** given on the right side.
 ![CE PE 4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8ba35c97-4b21-4f39-af40-c533d56b3a1a)
 
-
 6. Then select Region and PE Device IP.
-![CE PE 5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/a4ff5b4c-32f4-4801-bc71-16541cceab1e)
+  
+   ![CE PE 5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/a4ff5b4c-32f4-4801-bc71-16541cceab1e)     
 
-
-7. If it is a region of India then type IND select PE device IP and click on assign.
+7. If it is a region of India then type IND select PE device IP and click on **Assign**.
 ![CE PE 6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/347fd1cb-1bdf-4f95-af05-dc0a4816dc36)
 
 8. Then click on assign. Then it will connect and you will get the message successfully.
@@ -74,7 +73,7 @@ By doing Global Mode which will be a local domain like VPN done in India. So Ind
 5. If you want to use the internet. Then click Enable NAT on the right side.
 ![global 4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/37167ecd-86fa-4002-92de-a1eb695b8de2)
 
-6. After that finally click on save config.
+6. After that finally click on **save config**.
 ![global 5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/78de39a9-e4e2-4bfd-a2fd-cc348b9211bb)
 
 ## CGW Full Mode
@@ -93,10 +92,10 @@ In full mode, all local and global sites will be connected to a VPN.
 4. Then select full in select mode.
 ![full 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b4f1b842-0132-4548-ba92-b33ebd786534)
 
-5. If you want to use the internet. Then click Enable NAT on the right side.
+5. If you want to use the internet. Then click **Enable NAT** on the right side.
 ![global 4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/37167ecd-86fa-4002-92de-a1eb695b8de2)
 
-6. After that finally click on save config.
+6. After that finally click on **save config**.
 ![global 5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/78de39a9-e4e2-4bfd-a2fd-cc348b9211bb)
 
 ## CGW selective Mode
@@ -122,7 +121,7 @@ In Selective Mode, the domain (website) added will be connected to the VPN.
 7. If you want to use the Internet. Then click Enable NAT on the right side.
 ![global 4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/37167ecd-86fa-4002-92de-a1eb695b8de2)
 
-8. After that finally click on save config.
+8. After that finally click on **save config**.
 ![global 5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/78de39a9-e4e2-4bfd-a2fd-cc348b9211bb)
 
 ## What is a single-arm?
@@ -152,7 +151,7 @@ The use of a single-arm router is required when the setup in an office is not to
 7. After that finally click on **"save"** config.
 ![global 5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/78de39a9-e4e2-4bfd-a2fd-cc348b9211bb)
 
-## How to disable CLOUD gateway
+## How to disable the CLOUD gateway
 1. Go to CE device and click on your own device.
 ![CE PE 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/00ff65fa-bddf-427f-9648-1c648491dcd7)
 
