@@ -30,7 +30,7 @@ Before enabling the cloud gateway, it is necessary to connect the CE and PE. So 
 4. After clicking on the **CE Devices** menu something like this will be displayed.
    ![CE devices 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/36638aef-4edc-4cc9-a71b-fba2af35e679)
 5. There you will see different Devices IDs. Go to the right-side search tab to search for your own ID.
-  ![search](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8955370e-7c4e-4304-9302-05b70bdb69fe)
+   ![search](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8955370e-7c4e-4304-9302-05b70bdb69fe)
 6. After going to the search tab, search the ID name there. for **Ex: jaymin**.
    ![search1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ebbdb163-1272-48e0-a9b2-e8a0d3539989)
 7. Click where you will find the device ID. For **EX here is jaymin-home-new-x86**.
