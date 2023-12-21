@@ -30,7 +30,7 @@ Before enabling the cloud gateway, it is necessary to connect the CE and PE. So 
    ![CE device](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/961c3947-168e-418c-826e-5f9292cba9c9)
 4. After clicking on the **CE Devices** menu, the CE device list will be displayed.
    ![CE devices 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/36638aef-4edc-4cc9-a71b-fba2af35e679)
-5. There you will see different Devices IDs. Go to the right-side search tab to search for your own ID.
+5. There you will see different Devices IDs. Go to the right-side search tab to search for your Device name.
    ![search](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f3fb9a0f-4652-4a80-ac30-f9d152b12014)
 6. After going to the search tab, search the ID name there. for **Ex: jaymin**.
    ![search1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ebbdb163-1272-48e0-a9b2-e8a0d3539989)
@@ -78,7 +78,7 @@ Before enabling the cloud gateway, it is necessary to connect the CE and PE. So 
    ![CE device](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/961c3947-168e-418c-826e-5f9292cba9c9)
 4. After clicking on the **CE Devices** menu, the CE device list will be displayed.
    ![CE devices 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/36638aef-4edc-4cc9-a71b-fba2af35e679)
-5. There you will see different Devices IDs. Go to the right-side search tab to search for your own ID.
+5. There you will see different Devices IDs. Go to the right-side search tab to search for your Device name.
    ![search](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f3fb9a0f-4652-4a80-ac30-f9d152b12014)
 6. After going to the search tab, search the ID name there. for **Ex: jaymin**.
    ![search1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ebbdb163-1272-48e0-a9b2-e8a0d3539989)
@@ -107,7 +107,7 @@ Before enabling the cloud gateway, it is necessary to connect the CE and PE. So 
    ![CE device](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/961c3947-168e-418c-826e-5f9292cba9c9)
 2. After clicking on the **CE Devices** menu, the CE device list will be displayed.
    ![CE devices 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/36638aef-4edc-4cc9-a71b-fba2af35e679)
-3. There you will see different Devices IDs. Go to the right-side search tab to search for your own ID.
+3. There you will see different Devices IDs. Go to the right-side search tab to search for your Device name.
    ![search](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f3fb9a0f-4652-4a80-ac30-f9d152b12014)  
 4. After going to the search tab, search the ID name there. for **Ex: jaymin**.
    ![search1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ebbdb163-1272-48e0-a9b2-e8a0d3539989)   
@@ -133,7 +133,7 @@ Before enabling the cloud gateway, it is necessary to connect the CE and PE. So 
    ![CE device](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/961c3947-168e-418c-826e-5f9292cba9c9)
 2. After clicking on the **CE Devices** menu, the CE device list will be displayed.
    ![CE devices 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/36638aef-4edc-4cc9-a71b-fba2af35e679)
-3. There you will see different Devices IDs. Go to the right-side search tab to search for your own ID.
+3. There you will see different Devices IDs. Go to the right-side search tab to search for your Device name.
    ![search](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f3fb9a0f-4652-4a80-ac30-f9d152b12014)
 4. After going to the search tab, search the ID name there. for **Ex: jaymin**.
    ![search1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ebbdb163-1272-48e0-a9b2-e8a0d3539989)   
@@ -159,7 +159,7 @@ Before enabling the cloud gateway, it is necessary to connect the CE and PE. So 
    ![CE device](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/961c3947-168e-418c-826e-5f9292cba9c9)
 2. After clicking on the **CE Devices** menu, the CE device list will be displayed.
    ![CE devices 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/36638aef-4edc-4cc9-a71b-fba2af35e679)
-3. There you will see different Devices IDs. Go to the right-side search tab to search for your own ID.
+3. There you will see different Devices IDs. Go to the right-side search tab to search for your Device name.
    ![search](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f3fb9a0f-4652-4a80-ac30-f9d152b12014)
 4. After going to the search tab, search the ID name there. for **Ex: jaymin**.
    ![search1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ebbdb163-1272-48e0-a9b2-e8a0d3539989)   
@@ -190,7 +190,7 @@ Before enabling the cloud gateway, it is necessary to connect the CE and PE. So 
    ![CE device](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/961c3947-168e-418c-826e-5f9292cba9c9)
 3. After clicking on the **CE Devices** menu, the CE device list will be displayed.
    ![CE devices 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/36638aef-4edc-4cc9-a71b-fba2af35e679)
-4. There you will see different Devices IDs. Go to the right-side search tab to search for your own ID.
+4. There you will see different Devices IDs. Go to the right-side search tab to search for your Device name.
    ![search](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f3fb9a0f-4652-4a80-ac30-f9d152b12014)
 5. After going to the search tab, search the ID name there. for **Ex: jaymin**.
    ![search1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ebbdb163-1272-48e0-a9b2-e8a0d3539989)   
