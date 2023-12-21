@@ -40,8 +40,8 @@ Before enabling the cloud gateway, it is necessary to connect the CE and PE. So 
        ![image 10](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/48ad5254-91e5-4ef0-8e67-7f703fa3530b)
 
 11. Click on the **Link PE**, there a new window will open.
-  
-         ![image 11](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5139159d-9bc8-4bb1-8de1-8d68eecf70dd)  
+
+       ![image 11](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5139159d-9bc8-4bb1-8de1-8d68eecf70dd)
 
 12. Select **Region** and **PE Device IP**.To select the region you have to write the code which is different country-wise. For **Example: there is IND for India**.
     
