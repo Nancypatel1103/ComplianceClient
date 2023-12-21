@@ -10,7 +10,7 @@
         - [Global mode in CGW](#global-mode-in-cgw)
         - [Full mode in CGW](#full-mode-in-cgw)
         - [Selective mode in CGW](#selective-mode-in-cgw)
-    - [How to disable CGW](#how-to-disable-cgw)
+    - [How to Disable CGW](#how-to-disable-cgw)
 
 
 <!-- /TOC -->
@@ -183,7 +183,7 @@ Before enabling the cloud gateway, it is necessary to connect the CE and PE. So 
 14. Click on Cloud Gateway and scroll down a little, there you will find Save Config. Click on **Save Config** there.
    ![CGW enable3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/70b2576c-58b2-4147-b2e1-e423504586aa)
 
-## How to disable CGW
+## How to Disable CGW
 1. Go to the CE Device menu and click on your own device.
    ![window](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/0857f615-0099-40e5-a591-08927edbac40)
 2. There you will find various menus on the right side. Click on the CE Devices menu there.
