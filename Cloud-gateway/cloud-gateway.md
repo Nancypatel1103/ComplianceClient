@@ -1,4 +1,19 @@
 # CGW
+<!-- TOC -->
+
+- [CGW](#cgw)
+    - [What is a CGW](#what-is-a-cgw)
+    - [Why do need a CGW](#why-do-need-a-cgw)
+    - [CGW Enable](#cgw-enable)
+    - [How to CGW Enable](#how-to-cgw-enable)
+    - [How to Global mode, Full mode, and Selective mode](#how-to-global-mode-full-mode-and-selective-mode)
+        - [Global mode](#global-mode)
+        - [Full mode](#full-mode)
+        - [Selective mode](#selective-mode)
+    - [How to disable the CLOUD gateway](#how-to-disable-the-cloud-gateway)
+
+<!-- /TOC -->
+
 ## What is a CGW
 A gateway is a network point that acts as access to another network. With the help of the CLOUDS gateway, you can Enable and Disable your gateway. You can also select different modes.
 It has different modes (1) Global mode: As much as there will be global traffic. Global means that whatever traffic outside will be through the CGW. (2) Full mode: Full mode means all global, local, and domain traffic will be through the CGW. and (3) Selective mode: The website and domain you select will use the CGW and the rest will use the local.
