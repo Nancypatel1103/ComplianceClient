@@ -24,11 +24,11 @@ Gateways play a crucial role in CLOUD computing by facilitating communication an
 Before enabling the cloud gateway, it is necessary to connect the CE and PE. So first check if CE and PE are connected or not. If the CE and PE are not connected then what to do is explained below.
 1. Go to beta1. hi-clouds (https://beta1.hi-clouds.com/login) and sign in there by entering your username, and password.
   ![login](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8fecde6f-66ce-42a3-ade9-67dd2ef2c81b)
-2. After login you will see a window something like this.
+2. After login you will see a window summary displayed.
    ![window](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/0857f615-0099-40e5-a591-08927edbac40)
 3. There you will find various menus on the right side. Click on the **CE Devices** menu there.
    ![CE device](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/961c3947-168e-418c-826e-5f9292cba9c9)
-4. After clicking on the **CE Devices** menu something like this will be displayed.
+4. After clicking on the **CE Devices** menu summary will be displayed.
    ![CE devices 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/36638aef-4edc-4cc9-a71b-fba2af35e679)
 5. There you will see different Devices IDs. Go to the right-side search tab to search for your own ID.
    ![search](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f3fb9a0f-4652-4a80-ac30-f9d152b12014)
@@ -72,11 +72,11 @@ Before enabling the cloud gateway, it is necessary to connect the CE and PE. So 
 ## How to CGW Enable
 1. Go to beta1. hi-clouds (https://beta1.hi-clouds.com/login) and sign in there by entering your username, and password.
   ![login](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8fecde6f-66ce-42a3-ade9-67dd2ef2c81b)
-2. After login you will see a window something like this.
+2. After login you will see a window summary displayed.
    ![window](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/0857f615-0099-40e5-a591-08927edbac40)
 3. There you will find various menus on the right side. Click on the CE Devices menu there.
    ![CE device](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/961c3947-168e-418c-826e-5f9292cba9c9)
-4. After clicking on the CE Devices menu something like this will be displayed.
+4. After clicking on the CE Devices menu summary will be displayed.
    ![CE devices 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/36638aef-4edc-4cc9-a71b-fba2af35e679)
 5. There you will see different Devices IDs. Go to the right-side search tab to search for your own ID.
    ![search](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f3fb9a0f-4652-4a80-ac30-f9d152b12014)
@@ -105,7 +105,7 @@ Before enabling the cloud gateway, it is necessary to connect the CE and PE. So 
 ### Global mode in CGW
 1. You will find various menus on the right side. Click on the **CE Devices** menu there.
    ![CE device](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/961c3947-168e-418c-826e-5f9292cba9c9)
-2. After clicking on the CE Devices menu something like this will be displayed.
+2. After clicking on the CE Devices menu summary will be displayed.
    ![CE devices 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/36638aef-4edc-4cc9-a71b-fba2af35e679)
 3. There you will see different Devices IDs. Go to the right-side search tab to search for your own ID.
    ![search](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f3fb9a0f-4652-4a80-ac30-f9d152b12014)  
@@ -131,7 +131,7 @@ Before enabling the cloud gateway, it is necessary to connect the CE and PE. So 
 ### Full mode in CGW
 1. You will find various menus on the right side. Click on the **CE Devices** menu there.
    ![CE device](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/961c3947-168e-418c-826e-5f9292cba9c9)
-2. After clicking on the CE Devices menu something like this will be displayed.
+2. After clicking on the CE Devices menu summary will be displayed.
    ![CE devices 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/36638aef-4edc-4cc9-a71b-fba2af35e679)
 3. There you will see different Devices IDs. Go to the right-side search tab to search for your own ID.
    ![search](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f3fb9a0f-4652-4a80-ac30-f9d152b12014)
