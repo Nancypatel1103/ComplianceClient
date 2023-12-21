@@ -1,13 +1,7 @@
 # CGW
 ## What is a CGW
 A gateway is a network point that acts as access to another network. With the help of the CLOUDS gateway, you can Enable and Disable your gateway. You can also select different modes.
-It has different modes (1) Global mode (2) Full mode and (3) Selective mode.
-###- Global mode
-As much as there will be global traffic. Global means that whatever traffic outside will be through the CGW.
-###- Full mode
-Full mode means all global, local, and domain traffic will be through the CGW.
-###- Selective mode
-The website and domain you select will use the CGW and the rest will use the local.
+It has different modes (1) Global mode: As much as there will be global traffic. Global means that whatever traffic outside will be through the CGW. (2) Full mode: Full mode means all global, local, and domain traffic will be through the CGW. and (3) Selective mode: The website and domain you select will use the CGW and the rest will use the local.
 ## Why do need a CGW
 Gateways play a crucial role in CLOUD computing by facilitating communication and data transfer between disparate networks, making it possible for different systems to work together seamlessly. A Gateway can enable communication between different networks, facilitating data transfer and integration.
 ## CGW Enable
