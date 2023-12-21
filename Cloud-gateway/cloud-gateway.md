@@ -4,7 +4,7 @@
 - [CGW](#cgw)
     - [What is a CGW](#what-is-a-cgw)
     - [Why do need a CGW](#why-do-need-a-cgw)
-    - [CGW Enable](#cgw-enabled)
+    - [CGW Enable](#cgw-enabled)  
     - [How to CGW Enable](#how-to-cgw-enabled)
     - [How to Global mode, Full mode, and Selective mode in CGW](#how-to-global-mode-full-mode-and-selective-mode-in-cgw)
         - [Global mode in CGW](#global-mode-in-cgw)
