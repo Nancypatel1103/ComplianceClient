@@ -18,7 +18,7 @@
 ## What is a CGW
 A gateway is a network point that acts as access to another network. With the help of the CLOUDS gateway, you can Enable and Disable your gateway. You can also select different modes.
 It has different modes (1) Global mode: As much as there will be global traffic. Global means that whatever traffic outside will be through the CGW. (2) Full mode: Full mode means all global, local, and domain traffic will be through the CGW. and (3) Selective mode: The website and domain you select will use the CGW and the rest will use the local.
-## Why do need a CGW
+## Why do we need a CGW
 Gateways play a crucial role in CLOUD computing by facilitating communication and data transfer between disparate networks, making it possible for different systems to work together seamlessly. A Gateway can enable communication between different networks, facilitating data transfer and integration.
 ## CGW Enable
 Before enabling the cloud gateway, it is necessary to connect the CE and PE. So first check if CE and PE are connected or not. If the CE and PE are not connected then what to do is explained below.
@@ -26,9 +26,9 @@ Before enabling the cloud gateway, it is necessary to connect the CE and PE. So 
   ![login](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8fecde6f-66ce-42a3-ade9-67dd2ef2c81b)
 2. After login you will see a window summary displayed.
    ![window](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/0857f615-0099-40e5-a591-08927edbac40)
-3. There you will find various menus on the right side. Click on the **CE Devices** menu there.
+3. Click on the **CE Devices** menu located right side.
    ![CE device](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/961c3947-168e-418c-826e-5f9292cba9c9)
-4. After clicking on the **CE Devices** menu summary will be displayed.
+4. After clicking on the **CE Devices** menu, the CE device list will be displayed.
    ![CE devices 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/36638aef-4edc-4cc9-a71b-fba2af35e679)
 5. There you will see different Devices IDs. Go to the right-side search tab to search for your own ID.
    ![search](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f3fb9a0f-4652-4a80-ac30-f9d152b12014)
@@ -74,9 +74,9 @@ Before enabling the cloud gateway, it is necessary to connect the CE and PE. So 
   ![login](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8fecde6f-66ce-42a3-ade9-67dd2ef2c81b)
 2. After login you will see a window summary displayed.
    ![window](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/0857f615-0099-40e5-a591-08927edbac40)
-3. There you will find various menus on the right side. Click on the CE Devices menu there.
+3. Click on the **CE Devices** menu located right side..
    ![CE device](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/961c3947-168e-418c-826e-5f9292cba9c9)
-4. After clicking on the CE Devices menu summary will be displayed.
+4. After clicking on the **CE Devices** menu, the CE device list will be displayed.
    ![CE devices 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/36638aef-4edc-4cc9-a71b-fba2af35e679)
 5. There you will see different Devices IDs. Go to the right-side search tab to search for your own ID.
    ![search](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f3fb9a0f-4652-4a80-ac30-f9d152b12014)
@@ -105,7 +105,7 @@ Before enabling the cloud gateway, it is necessary to connect the CE and PE. So 
 ### Global mode in CGW
 1. You will find various menus on the right side. Click on the **CE Devices** menu there.
    ![CE device](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/961c3947-168e-418c-826e-5f9292cba9c9)
-2. After clicking on the CE Devices menu summary will be displayed.
+2. After clicking on the **CE Devices** menu, the CE device list will be displayed.
    ![CE devices 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/36638aef-4edc-4cc9-a71b-fba2af35e679)
 3. There you will see different Devices IDs. Go to the right-side search tab to search for your own ID.
    ![search](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f3fb9a0f-4652-4a80-ac30-f9d152b12014)  
@@ -131,7 +131,7 @@ Before enabling the cloud gateway, it is necessary to connect the CE and PE. So 
 ### Full mode in CGW
 1. You will find various menus on the right side. Click on the **CE Devices** menu there.
    ![CE device](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/961c3947-168e-418c-826e-5f9292cba9c9)
-2. After clicking on the CE Devices menu summary will be displayed.
+2. After clicking on the **CE Devices** menu, the CE device list will be displayed.
    ![CE devices 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/36638aef-4edc-4cc9-a71b-fba2af35e679)
 3. There you will see different Devices IDs. Go to the right-side search tab to search for your own ID.
    ![search](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f3fb9a0f-4652-4a80-ac30-f9d152b12014)
@@ -157,7 +157,7 @@ Before enabling the cloud gateway, it is necessary to connect the CE and PE. So 
 ### Selective mode in CGW
 1. You will find various menus on the right side. Click on the **CE Devices** menu there.
    ![CE device](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/961c3947-168e-418c-826e-5f9292cba9c9)
-2. After clicking on the CE Devices menu something like this will be displayed.
+2. After clicking on the **CE Devices** menu, the CE device list will be displayed.
    ![CE devices 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/36638aef-4edc-4cc9-a71b-fba2af35e679)
 3. There you will see different Devices IDs. Go to the right-side search tab to search for your own ID.
    ![search](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f3fb9a0f-4652-4a80-ac30-f9d152b12014)
@@ -186,9 +186,9 @@ Before enabling the cloud gateway, it is necessary to connect the CE and PE. So 
 ## How to Disable CGW
 1. Go to the CE Device menu and click on your own device.
    ![window](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/0857f615-0099-40e5-a591-08927edbac40)
-2. There you will find various menus on the right side. Click on the CE Devices menu there.
+2. Click on the **CE Devices** menu located right side.
    ![CE device](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/961c3947-168e-418c-826e-5f9292cba9c9)
-3. After clicking on the CE Devices menu something like this will be displayed.
+3. After clicking on the **CE Devices** menu, the CE device list will be displayed.
    ![CE devices 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/36638aef-4edc-4cc9-a71b-fba2af35e679)
 4. There you will see different Devices IDs. Go to the right-side search tab to search for your own ID.
    ![search](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f3fb9a0f-4652-4a80-ac30-f9d152b12014)
