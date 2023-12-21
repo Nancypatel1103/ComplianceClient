@@ -102,95 +102,89 @@ Before enabling the cloud gateway, it is necessary to connect the CE and PE. So 
 
 ## How to Global mode, Full mode, and Selective mode
 ### Global mode
-1. Go to the CE Device menu and click on your own device.
+1. There you will find various menus on the right side. Click on the CE Devices menu there.
    ![CE device](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/961c3947-168e-418c-826e-5f9292cba9c9)
-2. There you will find various menus on the right side. Click on the CE Devices menu there.
-   ![CE device](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/961c3947-168e-418c-826e-5f9292cba9c9)
-3. After clicking on the CE Devices menu something like this will be displayed.
+2. After clicking on the CE Devices menu something like this will be displayed.
    ![CE devices 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/36638aef-4edc-4cc9-a71b-fba2af35e679)
-4. There you will see different Devices IDs. Go to the right-side search tab to search for your own ID.
+3. There you will see different Devices IDs. Go to the right-side search tab to search for your own ID.
     ![search](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8955370e-7c4e-4304-9302-05b70bdb69fe)   
-5. After going to the search tab, search the ID name there. for Ex: jaymin.
+4. After going to the search tab, search the ID name there. for Ex: jaymin.
    ![search1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ebbdb163-1272-48e0-a9b2-e8a0d3539989)   
-6. Click where you will find the device ID. For EX here is jaymin-home-new-x86.
+5. Click where you will find the device ID. For EX here is jaymin-home-new-x86.
     ![search2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/595f532b-2338-4fa5-9397-51dc35c38250)  
-7. If you click, you will get a summary like this.
+6. If you click, you will get a summary like this.
    ![summary](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/0ab6aa5d-5c1d-4139-8c2e-8ba739dc11fd)  
-8. On the left side you will find various tabs. Click on the GATEWAY tab there.
+7. On the left side you will find various tabs. Click on the GATEWAY tab there.
     ![CGW enable](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5253a12d-4731-4bac-898c-026ddaa58df3)   
-9. After Clicking on GATEWAY a new window will appear.
+8. After Clicking on GATEWAY a new window will appear.
    ![CGW enable1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5aecedbc-fec6-486e-bed3-18ea3af5f1df)  
-10. Click on Cloud Gateway.
+9. Click on Cloud Gateway.
     ![CGW enable2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d441e84d-bd4b-4e78-ad2d-beffabf750a0)  
-11. Then select masquerade in select customer public IP or if there is an IP ID, you select that ID.
+10. Then select masquerade in select customer public IP or if there is an IP ID, you select that ID.
     ![global 2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/a9fa5772-9d17-47c9-91a9-1ab2fa15495a)   
-12. Then select global in select mode.
+11. Then select global in select mode.
     ![global 3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c6204fa3-0c29-467f-b009-f1fa66069dd1)   
-13. Click on Cloud Gateway and scroll down a little, there you will find Save Config. Click on Save Config there.
+12. Click on Cloud Gateway and scroll down a little, there you will find Save Config. Click on Save Config there.
     ![CGW enable3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/70b2576c-58b2-4147-b2e1-e423504586aa)
 
 ### Full mode
-1. 1. Go to the CE Device menu and click on your own device.
+1. There you will find various menus on the right side. Click on the CE Devices menu there.
    ![CE device](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/961c3947-168e-418c-826e-5f9292cba9c9)
-2. There you will find various menus on the right side. Click on the CE Devices menu there.
-   ![CE device](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/961c3947-168e-418c-826e-5f9292cba9c9)
-3. After clicking on the CE Devices menu something like this will be displayed.
+2. After clicking on the CE Devices menu something like this will be displayed.
    ![CE devices 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/36638aef-4edc-4cc9-a71b-fba2af35e679)
-4. There you will see different Devices IDs. Go to the right-side search tab to search for your own ID.
+3. There you will see different Devices IDs. Go to the right-side search tab to search for your own ID.
     ![search](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8955370e-7c4e-4304-9302-05b70bdb69fe)   
-5. After going to the search tab, search the ID name there. for Ex: jaymin.
+4. After going to the search tab, search the ID name there. for Ex: jaymin.
    ![search1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ebbdb163-1272-48e0-a9b2-e8a0d3539989)   
-6. Click where you will find the device ID. For EX here is jaymin-home-new-x86.
+5. Click where you will find the device ID. For EX here is jaymin-home-new-x86.
     ![search2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/595f532b-2338-4fa5-9397-51dc35c38250)  
-7. If you click, you will get a summary like this.
+6. If you click, you will get a summary like this.
    ![summary](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/0ab6aa5d-5c1d-4139-8c2e-8ba739dc11fd)  
-8. On the left side you will find various tabs. Click on the GATEWAY tab there.
+7. On the left side you will find various tabs. Click on the GATEWAY tab there.
     ![CGW enable](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5253a12d-4731-4bac-898c-026ddaa58df3)   
-9. After Clicking on GATEWAY a new window will appear.
+8. After Clicking on GATEWAY a new window will appear.
    ![CGW enable1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5aecedbc-fec6-486e-bed3-18ea3af5f1df)  
-10. Click on Cloud Gateway.
+9. Click on Cloud Gateway.
     ![CGW enable2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d441e84d-bd4b-4e78-ad2d-beffabf750a0)  
-11. Then select masquerade in select customer public IP or if there is an IP ID, you select that ID.
+10. Then select masquerade in select customer public IP or if there is an IP ID, you select that ID.
     ![global 2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/a9fa5772-9d17-47c9-91a9-1ab2fa15495a)  
-12. Then select full in select mode.
+11. Then select full in select mode.
    ![full 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b4f1b842-0132-4548-ba92-b33ebd786534)
-13. Click on Cloud Gateway and scroll down a little, there you will find Save Config. Click on Save Config there.
+12. Click on Cloud Gateway and scroll down a little, there you will find Save Config. Click on Save Config there.
    ![CGW enable3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/70b2576c-58b2-4147-b2e1-e423504586aa)
 
 ### Selective mode
-1. Go to the CE Device menu and click on your own device.
+1. There you will find various menus on the right side. Click on the CE Devices menu there.
    ![CE device](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/961c3947-168e-418c-826e-5f9292cba9c9)
-2. There you will find various menus on the right side. Click on the CE Devices menu there.
-   ![CE device](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/961c3947-168e-418c-826e-5f9292cba9c9)
-3. After clicking on the CE Devices menu something like this will be displayed.
+2. After clicking on the CE Devices menu something like this will be displayed.
    ![CE devices 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/36638aef-4edc-4cc9-a71b-fba2af35e679)
-4. There you will see different Devices IDs. Go to the right-side search tab to search for your own ID.
+3. There you will see different Devices IDs. Go to the right-side search tab to search for your own ID.
     ![search](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8955370e-7c4e-4304-9302-05b70bdb69fe)   
-5. After going to the search tab, search the ID name there. for Ex: jaymin.
+4. After going to the search tab, search the ID name there. for Ex: jaymin.
    ![search1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ebbdb163-1272-48e0-a9b2-e8a0d3539989)   
-6. Click where you will find the device ID. For EX here is jaymin-home-new-x86.
+5. Click where you will find the device ID. For EX here is jaymin-home-new-x86.
     ![search2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/595f532b-2338-4fa5-9397-51dc35c38250)  
-7. If you click, you will get a summary like this.
+6. If you click, you will get a summary like this.
    ![summary](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/0ab6aa5d-5c1d-4139-8c2e-8ba739dc11fd)  
-8. On the left side you will find various tabs. Click on the GATEWAY tab there.
+7. On the left side you will find various tabs. Click on the GATEWAY tab there.
     ![CGW enable](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5253a12d-4731-4bac-898c-026ddaa58df3)   
-9. After Clicking on GATEWAY a new window will appear.
+8. After Clicking on GATEWAY a new window will appear.
    ![CGW enable1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5aecedbc-fec6-486e-bed3-18ea3af5f1df)  
-10. Click on Cloud Gateway.
+9. Click on Cloud Gateway.
     ![CGW enable2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d441e84d-bd4b-4e78-ad2d-beffabf750a0)  
-11. Then select masquerade in select customer public IP or if there is an IP ID, you select that ID.
+10. Then select masquerade in select customer public IP or if there is an IP ID, you select that ID.
     ![global 2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/a9fa5772-9d17-47c9-91a9-1ab2fa15495a)
-12. Then select selective in select mode.
+11. Then select selective in select mode.
     ![selective 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5988cef4-e874-4f3a-99a4-6baf0137dbb5)
-13. After that write what you want to select here below inside the enter allowed domain for **ex**: goggle.com.
-14. Here, Whatever you type in the allowed domain, the domain will work.
+12. After that write what you want to select here below inside the enter allowed domain for **ex**: goggle.com.
+13. Here, Whatever you type in the allowed domain, the domain will work.
     ![selective 2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d57ea93e-c8bc-422d-a9a9-8840e8be6c69)
-15. Click on Cloud Gateway and scroll down a little, there you will find Save Config. Click on Save Config there.
+14. Click on Cloud Gateway and scroll down a little, there you will find Save Config. Click on Save Config there.
    ![CGW enable3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/70b2576c-58b2-4147-b2e1-e423504586aa)
 
 ## How to disable the CLOUD gateway
 1. Go to the CE Device menu and click on your own device.
-   ![CE device](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/961c3947-168e-418c-826e-5f9292cba9c9)
+   ![window](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/0857f615-0099-40e5-a591-08927edbac40)
 2. There you will find various menus on the right side. Click on the CE Devices menu there.
    ![CE device](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/961c3947-168e-418c-826e-5f9292cba9c9)
 3. After clicking on the CE Devices menu something like this will be displayed.
