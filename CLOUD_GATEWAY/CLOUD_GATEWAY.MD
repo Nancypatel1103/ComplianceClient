@@ -17,13 +17,13 @@ Before enabling the cloud gateway, it is necessary to connect the CE and PE. So 
 3. Then Click on the **CE Devices** menu located on the left side.
    ![image 3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/90053de6-32c5-4989-bd39-654c60870d42)
 
-4. You will click on **CE Devices**, there you will see a list of **CE Devices**.
+4. You will click on **CE Devices**, there you will see a list of **Device**.
    ![image 4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d297ed51-e631-4dcb-a18a-0bf837b421fd)
 
 5. Go to the search tab located on the right side.
    ![image 5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/774d6eec-dfae-4cca-9668-6096e63c1345)
 
-6. Go there and search your Device name. For** example jaymin-home-new-x86**.
+6. Go there and search your Device name. For**example: jaymin-home-new-x86**.
    ![image 6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8ddb4d09-25ce-4327-9182-265924f200e1)
 
 7. After that you will enter, and there you will find your Device, Click on it.
