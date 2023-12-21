@@ -108,9 +108,9 @@ Before enabling the cloud gateway, it is necessary to connect the CE and PE. So 
    ![CE devices 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/36638aef-4edc-4cc9-a71b-fba2af35e679)
 3. There you will see different Devices IDs. Go to the right-side search tab to search for your own ID.
    ![search](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f3fb9a0f-4652-4a80-ac30-f9d152b12014)  
-4. After going to the search tab, search the ID name there. for Ex: jaymin.
+4. After going to the search tab, search the ID name there. for **Ex: jaymin**.
    ![search1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ebbdb163-1272-48e0-a9b2-e8a0d3539989)   
-5. Click where you will find the device ID. For EX here is jaymin-home-new-x86.
+5. Click where you will find the device ID. For **EX here is jaymin-home-new-x86**.
     ![search2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/595f532b-2338-4fa5-9397-51dc35c38250)  
 6. If you click, you will get a summary like this.
    ![summary](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/0ab6aa5d-5c1d-4139-8c2e-8ba739dc11fd)  
@@ -134,9 +134,9 @@ Before enabling the cloud gateway, it is necessary to connect the CE and PE. So 
    ![CE devices 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/36638aef-4edc-4cc9-a71b-fba2af35e679)
 3. There you will see different Devices IDs. Go to the right-side search tab to search for your own ID.
    ![search](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f3fb9a0f-4652-4a80-ac30-f9d152b12014)
-4. After going to the search tab, search the ID name there. for Ex: jaymin.
+4. After going to the search tab, search the ID name there. for **Ex: jaymin**.
    ![search1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ebbdb163-1272-48e0-a9b2-e8a0d3539989)   
-5. Click where you will find the device ID. For EX here is jaymin-home-new-x86.
+5. Click where you will find the device ID. For **EX here is jaymin-home-new-x86**.
     ![search2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/595f532b-2338-4fa5-9397-51dc35c38250)  
 6. If you click, you will get a summary like this.
    ![summary](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/0ab6aa5d-5c1d-4139-8c2e-8ba739dc11fd)  
@@ -160,9 +160,9 @@ Before enabling the cloud gateway, it is necessary to connect the CE and PE. So 
    ![CE devices 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/36638aef-4edc-4cc9-a71b-fba2af35e679)
 3. There you will see different Devices IDs. Go to the right-side search tab to search for your own ID.
    ![search](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f3fb9a0f-4652-4a80-ac30-f9d152b12014)
-4. After going to the search tab, search the ID name there. for Ex: jaymin.
+4. After going to the search tab, search the ID name there. for **Ex: jaymin**.
    ![search1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ebbdb163-1272-48e0-a9b2-e8a0d3539989)   
-5. Click where you will find the device ID. For EX here is jaymin-home-new-x86.
+5. Click where you will find the device ID. For **EX here is jaymin-home-new-x86**.
     ![search2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/595f532b-2338-4fa5-9397-51dc35c38250)  
 6. If you click, you will get a summary like this.
    ![summary](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/0ab6aa5d-5c1d-4139-8c2e-8ba739dc11fd)  
@@ -191,9 +191,9 @@ Before enabling the cloud gateway, it is necessary to connect the CE and PE. So 
    ![CE devices 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/36638aef-4edc-4cc9-a71b-fba2af35e679)
 4. There you will see different Devices IDs. Go to the right-side search tab to search for your own ID.
    ![search](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f3fb9a0f-4652-4a80-ac30-f9d152b12014)
-5. After going to the search tab, search the ID name there. for Ex: jaymin.
+5. After going to the search tab, search the ID name there. for **Ex: jaymin**.
    ![search1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ebbdb163-1272-48e0-a9b2-e8a0d3539989)   
-6. Click where you will find the device ID. For EX here is jaymin-home-new-x86.
+6. Click where you will find the device ID. For **EX here is jaymin-home-new-x86**.
     ![search2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/595f532b-2338-4fa5-9397-51dc35c38250)  
 7. If you click, you will get a summary like this.
    ![summary](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/0ab6aa5d-5c1d-4139-8c2e-8ba739dc11fd)  
