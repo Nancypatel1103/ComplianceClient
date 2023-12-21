@@ -6,11 +6,12 @@
     - [Why do need a CGW](#why-do-need-a-cgw)
     - [CGW Enable](#cgw-enabled)
     - [How to CGW Enable](#how-to-cgw-enabled)
-    - [How to Global mode, Full mode, and Selective mode](#how-to-global-mode-full-mode-and-selective-mode)
-        - [Global mode](#global-mode)
-        - [Full mode](#full-mode)
-        - [Selective mode](#selective-mode)
-    - [How to disable CGW](#how-to-disable-CGW)
+    - [How to Global mode, Full mode, and Selective mode in CGW](#how-to-global-mode-full-mode-and-selective-mode-in-cgw)
+        - [Global mode in CGW](#global-mode-in-cgw)
+        - [Full mode in CGW](#full-mode-in-cgw)
+        - [Selective mode in CGW](#selective-mode-in-cgw)
+    - [How to disable CGW](#how-to-disable-cgw)
+
 
 <!-- /TOC -->
 
@@ -100,8 +101,8 @@ Before enabling the cloud gateway, it is necessary to connect the CE and PE. So 
 13. Click on **Save Config**, and you will get the Cloud gateway is enabled Successfully message.
     ![CGW enable4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6441f23a-042b-4c06-b5a1-0a3d7b98f18a)
 
-## How to Global mode, Full mode, and Selective mode
-### Global mode
+## How to Global mode, Full mode, and Selective mode in CGW
+### Global mode in CGW
 1. You will find various menus on the right side. Click on the **CE Devices** menu there.
    ![CE device](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/961c3947-168e-418c-826e-5f9292cba9c9)
 2. After clicking on the CE Devices menu something like this will be displayed.
@@ -127,7 +128,7 @@ Before enabling the cloud gateway, it is necessary to connect the CE and PE. So 
 12. Click on Cloud Gateway and scroll down a little, there you will find Save Config. Click on **Save Config** there.
     ![CGW enable3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/70b2576c-58b2-4147-b2e1-e423504586aa)
 
-### Full mode
+### Full mode in CGW
 1. You will find various menus on the right side. Click on the **CE Devices** menu there.
    ![CE device](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/961c3947-168e-418c-826e-5f9292cba9c9)
 2. After clicking on the CE Devices menu something like this will be displayed.
@@ -153,7 +154,7 @@ Before enabling the cloud gateway, it is necessary to connect the CE and PE. So 
 12. Click on Cloud Gateway and scroll down a little, there you will find Save Config. Click on **Save Config** there.
    ![CGW enable3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/70b2576c-58b2-4147-b2e1-e423504586aa)
 
-### Selective mode
+### Selective mode in CGW
 1. You will find various menus on the right side. Click on the **CE Devices** menu there.
    ![CE device](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/961c3947-168e-418c-826e-5f9292cba9c9)
 2. After clicking on the CE Devices menu something like this will be displayed.
@@ -176,7 +177,7 @@ Before enabling the cloud gateway, it is necessary to connect the CE and PE. So 
     ![global 2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/a9fa5772-9d17-47c9-91a9-1ab2fa15495a)
 11. Then select **selective** in select mode.
     ![selective 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5988cef4-e874-4f3a-99a4-6baf0137dbb5)
-12. After that write what you want to select here below inside the enter allowed domain for **ex**: goggle.com.
+12. After selecting selective mode, enter here the domain you want to select, for example, **Google.com**
 13. Here, Whatever you type in the allowed domain, the domain will work.
     ![selective 2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d57ea93e-c8bc-422d-a9a9-8840e8be6c69)
 14. Click on Cloud Gateway and scroll down a little, there you will find Save Config. Click on **Save Config** there.
