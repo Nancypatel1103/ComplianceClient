@@ -57,7 +57,7 @@ Before enabling the cloud gateway, it is necessary to connect the CE and PE. So 
        
      ![image 12](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b9a11745-1c78-4b24-8abf-4b9b19691f32)
 
-13. Click on the navigation. select **PE Device IP**.
+13. Click on the navigation. And then select **PE Device IP**.
           
      ![image 13](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/bc9f5d5b-0ade-44a6-8964-16cbcd563adb)
 
