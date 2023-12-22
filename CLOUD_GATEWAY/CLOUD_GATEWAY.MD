@@ -95,13 +95,14 @@ Before enabling the cloud gateway, it is necessary to connect the CE and PE. So 
 24. Click on **Selective** mode if you want to use **Selective** mode.
     ![image 24](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/32058616-812a-4945-b983-386968d75901)
 
-25. When you choose **Selective** mode, you have to add the domain you want to use in **Enter Allowed Domains** for **Ex: www.google.com.**
+25. After choosing the **Selective** mode, type the domain you want to use here in **Enter Allowed Domains**, for **Ex: www.google.com.**
+26. Here, Whatever you type in the allowed domain, the domain will work.
     ![image 25](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/a3e654ec-a004-49f6-9bae-c4f6498a44e8)
 
-26. After selecting the mode, scroll down a bit and you will find the **Save Config**. Click on the **Save Config** button.
+27. After selecting the mode, scroll down a bit and you will find the **Save Config**. Click on the **Save Config** button.
     ![image 26](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/9152d813-a28e-4f33-b8da-fefff43be3b0)
 
-27. click on **Save Config** and you will get the cloud gateway is enabled successfully message.
+28. click on **Save Config** and you will get the cloud gateway is enabled successfully message.
     ![image 27](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/9ed9ccd4-815e-4968-a600-37087673995d) 
 
 ## How to Disable CGW 
