@@ -28,7 +28,7 @@ Before enabling the cloud gateway, it is necessary to connect the CE and PE. So 
 3. Then Click on the **CE Devices** menu located on the left side.
    ![image 3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/90053de6-32c5-4989-bd39-654c60870d42)
 
-4. You will click on **CE Devices**, there you will see a list of **Device**.
+4. You will click on **CE Devices**, there you will see a list of **Devices**.
    ![image 4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d297ed51-e631-4dcb-a18a-0bf837b421fd)
 
 5. Go to the search tab located on the right side.
@@ -40,17 +40,17 @@ Before enabling the cloud gateway, it is necessary to connect the CE and PE. So 
 7. After that you will enter, and there you will find your Device, Click on it.
    ![image 7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/49fe9b4a-ff9b-4a23-b379-4e546bcb9a87)
 
-8. By clicking there you will see a summary of the **CE Devices**.
+8. By clicking there you will see a summary of the **CE Device**.
    ![image 8](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5fb4f255-8b4a-46c8-a5bf-ef36e206feb0) 
 
-9. Click on **VPN** there. Which is located in the interface of the Device.
+9. Click on **VPN** there. Which is located in the INTERFACES menu of the Device.
    ![image 9](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/93085c6e-6f66-4988-b37b-0cbe68ac2b59)
 
 10. After clicking on **VPN**, a new window will open, there is **Link PE** tab on the right side, click on it.
    
        ![image 10](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/48ad5254-91e5-4ef0-8e67-7f703fa3530b)
 
-11. Click on the **Link PE**, there a new window will open.
+11. After click on the **Link PE**, there a new window will open.
 
        ![image 11](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5139159d-9bc8-4bb1-8de1-8d68eecf70dd)
 
@@ -69,16 +69,16 @@ Before enabling the cloud gateway, it is necessary to connect the CE and PE. So 
 15. The device will be linked. There you will get the Device linked successfully message.
     ![image 15](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/bdbbfa70-1577-4962-8de4-14d55600b2c7)
 
-16. Verify that the device name is linked. Wait 5 to 10 minutes for the red pin to turn green. If it turns green, it is connected.
+16. After linking CE to PE successfully. Wait 5 to 10 minutes vtun4_2 interface is showing green which means the VPN Tunnel is connected.
     ![image 16](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/fb2b0e36-1625-4257-a100-91dac9ae0ed0) 
 
-17. Click on the **GATEWAY** located on the left side.
+17. Click on the **GATEWAY** menu located on the left side.
     ![image 17](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/a33ca996-9691-4fdc-ba73-7b645a6229c3)
 
-18. After clicking on **GATEWAY** a new window will appear.
+18. After clicking on the **GATEWAY** menu, a new window will appear.
     ![image 18](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b25c6e3f-b4f7-4c24-bfe1-aa240ee44021)
 
-19. Click on **Cloud Gateway**.
+19. Click on the box of **Cloud Gateway**.
     ![image 19](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/75a570d9-ad50-4f85-9af2-f169625d9fd5)
 
 20. After that **Select Customer Public IP** has to be selected. If you have Public IP then select it and if not then select **Masquerade**.
@@ -97,18 +97,20 @@ Before enabling the cloud gateway, it is necessary to connect the CE and PE. So 
     ![image 24](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/32058616-812a-4945-b983-386968d75901)
 
 25. After choosing the **Selective** mode, type the domain you want to use here in **Enter Allowed Domains**, for **Ex: www.google.com.**
-26. Here, Whatever you type in the allowed domain, the domain will work.
+26. Here, Whatever you type in the Allowed Domains, the Domain will work.
     ![image 25](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/a3e654ec-a004-49f6-9bae-c4f6498a44e8)
 
 27. After selecting the mode, scroll down a bit and you will find the **Save Config**. Click on the **Save Config** button.
     ![image 26](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/9152d813-a28e-4f33-b8da-fefff43be3b0)
 
-28. click on **Save Config** and you will get the cloud gateway is enabled successfully message.
+28. click on **Save Config** and you will get the Cloud gateway is enabled successfully message.
     ![image 27](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/9ed9ccd4-815e-4968-a600-37087673995d) 
+
+29. Now you should be able to access Allowed Domains, i.e. google.com through a Selective Cloud Gateway.
 
 ## How to Disable CGW 
 
-1. Click on **Cloud Gateway**.
+1. Click on the box of **Cloud Gateway**.
    ![disable1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/633c7a28-3087-4eca-8d91-07c931251faa)
 
 2. When you click on **Cloud Gateway** you will get such a window.
@@ -117,7 +119,7 @@ Before enabling the cloud gateway, it is necessary to connect the CE and PE. So 
 3. Now click on **Save Config**.
    ![disable 3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b0f1f257-958d-4154-b198-62f7b51de9bf)
 
-4. As soon as you click on **Save Config**, you will get a message on the screen that the cloud gateway is disabled successfully.
+4. As soon as you click on **Save Config**, you will get a message on the screen that the Cloud gateway is disabled successfully.
    ![disable 4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6c189c71-d1de-4c8d-9a9b-c312f70ced3a)
 
 
