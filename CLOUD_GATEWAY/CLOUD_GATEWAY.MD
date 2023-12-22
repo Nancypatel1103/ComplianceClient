@@ -120,6 +120,8 @@ Before enabling the cloud gateway, it is necessary to connect the CE and PE. So 
    ![disable 4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6c189c71-d1de-4c8d-9a9b-c312f70ced3a)
 
 
+## Conclusion
+As the most important network component of cloud computing, a Cloud Gateway (CGW) provides important capabilities for simplifying and managing the network-to-network link. The CGW enables versatility in routing traffic based on specific needs by allowing users to enable and disable the router and select among Global, Full, and Selective modes.
 
     
     
