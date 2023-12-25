@@ -67,6 +67,6 @@ The use of a single-arm router is required when the setup in an office is not to
 21. Click on **Add** button.    
    ![image 20](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/80ea6b2c-7401-4bf1-a092-ad0a3f663994)
 22. Then the IP Address will be Address. Then click **Save Config**.   
-    ![image 21](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8dfbb357-bd35-40fd-9f77-54ae846d668b)
+    ![image 21](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/0709a0f0-6884-406c-869b-a2e5314a696a)
 23. click on **Save Config** and you will get the Cloud gateway is enabled successfully message.
   ![image 22](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/87dcdcdc-493a-4f24-9dee-93e68f9b0501)
