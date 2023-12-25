@@ -46,7 +46,7 @@ The use of a single-arm router is required when the setup in an office is not to
     ![image 11](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/108f0a4e-75af-480d-9c03-c9cd91b1559d) 
 12. After that **Select Customer Public IP** has to be selected. If you have Public IP then select it and if not then select **Masquerade**.
    ![image 12](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/68f99a2f-7d53-4220-92b3-05160cc8f966)  
-13. Choose on select mode. Here how to choose select mode is explained in CGW(https://github.com/Nancypatel1103/ComplianceClient/blob/eef937e8b248bc9fa95b3a83dfbefc3c67f2aa46/CLOUD_GATEWAY/CLOUD_GATEWAY.MD) .
+13. Choose on select mode. Here how to choose select mode is explained in CGW. (https://github.com/Nancypatel1103/ComplianceClient/blob/eef937e8b248bc9fa95b3a83dfbefc3c67f2aa46/CLOUD_GATEWAY/CLOUD_GATEWAY.MD) .
 14. Click on the box of **Single Arm**.  
     ![image 18 (2)](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/136a9c00-67a4-4d6f-b7a2-28a795051af6)
 
