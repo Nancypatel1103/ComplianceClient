@@ -17,74 +17,55 @@ The use of a single-arm router is required when the setup in an office is not to
 
 ## How to Enable Single Arm 
 1. Go to beta1. hi-clouds (https://beta1.hi-clouds.com/login) and **SIGN IN** by entering the admin permission username and password.                                                                        
-  ![image 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/af942b40-bbb0-4b0a-8476-e5189f989a99)
-
+  ![image 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7e56d207-0bca-4580-bb81-baf34d5b642e)
 2. When you **SIGN IN**, you will reach the dashboard by default.
-  ![image 2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/fd613766-abfb-4710-8f16-bcfe8044766d)
-
+  ![image 2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/39f094f0-56a6-49ab-888a-4951c4eb042d)
 3. Then Click on the **CE Devices** menu located on the left side.
-  ![image 3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/9a24453b-d501-415f-86a3-19618f2083f5)
+  ![image 3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/64543fc9-9f6d-4eb2-8c84-a175b499b3f5)
 
 4. You will click on **CE Devices**, there you will see a list of **Devices**.
-  ![image 4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7a1434c0-f0b3-4b51-91fc-b2173ff92adb)
+  ![image 4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/205221fd-0958-4b18-ab5d-8f6fcc40f9eb)
 
 5. Go to the search tab located on the right side. 
-   ![image 5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2642bf66-8873-4baa-b994-cb0cafc85946)
+   ![image 5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8d98c687-76ff-4b38-87b4-7888a0fdacf7)
 
 6. Go there and search your Device name. For **example: jaymin-home-new-x86**.
-  ![image 6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4de5c123-531c-47d3-9adc-f4d0876a02bf)
+  ![image 6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/fcb2066f-4d44-40ad-9664-ce943d82065e)
 
 7. After that you will enter, and there you will find your Device, Click on it.
-  ![image 7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/3cbe2c38-5789-4003-8d85-ca903033871b)
+ ![image 7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/104defef-5197-45ef-b832-2a0c27adc8a6)
 
 8. By clicking there you will see a summary of the **CE Device**.
-   ![image 8](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7629f387-7389-4f17-b5df-5c2c75fa2abe)
-
+   ![image 8](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6ca7b888-0689-4836-9ef3-83035058a871)
 9. Click on the **GATEWAY** menu located on the left side.
-    ![image 9](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b8988798-361f-43b3-9fba-75b94f4fb34e)
-
+   ![image 9](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/aa15c76d-4882-4007-b7a8-935a9b6cb01a)
 10. After clicking on the **GATEWAY** menu, a new window will appear.
     ![image 10](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d1bac712-8674-4cee-8a91-9117456f787d)
 
 11. Click on the box of **Cloud Gateway**.
-   ![image 11](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/9ee4eacf-ee2e-4d90-82eb-5e0283e364fc)
-
+    ![image 11](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/108f0a4e-75af-480d-9c03-c9cd91b1559d) 
 12. After that **Select Customer Public IP** has to be selected. If you have Public IP then select it and if not then select **Masquerade**.
-    ![image 12](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7908d8b6-0b89-4f34-8ad4-92f609713113)
+   ![image 12](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/68f99a2f-7d53-4220-92b3-05160cc8f966)  
+13. Choose on select mode. Here how to choose select mode is explained in CGW.
+14. Click on the box of **Single Arm**.  
+    ![image 18 (2)](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/136a9c00-67a4-4d6f-b7a2-28a795051af6)
 
-13. Then choose **Select Mode**. There you will find (1)Global (2)Full and (3)Selective three modes.
-   ![image 13](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b9359828-3048-4f06-8167-ecb3061f78d9)
+15. After clicking, select **IP Address** and **Subnet** below. for **Ex:106.21.242.138 / 255.255.255.255/32.**   
+   ![image 19](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/3d1ad299-6ffa-4ab4-a5f7-0762c1b51cbe)
 
-14. Click on **Global** mode if you want to use **Global** mode.
-    ![image 14](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/52dd5901-0230-4440-8c26-84f36994bff2)
+16. Click on the **Add** button.    
+  ![image 20](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/06aed440-36cc-43a6-a286-c44d7a4d0a40)
 
-15. Click on **Full** mode if you want to use **Full** mode.
-   ![image 15](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/df92be3b-65cd-49e0-b034-e20fcae9245d)  
+17. Then the IP Address will be Address. Then click **Save Config**.   
+    ![image 21](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4d42d642-0dff-4698-ad63-41f370469c1e)
 
-16. Click on **Selective** mode if you want to use **Selective** mode.
-   ![image 16](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/fa8d586c-c01e-4647-b3b5-b49400ca500b)
-
-17. After choosing the **Selective** mode, type the domain you want to use here in **Enter Allowed Domains**, for **Ex: www.google.com.**
-18. Here, Whatever you type in the Allowed Domains, the Domain will work.
-    ![image 17](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/02af5dbc-9714-4af7-85fb-1ea2db62073f)  
-
-19. Click on the box of **Single Arm**.  
-  ![image 18 (2)](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/18513fa6-00c7-4687-939e-24635d753a4d)
-20. After clicking, select **IP Address** and **Subnet** below. for **Ex:106.21.242.138 / 255.255.255.255/32.**   
-    ![image 19](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/82294820-3338-4c1f-933a-8ee501796abb)
-
-21. Click on **Add** button.    
-   ![image 20](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/80ea6b2c-7401-4bf1-a092-ad0a3f663994)
-22. Then the IP Address will be Address. Then click **Save Config**.   
-    ![image 21](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/0709a0f0-6884-406c-869b-a2e5314a696a)
-23. click on **Save Config** and you will get the Cloud gateway is enabled successfully message.
-  ![image 22](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/87dcdcdc-493a-4f24-9dee-93e68f9b0501)
+18. click on **Save Config** and you will get the Cloud gateway is enabled successfully message.
+  ![image 22](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5d7901d0-e770-4d35-a779-dcb1d110820e)
 
 ## How to Disable Single Arm
 1. Click on the box of **Single Arm**.
-   ![disbale 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f1319e82-8ebc-4d5d-a234-60e9b8dd4c19)
+   ![disbale 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f8b843ab-942a-4392-abc8-54233465f3e7)
 2. Then click on the cross or click on Delete All.
-   ![disable 2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/29dd0154-cb0b-42bd-8bff-a0b9abeceb0d)
+   ![disable 2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/aebdf1a9-49c0-4bea-aeb1-fd6666b54456)
 3. Now click on **Save Config**.
-   ![disable 3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/eacc26f6-7d98-4c8f-a0a2-15023569d0f6)
-
+   ![disable 3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e87c6e1d-84c4-4ea9-8371-20c48f9705e1)
