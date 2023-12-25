@@ -6,7 +6,7 @@
     - [Why do need Single Arm](#why-do-need-single-arm)
     - [How to Enable Single Arm](#how-to-enable-single-arm)
     - [How to Disable Single Arm](#how-to-disable-single-arm)
-
+    - [Conclusion](#conclusion)
 <!-- /TOC -->
 
 ## What is Single Arm
@@ -69,3 +69,6 @@ The use of a single-arm router is required when the setup in an office is not to
    ![disable 2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/aebdf1a9-49c0-4bea-aeb1-fd6666b54456)
 3. Now click on **Save Config**.
    ![disable 3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e87c6e1d-84c4-4ea9-8371-20c48f9705e1)
+
+## Conclusion
+When you need to modify a network configuration without affecting the current infrastructure, a Single Arm configuration is a useful option. In workplace settings where stability is essential, this is very helpful. As stated in the instructions, a Single Arm router permits traffic to be routed between virtual local areas on the same physical network without interfering with one another.
