@@ -1,4 +1,13 @@
 # Single Arm
+<!-- TOC -->
+
+- [Single Arm](#single-arm)
+    - [What is Single Arm](#what-is-single-arm)
+    - [Why do need Single Arm](#why-do-need-single-arm)
+    - [How to Enable Single Arm](#how-to-enable-single-arm)
+    - [How to Disable Single Arm](#how-to-disable-single-arm)
+
+<!-- /TOC -->
 
 ## What is Single Arm
 - A single arm is something that once you have set something and you want to change something without removing it, is called a single arm.
@@ -6,7 +15,7 @@
 ## Why do need Single Arm
 The use of a single-arm router is required when the setup in an office is not to be disturbed, then a single-arm router should be used. For that, configure the CE in the same LAN of the office and give the gateway of the CE in the DHCP server. Now internet or VPN will be directly through the gateway of CE.
 
-## HOW to Enable Single Arm 
+## How to Enable Single Arm 
 1. Go to beta1. hi-clouds (https://beta1.hi-clouds.com/login) and **SIGN IN** by entering the admin permission username and password.                                                                        
   ![image 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/af942b40-bbb0-4b0a-8476-e5189f989a99)
 
