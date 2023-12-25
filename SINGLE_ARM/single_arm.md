@@ -6,7 +6,7 @@
 ## Why do need Single Arm
 The use of a single-arm router is required when the setup in an office is not to be disturbed, then a single-arm router should be used. For that, configure the CE in the same LAN of the office and give the gateway of the CE in the DHCP server. Now internet or VPN will be directly through the gateway of CE.
 
-## HOW to Single Arm 
+## HOW to Enable Single Arm 
 1. Go to beta1. hi-clouds (https://beta1.hi-clouds.com/login) and **SIGN IN** by entering the admin permission username and password.                                                                        
   ![image 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/af942b40-bbb0-4b0a-8476-e5189f989a99)
 
@@ -70,3 +70,12 @@ The use of a single-arm router is required when the setup in an office is not to
     ![image 21](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/0709a0f0-6884-406c-869b-a2e5314a696a)
 23. click on **Save Config** and you will get the Cloud gateway is enabled successfully message.
   ![image 22](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/87dcdcdc-493a-4f24-9dee-93e68f9b0501)
+
+## How to Disable Single Arm
+1. Click on the box of **Single Arm**.
+   ![disbale 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f1319e82-8ebc-4d5d-a234-60e9b8dd4c19)
+2. Then click on the cross or click on Delete All.
+   ![disable 2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/29dd0154-cb0b-42bd-8bff-a0b9abeceb0d)
+3. Now click on **Save Config**.
+   ![disable 3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/eacc26f6-7d98-4c8f-a0a2-15023569d0f6)
+
