@@ -60,16 +60,13 @@ The use of a single-arm router is required when the setup in an office is not to
     ![image 17](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/02af5dbc-9714-4af7-85fb-1ea2db62073f)  
 
 19. Click on the box of **Single Arm**.  
-   ![image 18](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/09ad1111-74cb-46e5-bbd3-db852bf8c801)      
-
+  ![image 18 (2)](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/18513fa6-00c7-4687-939e-24635d753a4d)
 20. After clicking, select **IP Address** and **Subnet** below. for **Ex:106.21.242.138 / 255.255.255.255/32.**   
-    ![image 19](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6c2b4014-4914-4ed6-bb42-d973318c57fc)    
+    ![image 19](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/82294820-3338-4c1f-933a-8ee501796abb)
 
 21. Click on **Add** button.    
-    ![image 20](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8939f48c-66eb-440c-8a50-cb3aab117d30)   
-
+   ![image 20](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/80ea6b2c-7401-4bf1-a092-ad0a3f663994)
 22. Then the IP Address will be Address. Then click **Save Config**.   
-    ![image 21](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/166c30ab-14d0-4959-80b4-9bf8865424a4)   
-
+    ![image 21](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8dfbb357-bd35-40fd-9f77-54ae846d668b)
 23. click on **Save Config** and you will get the Cloud gateway is enabled successfully message.
-   ![image 22](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/db1e6cee-f3d3-4e6e-8245-9990236db91b)   
+  ![image 22](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/87dcdcdc-493a-4f24-9dee-93e68f9b0501)
