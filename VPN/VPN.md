@@ -1,6 +1,10 @@
 # VPN
 ## What is VPN
+A VPN connection establishes a secure connection between you and the internet. Via the VPN, all your data traffic is routed through an encrypted virtual tunnel. This disguises your IP address when you use the internet, making its location invisible to everyone.
+
 ## Why do we need a VPN
+You can establish a safe connection to the internet by using a VPN. You may effectively hide your IP address and make your online location invisible to others by channeling all of your data traffic through this encrypted virtual tunnel.
+
 ## How to configure the VPN
 1. Go to beta1. hi-clouds (https://beta1.hi-clouds.com/login) and SIGN IN by entering the admin permission username and password.
    ![image 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c4695a68-a219-4d11-b945-bf048dbd4248)
@@ -12,7 +16,7 @@
    ![image 4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/3d0b932e-7f68-4c14-badc-4c29204d3c50)
 5. Go to the search tab located on the right side.
    ![image 5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/3a9d22df-724d-4b1f-aa1d-4068ae048979)
-6. Go there and search your Device name. For example: jaymin-home-new-x86.
+6. Go there and search your Device name. For **Ex: jaymin-home-new-x86**.
    ![image 6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ebd4a68b-21d6-4f82-9b6d-82c564adeaed)
 7. After that you will enter, and there you will find your Device, Click on it.
    ![image 7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/287c649f-5f0a-49c8-ba25-32fbe21e340e)
