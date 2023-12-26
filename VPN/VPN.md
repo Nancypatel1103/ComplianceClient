@@ -67,6 +67,7 @@ You can establish a safe connection to the internet by using a VPN. You may effe
     ![image 17](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/326b9f4f-4ef4-4539-b241-ec6173da4f37)
 
 18. Then click on **Add New User** located on the right side.
+  
     ![image 18](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5bab8270-dc7a-463c-95e9-e87a8da26514)
 
 19. After clicking on the **Add New User** there a new window will open.
