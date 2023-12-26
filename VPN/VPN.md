@@ -1,11 +1,10 @@
 # VPN
 <!-- TOC -->
 
-- [Single Arm](#single-arm)
-    - [What is Single Arm](#what-is-single-arm)
-    - [Why do need Single Arm](#why-do-need-single-arm)
-    - [How to Enable Single Arm](#how-to-enable-single-arm)
-    - [How to Disable Single Arm](#how-to-disable-single-arm)
+- [VPN](#vpn)
+    - [What is VPN](#what-is-vpn)
+    - [Why do we need a VPN](#why-do-we-need-a-vpn)
+    - [How to configure the VPN](#how-to-configure-the-vpn)
 
 <!-- /TOC -->
 
