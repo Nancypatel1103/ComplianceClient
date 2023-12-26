@@ -1,4 +1,14 @@
 # VPN
+<!-- TOC -->
+
+- [Single Arm](#single-arm)
+    - [What is Single Arm](#what-is-single-arm)
+    - [Why do need Single Arm](#why-do-need-single-arm)
+    - [How to Enable Single Arm](#how-to-enable-single-arm)
+    - [How to Disable Single Arm](#how-to-disable-single-arm)
+
+<!-- /TOC -->
+
 ## What is VPN
 A VPN connection establishes a secure connection between you and the internet. Via the VPN, all your data traffic is routed through an encrypted virtual tunnel. This disguises your IP address when you use the internet, making its location invisible to everyone.
 
