@@ -34,6 +34,44 @@
     ![image 15](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7c3ff548-0cbf-4124-ac63-1298933e995c)
 16. Click on the **Users** menu located on the left side.
     ![image 16](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/262b361d-60f1-4302-afd9-0ff83f9c15a9)
-17. 
+17. You will click on **Users**, there you will see a list of **User**.
+    ![image 17](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/326b9f4f-4ef4-4539-b241-ec6173da4f37)
+18. Then click on **Add New User** located on the right side.
+    ![image 18](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5bab8270-dc7a-463c-95e9-e87a8da26514)
+19. After clicking on the **Add New User** there a new window will open.
+    ![image 19](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/31b32b34-6ce1-4a23-8692-597eb108bb7e)
+20. Choose on **Select Organization**. for **ex: CGW-Testing**    
+    ![image 20](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2d6ac118-7e49-4fb5-944d-b69964dbe956)
+21. Then enter the Email ID you want to use here in **Enter Email Id**. for **Ex: Nenshi.patel@gmail.com**
+    ![image 21](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/81de92ed-3d7e-420d-8523-31c0f5e13f43)
+22. Then type the Password  in **Enter Password**.
+    ![image 22](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/90ab1f9a-6701-4119-9e34-ca2751c755f3)
+23. After entering the Password, enter the same password in **Confirm Password** here.
+    ![image 23](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/3f5a0742-1d63-466b-8634-83319c8b850e)
+24. Then select **User Role**. Click on the **Vpn User** box in it.
+    ![image 24](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f4bf14c2-214e-4e5e-88c8-7283ad9f5e84)
+25. Then select **User Status ** and click on **Active**.
+    ![image 25](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5d35ae5b-26cf-4baa-a3f2-5284a32def65)
+26. Enter **First Name** for **Ex: Nenshi**.
+    ![image 26](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1c2060fe-9ef9-489b-a4d0-ebc6e87e069a)
+27. Enter **Last Name** for **EX: patel**.
+    ![image 27](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/3aec6246-7f0b-4df2-92ff-996c25b85602)
+28. Thereafter enter **Address** for **Ex: Patan**.
+    ![image 28](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e77e532c-83bf-40d4-8dc0-70f0c24f42ba)
+29. Click on **Save** button.
+    ![image 29](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/dd4f6549-3f55-4e6f-a0f2-d5a417a0e889)
+30. After clicking on **save** you will get the message **Account has been created successfully** on the screen.
+    ![image 30](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/83d02df5-fe64-4d59-986b-3288d784eba5)
+31. Go to the search tab.
+    ![image 31](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c321ff86-bfc6-4d93-a87e-e5afe9a47b3a)
+32. Go there and search your User name for **Ex: Nenshi**.
+    ![image 32](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e70060aa-2e9b-4c79-b2a4-d05f540bec62)
+33. After that you will enter, and there you will find your User name.
+    ![image 33](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/43751f0d-3fb7-4f68-ba24-836cffd045fe)
+34. Download **VPN CLIENT** config file.
+    ![image 34](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8eece187-a1ad-4bc7-bbad-3700964ed0b5)
+35. After downloading the VPN CLIENT config file you can connect with Open on.
+    
+    
     
     
