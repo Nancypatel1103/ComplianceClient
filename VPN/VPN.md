@@ -62,81 +62,82 @@ You can establish a safe connection to the internet by using a VPN. You may effe
 15. After you click on **Save Config**, you will get a message on the screen that the **VPN configuration is saved successfully**.
     ![image 15](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7c3ff548-0cbf-4124-ac63-1298933e995c)
 
-16. Click on the **Users** menu located on the left side.
+16.  In order to connect to a VPN, the user must be in the same organization as the device. For that, you have to add to users.
+17.  Click on the **Users** menu located on the left side.
     ![image 16](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/262b361d-60f1-4302-afd9-0ff83f9c15a9)
 
-17. You will click on **Users**, there you will see a list of **User**.
+18. You will click on **Users**, there you will see a list of **Users**.
     ![image 17](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/326b9f4f-4ef4-4539-b241-ec6173da4f37)
 
-18. Then click on **Add New User** located on the right side.
+19. Then click on **Add New User** located on the right side.
   
     ![image 18](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5bab8270-dc7a-463c-95e9-e87a8da26514)
 
-19. After clicking on the **Add New User** there a new window will open.
+20. After clicking on the **Add New User** there a new window will open.
 
      ![image 19](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/31b32b34-6ce1-4a23-8692-597eb108bb7e)
 
-20. Choose on **Select Organization**. for **ex: CGW-Testing**    
+21. Choose on **Select Organization**. for **ex: CGW-Testing**    
 
     ![image 20](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2d6ac118-7e49-4fb5-944d-b69964dbe956)
 
-21. Then enter the Email ID you want to use here in **Enter Email Id**. for **Ex: jem.patel@gmail.com**
+22. Then enter the Email ID you want to use here in **Enter Email Id**. for **Ex: jem.patel@gmail.com**
 
    ![image 21](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/402713ab-f50d-413f-8d8a-9aeea1f2f885)
 
-22. Then type the Password  in **Enter Password**.
+23. Then type the Password  in **Enter Password**.
 
    ![image 22](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e17d521f-e5ed-4b16-b480-757f81d99c45)
 
-23. After entering the Password, enter the same password in **Confirm Password** here.
+24. After entering the Password, enter the same password in **Confirm Password** here.
 
    ![image 23](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/39d6cf8f-3315-46ab-b345-60a0fa708fc0)
 
-24. Then select **User Role**. Click on the **Vpn User** box in it.
+25. Then select **User Role**. Click on the **Vpn User** box in it.
 
     ![image 24](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/3f1c8f51-7bd0-46de-b070-c84a33d8559d)
 
-25. Then select **User Status ** and click on **Active**.
+26. Then select **User Status ** and click on **Active**.
 
     ![image 25](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1f266f23-fde8-435d-8e0b-3832fbef02ad)
 
-26. Enter **First Name** for **Ex: jaymin**.
+27. Enter **First Name** for **Ex: jaymin**.
 
     ![image 26](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e933c7f3-0a03-4a6f-9b4a-09e62e5bf9a2)
 
-27. Enter **Last Name** for **EX: patel**.
+28. Enter **Last Name** for **EX: patel**.
 
    ![image 27](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/585bf5d2-c1e7-42d4-a160-fe6039864166)
 
-28. Thereafter enter **Address** for **Ex: nadiyad**.
+29. Thereafter enter **Address** for **Ex: nadiyad**.
 
     ![image 28](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/73930556-ad46-4340-867d-ee7487b86a6b)
 
-29. Click on the **Save** button.
+30. Click on the **Save** button.
 
    ![image 29](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e1df0721-2263-43f8-b815-f463c7c48c18)
 
-30. After clicking on **save** you will get the message **Account has been created successfully** on the screen.
+31. After clicking on **save** you will get the message **Account has been created successfully** on the screen.
 
    ![image 30](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ebf798ac-f83c-49bf-84a1-2e55c6b2168d)
 
-31. Go to the search tab.
+32. Go to the search tab.
 
     ![image 31](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c321ff86-bfc6-4d93-a87e-e5afe9a47b3a)
 
-32. Go there and search your User name for **Ex: Nenshi**.
+33. Go there and search your User name for **Ex: jaymin**.
 
-     ![image 32](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e70060aa-2e9b-4c79-b2a4-d05f540bec62)
+    ![image 32](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2cb122f8-ee70-412b-948e-61d4b38dcb93)
 
-33. After that you will enter, and there you will find your User name.
+34. After that you will enter, and there you will find your User name.
 
-    ![image 33](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/43751f0d-3fb7-4f68-ba24-836cffd045fe)
+   ![image 33](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4b5a06b0-27ae-48b4-b92c-fcac6f065d5e)
 
-34. Download **VPN CLIENT** config file.
+35. Download **VPN CLIENT** config file.
 
-    ![image 34](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8eece187-a1ad-4bc7-bbad-3700964ed0b5)
+    ![image 34](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/31a27181-d34d-4ccf-948f-0e0eb822aeaf)
 
-35. After downloading the VPN CLIENT config file you can connect with Open on.
+36. After downloading the VPN CLIENT config file you can connect with Open on.
 
 ## How to connect Client
 1. Download the **VPN CLIENT** config file to your PC.
@@ -153,7 +154,7 @@ You can establish a safe connection to the internet by using a VPN. You may effe
 
    ![client 2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/56704ddf-7d1b-4b9f-b3cc-cbf54ef0c034)
 
-5. Click on the BROWSE and select the downloaded file.
+5. Click on the BROWSE and select the VPN config downloaded file.
 
    ![client 3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f52c43b5-a342-49ed-bd39-443364a027de)
 
@@ -177,6 +178,8 @@ You can establish a safe connection to the internet by using a VPN. You may effe
 
        ![client 8](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/3a4171ab-218b-4f93-a2ae-6197ec22ce17)
 
-    
-    
+11. After that you can see connected in VPN CLIENTS.
+     
+        ![client 9](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5661bc25-06aa-4f39-a843-427d26dc0a5f)
+
     
