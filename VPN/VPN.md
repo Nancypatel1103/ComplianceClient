@@ -135,7 +135,28 @@ You can establish a safe connection to the internet by using a VPN. You may effe
     ![image 34](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8eece187-a1ad-4bc7-bbad-3700964ed0b5)
 
 35. After downloading the VPN CLIENT config file you can connect with Open on.
-    
+
+## How to connect Client
+1. Download the **VPN CLIENT** config file to your PC.
+   ![image 34](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8eece187-a1ad-4bc7-bbad-3700964ed0b5)
+2. Open OpenVPN.
+3. If you turn it on, you will reach the bye default Import Profile menu.
+   ![client1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/bb759a80-5ebc-4a3a-bfae-68b60c105466)
+4. Click on **UPLOAD FILE** there.
+   ![client 2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/56704ddf-7d1b-4b9f-b3cc-cbf54ef0c034)
+5. Click on the browser and select the downloaded file.
+   ![client 3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f52c43b5-a342-49ed-bd39-443364a027de)
+6. Then type Username. for**Ex: jem.patel@gmail.com**
+   ![client 4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f5c27361-9ce0-4173-8f34-ddc594bb30f5)
+7. Click on the box of **Save Password**.
+   ![client 5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/08938c80-83ed-47dc-b4cc-e96594aad4e8)
+8. Enter your **Password**.
+   ![client 6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/64d92cad-c1e6-4260-b69b-bc42744c520a)
+9. Click on **Connect** button.
+   ![client 7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4c532414-d523-43bc-92a9-c8f11fce6fe0)
+10. VPN will be Connected.
+    ![client 8](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/3a4171ab-218b-4f93-a2ae-6197ec22ce17)
+
     
     
     
