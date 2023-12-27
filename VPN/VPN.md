@@ -151,7 +151,7 @@ You can establish a safe connection to the internet by using a VPN. You may effe
 
    ![client 2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/56704ddf-7d1b-4b9f-b3cc-cbf54ef0c034)
 
-5. Click on the browser and select the downloaded file.
+5. Click on the BROWSE and select the downloaded file.
 
    ![client 3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f52c43b5-a342-49ed-bd39-443364a027de)
 
@@ -167,7 +167,7 @@ You can establish a safe connection to the internet by using a VPN. You may effe
 
     ![client 6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/64d92cad-c1e6-4260-b69b-bc42744c520a)
 
-9. Click on the **Connect** button.
+9. Click on the **CONNECT** button.
 
      ![client 7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4c532414-d523-43bc-92a9-c8f11fce6fe0)
 
