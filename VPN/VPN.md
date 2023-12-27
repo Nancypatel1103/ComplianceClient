@@ -16,7 +16,9 @@ You can establish a safe connection to the internet by using a VPN. You may effe
 
 ## How to configure the VPN
 1. Go to beta1. hi-clouds (https://beta1.hi-clouds.com/login) and SIGN IN by entering the admin permission username and password.
-   ![image 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c4695a68-a219-4d11-b945-bf048dbd4248)
+
+    ![image 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c4695a68-a219-4d11-b945-bf048dbd4248)
+
 
 2. When you SIGN IN, you will reach the dashboard by default.
    ![image 2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f1023f7f-e2e0-425c-8fb2-7f34c2d6d354)
