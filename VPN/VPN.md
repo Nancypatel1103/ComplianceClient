@@ -5,7 +5,7 @@
     - [What is VPN](#what-is-vpn)
     - [Why do we need a VPN](#why-do-we-need-a-vpn)
     - [How to configure the VPN](#how-to-configure-the-vpn)
-    - [How to CONNECT CLIENT](#how-to-connect-client)
+    - [How to connect client](#how-to-connect-client)
 <!-- /TOC -->
 
 ## What is VPN
@@ -141,39 +141,39 @@ You can establish a safe connection to the internet by using a VPN. You may effe
 
    ![image 34](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8eece187-a1ad-4bc7-bbad-3700964ed0b5)
 
-3. Open OpenVPN.
+2. Open OpenVPN.
 
-4. If you turn it on, you will reach the bye default Import Profile menu.
+3. If you turn it on, you will reach the bye default Import Profile menu.
 
     ![client1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/bb759a80-5ebc-4a3a-bfae-68b60c105466)
 
-6. Click on **UPLOAD FILE** there.
+4. Click on **UPLOAD FILE** there.
 
    ![client 2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/56704ddf-7d1b-4b9f-b3cc-cbf54ef0c034)
 
-8. Click on the browser and select the downloaded file.
+5. Click on the browser and select the downloaded file.
 
    ![client 3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f52c43b5-a342-49ed-bd39-443364a027de)
 
-10. Then type Username. for**Ex: jem.patel@gmail.com**
+6. Then type Username. for**Ex: jem.patel@gmail.com**
   
-   ![client 4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f5c27361-9ce0-4173-8f34-ddc594bb30f5)
+      ![client 4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f5c27361-9ce0-4173-8f34-ddc594bb30f5)
 
-11. Click on the box of **Save Password**.
+7. Click on the box of **Save Password**.
   
-   ![client 5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/08938c80-83ed-47dc-b4cc-e96594aad4e8)
+      ![client 5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/08938c80-83ed-47dc-b4cc-e96594aad4e8)
 
-12. Enter your **Password**.
+8. Enter your **Password**.
 
     ![client 6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/64d92cad-c1e6-4260-b69b-bc42744c520a)
 
-14. Click on **Connect** button.
+9. Click on the **Connect** button.
 
      ![client 7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4c532414-d523-43bc-92a9-c8f11fce6fe0)
 
-16. VPN will be Connected.
+10. VPN will be Connected.
 
-    ![client 8](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/3a4171ab-218b-4f93-a2ae-6197ec22ce17)
+       ![client 8](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/3a4171ab-218b-4f93-a2ae-6197ec22ce17)
 
     
     
