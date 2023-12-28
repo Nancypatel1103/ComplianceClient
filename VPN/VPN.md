@@ -180,6 +180,4 @@ You can establish a safe connection to the internet by using a VPN. You may effe
 
 11. After that you can see connected in VPN CLIENTS.
      
-        ![client 9](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5661bc25-06aa-4f39-a843-427d26dc0a5f)
-
-    
+       ![client 9](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5661bc25-06aa-4f39-a843-427d26dc0a5f)
