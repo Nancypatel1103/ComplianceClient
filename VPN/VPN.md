@@ -83,15 +83,15 @@ You can establish a safe connection to the internet by using a VPN. You may effe
 
 22. Then enter the Email ID you want to use here in **Enter Email Id**. for **Ex: jem.patel@gmail.com**
 
-   ![image 21](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/402713ab-f50d-413f-8d8a-9aeea1f2f885)
+     ![image 21](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/402713ab-f50d-413f-8d8a-9aeea1f2f885)
 
 23. Then type the Password  in **Enter Password**.
 
-   ![image 22](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e17d521f-e5ed-4b16-b480-757f81d99c45)
+     ![image 22](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e17d521f-e5ed-4b16-b480-757f81d99c45)
 
 24. After entering the Password, enter the same password in **Confirm Password** here.
 
-   ![image 23](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/39d6cf8f-3315-46ab-b345-60a0fa708fc0)
+     ![image 23](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/39d6cf8f-3315-46ab-b345-60a0fa708fc0)
 
 25. Then select **User Role**. Click on the **Vpn User** box in it.
 
@@ -107,7 +107,7 @@ You can establish a safe connection to the internet by using a VPN. You may effe
 
 28. Enter **Last Name** for **EX: patel**.
 
-   ![image 27](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/585bf5d2-c1e7-42d4-a160-fe6039864166)
+    ![image 27](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/585bf5d2-c1e7-42d4-a160-fe6039864166)
 
 29. Thereafter enter **Address** for **Ex: nadiyad**.
 
@@ -115,7 +115,7 @@ You can establish a safe connection to the internet by using a VPN. You may effe
 
 30. Click on the **Save** button.
 
-   ![image 29](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e1df0721-2263-43f8-b815-f463c7c48c18)
+    ![image 29](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e1df0721-2263-43f8-b815-f463c7c48c18)
 
 31. After clicking on **save** you will get the message **Account has been created successfully** on the screen.
 
