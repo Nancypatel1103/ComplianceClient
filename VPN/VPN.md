@@ -119,7 +119,7 @@ You can establish a safe connection to the internet by using a VPN. You may effe
 
 31. After clicking on **save** you will get the message **Account has been created successfully** on the screen.
 
-   ![image 30](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ebf798ac-f83c-49bf-84a1-2e55c6b2168d)
+      ![image 30](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ebf798ac-f83c-49bf-84a1-2e55c6b2168d)
 
 32. Go to the search tab.
 
@@ -131,7 +131,7 @@ You can establish a safe connection to the internet by using a VPN. You may effe
 
 34. After that you will enter, and there you will find your User name.
 
-   ![image 33](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4b5a06b0-27ae-48b4-b92c-fcac6f065d5e)
+      ![image 33](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4b5a06b0-27ae-48b4-b92c-fcac6f065d5e)
 
 35. Download **VPN CLIENT** config file.
 
