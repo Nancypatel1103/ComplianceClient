@@ -1,7 +1,7 @@
 # VPN 
 <!-- TOC -->
 
-- [VPN](#vpn)
+- [VPN](#vpn) 
     - [What is VPN](#what-is-vpn)
     - [Why do we need a VPN](#why-do-we-need-a-vpn)
     - [How to configure the VPN](#how-to-configure-the-vpn)
