@@ -122,7 +122,7 @@
 
 13 Click on **Edit Device**.
 
-    ![image 30](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ef60fd02-6ab8-4d03-8857-3d3443fe281e)  
+  ![image 30](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ef60fd02-6ab8-4d03-8857-3d3443fe281e)  
 
 14. As soon as you click on **Edit Device**, you will get a message on the screen that the Device is edited successfully.
 
