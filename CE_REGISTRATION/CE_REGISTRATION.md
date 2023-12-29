@@ -34,7 +34,7 @@
 
     ![image 5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/50a5eb37-8468-4c9a-8539-9efeb05efb74)
 
-6. After clicking on **UNASSIGNED**, the summary of **UNASSIGNED** will appear.
+6. After clicking on **UNASSIGNED**, the summary of **DEVICE** will appear.
   
    ![image 6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d94d0c55-2812-437b-8104-6a61899c42fa)
 
@@ -50,11 +50,11 @@
 
      ![image 9](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e019e1a9-3bf4-4811-a536-ec08105dc9a8)
 
-10. Click on **Assign Device**.
+10. Click on **Assign Device** button.
 
     ![image 10](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/69155dc2-7cf3-472f-a54b-435a4fa00b82)
 
-11. After click **Assign Device**, a new window will open.
+11. After clicking the **Assign Device** button, a new window will open.
 
     ![image 11](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ce186188-4803-4590-8ba4-12f4b9f53919)
 
@@ -70,11 +70,11 @@
 
     ![image 14](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/24d1ae93-b8c1-49ba-a4e7-106682659176)
 
-15. After you click on **Assign**, you will get a message on the screen that the **Device is assigned successfully**.
+15. After you click on the **Assign** button, you will get a message on the screen that the **Device is assigned successfully**.
 
      ![image 15](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/efff191f-5dea-4c62-981b-89805637d3c8)
 
-16. Click on **ASSIGNED**.
+16. Click on **ASSIGNED** tab.
 
     ![image 16](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b979e6b9-b047-44c5-948f-e8f2a951a0ce)
 
