@@ -33,7 +33,7 @@
 
 8. Go there and search your MAC address. For Ex: 08:00:27:09:c6:9c.
 
-       ![image 8](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f5a7ce3f-5263-4c9e-829b-77b5761d30f8)
+    ![image 8](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f5a7ce3f-5263-4c9e-829b-77b5761d30f8)
 
 9. After that you will enter, and there you will find your MAC address.
 
