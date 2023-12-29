@@ -1,5 +1,16 @@
 # CE Register
+<!-- TOC -->
 
+- [CE Register](#ce-register)
+    - [what is CE](#what-is-ce)
+    - [Why we need to CE](#why-we-need-to-ce)
+    - [How to Register CE](#how-to-register-ce)
+    - [How to edit Register CE](#how-to-edit-register-ce)
+    - [How to open terminal](#how-to-open-terminal)
+    - [How to open web terminal](#how-to-open-web-terminal)
+    - [How to Delete Register CE](#how-to-delete-register-ce)
+
+<!-- /TOC -->
 ## what is CE
 ## Why we need to CE
 ## How to Register CE
