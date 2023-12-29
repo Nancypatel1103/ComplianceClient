@@ -2,7 +2,7 @@
 <!-- TOC -->
 
 - [CE Register](#ce-register)
-    - [what is CE](#what-is-ce)
+    - [What is CE](#what-is-ce)
     - [Why we need to CE](#why-we-need-to-ce)
     - [How to Register CE](#how-to-register-ce)
     - [How to edit Register CE](#how-to-edit-register-ce)
