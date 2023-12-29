@@ -11,7 +11,7 @@
     - [How to Delete Register CE](#how-to-delete-register-ce)
 
 <!-- /TOC -->
-## what is CE
+## What is CE
 ## Why we need to CE
 ## How to Register CE
 1. Go to beta1. hi-clouds (https://beta1.hi-clouds.com/login) and SIGN IN by entering the admin permission username and password.
@@ -103,7 +103,7 @@
 
     ![image 22](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2436e8ab-eb71-447a-9cf2-fff108f3b209)
 
-6. After clicking on it the map will open.
+6. After clicking on it the Map will open.
 
    ![image 23](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4b6c8d26-c64c-4068-969f-660660a8f6a9)
 
@@ -111,7 +111,7 @@
 
    ![image 24](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/3fd2af7c-d266-4e46-9f57-1360215f576a)
 
-8. Go there and search your Location. For **Ex: chanasma.
+8. Go there and search your Location. For **Ex: chanasma**.
 
    ![image 25](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/12364a8c-3a08-475f-9002-0e4139d03111)
 
