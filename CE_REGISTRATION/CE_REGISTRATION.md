@@ -119,7 +119,7 @@
 
    ![image 26](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d91e2c7a-1f56-47ab-8f27-525e509ea654)
 
-10. Here you can also set the location by filling in the details.
+10. Here you can also set the location by manually filling in the details.
 
     ![image 27](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e79725c8-bfbe-46eb-93d6-b92d902faa0a)
 
