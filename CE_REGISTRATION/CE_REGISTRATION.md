@@ -12,9 +12,11 @@
 
 <!-- /TOC -->
 ## What is CE
-## What is lucy
+CE stands for Customer Edge or Customer Equipment. It refers to the router used by users that connects to their ISP (Internet Service Provider) lines. A CE device serves as a router and firewall, providing various functionalities to the users.
+## What is Lucy
 While OpenWrt can be managed completely using SSH and the terminal, the LuCI WebUI makes many administration tasks easier. The OpenWrt full releases, such as the current 21.02.x series, ship with the LuCI WebUI installed. But for lower-memory devices, such as those with 4MBytes Flash and/or 32MBytes of RAM, the full install may fail because of lacking sufficient Flash memory so you will have to build your own image with LuCI included. More info on this can be obtained here.
 ## Why we need to CE
+CE devices play a crucial role in establishing and managing the network connection between the user's premises and the ISP. They are responsible for routing network traffic, implementing network security measures, and providing network address translation (NAT) functionality.
 ## How to Register CE
 1. Go to beta1. hi-clouds (https://beta1.hi-clouds.com/login) and SIGN IN by entering the admin permission username and password.
 
@@ -142,7 +144,7 @@ While OpenWrt can be managed completely using SSH and the terminal, the LuCI Web
     ![image 31](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6a3bb0ba-d8b2-44d5-9bfc-75c0a048eba4)
 
 ## How to open terminal
-
+A command has to be written to connect to CE and a terminal is required for that.
 1. Click on the pen located on the right side of your Device.
 
    ![image 32](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c71c98c7-c062-4d46-b6d6-c2f4ab17c956)
