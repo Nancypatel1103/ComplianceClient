@@ -3,7 +3,7 @@
 
 - [CE Register](#ce-register)
     - [What is CE](#what-is-ce)
-    - [What is Lusy](#what-is-lusy)
+    - [What is Lusy](#what-is-lusy).
     - [Why we need to CE](#why-we-need-to-ce)
     - [How to Register CE](#how-to-register-ce)
     - [How to edit Register CE](#how-to-edit-register-ce)
