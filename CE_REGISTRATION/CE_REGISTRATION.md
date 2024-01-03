@@ -12,6 +12,8 @@
 
 <!-- /TOC -->
 ## What is CE
+## What is lucy
+While OpenWrt can be managed completely using SSH and the terminal, the LuCI WebUI makes many administration tasks easier. The OpenWrt full releases, such as the current 21.02.x series, ship with the LuCI WebUI installed. But for lower-memory devices, such as those with 4MBytes Flash and/or 32MBytes of RAM, the full install may fail because of lacking sufficient Flash memory so you will have to build your own image with LuCI included. More info on this can be obtained here.
 ## Why we need to CE
 ## How to Register CE
 1. Go to beta1. hi-clouds (https://beta1.hi-clouds.com/login) and SIGN IN by entering the admin permission username and password.
