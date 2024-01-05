@@ -14,4 +14,27 @@
 4. You will click on CE Devices, and there you will see a list of Devices.                                             
    ![image 4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f4b86a92-01a6-49b9-be08-2c3624d80c4e)
 
-5. 
+5. Link two CE with one PE. For **Ex: CE Hub and Manual-testing**. How linking anyway is  https://github.com/Nancypatel1103/ComplianceClient/blob/a0b03084bc4112196a649933c960ef1504cb5767/CLOUD_GATEWAY/CLOUD_GATEWAY.MD understood here.
+   ![image 5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1f738ecc-ba99-4eba-98fa-d8bc5783f506)
+
+6. Then go to your device.
+   ![image 6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/89c77d41-ce0d-4ebd-a65c-dcdba90f4d32)
+
+7. Click on Terminal located on the right side.
+   ![image 7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/48eb1b56-7008-40a1-902c-4b0620bb33cd)
+
+8. After clicking, a new window will open.
+   ![image 8](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/bbd0889a-8c39-4c3f-b856-85f2b3c1615f)
+
+9. Type command there. Type this (cat /etc/config/apinger) command there.
+    ![image 9](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/24b25099-ee6e-4156-a203-97b3a527f257)
+
+10. After giving the command, press enter and it will show its information.
+    ![image 10](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f0927b92-beab-48f7-853e-c28da712ab53)
+
+11. There will be a **BRIDGE**.
+12. After that go to your device and click on **BRIDGE**.
+    ![image 11](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6f1aec90-9442-4f42-977c-e1637494f3a6)
+
+13. After clicking, a new page will open and you will see the created **BRIDGE**.
+    ![image 12](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4649da6e-5e6a-4860-8659-6d976799a6ba) 
