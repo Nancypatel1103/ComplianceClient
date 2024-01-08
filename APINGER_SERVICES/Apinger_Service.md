@@ -1,11 +1,19 @@
 # Apinger Services
+<!-- TOC -->
+
+- [Apinger Services](#apinger-services)
+    - [What is Apinger](#what-is-apinger)
+    - [Why need Apinger](#why-need-apinger)
+    - [How to configure Apinger Service](#how-to-configure-apinger-service)
+
+<!-- /TOC -->
 ## What is Apinger
 Apinger is a network monitoring service that tracks the availability and connectivity of IP addresses. It requires configuration on two customer edge (CE) routers and connects them through a provider edge (PE) router. When successfully connected, it shows "1/1" in the peer's states, indicating one reachable peer.
 
 ## Why need Apinger
 Apinger is used to connect two CEs to one PE. Apinger is required for IP tracking when configuring devices. it shows "1/1" in the peer's states, indicating one reachable peer.
 
-## How to Apinger Service
+## How to configure Apinger Service
 1. Go to beta1. hi-clouds (https://beta1.hi-clouds.com/login) and **SIGN IN** by entering the admin permission username and password.
 
    ![image 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2cc0e784-0192-4715-867d-f61a6e99dfb6)
