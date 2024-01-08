@@ -72,11 +72,11 @@ Apinger is used to connect two CEs to one PE. Apinger is required for IP trackin
 
      ![image 17](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/058615b6-c739-4eeb-8b93-99e97d9192c4)
 
-19. Click on the **Login** button.
+19. Click on the **LOGIN** button.
 
     ![image 18](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/49c53eae-6315-46a1-820e-678215af76f2)
 
-20. After clicking on **login**, a new window will open.
+20. After clicking on **LOGIN**, a new window will open.
 
     ![image 19](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f6398da5-da30-4973-a9be-7d29ff73be12)
 
