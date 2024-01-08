@@ -6,31 +6,31 @@ Apinger is a network monitoring service that tracks the availability and connect
 Apinger is used to connect two CEs to one PE. Apinger is required for IP tracking when configuring devices. it shows "1/1" in the peer's states, indicating one reachable peer.
 
 ## How to Apinger Service
-1. Go to beta1. hi-clouds (https://beta1.hi-clouds.com/login) and SIGN IN by entering the admin permission username and password.
+1. Go to beta1. hi-clouds (https://beta1.hi-clouds.com/login) and **SIGN IN** by entering the admin permission username and password.
 
    ![image 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2cc0e784-0192-4715-867d-f61a6e99dfb6)
 
-2. When you SIGN IN, you will reach the dashboard by default.                                                         
+2. When you **SIGN IN**, you will reach the dashboard by default.                                                         
 
     ![image 2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/fe76c624-cb89-439a-8568-08dcf4d70185)
 
-3. Then Click on the CE Devices menu located on the left side.                                                    
+3. Then Click on the **CE Devices** menu located on the left side.                                                    
 
    ![image 3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2c605c5d-5b66-4a7a-ad35-dc671b0f7e1a)
 
-4. You will click on CE Devices, and there you will see a list of Devices.                                             
+4. You will click on **CE Devices**, and there you will see a list of Devices.                                             
 
     ![image 4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f4b86a92-01a6-49b9-be08-2c3624d80c4e)
 
-5. Link two CE with one PE. For **Ex: CE Hub and Manual-testing**. How linking anyway is  https://github.com/Nancypatel1103/ComplianceClient/blob/a0b03084bc4112196a649933c960ef1504cb5767/CLOUD_GATEWAY/CLOUD_GATEWAY.MD understood here.
+5. Link two CE with one PE. For **Ex: CE Hub and Manual-testing**. How linking anyway is  https://github.com/Nancypatel1103/ComplianceClient/blob/a0b03084bc4112196a649933c960ef1504cb5767/CLOUD_GATEWAY/CLOUD_GATEWAY.MD understood here 
 
    ![image 5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1f738ecc-ba99-4eba-98fa-d8bc5783f506)
 
-6. Then go to your device.
+6. Then go to your **Device**.
   
    ![image 6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/89c77d41-ce0d-4ebd-a65c-dcdba90f4d32)
 
-7. Click on Terminal located on the right side.
+7. Click on **Terminal** located on the right side.
   
    ![image 7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/48eb1b56-7008-40a1-902c-4b0620bb33cd)
 
@@ -38,7 +38,7 @@ Apinger is used to connect two CEs to one PE. Apinger is required for IP trackin
   
    ![image 8](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/bbd0889a-8c39-4c3f-b856-85f2b3c1615f)
 
-9. Type the command there. Type this (cat /etc/config/apinger) command there.
+9. Type the command there. Type this **(cat /etc/config/apinger)** command there.
 
      ![image 9](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/24b25099-ee6e-4156-a203-97b3a527f257)
 
