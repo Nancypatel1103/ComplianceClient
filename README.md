@@ -1,4 +1,4 @@
 # Documentation
 
-d0cumentation
+documentation
 
