@@ -16,12 +16,12 @@
    ![image 4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/97aa0db1-43dd-4764-8153-cfa0100e1ed1)
 
 6. Click on **Global** mode if you want to use **Global** mode. **Global** mode includes all types of websites.
-7. Click on **Full** mode if you want to use **Full** mode. **Full** mode includes all types of Domains. After selecting **Full** mode, type the subdomain you don't want to allow in the enter block domain.
-8. Click on **Selective** mode if you want to use **Selective** mode. In selective mode, you have to enter the domain you want to run through the gateway in Allow Domains and the domains you don't want to allow in Block Domains.
-9. After that **Enter Allowed Domains**, if you have run a local website from a **Cloud Gateway**, write here in **Enter Allowed Domains**. For **Ex: if there is a local website of the government, you have to enter it here if you run it from the **gateway**.H ere for **Ex: www.google.com**.
+7. Click on **Full** mode to utilize **Full mode**. **Full** mode includes all types of Domains. After selecting **Full** mode, type the subdomain don't want to allow in the enter block domain.
+8. Click on **Selective** mode you want to use **Selective** mode. In selective mode, you have to enter the domain you want to run through the gateway in Allow Domains and the domains you don't want to allow in Block Domains.
+9. After that **Enter Allowed Domains**, The traffic of the website you provide here will be through the cloud gateway. For **Ex: www.google.com**.
    ![image 5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/cd527079-5dc4-466e-9d25-642dc642717f)
    
-10. Then **Enter Blocked Domains**, if you do not want to run the subdomain of the domain you have allowed from the gateway, you have to write it here in **Enter Blocked Domains** for **Ex: www.facebook.com**.
+10. Then **Enter Blocked Domains**, Enter the Blocked Domains that you do not want to allow the subdomain of the allowed domain. The website traffic you provide will not go through the cloud gateway. For **Ex: www.facebook.com**.
    ![image 6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c0839aac-78fc-4e8b-8383-e4fdf22a0517)
 
 11. Then Enter **Allowed IP**. The Public IP you want to send the request to should be written here in the **Allowed IP**. For **Ex: 103.78.41.6**.
