@@ -27,7 +27,7 @@
 11. Then Enter **Allowed IP**. The Public IP you want to send the request to should be written here in the **Allowed IP**. For **Ex: 103.78.41.6**.
     ![image 7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/699ee04f-eeaa-44f1-9eb4-09622a8b4537)
 
-12. Enter **Blocked IP**. Here in block IP type Public IP, you don't want to send public IP requests. So the request from that IP will not go through. For **Ex: 182.168.1.1**.
+12. Enter **Blocked IP**. Here type the public IP you don't want to send a request to CGW in Enter **Blocked IP**. So the CGW request from that IP will not go through. For **Ex: 182.168.1.1**.
     ![image 8](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/01d5ed2a-f41b-482a-a4d6-2fe43fff5444)
 
 13. Now click on **Save Config**.
