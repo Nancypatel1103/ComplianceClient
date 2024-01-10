@@ -13,14 +13,14 @@ Within the Cloud Gateway, a Whitelist & Blacklist is an array of configurations 
 ## Why do we need WhiteList & BlackList
 To regulate and oversee the passage of traffic to the Cloud Gateway, whitelist & Blacklist configurations are required. They provide an individual way of network access that allows users to specify which domains, IP addresses, and subdomains can be utilized or banned. Cloud Gateway services are employed effectively, securely, and in compliance thanks to the Whitelist & Blacklist.
 ## How to configure WhiteList & BlackList
-1. First you have to link CE with PE. How to link CE with PE is explained here [How to enable cgw]((https://github.com/Nancypatel1103/ComplianceClient/blob/main/CLOUD_GATEWAY/CLOUD_GATEWAY.MD#how-enable-cgw))(https://github.com/Nancypatel1103/ComplianceClient/blob/main/CLOUD_GATEWAY/CLOUD_GATEWAY.MD#how-enable-cgw) 
+1. First you have to link CE with PE. How to link CE with PE is explained here (https://github.com/Nancypatel1103/ComplianceClient/blob/main/CLOUD_GATEWAY/CLOUD_GATEWAY.MD#how-enable-cgw) 
 2. Click on the **GATEWAY** menu located on the left side.
    ![image 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/84bf2c8a-30ce-45b0-9c48-d2394f7609ce)
 
 3. After clicking on the **GATEWAY** menu, a new window will appear.
   ![image 2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/9e2cba70-b85d-4c5f-af14-73af76531cf1)
 
-4. Click on the box of **Cloud Gateway**. How to Select a Customer Public IP after clicking on the cloud gateway box is explained here ([How Enable CGW](#how-enable-cgw)).
+4. Click on the box of **Cloud Gateway**. How to Select a Customer Public IP after clicking on the cloud gateway box is explained here (https://github.com/Nancypatel1103/ComplianceClient/blob/main/CLOUD_GATEWAY/CLOUD_GATEWAY.MD#how-enable-cgw).
    ![image 3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b6785647-151b-4d2a-8f87-c13f834a8785)
    
 5. Then choose select mode. There you will find **1. Global 2. Full 3. Selective** three modes.
