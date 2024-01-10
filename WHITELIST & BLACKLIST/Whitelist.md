@@ -28,7 +28,7 @@ To regulate and oversee the passage of traffic to the Cloud Gateway, whitelist &
 
 6. Click on **Global** mode if you want to use **Global** mode. In **Global** mode, domestic traffic will use local internet break out and international traffic will use CGW for internet break out. When a domain or IP is in the block list, they would be blocked from using CGW internet break out and use local internet break out.
 7. Click on **Full** mode to utilize **Full mode**. In **Full mode**, all internet traffic including domestic traffic and international traffic will use CGW for internet break-out. When a domain or IP is in the block list, they would be blocked from using CGW internet break out and use local internet break out.
-8. In global mode and full mode. The default policy is always allowed. Default policy allows means, all internet traffic by default would be allowed to use CGW internet break out.
+8. In **Global** mode and **Full** mode. The default policy is always allowed. Default policy allows means, all internet traffic by default would be allowed to use CGW internet break out.
 9. Click on **Selective** mode if you want to use **Selective** mode. In Selective mode
 The default policy is to block. All internet traffic by default would be using local internet breakout and only allowed domains and IPs would be allowed to use CGW as internet breakout.
 10. After that **Enter Allowed Domains**, The traffic of the website you provide here will be through the cloud gateway. For **Ex: www.google.com**.
