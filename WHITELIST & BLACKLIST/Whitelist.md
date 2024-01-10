@@ -1,4 +1,13 @@
 # WhiteList & BlackList
+<!-- TOC -->
+
+- [WhiteList & BlackList](#whitelist--blacklist)
+    - [What is WhiteList & BlackList](#what-is-whitelist--blacklist)
+    - [Why do we need WhiteList & BlackList](#why-do-we-need-whitelist--blacklist)
+    - [How to configure WhiteList & BlackList](#how-to-configure-whitelist--blacklist)
+    - [Conclusion](#conclusion)
+
+<!-- /TOC -->
 ## What is WhiteList & BlackList
 Within the Cloud Gateway, a Whitelist & Blacklist is an array of configurations that permits specific features or objects but limits the access of others. Selectively allowed objects, allowed domains, and allowed IP addresses are all instances of Whitelist settings in the context of a Cloud Gateway configuration.
 ## Why do we need WhiteList & BlackList
