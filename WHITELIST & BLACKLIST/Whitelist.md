@@ -26,8 +26,8 @@ To regulate and oversee the passage of traffic to the Cloud Gateway, whitelist &
 5. Then choose select mode. There you will find **1. Global 2. Full 3. Selective** three modes.
    ![image 4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/cadc0257-7112-4a4f-a717-dfa9d2197bb3)
 
-6. Click on **Global** mode if you want to use **Global** mode. **Global** mode includes all types of websites. In global mode, domestic traffic will use local internet break out and international traffic will use CGW for internet break out. When a domain or IP is in the block list, they would be blocked from using CGW internet break out and use local internet break out.
-7. Click on **Full** mode to utilize **Full mode**. **Full** mode includes all types of Domains. In full mode, all internet traffic including domestic traffic and international traffic will use CGW for internet break-out. When a domain or IP is in the block list, they would be blocked from using CGW internet break out and use local internet break out.
+6. Click on **Global** mode if you want to use **Global** mode. In **Global** mode, domestic traffic will use local internet break out and international traffic will use CGW for internet break out. When a domain or IP is in the block list, they would be blocked from using CGW internet break out and use local internet break out.
+7. Click on **Full** mode to utilize **Full mode**. In **Full mode**, all internet traffic including domestic traffic and international traffic will use CGW for internet break-out. When a domain or IP is in the block list, they would be blocked from using CGW internet break out and use local internet break out.
 8. Click on **Selective** mode if you want to use **Selective** mode. 
 9. After that **Enter Allowed Domains**, The traffic of the website you provide here will be through the cloud gateway. For **Ex: www.google.com**.
    ![image 5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/98f2b235-4e9f-44db-a69e-86e8cd9eb7f8)
