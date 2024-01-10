@@ -28,30 +28,31 @@ To regulate and oversee the passage of traffic to the Cloud Gateway, whitelist &
 
 6. Click on **Global** mode if you want to use **Global** mode. In **Global** mode, domestic traffic will use local internet break out and international traffic will use CGW for internet break out. When a domain or IP is in the block list, they would be blocked from using CGW internet break out and use local internet break out.
 7. Click on **Full** mode to utilize **Full mode**. In **Full mode**, all internet traffic including domestic traffic and international traffic will use CGW for internet break-out. When a domain or IP is in the block list, they would be blocked from using CGW internet break out and use local internet break out.
-8. Click on **Selective** mode if you want to use **Selective** mode. In Selective mode
-The default policy is to block. All internet traffic by default would be using local internet break out and only allowed domains and IP would be allowed to use CGW as internet breakout.
-9. After that **Enter Allowed Domains**, The traffic of the website you provide here will be through the cloud gateway. For **Ex: www.google.com**.
+8. In global mode and full mode. The default policy is always allowed. Default policy allows means, all internet traffic by default would be allowed to use CGW internet break out.
+9. Click on **Selective** mode if you want to use **Selective** mode. In Selective mode
+The default policy is to block. All internet traffic by default would be using local internet breakout and only allowed domains and IPs would be allowed to use CGW as internet breakout.
+10. After that **Enter Allowed Domains**, The traffic of the website you provide here will be through the cloud gateway. For **Ex: www.google.com**.
    ![image 5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/98f2b235-4e9f-44db-a69e-86e8cd9eb7f8)
    
-10. Then **Enter Blocked Domains**, Enter the Blocked Domains that you do not want to allow the subdomain of the allowed domain. The website traffic you provide will not go through the cloud gateway. For **Ex: www.facebook.com**.
+11. Then **Enter Blocked Domains**, Enter the Blocked Domains that you do not want to allow the subdomain of the allowed domain. The website traffic you provide will not go through the cloud gateway. For **Ex: www.facebook.com**.
    ![image 6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f9023c62-e31b-4b12-885b-ce8a810351c7)
 
-11. Then Enter **Allowed IP**. The Public IP you want to send the request to should be written here in the **Allowed IP**. For **Ex: 103.78.41.6**.
+12. Then Enter **Allowed IP**. The Public IP you want to send the request to should be written here in the **Allowed IP**. For **Ex: 103.78.41.6**.
     ![image 7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/750461e3-8b07-4e79-aaa8-6db0c8bcbb23)
 
-12. Enter **Blocked IP**. Here type the public IP you don't want to send a request to CGW in Enter **Blocked IP**. So the CGW request from that IP will not go through. For **Ex: 182.168.1.1**.
+13. Enter **Blocked IP**. Here type the public IP you don't want to send a request to CGW in Enter **Blocked IP**. So the CGW request from that IP will not go through. For **Ex: 182.168.1.1**.
     ![image 8](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/bb0503b9-2346-46fb-9dac-e19cb033da64)
 
-13. After selecting **Full** mode, type the domain don't want to allow in the enter block domain. For **Ex: www.facebook.com**.
+14. After selecting **Full** mode, type the domain don't want to allow in the enter block domain. For **Ex: www.facebook.com**.
     ![image 11](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/45f6f15d-28f8-40bc-a4ce-9d5d708787cc)
-14. In selective mode, you have to enter the domain you want to run through the gateway in Allow Domains and the domains you don't want to allow in Block Domains.
-15. After Enter Allowed Domains for ex: 1. www.google.com 2. www.facebook.com and Enter Blocked domains for ex: www.netflix.com.
+15. In selective mode, you have to enter the domain you want to run through the gateway in Allow Domains and the domains you don't want to allow in Block Domains.
+16. After Enter Allowed Domains for ex: 1. www.google.com 2. www.facebook.com and Enter Blocked domains for ex: www.netflix.com.
     ![image 12](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7dc671dc-5b48-4be5-8c25-c3e84afd0674)
 
-16. Now click on **Save Config**.
+17. Now click on **Save Config**.
     ![image 9](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/72d4f776-2172-4ef4-9d26-0dd49ff5b8b6)
 
-17. click on **Save Config** and you will get the Cloud gateway is enabled successfully message.
+18. click on **Save Config** and you will get the Cloud gateway is enabled successfully message.
     ![image 10](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c4132a2c-f1c2-4e40-af3a-feb37379a555)
 
 ## Conclusion
