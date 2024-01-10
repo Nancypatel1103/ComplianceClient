@@ -43,3 +43,6 @@ To regulate and oversee the passage of traffic to the Cloud Gateway, whitelist &
 
 17. click on **Save Config** and you will get the Cloud gateway is enabled successfully message.
     ![image 10](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c4132a2c-f1c2-4e40-af3a-feb37379a555)
+
+## Conclusion
+As part of the Cloud Gateway, a Whitelist and Blacklist are essential options that permit access to some functions alone while limiting access to others. Restricted items, allowed domains, and approved IP addresses are all included in these setups.
