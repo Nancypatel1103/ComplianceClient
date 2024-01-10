@@ -79,25 +79,73 @@
 ## Why do we need Users
 ## How to Create User
 1. Click on the **Users** located on the right side.
+
+   ![image 19](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5c20c85c-936d-4a31-91db-2f3dbd399208)
+   
 2. After Clicking **Users**, a new window will open.
+
+   ![image 20](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/9bc2891f-e860-4c7e-b828-27fe370c254c)
+   
 3. Then click on **Add New User** located on the right side.
+
+   ![image 21](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/03a605be-9f4e-467a-b3e4-34cd052452ea)
+   
 4. After clicking on the **Add New User**, there a new window will open.
+
+   ![image 22](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/39b885d2-0771-46a7-91a0-79f4c7fb958d)
+   
 5. Choose on **Select Organization**. For **Ex: nancy**.
+
+   ![image 23](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/eefc5a26-89c1-48fd-99c6-40578f814037)
+   
 6. Then enter the email ID you want to use here in **Enter Email ID**. For **Ex: nancypatel@gmail.com**.
+
+   ![image 24](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/282c7c84-d930-45b0-83ac-28bdefcd0da5)
+
 7. Then type the password in **Enter Password**.
+
+   ![image 25](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/33dd4907-fb3d-4800-9295-9ec2b94af9a3)
+   
 8. After entering the password, enter the same password in **Confirm Password** here.
+
+    ![image 26](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d11ffb49-b820-47c6-aa7b-242da279fb7f)
+    
 9. Then select **User Role**. You will find **(1) User (2) Platform admin and (3) VPN user** three roles.
+
+    ![image 27](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/25e2f57a-cde7-4fdb-a1d1-8246fce335f5)
+    
 10. Click on **User** role.
+
+    ![image 28](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1d3b48f1-7b44-411f-8c2e-82c5f3c618c0)
+    
 11. Then select **User Status** and click on **Active**.
+
+    ![image 29](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5783446f-6645-40b9-a0a9-3504cf6cd16c)
+    
 12. Enter **First Name** for **Ex: nancy**.
+
+    ![image 30](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6311d288-5785-4f7d-9bf5-2916f2ba9a2c)
+    
 13. Enter **Last Name** for **Ex: Patel**.
+
+    ![image 31](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/11c4a983-a261-43cb-9735-ac86f1d9ca36)
+    
 14. Thereafter enter **Address** for **Ex: Patan**.
+
+    ![image 32](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e82a1227-a6ff-43f1-bfeb-479eb9721591)
+    
 15. Click on the **Save** button.
+
+    ![image 33](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ae854b4d-2676-4367-93ea-729d479136c6)
+    
 16. After clicking on **Save** you will get the message **Account has been created successfully** on the screen.
+
+    ![image 34](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2109b996-ecf6-41a2-948b-dffb032925af)
+    
 17. Then go to the **Logout** button located on the right side and click on the **Logout** button.
 18. Then after entering **Email ID** for  **Ex: nancypatel@gmail.com**.
 19. Enter **Password**.
-20. Then select **Customer Portal** .
+20. Then select **Customer Portal**.
 21. Now click on the **Sign In** button.
 
 ## How to create a Platform admin
