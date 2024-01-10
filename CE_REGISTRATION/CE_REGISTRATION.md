@@ -154,7 +154,7 @@ A command has to be written to connect to CE and a terminal is required for that
 ## How to open web terminal
 **Lusy**: While OpenWrt can be managed completely using SSH and the terminal, the LuCI WebUI makes many administration tasks easier. The OpenWrt full releases, such as the current 21.02.x series, ship with the LuCI WebUI installed. But for lower-memory devices, such as those with 4MBytes Flash and/or 32MBytes of RAM, the full install may fail because of lacking sufficient Flash memory so you will have to build your own image with LuCI included. More info on this can be obtained here.
 
-1. Click on the pen located on the right side of your Device.
+1. Click on the earth located on the right side of your Device.
 
     ![image 34](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b6d97c27-c243-49b6-8ddf-fa27e71bd467)
 
@@ -164,7 +164,7 @@ A command has to be written to connect to CE and a terminal is required for that
 
 ## How to Delete Register CE
 
-1. Click on the pen located on the right side of your Device.
+1. Click on the dustbin located on the right side of your Device.
 
    ![image 36](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/10962fd2-d223-4d79-a086-1b81093f0c56)
 
