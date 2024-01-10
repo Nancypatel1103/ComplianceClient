@@ -439,7 +439,3 @@ Before enabling the cloud gateway, it is necessary to connect the CE and PE. So 
 
 ## Conclusion
 As the most important network component of cloud computing, a Cloud Gateway (CGW) provides important capabilities for simplifying and managing the network-to-network link. The CGW enables versatility in routing traffic based on specific needs by allowing users to enable and disable the router and select among Global, Full, and Selective modes.
-
-    
-    
-      
