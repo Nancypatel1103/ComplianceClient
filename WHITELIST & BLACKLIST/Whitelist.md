@@ -1,9 +1,9 @@
-# WhiteList
-## What is WhiteList
-Within the Cloud Gateway, a Whitelist is an array of configurations that permits specific features or objects but limits the access of others. Selectively allowed objects, allowed domains, and allowed IP addresses are all instances of Whitelist settings in the context of a Cloud Gateway configuration.
-## Why do we need WhiteList
-To regulate and oversee the passage of traffic to the Cloud Gateway, whitelist configurations are required. They provide an individual way of network access that allows users to specify which domains, IP addresses, and subdomains can be utilized or banned. Cloud Gateway services are employed effectively, securely, and in compliance thanks to the Whitelist.
-## How to configure WhiteList
+# WhiteList & BlackList
+## What is WhiteList & BlackList
+Within the Cloud Gateway, a Whitelist & Blacklist is an array of configurations that permits specific features or objects but limits the access of others. Selectively allowed objects, allowed domains, and allowed IP addresses are all instances of Whitelist settings in the context of a Cloud Gateway configuration.
+## Why do we need WhiteList & BlackList
+To regulate and oversee the passage of traffic to the Cloud Gateway, whitelist & Blacklist configurations are required. They provide an individual way of network access that allows users to specify which domains, IP addresses, and subdomains can be utilized or banned. Cloud Gateway services are employed effectively, securely, and in compliance thanks to the Whitelist & Blacklist.
+## How to configure WhiteList & BlackList
 1. First you have to link CE with PE. How to link CE with PE is explained here ([How Enable CGW](#how-enable-cgw)).
 2. Click on the **GATEWAY** menu located on the left side.
    ![image 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/715bcfbe-4b79-4b43-a0d4-862b00dfcc84)
