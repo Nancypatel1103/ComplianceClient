@@ -97,7 +97,7 @@ You can establish a safe connection to the internet by using a VPN. You may effe
 
     ![image 24](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/3f1c8f51-7bd0-46de-b070-c84a33d8559d)
 
-26. Then select **User Status ** and click on **Active**.
+26. Then select **User Status** and click on **Active**.
 
     ![image 25](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1f266f23-fde8-435d-8e0b-3832fbef02ad)
 
