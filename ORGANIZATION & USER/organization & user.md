@@ -91,7 +91,7 @@
 
     ![image 17](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/3e5185be-11be-4152-8a86-4869ca51e469)
 
-4. As soon as you click on **Yes**, you will get a message on the screen that the device has been deleted successfully.
+4. As soon as you click on **Yes**, you will get a message on the screen that the **Account is deleted successfully**.
 
    ![image 57](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/797089fc-7ab3-4db5-a745-439cc6a8105b)
 
