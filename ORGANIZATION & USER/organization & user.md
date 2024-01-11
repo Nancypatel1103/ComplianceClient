@@ -149,7 +149,7 @@
     
 14. Thereafter enter **Address** for **Ex: Patan**.
 
-   ![image 31](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/11c4a983-a261-43cb-9735-ac86f1d9ca36)
+    ![image 31](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/11c4a983-a261-43cb-9735-ac86f1d9ca36)
     
 15. Click on the **Save** button.
 
