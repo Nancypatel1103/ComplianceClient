@@ -137,7 +137,7 @@
     
 11. Then select **User Status** and click on **Active**.
 
-   ![image 28](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1d3b48f1-7b44-411f-8c2e-82c5f3c618c0)
+    ![image 28](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1d3b48f1-7b44-411f-8c2e-82c5f3c618c0)
     
 12. Enter **First Name** for **Ex: nancy**.
 
