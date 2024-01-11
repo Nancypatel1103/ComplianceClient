@@ -38,7 +38,7 @@
   
    ![image 9](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/22390f64-760c-4023-a289-453df13d86be)
 
-## How to edit Organization
+### How to edit Organization
 1. Go to the organization you want to edit.
 2. Click on the **Edit** Located on the right side of your organization.
 
@@ -60,7 +60,7 @@
   
    ![image 14](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b88f8056-9354-48d3-aead-0a7627919d39)
 
-## How to delete Organization
+### How to delete Organization
 1. Click on the **delete** located on the right side.
 
     ![image 15](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/aa058376-0379-4f52-bf9f-8a987e781ece)
@@ -74,6 +74,8 @@
  ![image 17](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/3e5185be-11be-4152-8a86-4869ca51e469)
 
 4. As soon as you click on **Yes**, you will get a message on the screen that the device has been deleted successfully.
+
+   ![image 57](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/797089fc-7ab3-4db5-a745-439cc6a8105b)
 
 ## What is Users
 ## Why do we need Users
@@ -111,43 +113,199 @@
     ![image 26](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d11ffb49-b820-47c6-aa7b-242da279fb7f)
     
 9. Then select **User Role**. You will find **(1) User (2) Platform admin and (3) VPN user** three roles.
-
-    ![image 27](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/25e2f57a-cde7-4fdb-a1d1-8246fce335f5)
-    
 10. Click on **User** role.
 
-    ![image 28](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1d3b48f1-7b44-411f-8c2e-82c5f3c618c0)
+   ![image 27](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/25e2f57a-cde7-4fdb-a1d1-8246fce335f5)
     
 11. Then select **User Status** and click on **Active**.
 
-    ![image 29](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5783446f-6645-40b9-a0a9-3504cf6cd16c)
+   ![image 28](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1d3b48f1-7b44-411f-8c2e-82c5f3c618c0)
     
 12. Enter **First Name** for **Ex: nancy**.
 
-    ![image 30](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6311d288-5785-4f7d-9bf5-2916f2ba9a2c)
+    ![image 29](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5783446f-6645-40b9-a0a9-3504cf6cd16c)
     
 13. Enter **Last Name** for **Ex: Patel**.
 
-    ![image 31](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/11c4a983-a261-43cb-9735-ac86f1d9ca36)
+    ![image 30](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6311d288-5785-4f7d-9bf5-2916f2ba9a2c)
     
 14. Thereafter enter **Address** for **Ex: Patan**.
 
-    ![image 32](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e82a1227-a6ff-43f1-bfeb-479eb9721591)
+   ![image 31](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/11c4a983-a261-43cb-9735-ac86f1d9ca36)
     
 15. Click on the **Save** button.
 
-    ![image 33](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ae854b4d-2676-4367-93ea-729d479136c6)
+    ![image 32](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e82a1227-a6ff-43f1-bfeb-479eb9721591)
     
 16. After clicking on **Save** you will get the message **Account has been created successfully** on the screen.
 
+   ![image 33](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ae854b4d-2676-4367-93ea-729d479136c6)
+
+17. After that you can see your UserID there.
+
     ![image 34](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2109b996-ecf6-41a2-948b-dffb032925af)
     
-17. Then go to the **Logout** button located on the right side and click on the **Logout** button.
-18. Then after entering **Email ID** for  **Ex: nancypatel@gmail.com**.
-19. Enter **Password**.
-20. Then select **Customer Portal**.
-21. Now click on the **Sign In** button.
+18. Then go to the **Logout** button located on the right side and click on the **Logout** button.
 
-## How to create a Platform admin
-## How to create VPN user
+     ![image 35](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/707474bb-1448-4540-8cde-aa998bab6804)
+
+19. Then after entering **Email ID** for  **Ex: nancypatel@gmail.com**.
+
+    ![image 36](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c5ff5bed-a189-4e68-a8c3-34643d1663f2)
+    
+21. Enter **Password**.
+
+    ![image 37](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/a4d69849-8f69-4319-9067-c7c8b143e30f)
+    
+23. Then select **Customer Portal**.
+
+    ![image 38](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/cb5d4e3e-f651-4425-bdc1-a70da1ef6b07)
+
+24. Select **Language**. for **Ex: English**.
+
+    ![image 39](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7b09fa36-6c35-4952-ae2c-b46bc79a6539)
+
+26. Now click on the **Sign In** button.
+
+    ![image 40](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/0313e74c-4133-4040-a531-1e694c53bebc)
+
+28. When you SIGN IN, you will reach the dashboard by default.
+
+    ![image 41](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ee4b1c2a-da13-4086-9273-9888f0f93444)
+    
+    
+### How to create a Platform Admin
+
+1. Click on the **Platform Admin** role.
+
+  ![image 42](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/51c62769-9e9b-4489-8583-d3aacf291b14)
+    
+2. Then select **User Status** and click on **Active**.
+
+   ![image 28](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1d3b48f1-7b44-411f-8c2e-82c5f3c618c0)
+    
+3. Enter **First Name** for **Ex: nancy**.
+
+    ![image 29](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5783446f-6645-40b9-a0a9-3504cf6cd16c)
+    
+4. Enter **Last Name** for **Ex: Patel**.
+
+    ![image 30](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6311d288-5785-4f7d-9bf5-2916f2ba9a2c)
+    
+5. Thereafter enter **Address** for **Ex: Patan**.
+
+   ![image 31](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/11c4a983-a261-43cb-9735-ac86f1d9ca36)
+    
+6. Click on the **Save** button.
+
+    ![image 32](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e82a1227-a6ff-43f1-bfeb-479eb9721591)
+    
+7. After clicking on **Save** you will get the message **Account has been created successfully** on the screen.
+
+   ![image 33](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ae854b4d-2676-4367-93ea-729d479136c6)
+
+8. After that you can see your UserID there.
+
+   ![image 44](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/0cda4c39-9e94-4755-bddb-6ab37b91c4a1)
+
+9. There you will see **Yes** in admin. It means that is a platform admin.
+
+    ![image 45](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2d2b1ba6-a3bc-4149-8d44-f7103e4ca19c)
+
+    
+### How to create a VPN user
+   1. Click on the **VPN user** role.
+
+   ![image 43](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/70cf2d64-ac74-403b-bd05-6f25bfc4a719)
+    
+2. Then select **User Status** and click on **Active**.
+
+   ![image 28](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1d3b48f1-7b44-411f-8c2e-82c5f3c618c0)
+    
+3. Enter **First Name** for **Ex: nancy**.
+
+    ![image 29](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5783446f-6645-40b9-a0a9-3504cf6cd16c)
+    
+4. Enter **Last Name** for **Ex: Patel**.
+
+    ![image 30](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6311d288-5785-4f7d-9bf5-2916f2ba9a2c)
+    
+5. Thereafter enter **Address** for **Ex: Patan**.
+
+   ![image 31](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/11c4a983-a261-43cb-9735-ac86f1d9ca36)
+    
+6. Click on the **Save** button.
+
+    ![image 32](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e82a1227-a6ff-43f1-bfeb-479eb9721591)
+    
+7. After clicking on **Save** you will get the message **Account has been created successfully** on the screen.
+
+   ![image 33](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ae854b4d-2676-4367-93ea-729d479136c6)
+
+8. After that you can see your UserID there.
+   ![image 46](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/cdfb81b8-3752-46fe-832a-d890b88ded17)
+
+  
+### How to edit User
+1. Go to the User you want to edit.
+2. Click on the **Edit** Located on the right side of your User.
+
+   ![image 47](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e6db8e7f-131a-42c4-ad78-d6424d834672)
    
+3. After clicking, a new window will open.
+
+   ![image 48](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/973b3cee-cce7-48a4-85c4-90c95ebb67d2)
+   
+4. From here you can change **Organization Name, Email, User role, User status, First Name, Last Name** and **Address**.
+
+   ![image 49](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2d1e7bc4-d20f-4db0-bedd-ff3e0493eb3a)
+   
+5. After clicking on the **Update** button.  
+
+    ![image 13](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/073656a0-a369-4c16-84fa-f247e0f4cebd)
+
+6. As soon as you click the **Update** button, you will get a message on the screen that the **Organization details has been updated successfully**.
+  
+   ![image 14](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b88f8056-9354-48d3-aead-0a7627919d39)  
+
+### How to change the password
+1. Click on the **Key** Located on the right side of your User.
+
+   ![image 51](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/bd440139-9a67-40e4-8305-29e4d178948d)
+   
+2. After clicking, a new window will open.
+
+   ![image 52](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d4237542-6134-4ef9-9a7d-1be43219215a)
+   
+3. Enter **Password**.
+
+   ![image 53](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/169c8a4f-ec43-4732-8d9e-5e88c676bb3f)
+
+4. Enter **Confirm Password**.
+
+   ![image 54](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e49e0141-3bf6-413e-9510-5a086a74d4a5)
+   
+5. Now click on **Save**.
+
+   ![image 55](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/44c50e11-0127-48a8-8e85-829f846e3122)
+
+6. After clicking on **Save** you will get the message **User Password Edited Successfully** on the screen.
+
+   ![image 56](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1a5ad2b2-a12d-4fca-8476-a03e67d3fcde)
+
+### How to delete User
+1. Click on the **Delete** Located on the right side of your User.
+
+   ![image 50](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4ab252f0-0ccf-424c-879e-7e90a840c19f)
+
+2. After click, a new window will open. There you will get a confirmation message.
+
+    ![image 16](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1b2291ba-d39e-49f8-8a69-e33ff4205623)
+
+3. Click on the **Yes** button.
+
+    ![image 17](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/3e5185be-11be-4152-8a86-4869ca51e469)
+
+4. As soon as you click on **Yes**, you will get a message on the screen that the Account is  deleted successfully.
+
+   ![image 57](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/797089fc-7ab3-4db5-a745-439cc6a8105b)  
