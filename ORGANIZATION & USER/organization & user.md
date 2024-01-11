@@ -1,4 +1,22 @@
 # Organization & Users
+<!-- TOC -->
+
+- [Organization & Users](#organization--users)
+    - [What is Organization](#what-is-organization)
+    - [Why do we need Organization](#why-do-we-need-organization)
+    - [How to create Organization](#how-to-create-organization)
+        - [How to edit Organization](#how-to-edit-organization)
+        - [How to delete Organization](#how-to-delete-organization)
+    - [What is Users](#what-is-users)
+    - [Why do we need Users](#why-do-we-need-users)
+    - [How to Create User](#how-to-create-user)
+        - [How to create a Platform Admin](#how-to-create-a-platform-admin)
+        - [How to create a VPN user](#how-to-create-a-vpn-user)
+        - [How to edit User](#how-to-edit-user)
+        - [How to change the password](#how-to-change-the-password)
+        - [How to delete User](#how-to-delete-user)
+
+<!-- /TOC -->  
 ## What is Organization
 ## Why do we need Organization
 ## How to create Organization
