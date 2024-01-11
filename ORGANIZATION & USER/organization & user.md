@@ -64,7 +64,7 @@
 
 3. After clicking, a new window will open.
 
-   ![image 11](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/fe7d76e3-e48b-4c52-84b4-ae639edef165)
+     ![image 11](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/fe7d76e3-e48b-4c52-84b4-ae639edef165)
 
 4. From here you can change **Organization Name, Organization Status** and **Address**.
 
@@ -76,7 +76,7 @@
 
 6. As soon as you click the **Update** button, you will get a message on the screen that the **Organization details has been updated successfully**.
   
-   ![image 14](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b88f8056-9354-48d3-aead-0a7627919d39)
+    ![image 14](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b88f8056-9354-48d3-aead-0a7627919d39)
 
 ### How to delete Organization
 1. Click on the **delete** located on the right side.
@@ -89,7 +89,7 @@
 
 3. Click on the **Yes** button.
 
- ![image 17](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/3e5185be-11be-4152-8a86-4869ca51e469)
+    ![image 17](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/3e5185be-11be-4152-8a86-4869ca51e469)
 
 4. As soon as you click on **Yes**, you will get a message on the screen that the device has been deleted successfully.
 
@@ -157,7 +157,7 @@
     
 16. After clicking on **Save** you will get the message **Account has been created successfully** on the screen.
 
-   ![image 33](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ae854b4d-2676-4367-93ea-729d479136c6)
+    ![image 33](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ae854b4d-2676-4367-93ea-729d479136c6)
 
 17. After that you can see your UserID there.
 
