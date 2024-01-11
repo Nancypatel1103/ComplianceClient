@@ -133,7 +133,7 @@
 9. Then select **User Role**. You will find **(1) User (2) Platform admin and (3) VPN user** three roles.
 10. Click on **User** role.
 
-   ![image 27](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/25e2f57a-cde7-4fdb-a1d1-8246fce335f5)
+    ![image 27](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/25e2f57a-cde7-4fdb-a1d1-8246fce335f5)
     
 11. Then select **User Status** and click on **Active**.
 
