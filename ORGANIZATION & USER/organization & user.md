@@ -171,15 +171,15 @@
 
     ![image 36](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c5ff5bed-a189-4e68-a8c3-34643d1663f2)
     
-21. Enter **Password**.
+21. Enter the **Password**.
 
     ![image 37](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/a4d69849-8f69-4319-9067-c7c8b143e30f)
     
-23. Then select **Customer Portal**.
+23. Then select the **Customer Portal**.
 
     ![image 38](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/cb5d4e3e-f651-4425-bdc1-a70da1ef6b07)
 
-24. Select **Language**. for **Ex: English**.
+24. Select the **Language**. for **Ex: English**.
 
     ![image 39](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7b09fa36-6c35-4952-ae2c-b46bc79a6539)
 
@@ -202,11 +202,11 @@
 
    ![image 28](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1d3b48f1-7b44-411f-8c2e-82c5f3c618c0)
     
-3. Enter **First Name** for **Ex: nancy**.
+3. Enter the **First Name** for **Ex: nancy**.
 
     ![image 29](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5783446f-6645-40b9-a0a9-3504cf6cd16c)
     
-4. Enter **Last Name** for **Ex: Patel**.
+4. Enter the **Last Name** for **Ex: Patel**.
 
     ![image 30](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6311d288-5785-4f7d-9bf5-2916f2ba9a2c)
     
@@ -295,11 +295,11 @@
 
    ![image 52](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d4237542-6134-4ef9-9a7d-1be43219215a)
    
-3. Enter **Password**.
+3. Enter the **Password**.
 
    ![image 53](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/169c8a4f-ec43-4732-8d9e-5e88c676bb3f)
 
-4. Enter **Confirm Password**.
+4. Enter the **Confirm Password**.
 
    ![image 54](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e49e0141-3bf6-413e-9510-5a086a74d4a5)
    
