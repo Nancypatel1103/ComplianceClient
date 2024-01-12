@@ -2,11 +2,11 @@
 <!-- TOC -->
 
 - [Organization & Users](#organization--users)
-    - [What is Organization](#what-is-organization)
-    - [Why do we need Organization](#why-do-we-need-organization)
+    - [What is an Organization](#what-is-an-organization)
+    - [Why do we need an Organization](#why-do-we-need-an-organization)
     - [How to create an Organization](#how-to-create-an-organization)
-        - [How to edit Organization](#how-to-edit-organization)
-        - [How to delete Organization](#how-to-delete-organization)
+        - [How to edit an Organization](#how-to-edit-an-organization)
+        - [How to delete an Organization](#how-to-delete-an-organization)
     - [What is Users](#what-is-users)
     - [Why do we need Users](#why-do-we-need-users)
     - [How to Create User](#how-to-create-user)
@@ -17,9 +17,9 @@
         - [How to delete User](#how-to-delete-user)
         - [Conclusion](#conclusion)   
 <!-- /TOC -->  
-## What is Organization
+## What is an Organization
 The organization plays a special role in user management. Without it, it is impossible to create user and CE devices. Organization is only a structural prerequisite that sets the stage for the creation and management of users in the system. which provides a framework for effectively organizing and categorizing users.
-## Why do we need Organization
+## Why do we need an Organization
 Organization is the basic structure for effective management and coordination in the system. The organization plays an important part in user and CE devices. A network can be set up with the help of one organization. Provides a framework for systematically organizing and classifying elements. Where resources data and users can be efficiently organized. Here organization plays an important role. It is also impossible to create a user without it. Organization is required before assigning an IP and configuring the device.
 ## How to Create an Organization
 1. Click on the **Organization** menu located on the left side.
@@ -58,7 +58,7 @@ Organization is the basic structure for effective management and coordination in
   
    ![image 9](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/22390f64-760c-4023-a289-453df13d86be)
 
-### How to edit Organization
+### How to edit an Organization
 1. Go to the organization you want to edit.
 2. Click on the **Edit** Located on the right side of your organization.
 
@@ -80,7 +80,7 @@ Organization is the basic structure for effective management and coordination in
   
     ![image 14](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b88f8056-9354-48d3-aead-0a7627919d39)
 
-### How to delete Organization
+### How to delete an Organization
 1. Click on the **delete** located on the right side.
 
     ![image 15](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/aa058376-0379-4f52-bf9f-8a987e781ece)
