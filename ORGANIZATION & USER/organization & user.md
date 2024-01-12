@@ -203,7 +203,7 @@ A user is required to configure the platform into specific functions to divide i
 
 1. Click on the **Platform Admin** role.
 
-  ![image 42](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/51c62769-9e9b-4489-8583-d3aacf291b14)
+   ![image 42](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/51c62769-9e9b-4489-8583-d3aacf291b14)
     
 2. Then select **User Status** and click on **Active**.
 
