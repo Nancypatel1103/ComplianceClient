@@ -18,10 +18,9 @@
         - [Conclusion](#conclusion)   
 <!-- /TOC -->  
 ## What is Organization
-The organization plays a special role in user management. It serves as a pehli sarat. It is impossible to create a user without it. Organization is only a structural prerequisite that sets the stage for the creation and management of users in the system. which provides a framework for users to organize and categorize effectively.
+The organization plays a special role in user management. Without it, it is impossible to create user and CE devices. Organization is only a structural prerequisite that sets the stage for the creation and management of users in the system. which provides a framework for effectively organizing and categorizing users.
 ## Why do we need Organization
-Organization is needed because it plays a role in a complex landscape of management. It serves as an important part. If you don't create an organization, you can't create a user without it. It acts as a basic requirement of the organization. The structure of the user is linked to the organization. Where one does not exist without the other, the first organization is created. So there is a need for it.
-## How to create an Organization
+Organization is the basic structure for effective management and coordination in the system. The organization plays an important part in user and CE devices. A network can be set up with the help of one organization. Provides a framework for systematically organizing and classifying elements. Where resources data and users can be efficiently organized. Here organization plays an important role. It is also impossible to create a user without it. Organization is required before assigning an IP and configuring the device.## How to Create an Organization
 1. Click on the **Organization** menu located on the left side.
 
     ![image 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/eb8e22f7-2784-4b8a-b169-a63653914275)
