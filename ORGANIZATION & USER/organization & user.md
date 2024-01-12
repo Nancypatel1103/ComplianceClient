@@ -15,7 +15,7 @@
         - [How to edit User](#how-to-edit-user)
         - [How to change the password](#how-to-change-the-password)
         - [How to delete User](#how-to-delete-user)
-
+        - [Conclusion](#conclusion)   
 <!-- /TOC -->  
 ## What is Organization
 The organization plays a special role in user management. It serves as a pehli sarat. It is impossible to create a user without it. Organization is only a structural prerequisite that sets the stage for the creation and management of users in the system. which provides a framework for users to organize and categorize effectively.
