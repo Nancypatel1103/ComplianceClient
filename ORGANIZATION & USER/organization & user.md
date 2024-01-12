@@ -4,7 +4,7 @@
 - [Organization & Users](#organization--users)
     - [What is Organization](#what-is-organization)
     - [Why do we need Organization](#why-do-we-need-organization)
-    - [How to create Organization](#how-to-create-organization)
+    - [How to create an Organization](#how-to-create-an-organization)
         - [How to edit Organization](#how-to-edit-organization)
         - [How to delete Organization](#how-to-delete-organization)
     - [What is Users](#what-is-users)
