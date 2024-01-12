@@ -18,8 +18,10 @@
 
 <!-- /TOC -->  
 ## What is Organization
+The organization plays a special role in user management. It serves as a pehli sarat. It is impossible to create a user without it. Organization is only a structural prerequisite that sets the stage for the creation and management of users in the system. which provides a framework for users to organize and categorize effectively.
 ## Why do we need Organization
-## How to create Organization
+Organization is needed because it plays a role in a complex landscape of management. It serves as an important part. If you don't create an organization, you can't create a user without it. It acts as a basic requirement of the organization. The structure of the user is linked to the organization. Where one does not exist without the other, the first organization is created. So there is a need for it.
+## How to create an Organization
 1. Click on the **Organization** menu located on the left side.
 
     ![image 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/eb8e22f7-2784-4b8a-b169-a63653914275)
@@ -96,7 +98,12 @@
    ![image 57](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/797089fc-7ab3-4db5-a745-439cc6a8105b)
 
 ## What is Users
+User is divided into 3 parts system access and configuration.
+(1) User:- User has the ability to view the customer view. which allows them to access and engage with features tailored to their needs. Which mainly focuses on customer-centric interactions.
+(2) Platform Admin:- This user is useful for comprehensively configuring and managing the platform, and ensuring customization. A platform admin plays the main role of monitoring the platform settings. Makes decisions to optimize its efficiency.
+(3) VPN User:- Who configures the VPN specifically for the customer. This user has network-related knowledge and access. It includes managing it, offering it to customers, and increasing connectivity.
 ## Why do we need Users
+A user is required to configure the platform into specific functions to divide it into its main categories and to grant access to the system. 1. The simple user has the ability to see and judge the customer. 2. A platform user serves as a parent of platform settings and 3. a VPN user plays a special role in configuring a customer's private network.
 ## How to Create User
 1. Click on the **Users** located on the right side.
 
@@ -326,4 +333,7 @@
 
 4. As soon as you click on **Yes**, you will get a message on the screen that the Account is  deleted successfully.
 
-   ![image 57](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/797089fc-7ab3-4db5-a745-439cc6a8105b)  
+   ![image 57](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/797089fc-7ab3-4db5-a745-439cc6a8105b)
+
+## Conclusion
+It forms the foundation for a structured and efficient system in the dynamic landscape of organization and user management. It is an institution that acts as a first step. Plays a key role in user creation and management. It stands as a starting point, setting the stage for a well-organized and coherent user ecosystem.
