@@ -241,7 +241,7 @@ A user is required to configure the platform into specific functions to divide i
 ### How to create a VPN user
    1. Click on the **VPN user** role.
 
-    ![image 43](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/70cf2d64-ac74-403b-bd05-6f25bfc4a719)
+   ![image 43](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/70cf2d64-ac74-403b-bd05-6f25bfc4a719)
     
 2. Then select **User Status** and click on **Active**.
 
