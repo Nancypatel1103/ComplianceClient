@@ -1,8 +1,10 @@
 # Organization & Users
 <!-- TOC -->
+
+- [Organization & Users](#organization--users)
     - [What is an Organization](#what-is-an-organization)
     - [Why do we need an Organization](#why-do-we-need-an-organization)
-    - [How to create an Organization](#how-to-create-an-organization)
+    - [How to Create an Organization](#how-to-create-an-organization)
         - [How to edit an Organization](#how-to-edit-an-organization)
         - [How to delete an Organization](#how-to-delete-an-organization)
     - [What is Users](#what-is-users)
@@ -13,8 +15,9 @@
         - [How to edit User](#how-to-edit-user)
         - [How to change the password](#how-to-change-the-password)
         - [How to delete User](#how-to-delete-user)
-        - [Conclusion](#conclusion)   
-<!-- /TOC -->  
+    - [Conclusion](#conclusion)
+
+<!-- /TOC -->
 ## What is an Organization
 The organization plays a special role in user management. Without it, it is impossible to create user and CE devices. Organization is only a structural prerequisite that sets the stage for the creation and management of users in the system. which provides a framework for effectively organizing and categorizing users.
 ## Why do we need an Organization
