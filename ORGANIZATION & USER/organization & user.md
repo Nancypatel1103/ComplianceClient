@@ -1,7 +1,7 @@
 # Organization & Users
 <!-- TOC -->
 
-- [Organization & Users](#organization--users)
+
     - [What is an Organization](#what-is-an-organization)
     - [Why do we need an Organization](#why-do-we-need-an-organization)
     - [How to create an Organization](#how-to-create-an-organization)
