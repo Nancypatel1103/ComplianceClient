@@ -65,39 +65,41 @@ Apinger is used to connect two CEs to one PE. Apinger is required for IP trackin
     ![image 12](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4649da6e-5e6a-4860-8659-6d976799a6ba)
 
 14. Type this command for **Start, Stop and Status**.
-    **# /etc/init.d/apinger status**   
-15. Then to check the connected device, go to the **web terminal** located on the right side of your device.          
+    ```
+    **# /etc/init.d/apinger status**
+    ```
+16. Then to check the connected device, go to the **web terminal** located on the right side of your device.          
 
      ![image 14](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/805a9437-96a8-4f5f-8582-9f9185a80bb6)
 
-16. After clicking on the **web terminal**, a new window will open.                
+17. After clicking on the **web terminal**, a new window will open.                
 
      ![image 15](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/663351d1-5781-46be-8ad8-e0f6106136b7)
 
-17. Enter your **Username** and **Password** there.                 
+18. Enter your **Username** and **Password** there.                 
 
      ![image 17](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/058615b6-c739-4eeb-8b93-99e97d9192c4)
 
-18. Click on the **LOGIN** button.                             
+19. Click on the **LOGIN** button.                             
 
     ![image 18](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/49c53eae-6315-46a1-820e-678215af76f2)
 
-19. After clicking on **LOGIN**, a new window will open.                                                                 
+20. After clicking on **LOGIN**, a new window will open.                                                                 
 
     ![image 19](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f6398da5-da30-4973-a9be-7d29ff73be12)  
 
-20. There you click on the menu on located the left side.                                               
+21. There you click on the menu on located the left side.                                               
 
     ![image 20](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f2276b6c-715a-4e0e-bea5-6ebf4015f421)
 
-21. Click on located **Services** on the left.                                                       
+22. Click on located **Services** on the left.                                                       
 
     ![image 21](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/736c0784-2ac2-4e8c-9c42-21f71fa20d69)
 
-22. Then click on **Apinger**.                                                                             
+23. Then click on **Apinger**.                                                                             
 
      ![image 22](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/17d79741-a687-4bf0-a100-ac64381b514f)
 
-23. After clicking on **Apinger**, a new window will open. There you will see your connected device.         
+24. After clicking on **Apinger**, a new window will open. There you will see your connected device.         
     
     ![image 23](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f3dc52e4-4f59-4482-8fd4-93b4bb1b9223)
