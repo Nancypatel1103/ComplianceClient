@@ -24,9 +24,9 @@ sidebar_position: 1
 
 5. Then fill in your details.
 
-   **1.Organization Name**:- Type **Organization Name** for **ex:- Document1**.
-   **2.Address**:- Type **Address** for **ex:- patan**.
-   **3.Status**:- Select **Status** for **ex:- Active**.
+   **1.Organization Name**:- Type **Organization Name** for **ex:- Document1**.            
+   **2.Address**:- Type **Address** for **ex:- patan**.                
+   **3.Status**:- Select **Status** for **ex:- Active**.                     
    **4.Email**:- Type your **Email** for **ex:- nancypatel@gmail.com**.
    **5.Contact**:- Type your **Contact**
    **6. Find your work**:- Type **Find your work** for **ex:-Technical writer**.
