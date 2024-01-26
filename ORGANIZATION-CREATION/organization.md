@@ -1,15 +1,15 @@
 # Organization
 
 ## What is an Organization
-## Why do need an Organization
+## Why do we need an Organization
 ## How to Create an Organization
-1. Go to (https://dev.gwcwifi.com/). After fill the details and click on **Login** button.
+1. Go to (https://dev.gwcwifi.com/). After filling in the details click on the **Login** button.
  ![image 1](./images/image-1.PNG)
 
-2. When you **Login**, you will reach the dashboard by defualt.
+2. When you **Login**, you will reach the dashboard by default.
 ![image 2](./images/image-2.PNG)
 
-3. Then click on the **Oraganization** menu loacted left side.
+3. Then click on the **Organization** menu located left side.
 ![image 3](./images/image-3.png)
 
 4. You will click on **Organization**, there you will see a list of **Organization**.
@@ -18,13 +18,13 @@
 5. Click on **Add New** button.
 ![image 5](./images/image-5.png)
 
-6. After click **Add New** button, a new window will appear.
+6. After click the **Add New** button, a new window will appear.
 ![image 6](./images/image-6.PNG)
 
 7. Click on **upload** and set your photo from there. 
    ``` 
     Note:-
-    IF you want to put a profile picture, it is notbmandatory to select it.
+    If you want to put a profile picture, it is not mandatory to select it.
    ```
    ![image 7](./images/image-7.png)
 
@@ -49,10 +49,10 @@
 14. Then Click on the located right side **Create profile**.
 ![image 14](./images/image-14.png)
 
-15. As soon as you click on **Create Profile** button, you will get a message on the screen that the **Organization is added successfully**.
+15. As soon as you click on the **Create Profile** button, you will get a message on the screen that the **Organization is added successfully**.
 ![image 15](./images/image-15.png)
 
-16. After that you can see your **Oraganization** there.
+16. After that you can see your **Organization** there.
 ![image 16](./images/image-16.png)
 
 ### How to edit Organization
@@ -63,7 +63,7 @@
 3. After clicking, a new window will open.
 ![image 18](./images/image-18.PNG)
 
-4. From here you can change **Profile Photo, Oraganization Name, Address, Status, Email, Contact, and Your Work**.
+4. From here you can change **Profile Photo, Organization Name, Address, Status, Email, Contact, and Your Work**.
 ![image 19](./images/image-19.png)
 
 5. Located on the right, the **Organization Log** shows the changes made to the organization.
@@ -72,7 +72,7 @@
 6. Then click on the **Update Profile** button.
 ![image 21](./images/image-21.png)
 
-7. After Clicking **Update Profile** button, you will get a message on the screen that the **Organization update successfully**.
+7. After Clicking the **Update Profile** button, you will get a message on the screen that the **Organization update successfully**.
 ![image 22](./images/image-22.png)
 
 ### How to delete Organization
