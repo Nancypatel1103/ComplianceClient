@@ -27,18 +27,18 @@ sidebar_position: 1
    **1.Organization Name**:- Type **Organization Name** for **ex:- Document1**.            
    **2.Address**:- Type **Address** for **ex:- patan**.                
    **3.Status**:- Select **Status** for **ex:- Active**.                     
-   **4.Email**:- Type your **Email** for **ex:- nancypatel@gmail.com**.
-   **5.Contact**:- Type your **Contact**
-   **6. Find your work**:- Type **Find your work** for **ex:-Technical writer**.
+   **4.Email**:- Type your **Email** for **ex:- nancypatel@gmail.com**.              
+   **5.Contact**:- Type your **Contact**                        
+   **6. Find your work**:- Type **Find your work** for **ex:-Technical writer**.           
    ![image-13](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/533a5d45-57ab-49cc-8bf4-b9cc6b8f405b)
    
-7. Then Click on the located right side **Create profile**.
+6. Then Click on the located right side **Create profile**.
 ![image-14](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/390f041c-b40c-46b4-b331-9bc043d7fd2d)
 
-8. As soon as you click on the **Create Profile** button, you will get a message on the screen that the **Organization is added successfully**.
+7. As soon as you click on the **Create Profile** button, you will get a message on the screen that the **Organization is added successfully**.
 ![image-15](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/759adc56-7d23-49d7-8d05-41df0378f18d)
 
-9. After that you can see your **Organization** there.
+8. After that you can see your **Organization** there.
 ![image-16](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ca25b8b4-517a-4625-a729-3e5077ac7981)
 
 ### How to edit Organization
