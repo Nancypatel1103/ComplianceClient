@@ -80,14 +80,18 @@
 
 ### How to delete Organization
 1. Click on the delete located on the right side.
+
 ![image-23](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/a53996fe-4349-4df1-8652-5f2ba67173c5)
 
 2. After click, a new window will open. There you will get a confirmation message.
+
 ![image-24](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7d46d9b6-2cda-498f-a8f9-e747e2dca56c)
 
 3. Click on the **Delete** button.
+
 ![image-25](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/a9c569ae-ebcb-4c74-a1a4-177d9cc30c51)
 
 4. As soon as you click on **Delete**, you will get a message on the screen that the **Organization is deleted successfully**.
+
 ![image-26](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f644c6c3-aaf9-4d3e-89fd-cc75b4124a1b)
 
