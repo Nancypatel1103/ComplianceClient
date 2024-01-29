@@ -26,7 +26,7 @@ sidebar_position: 1
    **1.First Name**:- Enter **First Name** for **Ex: nancy**.            
    **2.Last Name**:- Enter **Last Name** for **Ex: Patel**.               
    **3.Password**:- Type the **password** in **Enter Password**.                     
-   **4. Select Organization**:- Choose on **Select Organization**. For **Ex: Document1**.              
+   **4. Select Organization**:- Choose **Select Organization**. For **Ex: Document1**.              
    **5.User role**:- select **User Role**. You will find **(1) Super Admin (2) Organization Admin and (3) User** three roles. Click on **Organization Admin** role.                      
    **6.Status**:-  select User **Status** and click on **Active**.
    **7.Email**:- Enter the **Email ID** you want to use here in Enter **Email ID**. For **Ex: demo@elemprin.com**.
