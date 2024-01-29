@@ -62,7 +62,7 @@ sidebar_position: 1
 
 10.  After that fill in all the details(Enter the Email ID and Password of the newly created user in Username and Password) and click on the **Login** button.
     
-    ![image-9](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/cca44d23-b2fd-4c4f-9374-46e073446b8f)
+   [image-9](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/cca44d23-b2fd-4c4f-9374-46e073446b8f)
 
 
 11. After login. You will notice that the organization admin will not have edit or delete access. You will not get access to create a new organization, you will only get access to add a new user. Since he is an organization admin user, all access will not be available.
