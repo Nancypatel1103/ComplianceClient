@@ -38,7 +38,7 @@ sidebar_position: 1
 5. There are 3 roles in the user role as done before **1. Super Admin**:- If you select super admin in the user role then yes is written there in admin. It means the admin is the Super Admin user who has all access. **2. User**:- If you select user, it has 2 roles 1. Read-only and Full access.
   **1. Read only**:- If you select Read only then that user can only view. It cannot make any changes.
   **2. Full Access**:- If you select Full Access, then the user can make all the changes with all the access.
-   5d54e3f1c59a)
+   
 
     ![image-32](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/69430fad-a60b-42ec-a344-6dee0d94171f)
 
