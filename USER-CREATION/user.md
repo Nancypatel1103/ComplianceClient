@@ -106,7 +106,7 @@ sidebar_position: 1
    
     ![image-18](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/66aca8e1-306f-4144-91a7-d4c9e4ad6d56)
 
-### How to delete Organization
+### How to delete User
 1. Click on the **delete** located on the right side.
    
    ![image-19](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ee18d70d-d158-4258-8614-489100f8d2b4)
