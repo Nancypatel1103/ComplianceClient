@@ -29,7 +29,7 @@ sidebar_position: 1
    **4. Select Organization**:- Choose on **Select Organization**. For **Ex: Document1**.              
    **5.User role**:- select **User Role**. You will find **(1) Super Admin (2) Organization Admin and (3) User** three roles. Click on **Organization Admin** role.                      
    **6.Status**:-  select User **Status** and click on **Active**.
-   **7.Email**:- Enter the **Email ID** you want to use here in Enter **Email ID**. For **Ex: nancypatel@gmail.com**.
+   **7.Email**:- Enter the **Email ID** you want to use here in Enter **Email ID**. For **Ex: demo@elemprin.com**.
    **8.Contact**:- Enter your **Contact** number.
    **9.Address**:- Enter **Address** for **Ex: Patan**.
 
