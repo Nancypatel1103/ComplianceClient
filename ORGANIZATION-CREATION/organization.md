@@ -7,20 +7,20 @@ sidebar_position: 1
 ## Why do we need an Organization
 ## How to Create an Organization
 1. Go to (https://dev.gwcwifi.com/). After filling in the details click on the **Login** button.
- ![image-1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ff256190-909d-4dc8-90cf-1cdb851309f7)
+   ![image-1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ff256190-909d-4dc8-90cf-1cdb851309f7)
 
 2. When you **Login**, you will reach the dashboard by default. Then click on the **Organization** menu located left side.
-![image-3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/fbbd8419-0bf2-4bc8-a31f-244ee69aa878)
+   ![image-3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/fbbd8419-0bf2-4bc8-a31f-244ee69aa878)
 
 3. You will click on **Organization**, there you will see a list of **Organization**. And click on the **Add New** button.
-![image-5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/78522639-0be4-4b4f-b533-f58281856c8f)
+   ![image-5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/78522639-0be4-4b4f-b533-f58281856c8f)
 
 4. After clicking the **Add New** button, a new window will appear. Click on **upload** and set your photo from there. 
    ``` 
     Note:-
     If you want to put a profile picture, it is not mandatory to select it.
    ```
-  ![image-7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/06d3c40b-78af-4dd3-a922-9c9759ff3eff)
+    ![image-7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/06d3c40b-78af-4dd3-a922-9c9759ff3eff)
 
 5. Then fill in your details.
 
@@ -43,15 +43,15 @@ sidebar_position: 1
 
 7. Then Click on the located right side **Create profile**.
 
-   ![image-14](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/390f041c-b40c-46b4-b331-9bc043d7fd2d)
+     ![image-14](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/390f041c-b40c-46b4-b331-9bc043d7fd2d)
 
 8. As soon as you click on the **Create Profile** button, you will get a message on the screen that the **Organization is added successfully**.
 
-  ![image-15](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/759adc56-7d23-49d7-8d05-41df0378f18d)
+    ![image-15](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/759adc56-7d23-49d7-8d05-41df0378f18d)
 
 9. After that you can see your **Organization** there.
 
-  ![image-16](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ca25b8b4-517a-4625-a729-3e5077ac7981)
+    ![image-16](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ca25b8b4-517a-4625-a729-3e5077ac7981)
 
 ### How to edit Organization
 1. Go to the **oraganization** want to edit.
