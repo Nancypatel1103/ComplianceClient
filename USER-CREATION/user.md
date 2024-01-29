@@ -76,7 +76,7 @@ sidebar_position: 1
 
 2. After clicking, a new window will open.  From here you can change **Profile Photo, First Name, Last Name, Password, Select Organization, User role, Status, Email, Contact, and Address**.
    
-  ![image-12](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/995998f5-c61b-4dea-bbb3-b001e4ac15b9)
+  ![image-12](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f1e84d09-c785-4d0e-b75a-b599e421b2e8)
 
 3. Then click on the **Update Profile** button.
    
