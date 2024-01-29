@@ -33,23 +33,16 @@ sidebar_position: 1
 
     ![image-13](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/533a5d45-57ab-49cc-8bf4-b9cc6b8f405b)
 
-6. There are 3 roles in user role as done before **1. Super Admin**:- If you select super admin in user role then yes is written there in admin. It means admin is Super Admin user has all access. **2. User**:- If you select user, it has 2 roles 1. Read only and Full access.
-  **1. Read only**:- If you select Read only then that user can only view. It cannot make any changes.
-  **2. Full Access**:- If you select Full Access, then the user can make all the changes with all the access.
-   5d54e3f1c59a)
 
-    ![image-32](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/69430fad-a60b-42ec-a344-6dee0d94171f)
-
-
-7. Then Click on the located right side **Create profile**.
+6. Then Click on the located right side **Create profile**.
 
      ![image-14](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/390f041c-b40c-46b4-b331-9bc043d7fd2d)
 
-8. As soon as you click on the **Create Profile** button, you will get a message on the screen that the **Organization is added successfully**.
+7. As soon as you click on the **Create Profile** button, you will get a message on the screen that the **Organization is added successfully**.
 
     ![image-15](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/759adc56-7d23-49d7-8d05-41df0378f18d)
 
-9. After that you can see your **Organization** there.
+8. After that you can see your **Organization** there.
 
     ![image-16](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ca25b8b4-517a-4625-a729-3e5077ac7981)
 
