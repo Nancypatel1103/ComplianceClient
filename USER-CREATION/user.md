@@ -33,7 +33,7 @@ sidebar_position: 1
    **8.Contact**:- Enter your **Contact** number.
    **9.Address**:- Enter **Address** for **Ex: Patan**.
 
-  ![image-4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f1e2748f-5585-4b8a-ba15-6c861a2c5d1e)
+  ![image-4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d37c12b3-cb7c-4a02-812b-b0fd99dd9962)
 
 5. There are 3 roles in the user role as done before **1. Super Admin**:- If you select super admin in the user role then yes is written there in admin. It means the admin is the Super Admin user who has all access. **2. User**:- If you select user, it has 2 roles 1. Read-only and Full access.
   **1. Read only**:- If you select Read only then that user can only view. It cannot make any changes.
