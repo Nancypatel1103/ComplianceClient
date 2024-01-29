@@ -33,7 +33,7 @@ sidebar_position: 1
    **8.Contact**:- Enter your **Contact** number.
    **9.Address**:- Enter **Address** for **Ex: Patan**.
 
-   ![image-4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/91369987-5ffa-42f6-b1f8-73d92d4491f7)
+  ![image-4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f1e2748f-5585-4b8a-ba15-6c861a2c5d1e)
 
 5. There are 3 roles in the user role as done before **1. Super Admin**:- If you select super admin in the user role then yes is written there in admin. It means the admin is the Super Admin user who has all access. **2. User**:- If you select user, it has 2 roles 1. Read-only and Full access.
   **1. Read only**:- If you select Read only then that user can only view. It cannot make any changes.
@@ -44,7 +44,7 @@ sidebar_position: 1
 
 
 6. Then Click on the located right side **Save profile**.
-   ![image-5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4aab5b11-1ea3-405a-96ba-d062c0d8e441)
+   ![image-5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7ec10e1b-c342-43ae-bc90-23e48e720b32)
 
 7. As soon as you click on the **Save Profile** button, you will get a message on the screen that the **User is added successfully**.
 
@@ -62,7 +62,7 @@ sidebar_position: 1
 
 10.  After that fill in all the details(Enter the Email ID and Password of the newly created user in Username and Password) and click on the **Login** button.
    
-     ![image-9](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/cca44d23-b2fd-4c4f-9374-46e073446b8f)
+     ![image-9](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/df11e790-0650-43c6-a257-2c0ed23fdb05)
 
 13. After login. You will notice that the organization admin will not have edit or delete access. You will not get access to create a new organization, you will only get access to add a new user. Since he is an organization admin user, all access will not be available.
     
@@ -76,11 +76,12 @@ sidebar_position: 1
 
 2. After clicking, a new window will open.  From here you can change **Profile Photo, First Name, Last Name, Password, Select Organization, User role, Status, Email, Contact, and Address**.
    
- ![image-12](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/a7c4c8f0-bf0d-46a9-aa4d-7199747e202d)
+  ![image-12](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/995998f5-c61b-4dea-bbb3-b001e4ac15b9)
 
 3. Then click on the **Update Profile** button.
    
-   ![image-13](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/3708102b-4894-4a7d-8461-125ed4a46065)
+  ![image-13](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5d43b793-e0a3-4852-8da7-5cfcfd152788)
+
 
 4. After Clicking the **Update Profile** button, you will get a message on the screen that the **User update successfully**.
    
