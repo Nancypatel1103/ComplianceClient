@@ -5,7 +5,8 @@ sidebar_position: 1
 # Users
 
 ## What is User
-## Why do need User
+## Why type of users are supported
+## Why users are needed
 ## How to Create Organization User
 1. Then click on the **User** menu located left side. 
    ![image-1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ece42f31-af9b-42f0-963c-586377907586)
