@@ -31,7 +31,7 @@ sidebar_position: 1
    **5.Contact**:- Type your **Contact**                        
    **6. Find your work**:- Type **Find your work** for **ex:-Technical writer**.           
 
-    ![image-13](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/533a5d45-57ab-49cc-8bf4-b9cc6b8f405b)
+    ![image-13](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b289a964-d68b-470f-a234-e61e8686d5a2)
 
 
 6. Then Click on the located right side **Create profile**.
@@ -55,10 +55,10 @@ sidebar_position: 1
 ![image-18](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/621901e2-912f-41ab-b7fa-c78366361c0b)
 
 4. From here you can change **Profile Photo, Organization Name, Address, Status, Email, Contact, and Your Work**.
-![image-19](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/44eba193-aed1-4cbb-8442-7f0c6a45e86b)
+![image-19](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/9149825b-a12c-4b15-9706-c815619ba4d3)
 
 5. Located on the right, the **Organization Log** shows the changes made to the organization.
-![image-20](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2284630b-442e-4025-b359-586234a840e2)
+![image-20](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d746d683-c3cd-4dd8-b9d8-057212edfe01)
 
 6. Then click on the **Update Profile** button.
 ![image-21](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/3d0745bc-37b9-4bb5-9614-11e86315f02f)
