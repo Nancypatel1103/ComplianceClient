@@ -12,7 +12,7 @@ sidebar_position: 1
 2. When you **Login**, you will reach the dashboard by default. Then click on the **Organization** menu located left side.
 ![image-3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/fbbd8419-0bf2-4bc8-a31f-244ee69aa878)
 
-3. You will click on **Organization**, and there you will see a list of **Organization**. Click on the **Add New** button.
+3. You will click on **Organization**, there you will see a list of **Organization**. And click on the **Add New** button.
 ![image-5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/78522639-0be4-4b4f-b533-f58281856c8f)
 
 4. After clicking the **Add New** button, a new window will appear. Click on **upload** and set your photo from there. 
@@ -30,16 +30,28 @@ sidebar_position: 1
    **4.Email**:- Type your **Email** for **ex:- nancypatel@gmail.com**.              
    **5.Contact**:- Type your **Contact**                        
    **6. Find your work**:- Type **Find your work** for **ex:-Technical writer**.           
-   ![image-13](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/533a5d45-57ab-49cc-8bf4-b9cc6b8f405b)
-   
-6. Then Click on the located right side **Create profile**.
-![image-14](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/390f041c-b40c-46b4-b331-9bc043d7fd2d)
 
-7. As soon as you click on the **Create Profile** button, you will get a message on the screen that the **Organization is added successfully**.
-![image-15](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/759adc56-7d23-49d7-8d05-41df0378f18d)
+    ![image-13](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/533a5d45-57ab-49cc-8bf4-b9cc6b8f405b)
 
-8. After that you can see your **Organization** there.
-![image-16](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ca25b8b4-517a-4625-a729-3e5077ac7981)
+6. There are 3 roles in user role as done before **1. Super Admin**:- If you select super admin in user role then yes is written there in admin. It means admin is Super Admin user has all access. **2. User**:- If you select user, it has 2 roles 1. Read only and Full access.
+  **1. Read only**:- If you select Read only then that user can only view. It cannot make any changes.
+  **2. Full Access**:- If you select Full Access, then the user can make all the changes with all the access.
+   5d54e3f1c59a)
+
+    ![image-32](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/69430fad-a60b-42ec-a344-6dee0d94171f)
+
+
+7. Then Click on the located right side **Create profile**.
+
+   ![image-14](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/390f041c-b40c-46b4-b331-9bc043d7fd2d)
+
+8. As soon as you click on the **Create Profile** button, you will get a message on the screen that the **Organization is added successfully**.
+
+  ![image-15](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/759adc56-7d23-49d7-8d05-41df0378f18d)
+
+9. After that you can see your **Organization** there.
+
+  ![image-16](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ca25b8b4-517a-4625-a729-3e5077ac7981)
 
 ### How to edit Organization
 1. Go to the **oraganization** want to edit.
@@ -63,6 +75,7 @@ sidebar_position: 1
 ![image-22](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/932396a9-073f-4f17-bacb-524fd094cb5e)
 
 ### How to delete Organization
+
 1. Click on the delete located on the right side.
 
    ![image-23](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/a53996fe-4349-4df1-8652-5f2ba67173c5)
