@@ -97,11 +97,11 @@ sidebar_position: 1
    **1.Password**:- Enter the Password.
    **2. Confirm Password**:- Enter the Confirm Password.
 
-    ![image-16](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b8506429-e42c-4569-b964-21bdabd2df28)
+    ![image-16](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6399db4d-fb2d-4e7f-ba60-4ed28ee6b26e)
 
 3. Now click on **Save**.
    
-    ![image-17](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/a7395796-d55e-4404-94f5-28660915a75f)
+    ![image-17](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e34c591f-5173-44f1-8ee9-5f5271dfcea1)
 
 4. After clicking on **Save** you will get the message **User password is updated successfully** on the screen.
    
