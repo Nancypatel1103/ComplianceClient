@@ -4,12 +4,17 @@ sidebar_position: 1
 # Organization
 
 ## What is an Organization
+The organization plays a special role in user management. Without it, it is impossible to create a user, access points, SSIDs, Wifi clients, or captive portals. Organization is only a structural prerequisite that sets the stage for the creation and management of users in the system. which provides a framework for effectively organizing and categorizing users, access points, SSIDs, Wifi clients, or captive portals.
+
 ## Why do we need an Organization
+Organization is the basic structure for effective management and coordination in the system. The organization plays an important part in user, access points, SSIDs, Wifi clients, or captive portals. A network can be set up with the help of one organization. Provides a framework for systematically organizing and classifying elements. Where  users, access points, SSIDs, Wifi clients, or captive portals. can be efficiently organized. Here organization plays an important role. It is also impossible to create a user, access points, SSIDs, WiFi clients, or captive portals. 
+
 ## How to Create an Organization
+
 1. Go to (https://dev.gwcwifi.com/). After filling in the details click on the **Login** button.
    ![image-1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ff256190-909d-4dc8-90cf-1cdb851309f7)
 
-2. When you **Login**, you will reach the dashboard by default. Then click on the **Organization** menu located left side.
+2. When you **Login**, you will reach the dashboard by default. Then click on the **Organization** menu located on the left side.
    ![image-3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/fbbd8419-0bf2-4bc8-a31f-244ee69aa878)
 
 3. You will click on **Organization**, there you will see a list of **Organization**. And click on the **Add New** button.
@@ -47,6 +52,7 @@ sidebar_position: 1
     ![image-16](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ca25b8b4-517a-4625-a729-3e5077ac7981)
 
 ### How to edit Organization
+
 1. Go to the **oraganization** want to edit.
 2. Click on the **Edit** located on the right side of your organization.
 ![image-17](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/05e94a69-fc3c-493a-93af-c7131a3809ef)
