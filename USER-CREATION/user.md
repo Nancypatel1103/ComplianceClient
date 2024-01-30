@@ -5,10 +5,24 @@ sidebar_position: 1
 # Users
 
 ## What is User
+The user is divided into 3 parts.                                                   
+**1. Super admin**:- Super Admin user has all access. It is meant to organize and manage. This user has all access.          
+**2. Organization user**: The organization user does not have all access, the user can only edit, and cannot create new users.       
+**3. User**:- User is divided into two parts **1.Read-only**:- read only the user can view they cannot make any changes to it. **2.Full access**: A full access user is a user who has all access, they can make changes.
+
 ## Why type of users are supported
+**1. Super Admin**:- This user is assigned extensive access rights which are useful for configuring, managing, and monitoring every aspect of the system. It controls. It can edit users, delete, and also create new users.
+
+**2. Organization User**:- This user does not have access to edit system components, create new users, or delete them. He arranges it in an orderly manner.
+
+**3. User**: The user has two parts. 1 Read only:- A user who gets read-only access is not given modified access. This does not make any changes that the user can see.
+2. Full access:- This type of user has all access. It provides control over system functionality.
+
 ## Why users are needed
+A user is required to configure the platform into specific functions to divide it into its main categories and to grant access to the system. 1. Super Admin user has all access. It is an admin platform that acts like a parent. It can create user edit, delete and create new users. 2. The organization user works like a network such a user does not have access to create a new user. It can only edit users that other users have created. 3. There are 2 types in normal user. read-only and full access The user who is a read only user can only see and cannot edit any other user and full access user has all access.
+
 ## How to Create Organization User
-1. Then click on the **User** menu located left side. 
+1. Then click on the **User** menu located on the left side. 
    ![image-1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ece42f31-af9b-42f0-963c-586377907586)
 
 2. You will click on **User**, and there you will see a list of **User**. Click on the **Add New** button.
