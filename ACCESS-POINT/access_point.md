@@ -3,7 +3,7 @@
 ## Why do we need an Access Point
 ## How to create an Access Point
 ```
-- Before creating a new **Access Point** , first **Register** the MAC address that you want to use create an AP(Access Point)
+- Before creating a new Access Point , first Register the MAC address that you want to use create an AP(Access Point)
 
 ```
 1. Click on the **Access Point** menu located on the left side.
