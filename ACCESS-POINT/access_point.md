@@ -25,7 +25,7 @@
 
    ![image-4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/af810885-8d26-4b60-9c0e-4b587c034a32)
 
-5. Then click on the located right side **Save**button.
+5. Then click on the located right side **Save** button.
 
    ![image-5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f7ebc0b6-c654-47b7-bc85-531bd1418f56)
 
