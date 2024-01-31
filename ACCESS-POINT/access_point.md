@@ -8,7 +8,7 @@
 ```
 1. Click on the **Access Point** menu located on the left side.
 
-   ![image-1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5e56a8e2-91fb-4a5d-b98e-a88ea4e20832)
+   ![image-1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/459b860a-d569-4a95-8427-e437b3c3a552)
 
 2. You will click **Access Point**, and there you will see a list of **Access Point Devices**. Click on the **Add New** button.
 
