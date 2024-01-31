@@ -29,11 +29,11 @@
 
    ![image-5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f7ebc0b6-c654-47b7-bc85-531bd1418f56)
 
-6. As soon as you click on the **Save** button, you will get a message on the screen that the **Device is assigned Successfully**.
+6. As soon as you click on the **Save** button, you will get a message on the screen that the **Device is assigned successfully**.
 
    ![image-6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/84878af0-1f63-48e0-9f28-8fe035acdd71)
 
-7. Go to the **Search** tab and **search** your device name. After that, you will enter, and there you will find your device.
+7. Go to the **Search** tab and **Search** your Device name or MAC Address. After that, you will enter, and there you will find your device.
 
    ![image-7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c42e275b-7a19-4139-aaf4-12044539a02b)
 
