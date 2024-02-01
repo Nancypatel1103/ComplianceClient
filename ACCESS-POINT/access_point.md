@@ -14,7 +14,7 @@ Before creating a new access, the MAC address is to be created using the access 
 
    ![image-8](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/03390074-d8a8-4764-a0e6-f9e09bfa3123)
 
-3. Go to the Search tab. After going to the search tab enter *MAC address** (enter *MAC address* which you register and want to create a new one using the same MAC address)
+3. Go to the Search tab. After going to the search tab enter **MAC address** (enter *MAC address* which you registered and want to create a new one using the same MAC address)
 
    ![image-9](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/a77420da-8270-4945-bdfd-54cd33b9f857)
 
@@ -27,7 +27,7 @@ Before creating a new access, the MAC address is to be created using the access 
 
 ```
 
-5. You will click **Access Point**, and there you will see a list of **Access Point Devices**. Click on the **Add New** button.
+5. Click on the **Add New** button.
 
    ![image-2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/550adaea-4430-45e8-8b0d-cec8d2c835f6)
 
