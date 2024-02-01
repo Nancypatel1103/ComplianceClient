@@ -3,7 +3,8 @@
 ## Why do we need an Access Point
 ## How to create an Access Point
 ```
-Before creating a new access, the MAC address is to be created using the access point, the MAC address is deleted and checked. This process is called Detection Access Point.
+Before creating a new access, the MAC address is to be created using the access point, the MAC address is deleted and checked.
+This process is called Detection Access Point.
 
 ```
 1. Click on the **Access Point** menu located on the left side.
