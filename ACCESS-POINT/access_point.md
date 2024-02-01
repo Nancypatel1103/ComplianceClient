@@ -1,6 +1,28 @@
 # Access Point
 ## What is an Access Point
 ## Why do we need an Access Point
+## How to detect an Access Point
+```
+Before creating a new access, the MAC address is to be created using the access point, the MAC address is deleted and checked. This process is called Access Point.
+
+```
+1. Click on the **Access Point** menu located on the left side.
+
+   ![image-1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/459b860a-d569-4a95-8427-e437b3c3a552)
+
+2. You will click **Access Point**, and there you will see a list of **Access Point Devices**.
+
+   ![image-8](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/03390074-d8a8-4764-a0e6-f9e09bfa3123)
+
+3. Go to the search tab. After going to the search tab enter the **MAC Address** there (enter the **MAC Address** which you have deleted and want to created a new one using the same MAC Address) 
+
+   ![image-9](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/a77420da-8270-4945-bdfd-54cd33b9f857)
+
+4. After that you will enter, and there you will find your device.
+
+   ![image-10](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b0357edf-b1f3-4b6e-9793-5c42f3c43878)
+
+
 ## How to create an Access Point
 ```
 - Before creating a new Access Point, first Register the MAC address that you want to use to create an AP(Access Point)
@@ -38,8 +60,19 @@
    ![image-7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c42e275b-7a19-4139-aaf4-12044539a02b)
 
 
+## How to delete Access Point
 
-   
+1. Click on the delete located on the right side.
+
+   ![image-11](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e517987e-89d2-46b9-9088-2098cf6eb3a3)
+
+2. After click, a new window will open. There you will get a confirmation message. Click on the Delete button.
+
+   ![image-12](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/bc7c2ec5-99a2-475e-9000-fc5265a9db33)
+
+3. As soon as you click on Delete, you will get a message on the screen that the **Device is deleted successfully**.
+
+   ![image-13](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8a91f685-5b6e-47a4-bea9-b6e4b8b6c4b3) 
 
 
 
