@@ -1,7 +1,13 @@
+---
+sidebar_position: 1
+---
+
 # Access Point
 ## What is an Access Point
 An Access Point (AP) is a networking hardware device that allows a Wi-Fi-enabled device to connect to a wired network. It acts as a bridge between wireless clients and a wired local area network (LAN), facilitating communication between devices within the network.
 ## Why do we need an Access Point
+An access point is essential for creating a wireless network, providing connectivity for devices such as laptops, smartphones, and other Wi-Fi-enabled devices. They enable seamless access to wired networks, which allows users to connect and communicate without the need for physical cables.
+
 ## How to create an Access Point
 ```
 Before creating a new access, the MAC address is to be created using the access point, the MAC address is deleted and checked.
