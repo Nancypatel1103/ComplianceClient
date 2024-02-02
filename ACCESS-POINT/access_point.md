@@ -3,12 +3,13 @@ sidebar_position: 1
 ---
 
 # Access Point
-## What is an Access Point
+## What is an Access Point  
 An Access Point (AP) is a networking hardware device that allows a Wi-Fi-enabled device to connect to a wired network. It acts as a bridge between wireless clients and a wired local area network (LAN), facilitating communication between devices within the network.
-## Why do we need an Access Point
+
+## Why do we need an Access Point   
 An access point is essential for creating a wireless network, providing connectivity for devices such as laptops, smartphones, and other Wi-Fi-enabled devices. They enable seamless access to wired networks, which allows users to connect and communicate without the need for physical cables.
 
-## How to create an Access Point
+## How to create an Access Point  
 ```
 Before creating a new access, the MAC address is to be created using the access point, the MAC address is deleted and checked.
 This process is called Detection Access Point.
@@ -35,7 +36,7 @@ This process is called Detection Access Point.
 
 ```
 
-5. Click on the **Add New** button.
+5. Click on the **Add New** button. 
 
    ![image-2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/550adaea-4430-45e8-8b0d-cec8d2c835f6)
 
@@ -58,14 +59,14 @@ This process is called Detection Access Point.
 
    ![image-6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/84878af0-1f63-48e0-9f28-8fe035acdd71)
 
-10. Go to the **Search** tab and **Search** your Device name or MAC Address. After that, you will enter, and there you will find your device.
+10. Go to the **Search** tab and **Search** your Device name or **MAC Address**. After that, you will enter, and there you will find your device.
 
     ![image-7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c42e275b-7a19-4139-aaf4-12044539a02b)
 
 
-## How to delete Access Point
+## How to delete Access Point  
 
-1. Click on the delete located on the right side.
+1. Click on the **delete** located on the right side.
 
    ![image-11](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e517987e-89d2-46b9-9088-2098cf6eb3a3)
 
@@ -73,9 +74,10 @@ This process is called Detection Access Point.
 
    ![image-12](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/bc7c2ec5-99a2-475e-9000-fc5265a9db33)
 
-3. As soon as you click on Delete, you will get a message on the screen that the **Device is deleted successfully**.
+3. As soon as you click on Delete, you will get a message on the screen that the **Device is deleted successfully**.  
 
    ![image-13](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8a91f685-5b6e-47a4-bea9-b6e4b8b6c4b3) 
+
 
 
 
