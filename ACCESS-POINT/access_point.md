@@ -60,7 +60,7 @@ This process is called Detection Access Point.
 
 10. Go to the **Search** tab and **Search** your Device name or MAC Address. After that, you will enter, and there you will find your device.
 
-   ![image-7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c42e275b-7a19-4139-aaf4-12044539a02b)
+    ![image-7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c42e275b-7a19-4139-aaf4-12044539a02b)
 
 
 ## How to delete Access Point
