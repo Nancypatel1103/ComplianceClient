@@ -50,7 +50,7 @@ SSID is necessary for several reasons:
 
 ## How to connect SSID
 
-1. GO to the **Access Point** and go there and click on the **edit** button of the device.
+1. Go to the **Access Point** and go there and click on the **edit** button of the device.
 
    ![image-14](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8dce52e1-db9f-46bb-ad0a-ad7d8b8e1a85)
 
