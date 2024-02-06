@@ -112,12 +112,12 @@ This process is called Detection Access Point.
       - **There are 2 primary frequency bands used for wifi**.
 
 
-     **1. 2.4 GHz Band**:- This is the older and denser frequency band. It is carried in multiple channels and devices can communicate on these channels 
+     **(1) 2.4 GHz Band**:- This is the older and denser frequency band. It is carried in multiple channels and devices can communicate on these channels 
                            although due to its widespread use, it may experience interference from other devices such as cordless phones, microwaves, and 
                            neighboring wifi networks.
 
 
-     **2. 5 GHz band**:- This band offers more channels and tends to be less crowded as compared to the 2.4 GHz band. It allows for higher data rates and is 
+     **(2) 5 GHz band**:- This band offers more channels and tends to be less crowded as compared to the 2.4 GHz band. It allows for higher data rates and is 
                          generally preferred in environments where data transfer is required.
 
    - **Transmit Power**:- Transmit power, in the context of an Access Point (AP) in wireless networking, refers to the strength at which the AP's radio signals 
