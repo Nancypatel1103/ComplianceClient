@@ -44,10 +44,10 @@ This process is called Detection Access Point.
 
    ![image-3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/dd3c358e-abb2-4efe-97e3-bec73a04a2ca)
 
-7. Fill in your details.
-   **1. MAC Address**: Enter your **MAC Address** for **Ex: da:09:48:ba:c5:e6**.
-   **2. Device Name**: Enter your **Device Name** for **Ex: Document**.
-   **3. Select Organization**: Choose your organization.
+7. Fill in your details.            
+   **1. MAC Address**: Enter your **MAC Address** for **Ex: da:09:48:ba:c5:e6**.        
+   **2. Device Name**: Enter your **Device Name** for **Ex: Document**.           
+   **3. Select Organization**: Choose your organization.       
 
    ![image-4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/af810885-8d26-4b60-9c0e-4b587c034a32)
 
