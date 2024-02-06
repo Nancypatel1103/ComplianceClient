@@ -76,9 +76,9 @@ This process is called Detection Access Point.
 4. From here you can make changes in the system. From there you can change the **Device name, UPNP, Airtime fairness, Rogue AP detection, and Application detection**.
 5. **UPNP, Airtime fairness, Rogue AP detection, and Application Detection** are inactive.
 
-    **1. UPNP**:- Universal Plug and Play, or UPNP, is a set of networking protocols that allow devices on a local network to easily discover and communicate with each other5. Users set up and maintain their network devices more easily thanks to UPNP. UPNP is used in the context of an access point or home router to automatically set up the results necessary for devices to connect to each other.
+    **1. UPNP**:- Universal Plug and Play, or UPNP, is a set of networking protocols that allow devices on a local network to easily discover and communicate with each other. Users set up and maintain their network devices more easily thanks to UPNP. UPNP is used in the context of an access point or home router to automatically set up the results necessary for devices to connect to each other.
 
-    **2. Airtime fairness8**:- Airtime Fairness is a feature in wireless networking, including Access Points (APs), that aims to ensure equitable distribution of available airtime among connected devices. The goal is to optimize network performance by preventing one device from dominating the airwaves and degrading the experience for other devices in the same network. This feature is particularly relevant in environments with a mix of devices with varying capabilities and data transfer requirements.
+    **2. Airtime fairness**:- Airtime Fairness is a feature in wireless networking, including Access Points (APs), that aims to ensure equitable distribution of available airtime among connected devices. The goal is to optimize network performance by preventing one device from dominating the airwaves and degrading the experience for other devices in the same network. This feature is particularly relevant in environments with a mix of devices with varying capabilities and data transfer requirements.
  
    **3. Rogue AP Detection**:- Rogue Access Point (AP) Detection is a security feature implemented in wireless networks, including Access Points, to identify and mitigate the presence of unauthorized or rogue access points within the network. A rogue access point is an unauthorized wireless access point that has been installed on a network without the knowledge or approval of the network administrator. These rogue APs can pose security risks, as they may create vulnerabilities, allow unauthorized access to the network, or facilitate attacks.
 
@@ -93,32 +93,36 @@ This process is called Detection Access Point.
    - **2.4 GHz**
     - From here you can make changes in the system. From there you can change the **Country, Channel Spectrum Width, Frequency, Transmit Power, and Select SSID**.
     
-    - **Channel Spectrum Width**:- change channel spectrum width. In the context of wireless networking, channel spectrum width refers to the range of frequencies allocated to a 
-                                   communication channel, particularly in an access point. The width of the spectrum determines how much bandwidth is available for data transmission. In 
-                                   In WiFi networks, channel spectrum width is often expressed in terms of MHz.
-                                   - **There are 2 primary channel spectrum width options commonly used in wifi networks**.
+    - **Channel Spectrum Width**:- change channel spectrum width. In the context of wireless networking, channel spectrum width refers to the range of 
+      frequencies allocated to a communication channel, particularly in an access point. The width of the spectrum determines how much bandwidth is available 
+      for data transmission. In WiFi networks, channel spectrum width is often expressed in terms of MHz.
+
+       - **There are 2 primary channel spectrum width options commonly used in wifi networks**.
 
       **1. 20 MHz channel width**:- This is the standard channel width and provides a relatively narrow frequency range for data transmission. In this 
                                              configuration, the access point uses a 20MHz wide channel to send and receive data.
 
       **2. 40 MHz channel width**:- This option doubles the channel width to 40 MHz thereby increasing the data transfer rate. However, using a wider 
-                                             channel may result in higher chances of interference. Especially in the 2.4 GHz band, where there are fewer non-overlapping channels.
+                                    channel may result in higher chances of interference. Especially in the 2.4 GHz band, where there are fewer non-overlapping 
+                                    channels.
 
-   - **Frequency**:-  In the context of Access Points and wireless networking, frequency refers to the radio frequency on which wireless communication takes place. WIFI networks 
-                      operating in the radio frequency bands are allowed for different wireless communication standards.
-                      - **There are 2 primary frequency bands used for wifi**.
+   - **Frequency**:-  In the context of Access Points and wireless networking, frequency refers to the radio frequency on which wireless communication takes 
+                      place. WIFI networks operating in the radio frequency bands are allowed for different wireless communication standards.
 
-
-     **1. 2.4 GHz Band**:- This is the older and denser frequency band. It is carried in multiple channels and devices can communicate on these channels although due to 
-                                            its widespread use, it may experience interference from other devices such as cordless phones, microwaves, and neighboring wifi networks.
+      - **There are 2 primary frequency bands used for wifi**.
 
 
-     **2. 5 GHz band**:- This band offers more channels and tends to be less crowded as compared to the 2.4 GHz band. It allows for higher data rates and is generally 
-                                          preferred in environments where data transfer is required.
+     **1. 2.4 GHz Band**:- This is the older and denser frequency band. It is carried in multiple channels and devices can communicate on these channels 
+                           although due to its widespread use, it may experience interference from other devices such as cordless phones, microwaves, and 
+                           neighboring wifi networks.
 
-   - **Transmit Power**:- Transmit power, in the context of an Access Point (AP) in wireless networking, refers to the strength at which the AP's radio signals are transmitted to client 
-                          devices. It represents the amount of power the AP uses to send wireless signals over a certain distance. Transmit power is usually measured in decibels 
-                          milliwatts (dBm) or milliwatts (mW).
+
+     **2. 5 GHz band**:- This band offers more channels and tends to be less crowded as compared to the 2.4 GHz band. It allows for higher data rates and is 
+                         generally preferred in environments where data transfer is required.
+
+   - **Transmit Power**:- Transmit power, in the context of an Access Point (AP) in wireless networking, refers to the strength at which the AP's radio signals 
+                          are transmitted to client devices. It represents the amount of power the AP uses to send wireless signals over a certain distance. 
+                          Transmit power is usually measured in decibels milliwatts (dBm) or milliwatts (mW).
 
    - **Select SSID**:- choose SSID.
 6. Then click on the **Save** button.
