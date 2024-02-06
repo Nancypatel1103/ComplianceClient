@@ -90,29 +90,45 @@ This process is called Detection Access Point.
 
 7. If you scroll down there a bit, there is the **Radio Configuration**. In the context of an access point (AP), radio configuration refers to the settings and parameters that determine how the wireless radio interface functions. These configurations play a critical role in determining the characteristics of a wireless network, including data rates, channel selection, frequency bands, and other parameters that affect the performance and reliability of a wireless connection. There are 2.4 GHz and 5.8 GHz.
 
-   **1. 2.4 GHz**
+   - **2.4 GHz**
     - From here you can make changes in the system. From there you can change the **Country, Channel Spectrum Width, Frequency, Transmit Power, and Select SSID**.
     
     - **Channel Spectrum Width**:- change channel spectrum width. In the context of wireless networking, channel spectrum width refers to the range of frequencies allocated to a 
                                    communication channel, particularly in an access point. The width of the spectrum determines how much bandwidth is available for data transmission. In 
                                    In WiFi networks, channel spectrum width is often expressed in terms of MHz.
-                                   - There are 2 primary channel spectrum width options commonly used in wifi networks.
+                                   - **There are 2 primary channel spectrum width options commonly used in wifi networks**.
 
-                                       **1. 20 MHz channel width**:- This is the standard channel width and provides a relatively narrow frequency range for data transmission. In this 
+      **1. 20 MHz channel width**:- This is the standard channel width and provides a relatively narrow frequency range for data transmission. In this 
                                              configuration, the access point uses a 20MHz wide channel to send and receive data.
 
-                                       **2. 40 MHz channel width**:- This option doubles the channel width to 40 MHz thereby increasing the data transfer rate. However, using a wider 
+      **2. 40 MHz channel width**:- This option doubles the channel width to 40 MHz thereby increasing the data transfer rate. However, using a wider 
                                              channel may result in higher chances of interference. Especially in the 2.4 GHz band, where there are fewer non-overlapping channels.
 
-   - **Frequency**:-  In the context of Access Points and wireless networking, frequency refers to the radio frequency on which wireless communication takes place. WIFI networks operate 
-                      in the radio frequency bands are allowed for different wireless communication standards.
-                      There are 2 primary frequency bands used for wifi.
+   - **Frequency**:-  In the context of Access Points and wireless networking, frequency refers to the radio frequency on which wireless communication takes place. WIFI networks 
+                      operating in the radio frequency bands are allowed for different wireless communication standards.
+                      - **There are 2 primary frequency bands used for wifi**.
 
-                       **1. 2.4 GHz Band**:- This is the older and denser frequency band. It is carried in multiple channels and devices can communicate on these channels although due to 
+
+     **1. 2.4 GHz Band**:- This is the older and denser frequency band. It is carried in multiple channels and devices can communicate on these channels although due to 
                                             its widespread use, it may experience interference from other devices such as cordless phones, microwaves, and neighboring wifi networks.
 
-                      **2. 5 GHz band**:- This band offers more channels and tends to be less crowded as compared to the 2.4 GHz band. It allows for higher data rates and is generally 
+
+     **2. 5 GHz band**:- This band offers more channels and tends to be less crowded as compared to the 2.4 GHz band. It allows for higher data rates and is generally 
                                           preferred in environments where data transfer is required.
+
+   - **Transmit Power**:- Transmit power, in the context of an Access Point (AP) in wireless networking, refers to the strength at which the AP's radio signals are transmitted to client 
+                          devices. It represents the amount of power the AP uses to send wireless signals over a certain distance. Transmit power is usually measured in decibels 
+                          milliwatts (dBm) or milliwatts (mW).
+
+   - **Select SSID**:- choose SSID.
+6. Then click on the **Save** button.
+
+    ![image-17](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1e292839-8968-491a-b264-0f4b14790c9e)
+
+7. After Clicking the **Save** button, you will get a message on the screen that **Device Configuration is updated successfully**.
+
+    ![image-18](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/506560be-415e-451d-ab8d-615344e828b6)
+ 
 
 ## How to delete Access Point  
 
