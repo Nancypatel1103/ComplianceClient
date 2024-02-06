@@ -97,16 +97,20 @@ This process is called Detection Access Point.
                                    communication channel, particularly in an access point. The width of the spectrum determines how much bandwidth is available for data transmission. In 
                                    In WiFi networks, channel spectrum width is often expressed in terms of MHz.
                                    - There are 2 primary channel spectrum width options commonly used in wifi networks.
+
                                        **1. 20 MHz channel width**:- This is the standard channel width and provides a relatively narrow frequency range for data transmission. In this 
                                              configuration, the access point uses a 20MHz wide channel to send and receive data.
+
                                        **2. 40 MHz channel width**:- This option doubles the channel width to 40 MHz thereby increasing the data transfer rate. However, using a wider 
                                              channel may result in higher chances of interference. Especially in the 2.4 GHz band, where there are fewer non-overlapping channels.
 
    - **Frequency**:-  In the context of Access Points and wireless networking, frequency refers to the radio frequency on which wireless communication takes place. WIFI networks operate 
                       in the radio frequency bands are allowed for different wireless communication standards.
                       There are 2 primary frequency bands used for wifi.
-                      **1. 2.4 GHz Band**:- This is the older and denser frequency band. It is carried in multiple channels and devices can communicate on these channels although due to 
+
+                       **1. 2.4 GHz Band**:- This is the older and denser frequency band. It is carried in multiple channels and devices can communicate on these channels although due to 
                                             its widespread use, it may experience interference from other devices such as cordless phones, microwaves, and neighboring wifi networks.
+
                       **2. 5 GHz band**:- This band offers more channels and tends to be less crowded as compared to the 2.4 GHz band. It allows for higher data rates and is generally 
                                           preferred in environments where data transfer is required.
 
