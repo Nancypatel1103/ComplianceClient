@@ -56,7 +56,7 @@ SSID is necessary for several reasons:
 
    ![image-14](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8dce52e1-db9f-46bb-ad0a-ad7d8b8e1a85)
 
-2. After clicking, a new window will open. If you scroll up a little there, the radio configuration will appear.
+2. After clicking, a new window will open. If you scroll up a little there, the **Radio configuration** will appear.
 
    ![image-15](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8ab794b2-1226-44de-abe7-651bb14fb6c3)
 
