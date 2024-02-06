@@ -64,8 +64,8 @@ SSID is necessary for several reasons:
 
 4. Click on the plus icon means that **SSIDs** will be added. But you can select 8 **SSIDs** in it, more than 8 cannot be added.
    ```
-   note:-  While creating the SSID, keep in mind that the organization of the device and the organization of the **SSID** should be the same,
-    otherwise the **SSID** will not be able to be added.
+   note:-  While creating the SSID, keep in mind that the organization of the device and the organization of the **SSID**
+   should be the same, otherwise the **SSID** will not be able to be added.
    ```
    ![image-17](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/9a4688d3-7d4f-4d84-8761-0285e3d02a27)
 
