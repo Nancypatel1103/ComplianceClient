@@ -99,10 +99,10 @@ This process is called Detection Access Point.
 
        - **There are 2 primary channel spectrum width options commonly used in wifi networks**.
 
-      **1. 20 MHz channel width**:- This is the standard channel width and provides a relatively narrow frequency range for data transmission. In this 
+      **(1) 20 MHz channel width**:- This is the standard channel width and provides a relatively narrow frequency range for data transmission. In this 
                                              configuration, the access point uses a 20MHz wide channel to send and receive data.
 
-      **2. 40 MHz channel width**:- This option doubles the channel width to 40 MHz thereby increasing the data transfer rate. However, using a wider 
+      **(2) 40 MHz channel width**:- This option doubles the channel width to 40 MHz thereby increasing the data transfer rate. However, using a wider 
                                     channel may result in higher chances of interference. Especially in the 2.4 GHz band, where there are fewer non-overlapping 
                                     channels.
 
