@@ -36,10 +36,8 @@ SSID is necessary for several reasons:
    **5. Key**:- Enter your **Password**.  
    - **Network**  
    **6. Config Type**:- Select **Config Type**. Here **Config Type** is of 2 types (1) Bridge and (2) Route. For **Ex:- select Route**.        
-   **7. IP Address and Netmask**:- If we select a route, by default the IP address and Netmask will appear here. ``` note:- one thing to note here is that the 
-     The IP address should not be the same. ```      
-   **8. Captive Portal**:- Select **Captive Portal**.
-
+   **7. IP Address and Netmask**:- If we select a route, by default the IP address and Netmask will appear here. ``` note:- one thing to note here is that the IP address should not be the same. ```      
+   
      ![image-4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c191b042-bcd2-4840-b8ed-e5d74e753766)
 
 5. Then click on the located right side **Save** button.
