@@ -37,7 +37,7 @@ Radio configuration is essential for optimizing the performance, coverage, and r
    ![image-1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/16967454-15b5-43a3-8bd8-833d2125a561)
 
 2. Go to the device you want to **Radio Configuration**.
-3. Click on the Edit located on the right side of your access point.
+3. Click on the **Edit** located on the right side of your access point.
 
    ![image-2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/582a6c02-7db3-4126-bd5e-40e6a7f2b98d)
 
