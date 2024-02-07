@@ -41,7 +41,7 @@ Radio configuration is essential for optimizing the performance, coverage, and r
 
    ![image-2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/582a6c02-7db3-4126-bd5e-40e6a7f2b98d)
 
-4. After clicking, a new window will open. If you scroll a little there, you will get **Radio Configuration**. ***Radio Configuration** is of 2 types **(1) 2.4 GHz and (2) 5.8 GHz**.
+4. After clicking, a new window will open. If you scroll a little there, you will get **Radio Configuration**. **Radio Configuration** is of 2 types **(1) 2.4 GHz and (2) 5.8 GHz**.
 
    ![image-3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8940fb18-0fba-4310-b2a9-67769668cd2a)
 
