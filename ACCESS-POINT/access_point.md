@@ -73,7 +73,8 @@ This process is called Detection Access Point.
 
    ![image-15](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/3a2fa89c-31e1-4e65-a6d7-a5eef40b54d5)
 
-4. From here you can make changes in the system. From there you can change the **Device name, UPNP, Airtime fairness, Rogue AP detection, and Application detection**. If you scroll down there a bit, there is the **Radio Configuration**. From there you can change the **Channel Spectrum Width, Frequency, Transmit Power, and Select SSId**. 
+4. From here you can make changes. From there you can access the **System, Radio Configuration, Commands,
+Logging, SNMP, Port Forwarding, Firmware, and Firmware can change the schedule**. 
 
 5. Then click on the **Save** button.
 
