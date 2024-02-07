@@ -50,5 +50,5 @@ Radio configuration in the context of an Access Point (AP) refers to the setting
 
    ![image-3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8940fb18-0fba-4310-b2a9-67769668cd2a)
 
-5. Then you are given the **Country, Channel Spectrum Width, Frequency, Transmit Power, and SSID** in **2.4 GHz and 5.8 GHz**. From there you can both add and change to GHz. How to add a Select SSID is explained here(https://github.com/Nancypatel1103/ComplianceClient/blob/main/SSID/ssid.md#how-to-connect-ssid).
+5. Then you are given the **Country, Channel Spectrum Width, Frequency, Transmit Power, and SSID** in **2.4 GHz and 5.8 GHz**. From there you can both add and change to GHz. How to add a Select SSID is explained here ([How to connect SSID](#how-to-connect-ssid)).
 6. 
