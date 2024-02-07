@@ -62,7 +62,7 @@ SSID is necessary for several reasons:
 
    ![image-16](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/de2b668b-1b4d-4166-b75d-44b92ddcc6f5)
 
-4. Click on the**(+)** icon means that **SSIDs** will be added. But you can select 8 **SSIDs** in it, more than 8 cannot be added. After clicking on the **Save** button.
+4. Click on the **(+)** icon means that **SSIDs** will be added. But you can select 8 **SSIDs** in it, more than 8 cannot be added. After clicking on the **Save** button.
    ```
    note:-  While creating the SSID, keep in mind that the organization of the device and the organization of the **SSID**
    should be the same, otherwise the **SSID** will not be able to be added.
