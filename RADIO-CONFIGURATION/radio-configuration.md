@@ -8,9 +8,9 @@ Radio configuration in the context of an Access Point (AP) refers to the setting
 
 **1. Country**: Country has to be chosen in radio configuration. Choose the country you want. The code for the country is given. For **Ex: IND is for India.   
 **2. Channel Spectrum Width**:- change channel spectrum width. In the context of wireless networking, channel spectrum width refers to the range of 
-      frequencies allocated to a communication channel, particularly in an access point. The width of the spectrum determines how much bandwidth is available 
-      for data transmission. In WiFi networks, channel spectrum width is often expressed in terms of MHz.        
-       - **There are 2 primary channel spectrum width options commonly used in wifi networks**.      
+frequencies allocated to a communication channel, particularly in an access point. The width of the spectrum determines how much bandwidth is available 
+for data transmission. In WiFi networks, channel spectrum width is often expressed in terms of MHz.        
+ - **There are 2 primary channel spectrum width options commonly used in wifi networks**.      
       **(1) 20 MHz channel width**:- This is the standard channel width and provides a relatively narrow frequency range for data transmission. In this 
                                      configuration, the access point uses a 20MHz wide channel to send and receive data.     
       **(2) 40 MHz channel width**:- This option doubles the channel width to 40 MHz thereby increasing the data transfer rate. However, using a wider 
