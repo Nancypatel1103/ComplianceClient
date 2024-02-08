@@ -69,9 +69,26 @@ SSID is necessary for several reasons:
    ```
    ![image-17](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/9a4688d3-7d4f-4d84-8761-0285e3d02a27)
 
-5. After Clicking the Save button, you will get a message on the screen that **Device Configuration is updated successfully**.
+5. After Clicking the **Save** button, you will get a message on the screen that **Device Configuration is updated successfully**.
 
    ![image-18](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/265d7f1a-db5d-4582-a045-f5c3f433742c)
+
+## How to disconnect SSID  
+1. Go to the **Radio configuration** and after there go to **Select SSID**.
+
+   ![image-16](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/de2b668b-1b4d-4166-b75d-44b92ddcc6f5)
+
+2. Then click on **delete** on the **SSID** you want to disconnect. 
+
+   ![image-19](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/179f6055-6797-4244-b779-66e9fbb3a01f)
+
+3. And then click the **Save** button.
+
+   ![image-20](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4878542a-44fe-49f9-907b-2e47b75e2fc3)
+
+4. After Clicking the **Save** button, you will get a message on the screen that **Device Configuration is updated successfully**.
+
+   ![image-21](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7f9a5772-5995-49af-a2d9-79ff84ad4b70)
    
 ## How to edit SSID
 
