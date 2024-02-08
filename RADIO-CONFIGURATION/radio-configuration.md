@@ -26,7 +26,7 @@ for data transmission. In WiFi networks, channel spectrum width is often express
                           generally preferred in environments where data transfer is required.       
 
 **4. Transmit Power**: Transmit power controls the strength of the wireless signal transmitted by the AP. Adjusting transmit power can affect coverage range, signal strength, and network performance. Higher transmit power may increase coverage but could also lead to increased interference and power consumption.     
-**5. SSID**: SSID is a unique identifier that labels a specific wireless network. It allows devices to distinguish between different networks when multiple Wi-Fi networks are available in the vicinity. When you search for Wi-Fi networks on your device, you see a list of SSIDs to choose from.
+
 
 ## Why do we need Radio Configuration
 Radio configuration is essential for optimizing the performance, coverage, and reliability of wireless networks. Proper configuration ensures compliance with regulatory standards, minimizes interference, and maximizes data transfer rates, ultimately enhancing the overall user experience.
