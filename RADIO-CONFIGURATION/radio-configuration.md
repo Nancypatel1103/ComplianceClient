@@ -6,7 +6,7 @@ sidebar_position: 1
 ## What is a Radio Configuration
 Radio configuration in the context of an Access Point (AP) refers to the settings and parameters that control the operation of the AP's radio interfaces. These configurations are essential for optimizing the performance, coverage, and reliability of the wireless network.
 
-**1. Country**: Country has to be chosen in radio configuration. Choose the country you want. The code for the country is given. For **Ex: IND is for India.   
+**1. Country**: Country has to be chosen in radio configuration. Choose the country you want. The code for the country is given. For **Ex: IND is for India**.   
 **2. Channel Spectrum Width**:- change channel spectrum width. In the context of wireless networking, channel spectrum width refers to the range of 
 frequencies allocated to a communication channel, particularly in an access point. The width of the spectrum determines how much bandwidth is available 
 for data transmission. In WiFi networks, channel spectrum width is often expressed in terms of MHz.        
