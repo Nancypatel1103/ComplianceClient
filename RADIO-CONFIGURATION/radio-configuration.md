@@ -47,7 +47,7 @@ Radio configuration is essential for optimizing the performance, coverage, and r
 
 5. Then you are given the **Country, Channel Spectrum Width, Frequency, Transmit Power, and SSID** in **2.4 GHz and 5.8 GHz**. From there you can both add and change to GHz. How to add a Select SSID is explained here (https://github.com/Nancypatel1103/ComplianceClient/blob/main/SSID/ssid.md#how-to-connect-ssid)  
 
-   ![image-4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/191be19f-1e9d-44b1-b0b7-7eb7b1f7f0f8)
+   ![image-4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e4bffdfa-1e52-4e8b-9f04-c22e023a6be9)
 
 6. Then click on the **Save** button.
 
