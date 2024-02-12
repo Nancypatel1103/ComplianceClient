@@ -15,7 +15,7 @@ Advanced settings typically refer to additional configurations beyond the basic 
 **802.11r (Fast Roaming)**: 802.11r is a standard for fast roaming in Wi-Fi networks. It enables seamless and uninterrupted roaming between access points, ideal for applications that require continuous connectivity such as VoIP (Voice over Internet Protocol) calls.  
 
 **MAC Address Filter**: MAC (Media Access Control) address filtering allows users to control which devices can connect to the network based on their unique MAC addresses. This feature can be configured to allow or deny access to specific devices, providing an additional layer of security.      
-     - **Disable**: In this mode, MAC Address Filtering is turned off entirely. All devices, regardless of their MAC addresses, are allowed to connect to the network without any restrictions. This is the least restrictive mode and offers no additional security based on MAC addresses.     
+- **Disable**: In this mode, MAC Address Filtering is turned off entirely. All devices, regardless of their MAC addresses, are allowed to connect to the network without any restrictions. This is the least restrictive mode and offers no additional security based on MAC addresses.     
 
 **Allow listed only**: In this mode, the network administrator creates a list of specific MAC addresses (commonly referred to as a whitelist) of devices that are allowed to connect to the network. Any device whose MAC address is not on the list will be denied access. This mode provides a higher level of security by only allowing authorized devices to connect.    
 
