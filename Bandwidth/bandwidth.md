@@ -23,7 +23,7 @@ Bandwidth is essential for ensuring efficient communication and data transfer wi
    **Download**:- Enter **Download Mbps** for **Ex:- 1**.
    **Organization**:- Choose your **organization** for **EX:- Document1**.
 
-  ![image-4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5626e93a-db31-4bd4-965c-040b27a64286)
+   ![image-4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5626e93a-db31-4bd4-965c-040b27a64286)
 
 5. Then click on the located right side **Save** button.
 
@@ -60,7 +60,7 @@ Bandwidth is essential for ensuring efficient communication and data transfer wi
 2. Click on it and you will see a summary of the profile. Go to the **Bandwidth Profile** want to edit.
 3. Click on the Edit located on the right side of your **Bandwidth Profile**.
 
-  ![image-8](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/15942a4d-328c-49c4-b955-8fbe4035057c)
+   ![image-8](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/15942a4d-328c-49c4-b955-8fbe4035057c)
 
 4. From here you can change **Name, Upload, Download**.
 
@@ -85,7 +85,7 @@ Bandwidth is essential for ensuring efficient communication and data transfer wi
 
 3. As soon as you click on Delete, you will get a message on the screen that the **Bandwidth profile is deleted successfully**.
 
-  ![image-14](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/bb12aa93-5304-4cf9-a315-69473575783a)
+   ![image-14](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/bb12aa93-5304-4cf9-a315-69473575783a)
  
 
 
