@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Bandwidth
 
 ## What is a Bandwidth
