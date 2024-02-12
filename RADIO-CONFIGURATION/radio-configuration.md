@@ -31,12 +31,12 @@ for data transmission. In WiFi networks, channel spectrum width is often express
 ## Why do we need Radio Configuration
 Radio configuration is essential for optimizing the performance, coverage, and reliability of wireless networks. Proper configuration ensures compliance with regulatory standards, minimizes interference, and maximizes data transfer rates, ultimately enhancing the overall user experience.
 
-## How to configure Radio Configuration
+## How to configure Radio Configuration    
 1. Click on the **Access Point** menu located on the left side.
 
    ![image-1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/16967454-15b5-43a3-8bd8-833d2125a561)
 
-2. Go to the device you want to **Radio Configuration**.
+2. Go to the device you want to **Radio Configuration**.       
 3. Click on the **Edit** located on the right side of your access point.
 
    ![image-2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/582a6c02-7db3-4126-bd5e-40e6a7f2b98d)
@@ -55,5 +55,5 @@ Radio configuration is essential for optimizing the performance, coverage, and r
 
 7. As soon as you click on the Save button, you will get a message on the screen that **Device configuration is updated successfully**.
 
-   ![image-6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/82ad798c-d24c-4009-81c9-ebb87e0ab377)
+   ![image-6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/82ad798c-d24c-4009-81c9-ebb87e0ab377) 
 
