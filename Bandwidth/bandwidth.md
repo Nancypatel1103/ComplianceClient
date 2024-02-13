@@ -4,12 +4,14 @@ sidebar_position: 1
 
 # Bandwidth
 
-## What is a Bandwidth
-Bandwidth refers to the maximum rate of data transfer across a network or internet connection. It is often measured in bits per second (bps) or multiples of bits per second such as kilobits per second (Kbps), megabits per second (Mbps), or gigabits per second (Gbps).
-## Why do we need Bandwidth
-Bandwidth is essential for ensuring efficient communication and data transfer within networks. Sufficient bandwidth allows for faster data transmission, smoother streaming of multimedia content, quicker loading times for web pages, and overall better performance of network-connected devices and applications.
-## How to create Bandwidth
-1. Go to **SSIDs**. After going to **SSIDs** click on the edit button of **SSID**.
+## What is a Bandwidth Limit
+A bandwidth limit refers to the maximum rate of data transfer across a network connection within a specific timeframe. It is often measured in bits per second (bps), kilobits per second (kbps), megabits per second (Mbps), or gigabits per second (Gbps). Bandwidth limits can be imposed by internet service providers (ISPs), network administrators, or by the capabilities of the network hardware itself.
+
+## Why do we need Bandwidth Limit
+Bandwidth limits are essential for managing network resources effectively. They help prevent network congestion by ensuring that data traffic remains within manageable levels, thereby maintaining optimal performance for all users. By imposing bandwidth limits, internet service providers can allocate resources fairly among their customers, preventing individual users from monopolizing bandwidth to the detriment of others. Additionally, bandwidth limits can help ISPs control network costs and optimize their infrastructure investments. Moreover, they promote responsible internet usage by discouraging excessive data consumption and encouraging efficient use of available resources. Overall, bandwidth limits play a crucial role in maintaining the stability, efficiency, and fairness of network operations.
+
+## How to create Bandwidth Limit
+1. Go to **SSIDs** menu. After going to **SSIDs** menu click on the edit button of **SSID**. You can **Access Bandwidth profile** via **Access Point** sub-menu and you can access the **SSID** edit menu. 
 
    ![image-1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2cb8c015-1ac2-4442-9003-23f740b12486)
 
@@ -17,15 +19,17 @@ Bandwidth is essential for ensuring efficient communication and data transfer wi
 
    ![image-2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/9a1e38e0-e2b4-46c8-a23d-46e95a194eb2)
 
-3. After clicking on **Manage Profiles**. A new window will open. Which by default is opened in the **Bandwidth Profiles of the access point. There click on **Add New**.
+3. After clicking on **Manage Profiles**. A new window will open. Which by default is opened in the **Bandwidth Profiles** of the access point. There click on **Add New** button.
 
    ![image-3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6626fe1b-6d89-4cfb-926e-ee9fb047bb61)
 
-4. Fill in your details.
-   **Name**:- Enter your **Name** for **Ex:- nancy-demo**.
-   **Upload**:- Enter **Upload Mbps** for **Ex:- 1**.
-   **Download**:- Enter **Download Mbps** for **Ex:- 1**.
-   **Organization**:- Choose your **organization** for **EX:- Document1**.
+4. Fill in your details.   
+   **Name**:- Enter your **Name** for **Ex:- nancy-demo**. Type the name you want to create here.       
+   **Upload**:- Enter **Upload Mbps** for **Ex:- 1Mbps**. The upload system in a bandwidth limit refers to the process of transmitting data from a user's device to the internet or another network. In the context of bandwidth limits, the upload system plays a significant role in determining the maximum rate at which data can be sent from the user's device to the network within a given timeframe. Bandwidth limits typically apply to both upload and download data transfer, ensuring equitable usage of network resources for both upstream and downstream activities.                       
+
+   **Download**:- Enter **Download Mbps** for **Ex:- 1Mbps**. The download system in a bandwidth limit refers to the process of receiving data from the internet or another network to a user's device. In the context of bandwidth limits, the download system determines the maximum rate at which data can be retrieved from the network within a specified timeframe. Bandwidth limits regulate the download speed, ensuring equitable distribution of network resources among users. This system is crucial for various online activities like streaming videos, downloading files, browsing websites, and online gaming. Implementing download bandwidth limits helps manage network traffic, prevent congestion, and maintain quality of service for all users.                   
+ 
+   **Organization**:- Choose your **organization** for **EX:- Document1**. Organization selection is done because if there is a similar organization, it comes by default. And keep the organization the same. 
 
    ![image-4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5626e93a-db31-4bd4-965c-040b27a64286)
 
@@ -33,7 +37,7 @@ Bandwidth is essential for ensuring efficient communication and data transfer wi
 
    ![image-5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e64f34cc-0eaf-4f1d-8518-e0205eef78b2)
 
-6. As soon as you click on the Save button, you will get a message on the screen that **Bandwidth profile is created successfully**.
+6. As soon as you click on the **Save** button, you will get a message on the screen that **Bandwidth profile is created successfully**.
 
    ![image-6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1baa9dab-7551-4064-94ca-b8e136342314)
 
@@ -52,21 +56,21 @@ Bandwidth is essential for ensuring efficient communication and data transfer wi
 
    ![image-17](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/08c5535d-a29d-4999-88dd-e3c861f3e55d)
 
-4. After Clicking the Update button, you will get a message on the screen that **SSID details are updated successfully**.
+4. After Clicking the **Update** button, you will get a message on the screen that **SSID details are updated successfully**.
 
    ![image-18](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d9e7c43f-5469-4632-9ecf-94a8fc2fc4a3)
 
 ## How to edit Bandwidth Profile
-1. Go to an access point and click on **Bandwidth Profile** in it.
+1. Go to an **Access Point** and click on **Bandwidth Profile** in it. 
 
    ![image-7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/35ce484f-9a99-42bb-bc4e-35bae87c2744)
 
-2. Click on it and you will see a summary of the profile. Go to the **Bandwidth Profile** want to edit.
-3. Click on the Edit located on the right side of your **Bandwidth Profile**.
+2. Click on it and you will see a summary of the profile. Go to the **Bandwidth Profile** you want to edit.
+3. Click on the **Edit** located on the right side of your **Bandwidth Profile**.
 
    ![image-8](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/15942a4d-328c-49c4-b955-8fbe4035057c)
 
-4. From here you can change **Name, Upload, Download**.
+4. From here you can change **Name, Upload Speed, and Download Speed**.
 
    ![image-9](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f298fe31-cb5b-404f-aa0c-a3006b5b208f)
 
@@ -83,11 +87,11 @@ Bandwidth is essential for ensuring efficient communication and data transfer wi
 
    ![image-12](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/759abc70-f241-4627-aa26-9484757c2f7a)
 
-2. After click, a new window will open. There you will get a confirmation message. Click on the Delete button.
+2. After clicking, a new window will open. There you will get a confirmation message. Click on the **Delete** button.
 
    ![image-13](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/395aa23c-203b-4b98-be04-636e139e1377)
 
-3. As soon as you click on Delete, you will get a message on the screen that the **Bandwidth profile is deleted successfully**.
+3. As soon as you click on the **Delete** button, you will get a message on the screen that the **Bandwidth profile is deleted successfully**.
 
    ![image-14](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/bb12aa93-5304-4cf9-a315-69473575783a)
  
