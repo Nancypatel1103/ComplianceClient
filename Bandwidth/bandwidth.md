@@ -25,19 +25,19 @@ Bandwidth limits are essential for managing network resources effectively. They 
 
 4. Fill in your details.   
    **Name**:- Enter your **Name** for **Ex:- nancy-demo**. Type the name you want to create here.       
-   **Upload**:- Enter **Upload Mbps** for **Ex:- 1Mbps**. The upload system in a bandwidth limit refers to the process of transmitting data from a user's device to the internet or another network. In the context of bandwidth limits, the upload system plays a significant role in determining the maximum rate at which data can be sent from the user's device to the network within a given timeframe. Bandwidth limits typically apply to both upload and download data transfer, ensuring equitable usage of network resources for both upstream and downstream activities.                       
+   **Upload**:- Enter **Upload Mbps** for **Ex:- 1Mbps**. Upload speed refers to the rate at which data is transmitted from a user's device to the internet or another network. It is an essential component of bandwidth limits, alongside download speed, which refers to the rate at which data is received by the user's device from the internet or network. Both upload and download speeds are measured in bits per second (bps), kilobits per second (kbps), megabits per second (Mbps), or gigabits per second (Gbps).                      
 
-   **Download**:- Enter **Download Mbps** for **Ex:- 1Mbps**. The download system in a bandwidth limit refers to the process of receiving data from the internet or another network to a user's device. In the context of bandwidth limits, the download system determines the maximum rate at which data can be retrieved from the network within a specified timeframe. Bandwidth limits regulate the download speed, ensuring equitable distribution of network resources among users. This system is crucial for various online activities like streaming videos, downloading files, browsing websites, and online gaming. Implementing download bandwidth limits helps manage network traffic, prevent congestion, and maintain quality of service for all users.                   
- 
+   **Download**:- Enter **Download Mbps** for **Ex:- 1Mbps**. Download speed refers to the rate at which data is transferred from the internet or another network to a user's device. It is a fundamental aspect of bandwidth limits, alongside upload speed, which pertains to the rate at which data is transmitted from the user's device to the internet or network. Download speed is measured in bits per second (bps), kilobits per second (kbps), megabits per second (Mbps), or gigabits per second (Gbps).     
+
    **Organization**:- Choose your **organization** for **EX:- Document1**. Organization selection is done because if there is a similar organization, it comes by default. And keep the organization the same. 
 
    ![image-4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5626e93a-db31-4bd4-965c-040b27a64286)
 
-5. Then click on the located right side **Save** button.
+6. Then click on the located right side **Save** button.
 
    ![image-5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e64f34cc-0eaf-4f1d-8518-e0205eef78b2)
 
-6. As soon as you click on the **Save** button, you will get a message on the screen that **Bandwidth profile is created successfully**.
+7. As soon as you click on the **Save** button, you will get a message on the screen that **Bandwidth profile is created successfully**.
 
    ![image-6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1baa9dab-7551-4064-94ca-b8e136342314)
 
