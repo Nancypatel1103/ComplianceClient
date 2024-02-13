@@ -25,7 +25,7 @@ Advanced settings typically encompass additional configurations beyond the basic
 Advanced Wi-Fi settings are essential for network administrators and power users who require more control, customization, and optimization options for their wireless networks. These settings can help enhance security, improve performance, and tailor the network to specific requirements and preferences.
 
 ## How to configure an Advanced
-1. Go to **SSIDs**. After going to **SSIDs** click on the edit button of **SSID**.
+1. Go to **SSIDs** menu. After going to **SSIDs** menu click on the edit button of **SSID**.
 
    ![image-1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/90180093-2f6a-4701-a396-3caf32d7265b)
 
