@@ -3,7 +3,8 @@ sidebar_position: 1
 ---
 # Advanced
 ## What is an Advanced
-Advanced settings typically refer to additional configurations beyond the basic setup. In the context of networking, it could involve fine-tuning parameters related to SSIDs, such as hiding the SSID, enabling features like band steering, or adjusting security measures like MAC address filtering.           
+Advanced settings typically encompass additional configurations beyond the basic setup. It may involve fine-tuning parameters related to the **SSIDs** menu, like hiding the SSID, enabling features such as band steering, or adjusting security measures like MAC address filtering. These settings provide more control, customization, and optimization options for wireless networks.                     
+
 **Hide SSID**: This feature allows users to hide the network's SSID (Service Set Identifier), making it invisible to devices scanning for Wi-Fi networks. While it doesn't provide robust security on its own, it can help deter casual users from attempting to connect to the network.    
 
 **WMM (Wi-Fi Multimedia**): WMM is a Wi-Fi Alliance certification that prioritizes network traffic based on application type, ensuring that time-sensitive data such as video and voice receive higher priority for smoother performance.   
@@ -40,7 +41,7 @@ Advanced Wi-Fi settings are essential for network administrators and power users
 
    ![image-4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/07d825b8-6e44-41de-b50a-b2c841653dba)
 
-5. After Clicking the Update button, you will get a message on the screen that **SSID details are updated successfully**.
+5. After Clicking the **Update** button, you will get a message on the screen that **SSID details are updated successfully**.
 
    ![image-5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e54bd3c4-ff67-4a0e-8261-da70a6241523)
 
