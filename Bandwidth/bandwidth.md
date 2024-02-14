@@ -25,10 +25,8 @@ Bandwidth limits are crucial to effectively manage Internet speeds, ensure fair 
 
 4. Fill in your details.   
    **Name**:- Enter your **Name** for **Ex:- nancy-demo**. Type the name you want to create here.       
-   **Upload**:- Enter **Upload Mbps** for **Ex:- 1Mbps**. The user will get the same speed as you enter in the **UPload**. If we keep 1Mbps then the user gets 1Mbps speed. 
-
-   **Download**:- Enter **Download Mbps** for **Ex:- 1Mbps**. The user will get the same speed as you enter in the **Download**. If we keep 1Mbps then the user gets 1Mbps speed.
-
+   **Upload**:- Enter **Upload Mbps** for **Ex:- 1Mbps**. By doing this step, the set **Upload Speed** will be available to the user.
+   **Download**:- Enter **Download Mbps** for **Ex:- 1Mbps**. By doing this step, the set **Download Speed** will be available to the user.
    **Organization**:- Choose your **organization** for **EX:- Document1**. Organization selection is done because if there is a similar organization, it comes by default. And keep the organization the same. 
 
    ![image-4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5626e93a-db31-4bd4-965c-040b27a64286)
