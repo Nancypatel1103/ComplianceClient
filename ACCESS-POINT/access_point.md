@@ -91,11 +91,11 @@ Logging, SNMP, Port Forwarding, Firmware, and Firmware can change the schedule**
 
    ![image-11](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e517987e-89d2-46b9-9088-2098cf6eb3a3)
 
-2. After click, a new window will open. There you will get a confirmation message. Click on the Delete button. 
+2. After click, a new window will open. There you will get a confirmation message. Click on the **Delete** button. 
 
    ![image-12](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/bc7c2ec5-99a2-475e-9000-fc5265a9db33)
 
-3. As soon as you click on Delete, you will get a message on the screen that the **Device is deleted successfully**.  
+3. As soon as you click on **Delete**, you will get a message on the screen that the **Device is deleted successfully**.  
 
    ![image-13](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8a91f685-5b6e-47a4-bea9-b6e4b8b6c4b3)   
 
