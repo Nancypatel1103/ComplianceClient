@@ -5,10 +5,10 @@ sidebar_position: 1
 # Bandwidth
 
 ## What is a Bandwidth Limit
-A bandwidth limit refers to the maximum rate of data transfer across a network connection within a specific timeframe. It is often measured in bits per second (bps), kilobits per second (kbps), megabits per second (Mbps), or gigabits per second (Gbps). Bandwidth limits can be imposed by internet service providers (ISPs), network administrators, or by the capabilities of the network hardware itself.
+A bandwidth limit refers to the maximum rate of data transfer across a network connection within a specific timeframe. It is often measured in bits per second (bps), kilobits per second (kbps), megabits per second (Mbps), or gigabits per second (Gbps). Bandwidth limits can be imposed by internet service providers (ISPs), network administrators, or the capabilities of the network hardware itself.
 
 ## Why do we need Bandwidth Limit
-Bandwidth limits are essential for managing network resources effectively. They help prevent network congestion by ensuring that data traffic remains within manageable levels, thereby maintaining optimal performance for all users. By imposing bandwidth limits, internet service providers can allocate resources fairly among their customers, preventing individual users from monopolizing bandwidth to the detriment of others. Additionally, bandwidth limits can help ISPs control network costs and optimize their infrastructure investments. Moreover, they promote responsible internet usage by discouraging excessive data consumption and encouraging efficient use of available resources. Overall, bandwidth limits play a crucial role in maintaining the stability, efficiency, and fairness of network operations.
+Bandwidth limits are crucial to effectively manage Internet speeds, ensure fair access for all users, and prevent any single user from monopolizing the available bandwidth. By setting bandwidth limits, administrators can control the speed of data transmission, and have flexibility. for **Ex:-** if the ISP is 200 MB if no limit is given, everything will use net speed. If there is more than one user, bandwidth limitation is used to manage them. Bandwidth limits are useful to prevent speed problems when everyone is using the same network at the same time so that everyone can enjoy and enjoy the same Internet speed.
 
 ## How to create Bandwidth Limit
 1. Go to **SSIDs** menu. After going to **SSIDs** menu click on the edit button of **SSID**. You can **Access Bandwidth profile** via **Access Point** sub-menu and you can access the **SSID** edit menu. 
@@ -25,9 +25,9 @@ Bandwidth limits are essential for managing network resources effectively. They 
 
 4. Fill in your details.   
    **Name**:- Enter your **Name** for **Ex:- nancy-demo**. Type the name you want to create here.       
-   **Upload**:- Enter **Upload Mbps** for **Ex:- 1Mbps**. Upload speed refers to the rate at which data is transmitted from a user's device to the internet or another network. It is an essential component of bandwidth limits, alongside download speed, which refers to the rate at which data is received by the user's device from the internet or network. Both upload and download speeds are measured in bits per second (bps), kilobits per second (kbps), megabits per second (Mbps), or gigabits per second (Gbps).                      
+   **Upload**:- Enter **Upload Mbps** for **Ex:- 1Mbps**. The user will get the same speed as you enter in the **UPload**. If we keep 1Mbps then the user gets 1Mbps speed. 
 
-   **Download**:- Enter **Download Mbps** for **Ex:- 1Mbps**. Download speed refers to the rate at which data is transferred from the internet or another network to a user's device. It is a fundamental aspect of bandwidth limits, alongside upload speed, which pertains to the rate at which data is transmitted from the user's device to the internet or network. Download speed is measured in bits per second (bps), kilobits per second (kbps), megabits per second (Mbps), or gigabits per second (Gbps).     
+   **Download**:- Enter **Download Mbps** for **Ex:- 1Mbps**. The user will get the same speed as you enter in the **Download**. If we keep 1Mbps then the user gets 1Mbps speed.
 
    **Organization**:- Choose your **organization** for **EX:- Document1**. Organization selection is done because if there is a similar organization, it comes by default. And keep the organization the same. 
 
