@@ -1034,5 +1034,5 @@ Response Body when the Device is already assigned to the User
   "errorCode": 0
 }
 ```
-< When CE is not assigned to any user. Then it doesn't get an authentication token. Authtoken is used to authorize CE devices for subsequent communication with other APIs.
+> When CE is not assigned to any user. Then it doesn't get an authentication token. Authtoken is used to authorize CE devices for subsequent communication with other APIs.
 
