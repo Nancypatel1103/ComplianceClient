@@ -11,6 +11,7 @@ Use of Register Request
 InfiniteClouds platform provides a POST request API to send register requests.
 
 ```HTTP          
+
 https://devicapi.elemprin.com/v1/device/registration    
 or
 https://devapi.gwcwifi.com/v1/device/registration
