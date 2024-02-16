@@ -1068,7 +1068,7 @@ keepAlive Response Body
   "errorCode": 0
 }
 ```
-> In the keepalive response file, configupdate shows false, if you do the configuration, then configupdate will show true here.
+> In the keepAlive response file, configupdate shows false, if you do the configuration, then configupdate will show true here.
 
 ## CE Register Request         
 
