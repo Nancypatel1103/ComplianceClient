@@ -1,7 +1,7 @@
 # AP-UTILITY-TOOL-CHECKING
 
 ## Register Request
-When the Device completes Device to Hub Communication, by that time, It will have an endpoint. Using `endpoint`, CE would make a register request.
+When the Device completes Device to Hub Communication, by that time, It will have an endpoint. Using `endpoint`, Device would make a register request.
 
 Use of Register Request
 - Report Device for the first time to the Cloud
@@ -1035,7 +1035,7 @@ Response Body when the Device is already assigned to the User
   "errorCode": 0
 }
 ```
-> When the Device is not assigned to any user. Then it doesn't get an authentication token. Authtoken is used to authorize CE devices for subsequent communication with other APIs.
+> When the Device is not assigned to any user. Then it doesn't get an authentication token. Authtoken is used to authorize  devices for subsequent communication with other APIs.
 
 ## Device Register Request         
 
@@ -1406,14 +1406,14 @@ InfiniteClouds Device runs a few services to communicate with InfiniteClouds. On
 - getEndPointUrl
 - register
 
-If `endpoint` is not set in UCI configuration, CE would not make an API call to `register`.  After a successful `register` request, If CE is assigned to a user, the `register` service will store `deviceId` and `authToken` in the UCI configuration. Stored values on CE can be read using the command
+If `endpoint` is not set in UCI configuration, The Device would not make an API call to `register`.  After a successful `register` request, If the Device is assigned to a user, the `register` service will store `deviceId` and `authToken` in the UCI configuration. Stored values on the Device can be read using the command
 
 ```bash
 uci get gwc.globals.device_id
 uci get gwc.globals.authToken
 
 ```
-If `device_id` and `authToken` are already set in the UCI configuration, CE would not make a `register` API call.
+If `device_id` and `authToken` are already set in the UCI configuration, Device would not make a `register` API call.
 
 ## Device also stored register requests and responses in files.
 
