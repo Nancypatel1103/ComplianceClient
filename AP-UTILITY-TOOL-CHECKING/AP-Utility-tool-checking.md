@@ -1,10 +1,10 @@
 # AP-UTILITY-TOOL-CHECKING
 
 ## Register Request
-When CE completed CE to Hub Communication, by that time, It would have an endpoint. Using `endpoint`, CE would make a register request.
+When the Device completes Device to Hub Communication, by that time, It will have an endpoint. Using `endpoint`, CE would make a register request.
 
 Use of Register Request
-- Report CE for the first time to the Cloud
+- Report Device for the first time to the Cloud
 - Get an authentication token from the cloud for communication
 
 ## InfiniteClouds Register API
@@ -1035,44 +1035,11 @@ Response Body when the Device is already assigned to the User
   "errorCode": 0
 }
 ```
-> When CE is not assigned to any user. Then it doesn't get an authentication token. Authtoken is used to authorize CE devices for subsequent communication with other APIs.
+> When the Device is not assigned to any user. Then it doesn't get an authentication token. Authtoken is used to authorize CE devices for subsequent communication with other APIs.
 
-keepAlive Request Body
-``` json
-{
-  "statusType": "keepAlive",
-  "deviceId": "6593d5d8d9f18000481a4aa9",
-  "deviceType": "CE",
-  "machineId": "c4:4b:d1:a0:32:c2",
-  "macAddress": "c4:4b:d1:a0:32:c1",
-  "timestamp": 1704472804,
-  "config": {
-    "revisionId": "a65d5d43-0fb5-4416-b42e-de16f5537aec"
-  }
-}
-```
-keepAlive Response Body
-``` json
-{
-  "data": {
-    "triggerEvent": {
-      "configUpdate": false,
-      "firmwareUpdate": false,
-      "commands": []
-    }
-  },
-  "message": "success",
-  "status": 200,
-  "errors": false,
-  "httpCode": 200,
-  "errorCode": 0
-}
-```
-> In the keepAlive response file, configupdate shows false, if you do the configuration, then configupdate will show true here.
+## Device Register Request         
 
-## CE Register Request         
-
-Before calling register API, CE generates the register request body by generating required data like MAC Address, Machine ID, DeviceMetaInfo, and Interfaces list into a file called `/tmp/last_register_request.json`        
+Before calling register API, the Device generates the register request body by generating required data like MAC Address, Machine ID, DeviceMetaInfo, and Interfaces list into a file called `/tmp/last_register_request.json`        
 `register` request can be tested using the `curl` command. You can take Request Body as a reference and change values as per your need.     
 
 ```bash
@@ -1417,9 +1384,9 @@ curl -X 'POST' \
   ]
 }'
 ```
-## CE Backend Process
+## Device Backend Process
 
-InfiniteClouds CE runs a few services to communicate with InfiniteClouds. One such service is the `register` service.
+InfiniteClouds Device runs a few services to communicate with InfiniteClouds. One such service is the `register` service.
 
 ## Start Register Service
 ```bash
@@ -1435,7 +1402,7 @@ InfiniteClouds CE runs a few services to communicate with InfiniteClouds. One su
 ```bash
 /etc/init.d/register status
 ```
-`register` service on CE takes care of two jobs.
+`register` service on the Device takes care of two jobs.
 - getEndPointUrl
 - register
 
@@ -1448,7 +1415,7 @@ uci get gwc.globals.authToken
 ```
 If `device_id` and `authToken` are already set in the UCI configuration, CE would not make a `register` API call.
 
-## CE also stored register requests and responses in files.
+## Device also stored register requests and responses in files.
 
 Endpoint Request Body: `/tmp/last_register_request.json`                     
 Endpoint Response Body: `/tmp/last_register_response.json`                
