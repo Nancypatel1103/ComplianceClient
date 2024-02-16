@@ -1017,7 +1017,7 @@ Request Body
   ]
 }
 ```
-Response Body when the Device is already assigned to the User
+Response Body when the Device is already assigned to the User      
 ```json
 {
   "data": {
@@ -1037,3 +1037,419 @@ Response Body when the Device is already assigned to the User
 ```
 > When CE is not assigned to any user. Then it doesn't get an authentication token. Authtoken is used to authorize CE devices for subsequent communication with other APIs.
 
+keepAlive Request Body
+``` json
+{
+  "statusType": "keepAlive",
+  "deviceId": "6593d5d8d9f18000481a4aa9",
+  "deviceType": "CE",
+  "machineId": "c4:4b:d1:a0:32:c2",
+  "macAddress": "c4:4b:d1:a0:32:c1",
+  "timestamp": 1704472804,
+  "config": {
+    "revisionId": "a65d5d43-0fb5-4416-b42e-de16f5537aec"
+  }
+}
+```
+keepAlive Response Body
+``` json
+{
+  "data": {
+    "triggerEvent": {
+      "configUpdate": false,
+      "firmwareUpdate": false,
+      "commands": []
+    }
+  },
+  "message": "success",
+  "status": 200,
+  "errors": false,
+  "httpCode": 200,
+  "errorCode": 0
+}
+```
+> In the keepalive response file, configupdate shows false, if you do the configuration, then configupdate will show true here.
+
+## CE Register Request         
+
+Before calling register API, CE generates the register request body by generating required data like MAC Address, Machine ID, DeviceMetaInfo, and Interfaces list into a file called `/tmp/last_register_request.json`        
+`register` request can be tested using the `curl` command. You can take Request Body as a reference and change values as per your need.     
+
+```bash
+curl -X 'POST' \
+  'https://devapi.gwcwifi.com/v1/device/registration' \
+  -H 'accept: application/json' \
+  -H 'Content-Type: application/json' \
+  -d '{
+  "deviceMetaInfo": {
+    "deviceModel": "Infinite_313",
+    "deviceType": "CF"
+  },
+  "deviceName": "deviceName1",
+  "macAddress": "00:50:56:bb:c2:5d",
+  "machineId": "c8da3b42-66aa-6b31-ab58-b7fcc744730f",
+  "interfaces": [
+    {
+      "name": "ath10",
+      "interfaceName": "ath10",
+      "addresses": [],
+      "wireless": {
+        "noise": -95,
+        "ssid": "Infinite 313 2.4Ghz",
+        "country": "BH",
+        "assoclist": {},
+        "encyption": {
+          "enabled": true,
+          "auth_algs": {},
+          "description": "WPA2 PSK (CCMP)",
+          "wep": false,
+          "auth_suites": [
+            "PSK"
+          ],
+          "wpa": 2,
+          "pair_ciphers": [
+            "CCMP"
+          ],
+          "group_ciphers": [
+            "CCMP"
+          ]
+        },
+        "frequency": 2.412,
+        "bitrate": 573,
+        "txpower": 20,
+        "signal": 1,
+        "channel": 1,
+        "ifname": "ath10",
+        "mode": "Master",
+        "bssid": "c4:4b:d1:00:7f:cf",
+        "quality": 31
+      }
+    },
+    {
+      "name": "ath11",
+      "interfaceName": "ath11",
+      "addresses": [],
+      "wireless": {
+        "noise": -95,
+        "ssid": "Infinite 313 Ground Floor 5 Ghz",
+        "country": "BH",
+        "assoclist": {},
+        "encyption": {
+          "enabled": true,
+          "auth_algs": {},
+          "description": "mixed WPA/WPA2 PSK (TKIP, CCMP)",
+          "wep": false,
+          "auth_suites": [
+            "PSK"
+          ],
+          "wpa": 3,
+          "pair_ciphers": [
+            "TKIP",
+            "CCMP"
+          ],
+          "group_ciphers": [
+            "TKIP"
+          ]
+        },
+        "frequency": 2.412,
+        "bitrate": 573,
+        "txpower": 20,
+        "signal": 1,
+        "channel": 1,
+        "ifname": "ath11",
+        "mode": "Master",
+        "bssid": "ca:4b:d1:00:7f:cf",
+        "quality": 31
+      }
+    },
+    {
+      "name": "br-lan",
+      "interfaceName": "br-lan",
+      "addresses": [
+        {
+          "address": "192.168.1.1",
+          "netmask": "255.255.255.0"
+        }
+      ]
+    },
+    {
+      "name": "br-wan",
+      "interfaceName": "br-wan",
+      "addresses": [
+        {
+          "address": "192.168.10.22",
+          "netmask": "255.255.255.0"
+        }
+      ]
+    },
+    {
+      "name": "eth0",
+      "interfaceName": "eth0",
+      "addresses": []
+    },
+    {
+      "name": "eth1",
+      "interfaceName": "eth1",
+      "addresses": []
+    },
+    {
+      "name": "eth2",
+      "interfaceName": "eth2",
+      "addresses": []
+    },
+    {
+      "name": "eth3",
+      "interfaceName": "eth3",
+      "addresses": []
+    },
+    {
+      "name": "eth4",
+      "interfaceName": "eth4",
+      "addresses": []
+    },
+    {
+      "name": "eth5",
+      "interfaceName": "eth5",
+      "addresses": []
+    },
+    {
+      "name": "wifi0",
+      "interfaceName": "wifi0",
+      "addresses": [],
+      "htmodelist": [
+        "HT20",
+        "HT40",
+        "HT80",
+        "HT160"
+      ],
+      "channellist": [
+        {
+          "channel": 36,
+          "frequency": "5.180"
+        },
+        {
+          "channel": 40,
+          "frequency": "5.200"
+        },
+        {
+          "channel": 44,
+          "frequency": "5.220"
+        },
+        {
+          "channel": 48,
+          "frequency": "5.240"
+        },
+        {
+          "channel": 52,
+          "frequency": "5.260"
+        },
+        {
+          "channel": 56,
+          "frequency": "5.280"
+        },
+        {
+          "channel": 60,
+          "frequency": "5.300"
+        },
+        {
+          "channel": 64,
+          "frequency": "5.320"
+        },
+        {
+          "channel": 149,
+          "frequency": "5.745"
+        },
+        {
+          "channel": 153,
+          "frequency": "5.765"
+        },
+        {
+          "channel": 157,
+          "frequency": "5.785"
+        },
+        {
+          "channel": 161,
+          "frequency": "5.805"
+        },
+        {
+          "channel": 165,
+          "frequency": "5.825"
+        }
+      ],
+      "txpowerlist": {
+        "1": 1,
+        "2": 4,
+        "3": 5,
+        "5": 7,
+        "6": 8,
+        "7": 9,
+        "10": 10,
+        "12": 11,
+        "15": 12,
+        "19": 13,
+        "25": 14,
+        "31": 15,
+        "39": 16,
+        "50": 17,
+        "63": 18,
+        "79": 19,
+        "100": 20,
+        "125": 21,
+        "158": 22,
+        "199": 23,
+        "251": 24,
+        "316": 25,
+        "398": 26,
+        "501": 27,
+        "630": 28,
+        "794": 29,
+        "1000": 30
+      },
+      "bandlist": [
+        "5GHz"
+      ],
+      "channel": 0,
+      "htmode": "HT80",
+      "txpower": 20,
+      "country": 48,
+      "band": "5GHz"
+    },
+    {
+      "name": "wifi1",
+      "interfaceName": "wifi1",
+      "addresses": [],
+      "htmodelist": [
+        "HT20",
+        "HT40"
+      ],
+      "channellist": [
+        {
+          "channel": 1,
+          "frequency": "2.412"
+        },
+        {
+          "channel": 2,
+          "frequency": "2.417"
+        },
+        {
+          "channel": 3,
+          "frequency": "2.422"
+        },
+        {
+          "channel": 4,
+          "frequency": "2.427"
+        },
+        {
+          "channel": 5,
+          "frequency": "2.432"
+        },
+        {
+          "channel": 6,
+          "frequency": "2.437"
+        },
+        {
+          "channel": 7,
+          "frequency": "2.442"
+        },
+        {
+          "channel": 8,
+          "frequency": "2.447"
+        },
+        {
+          "channel": 9,
+          "frequency": "2.452"
+        },
+        {
+          "channel": 10,
+          "frequency": "2.457"
+        },
+        {
+          "channel": 11,
+          "frequency": "2.462"
+        },
+        {
+          "channel": 12,
+          "frequency": "2.467"
+        },
+        {
+          "channel": 13,
+          "frequency": "2.472"
+        }
+      ],
+      "txpowerlist": {
+        "1": 1,
+        "2": 4,
+        "3": 5,
+        "5": 7,
+        "6": 8,
+        "7": 9,
+        "10": 10,
+        "12": 11,
+        "15": 12,
+        "19": 13,
+        "25": 14,
+        "31": 15,
+        "39": 16,
+        "50": 17,
+        "63": 18,
+        "79": 19,
+        "100": 20,
+        "125": 21,
+        "158": 22,
+        "199": 23,
+        "251": 24,
+        "316": 25,
+        "398": 26,
+        "501": 27,
+        "630": 28,
+        "794": 29,
+        "1000": 30
+      },
+      "bandlist": [
+        "2GHz"
+      ],
+      "channel": 0,
+      "htmode": "HT20",
+      "txpower": 20,
+      "country": 48,
+      "band": "2GHz"
+    }
+  ]
+}'
+```
+## CE Backend Process
+
+InfiniteClouds CE runs a few services to communicate with InfiniteClouds. One such service is the `register` service.
+
+## Start Register Service
+```bash
+/etc/init.d/register start
+```
+## Stop Register Service
+
+```bash
+/etc/init.d/register stop
+```
+## Check Register Service
+
+```bash
+/etc/init.d/register status
+```
+`register` service on CE takes care of two jobs.
+- getEndPointUrl
+- register
+
+If `endpoint` is not set in UCI configuration, CE would not make an API call to `register`.  After a successful `register` request, If CE is assigned to a user, the `register` service will store `deviceId` and `authToken` in the UCI configuration. Stored values on CE can be read using the command
+
+```bash
+uci get gwc.globals.device_id
+uci get gwc.globals.authToken
+
+If `device_id` and `authToken` are already set in the UCI configuration, CE would not make a `register` API call.
+
+# CE also stored register requests and responses in files.
+
+Endpoint Request Body: `/tmp/last_register_request.json`
+Endpoint Response Body: `/tmp/last_register_response.json`
+
+```
