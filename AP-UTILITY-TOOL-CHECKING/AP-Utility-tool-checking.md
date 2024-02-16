@@ -1448,9 +1448,9 @@ uci get gwc.globals.authToken
 ```
 If `device_id` and `authToken` are already set in the UCI configuration, CE would not make a `register` API call.
 
-# CE also stored register requests and responses in files.
+## CE also stored register requests and responses in files.
 
-Endpoint Request Body: `/tmp/last_register_request.json`
-Endpoint Response Body: `/tmp/last_register_response.json`
+Endpoint Request Body: `/tmp/last_register_request.json`                     
+Endpoint Response Body: `/tmp/last_register_response.json`                
 
 
