@@ -72,7 +72,7 @@ Response Body when config and firmware update.
 Before calling Keepalive API, the Device generates the keepalive request body by generating required data like  MAC Address, Machine ID, and Interfaces list into a file called `/tmp/last_keepAlive_request.json`
 
 The `keepAlive` request can be tested using the `curl` command. You can take Request Body as a reference and change values as per your need.
-The curl command is found in the main script /usr/bin/hiclouds_keepalive.sh. Without authToken and device id command not running. Device id and authToken are found in `/tmp/last_register_response.json`.
+The curl command is found in the main script /usr/bin/gwc_keepalive.sh. Without authToken and device id command not running. Device id and authToken are found in `/tmp/last_register_response.json`.
 
 ``` bash
 curl -k -H 'Content-Type: application/json' -H 'Authorization: Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI2NDExNmQzYWU1Mjg2NTU5MTViNmU0NWI6OmNlOjo2MGZiNDQ
