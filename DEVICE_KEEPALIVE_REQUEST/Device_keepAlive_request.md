@@ -65,6 +65,7 @@ Response Body when config and firmware update.
   "errorCode": 0
 }
 ```
+> Here is the config update it will be true only when some changes are made in cloud-config.
 > When a device is not assigned to any user, it does not receive an authToken. The authToken is used to authorize devices for subsequent communication to other APIs.
 
 ## Device KeepAlive Request
