@@ -1,11 +1,11 @@
 # Device-Cloud Communication
 # KeepAvlive Request
 
-When the Device is registered, after going through the Assigned, after going through the deviceId and authToken matchup, Device would make Keepalive request for whether the device is on or off. 
+When the Device is registered, after going through the Assigned, after going through the deviceId and authToken matchup, the Device would make a Keepalive request for whether the device is on or off. 
 
 Use of Keepalive Request
 
-- trigger event for config update, firmware update and status check on or off.
+- trigger event for config update, firmware update, and status check on or off.
 
 ## InfiniteClouds KeepAlive API
 
