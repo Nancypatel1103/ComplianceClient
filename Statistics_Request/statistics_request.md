@@ -271,9 +271,9 @@ Response Body when config update.
   "errorCode": 0
 }
 ```
-## Device config Request
+## Device Statistics Request
 
-Before calling the status API, the Device generates a status request body by generating required data like  MAC Address, Machine ID, and Interfaces list into a file called `/tmp/last_config_request.json`
+Before calling the status API, the Device generates a status request body by generating required data like  MAC Address, Machine ID, and Interfaces list into a file called `/tmp/last_statistics_request.json`
 
 The `Statistics` request can be tested using the `curl` command. You can take Request Body as a reference and change values as per your need.
 The curl command is found in the main script /usr/bin/cgw_config.sh. 
