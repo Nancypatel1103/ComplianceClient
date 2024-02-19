@@ -254,7 +254,7 @@ Response Body
 }
 
 ```
-Response Body when config and firmware update.
+Response Body when config update.
 ```json
 {
   "data": {
