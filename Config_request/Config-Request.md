@@ -811,7 +811,6 @@ Response Body status send
 }
 
 ```
-> When the device is not assigned to any user. So there it doesn't get authToken. The autoToken is used to authorize the device for subsequent communication with other APIs
 
 ## Device config Request
 
