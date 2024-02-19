@@ -94,7 +94,7 @@ The `keepalive` service Device takes care of two jobs.
 1. get a status check of devices
 2. trigger when config and firmware update 
 
-The device also stored keepAlive requests and responses in files.
+## The device also stored keepAlive requests and responses in files.
 
 Endpoint Request Body: `/tmp/last_keepAlive_request.json`
 
