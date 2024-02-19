@@ -6,7 +6,7 @@ Use of Statistics Request
 
 - For statistics update
 
-## InfiniteClouds config API
+## InfiniteClouds Statistics API
 
 InfiniteClouds platform provides a POST request API to send register requests.
 ```
