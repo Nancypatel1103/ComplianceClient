@@ -271,6 +271,8 @@ Response Body when config update.
   "errorCode": 0
 }
 ```
+> When we do the configuration, it will be true in the statistics configupdate here.
+
 ## Device Statistics Request
 
 Before calling the status API, the Device generates a status request body by generating required data like  MAC Address, Machine ID, and Interfaces list into a file called `/tmp/last_statistics_request.json`
