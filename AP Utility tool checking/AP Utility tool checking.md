@@ -11,15 +11,15 @@
 
 ## Access over default SSID after connecting to default SSID
 - **SSID** is not present by default when connecting a device.
-- If there is no **SSID** by default, Wi-Fi Connect will have a generic **SSID**. connect there **GWC and Infinite**.
+- If there is no **SSID** by default, Wi-Fi Connect will have a generic **SSID**. connect there **GWC and Infinite For ex:- GWC-A032C1-5G and GWC-A032C1-2.4G** .
 - This way you will see the **SSID**. In its password, the device that says **A032C1** will have 0-0 before and after it. such as **0A032C10**.   
 
    ![image-1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8c5b8b94-569d-4a66-ade9-5e9aa61d567a)
 
 
 ## Access over ethernet over an IP Address
-- command:- ` /ssh 192.168.60.1`
-- Ping command:- `/ ping 192.168.111.3`
+- command:- ` ssh 192.168.60.1`
+- Ping command:- `ping 192.168.111.3`
 
 ```
 PING 192.168.111.3 (192.168.111.3): 56 data bytes
@@ -49,7 +49,8 @@ round-trip min/avg/max = 0.126/0.167/0.280 ms
 # Client to Wi-Fi Authentication Failure
 
 ## Check AP logs from AP native UI or command line using a command.
+When a client connects to an AP, the device requires it to be connected to the device mobile. Then to check the log it has to be disconnected i.e. offline. Then the following command will be used to check the log.
 
-AP native UI Body:- `/logread `
-AP native UI for Message Body:- `/logread -f `
+AP native UI Body:- `logread `              
+AP native UI for Message Body:- `logread -f `          
 
