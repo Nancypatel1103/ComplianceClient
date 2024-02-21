@@ -11,7 +11,7 @@
 
 ## Access over default SSID after connecting to default SSID
 - **SSID** is not present by default when connecting a device.
-- If there is no **SSID** by default, Wi-Fi Connect will have a generic **SSID**. connect there **GWC and Infinite For ex:- GWC-A032C1-5G and GWC-A032C1-2.4G** .
+- If there is no **SSID** by default, Wi-Fi Connect will have a generic **SSID**. connect there **GWC and Infinite**. For **ex:- GWC-A032C1-5G and GWC-A032C1-2.4G** .
 - This way you will see the **SSID**. In its password, the device that says **A032C1** will have 0-0 before and after it. such as **0A032C10**.   
 
    ![image-1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8c5b8b94-569d-4a66-ade9-5e9aa61d567a)
