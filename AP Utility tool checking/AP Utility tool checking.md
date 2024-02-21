@@ -17,24 +17,23 @@
 - command:- ` /ssh 192.168.60.1`
 - Ping command:- `/ ping 192.168.111.3`
 
-  ```
-  PING 192.168.111.3 (192.168.111.3): 56 data bytes
-64 bytes from 192.168.111.3: seq=0 ttl=64 time=0.280 ms
-64 bytes from 192.168.111.3: seq=1 ttl=64 time=0.130 ms
-64 bytes from 192.168.111.3: seq=2 ttl=64 time=0.149 ms
-64 bytes from 192.168.111.3: seq=3 ttl=64 time=0.161 ms
-64 bytes from 192.168.111.3: seq=4 ttl=64 time=0.159 ms
-64 bytes from 192.168.111.3: seq=5 ttl=64 time=0.132 ms
-64 bytes from 192.168.111.3: seq=6 ttl=64 time=0.171 ms
-64 bytes from 192.168.111.3: seq=7 ttl=64 time=0.163 ms
-64 bytes from 192.168.111.3: seq=8 ttl=64 time=0.153 ms
-64 bytes from 192.168.111.3: seq=9 ttl=64 time=0.163 ms
-64 bytes from 192.168.111.3: seq=10 ttl=64 time=0.223 ms
-64 bytes from 192.168.111.3: seq=11 ttl=64 time=0.126 ms
-^C
---- 192.168.111.3 ping statistics ---
-12 packets transmitted, 12 packets received, 0% packet loss
-round-trip min/avg/max = 0.126/0.167/0.280 ms
-
+```
+PING 192.168.111.3 (192.168.111.3): 56 data bytes
+64 bytes from 192.168.111.3: seq=0 ttl=64 time=0.280 ms    
+64 bytes from 192.168.111.3: seq=1 ttl=64 time=0.130 ms       
+64 bytes from 192.168.111.3: seq=2 ttl=64 time=0.149 ms      
+64 bytes from 192.168.111.3: seq=3 ttl=64 time=0.161 ms           
+64 bytes from 192.168.111.3: seq=4 ttl=64 time=0.159 ms       
+64 bytes from 192.168.111.3: seq=5 ttl=64 time=0.132 ms         
+64 bytes from 192.168.111.3: seq=6 ttl=64 time=0.171 ms      
+64 bytes from 192.168.111.3: seq=7 ttl=64 time=0.163 ms     
+64 bytes from 192.168.111.3: seq=8 ttl=64 time=0.153 ms     
+64 bytes from 192.168.111.3: seq=9 ttl=64 time=0.163 ms       
+64 bytes from 192.168.111.3: seq=10 ttl=64 time=0.223 ms      
+64 bytes from 192.168.111.3: seq=11 ttl=64 time=0.126 ms        
+^C    
+--- 192.168.111.3 ping statistics ---            
+12 packets transmitted, 12 packets received, 0% packet loss          
+round-trip min/avg/max = 0.126/0.167/0.280 ms       
 ```
   
