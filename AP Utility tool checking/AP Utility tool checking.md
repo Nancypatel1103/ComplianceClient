@@ -39,8 +39,9 @@ PING 192.168.111.3 (192.168.111.3): 56 data bytes
 12 packets transmitted, 12 packets received, 0% packet loss          
 round-trip min/avg/max = 0.126/0.167/0.280 ms       
 ```
-- UI login                
-  To log into the UI, it is necessary to provide the IP of the AP in the browser. If you give the IP of the AP, the login page will open.
+- UI login:-            
+
+   To log into the UI, it is necessary to provide the IP of the AP in the browser. If you give the IP of the AP, the login page will open.
   ![image-2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/bd83b5cf-a38c-4d42-8fdc-a254d822bcaf)
 
 
