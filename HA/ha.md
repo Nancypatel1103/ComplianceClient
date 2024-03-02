@@ -94,7 +94,7 @@
 
     ![image-20](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b5dcb54c-2e9f-4c64-a33e-dcd22d749c30)
 
-21. Fill up the details to create interface.
+21. Fill up the details to create an interface.
     **Name**: Enter the **Name** for **Ex:eth0**.                                                             
     **Address**: Enter the **Address** for **Ex:192.168.1.101**.                                            
     **Device**: Enter the **Device** for **Ex:eth0**.                                                             
@@ -107,7 +107,7 @@
 
      ![image-22](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c9cf1d08-6e49-4686-8ecb-54eae13da3e9)
 
-23. Add and create eth2 interface in the same way as you created interface for eth0.
+23. Add and create an eth2 interface in the same way as you created an interface for eth0.
    **Name**: Enter the **Name** for **ex eth2**.                                                                         
    **Address**: Enter the **Address** for **ex 172.30.1.254**.                                                                       
    **Device**: Enter the **Device** for **ex eth2**.                                                                          
@@ -163,11 +163,28 @@
 
     ![image-32](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1b8525e3-a86a-4709-85fb-f017b324f6cc)
 
-35. After **Instance** a new window will open. Click on **ADD** button.
+35. After **Instance** a new window will open. Click on the **ADD** button.
 
     ![image-33](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/bb4c4ea7-498e-46dc-9ed9-4f9617fd822e)
 
-36. 
+36. Fill up the details
+    **Name**: Enter the **Name** for **Ex:Master**.
+    **State**:Enter the **State** for **Ex:Master**.
+    **Interface**: Select the **Interface** for **Ex:eth1**.
+    **Virtual Router ID**: Enter the **Virtual Router ID** for **Ex:100**.
+    **Priority**: Enter the **Priority** for **Ex:100**.
+    **Interval**: Enter the **Interval** for **Ex:1**.
+    **Disable Preempt**: Enter the **Disable Preempt** for **Ex:NA**.
+    **Virtual IP Address**: Select the **Virtual IP Address**. Navigate Select eth0,eth2.
+
+    ![image-34](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6b2dd9ff-cb5a-4b2a-a600-81c9ed959e85)
+
+37. Click on **Save** button.
+
+    ![image-35](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/121c2091-9c77-44bc-9243-dd135ad76555)
+
+    
+
     
 
 
