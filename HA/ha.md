@@ -168,14 +168,14 @@
     ![image-33](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/bb4c4ea7-498e-46dc-9ed9-4f9617fd822e)
 
 36. Fill up the details
-    **Name**: Enter the **Name** for **Ex:Master**.
-    **State**:Enter the **State** for **Ex:Master**.
-    **Interface**: Select the **Interface** for **Ex:eth1**.
-    **Virtual Router ID**: Enter the **Virtual Router ID** for **Ex:100**.
-    **Priority**: Enter the **Priority** for **Ex:100**.
-    **Interval**: Enter the **Interval** for **Ex:1**.
-    **Disable Preempt**: Enter the **Disable Preempt** for **Ex:NA**.
-    **Virtual IP Address**: Select the **Virtual IP Address**. Navigate Select eth0,eth2.
+    **Name**: Enter the **Name** for **Ex:Master**.              
+    **State**:Enter the **State** for **Ex:Master**.            
+    **Interface**: Select the **Interface** for **Ex:eth1**.               
+    **Virtual Router ID**: Enter the **Virtual Router ID** for **Ex:100**.           
+    **Priority**: Enter the **Priority** for **Ex:100**.               
+    **Interval**: Enter the **Interval** for **Ex:1**.             
+    **Disable Preempt**: Enter the **Disable Preempt** for **Ex:NA**.               
+    **Virtual IP Address**: Select the **Virtual IP Address**. Navigate Select eth0,eth2.           
 
     ![image-34](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6b2dd9ff-cb5a-4b2a-a600-81c9ed959e85)
 
