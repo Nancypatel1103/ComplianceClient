@@ -320,9 +320,7 @@ root@Master_node1:~# ip addr show
     inet 192.168.254.2/24 brd 192.168.254.255 scope global eth3
        valid_lft forever preferred_lft forever
     inet6 fe80::a00:27ff:fe3b:e7b0/64 scope link 
-       valid_lft forever preferred_lft forever
-
-    ```
+       valid_lft forever preferred_lft forever ```
 
 
 
