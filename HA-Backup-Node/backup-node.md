@@ -172,15 +172,15 @@
 
     ![image-33](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/89b068b8-7fe4-4599-bb79-cabb0917d1ad)
 
-36. Fill up the details
-    **Name**: Enter the **Name** for **Ex:Backup**.
-    **State**:Enter the **State** for **Ex:Backup**.
-    **Interface**: Select the **Interface** for **Ex:eth1**.
-    **Virtual Router ID**: Enter the **Virtual Router ID** for **Ex:100**.
-    **Priority**: Enter the **Priority** for **Ex:100**.
-    **Interval**: Enter the **Interval** for **Ex:1**.
-    **Disable Preempt**: Enter the **Disable Preempt** for **Ex:NA**.
-    **Virtual IP Address**: Select the **Virtual IP Address**. Navigate Select **eth0,eth2**.
+36. Fill up the details               
+    **Name**: Enter the **Name** for **Ex:Backup**.                  
+    **State**:Enter the **State** for **Ex:Backup**.               
+    **Interface**: Select the **Interface** for **Ex:eth1**.                 
+    **Virtual Router ID**: Enter the **Virtual Router ID** for **Ex:100**.               
+    **Priority**: Enter the **Priority** for **Ex:100**.                  
+    **Interval**: Enter the **Interval** for **Ex:1**.                  
+    **Disable Preempt**: Enter the **Disable Preempt** for **Ex:NA**.                       
+    **Virtual IP Address**: Select the **Virtual IP Address**. Navigate Select **eth0,eth2**.               
 
     ![image-34](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c082e605-9218-4127-b223-6b2abc14828a)              
 
