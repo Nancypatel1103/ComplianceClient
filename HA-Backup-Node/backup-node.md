@@ -226,7 +226,7 @@
  ps | grep keep
  5988 root      3428 S    {keepalive.sh} /bin/sh /usr/bin/keepalive.sh
  9677 edge      1120 R    grep keep
- ```
+   ```
 46. Verify Overview Status. Check if the status on both Master_node and Backup_node matches the expected status as provided.
 47. Now go to **Services** menu and click on **Keepalived**.
 
