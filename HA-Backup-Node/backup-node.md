@@ -38,7 +38,7 @@
    ![image-7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/dc943312-b04d-414b-9d0a-c5f64822dc14)
 
 
-8. A new window will open there. Add **use custom DNS servers** there, enter and click on **plus**, it will be added.              
+8. A new window will open there. Add **use custom DNS servers** there, enter and click on **+** icon, it will be added.              
 
    ![image-8](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/3905481e-7523-4714-b46e-f48764856461)
 
