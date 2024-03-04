@@ -248,9 +248,9 @@ root@Backup_node:~# ip addr show
     link/ipip 0.0.0.0 brd 0.0.0.0
 4: ip6_vti0@NONE: <NOARP> mtu 1332 qdisc noop state DOWN group default qlen 1000
     link/tunnel6 :: brd :: permaddr 1e03:c9a5:3074::
-<code> 5: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+5: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
     link/ether 08:00:27:92:4b:a8 brd ff:ff:ff:ff:ff:ff
-    inet <code>192.168.1.103/24</code> brd 192.168.1.255 scope global eth0
+    inet 192.168.1.103/24 brd 192.168.1.255 scope global eth0
        valid_lft forever preferred_lft forever
     inet6 fe80::a00:27ff:fe92:4ba8/64 scope link 
        valid_lft forever preferred_lft forever
@@ -267,7 +267,7 @@ root@Backup_node:~# ip addr show
     inet 192.168.254.2/24 brd 192.168.254.255 scope global eth3
        valid_lft forever preferred_lft forever
     inet6 fe80::a00:27ff:fe3b:e7b0/64 scope link 
-       valid_lft forever preferred_lft forever </code>
+       valid_lft forever preferred_lft forever 
   ```
      
 
