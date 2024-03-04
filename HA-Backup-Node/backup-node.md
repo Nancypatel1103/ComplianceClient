@@ -35,7 +35,7 @@
 
 7. Go to **Advance setting**.                                                                                         
 
-   ![image-7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/57cbdbc7-41fe-4c69-98ce-e5bacb6aeb80)
+   ![image-7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/dc943312-b04d-414b-9d0a-c5f64822dc14)
 
 
 8. A new window will open there. Add **use custom DNS servers** there, enter and click on **plus**, it will be added.              
@@ -71,7 +71,7 @@
     ![image-13](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/cf613d8c-20b9-458c-87c9-e530d52c7dd9)
 
 14. Click on **Save** button.
-    ![image-14](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5f91541a-2b96-41e1-92ff-07c0a05a9584)
+    ![image-14](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b6c3c0f1-5d40-44c2-a49e-054ab7e0d7a0)
 
 15. Then go to the **Services** menu. Go to **Keepalived** inside the **Services** menu.
 
