@@ -222,11 +222,11 @@
     ![image-42](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4fd4e511-555d-40de-a067-22e31d04feba)
 
 45. Check service status in CE Command line **ps | grep keep**.
-
+```
  ps | grep keep
  5988 root      3428 S    {keepalive.sh} /bin/sh /usr/bin/keepalive.sh
  9677 edge      1120 R    grep keep. 
-
+```
 46. Verify Overview Status. Check if the status on both Master_node and Backup_node matches the expected status as provided.
 47. Now go to **Services** menu and click on **Keepalived**.
 
