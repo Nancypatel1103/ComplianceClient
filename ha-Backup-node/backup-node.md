@@ -1,6 +1,6 @@
 # Interface Configuration on Backup_node:
 
-1.	Login to the UI of Master_node using the provided IP address.                                                                                                          
+1.	Login to the UI of Master_node using the provided IP address.                                                                                                           
 
   	![image-1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/dea0fb31-1c67-494c-969d-e13deb067786)               
 
