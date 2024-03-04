@@ -222,17 +222,18 @@
     ![image-42](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4fd4e511-555d-40de-a067-22e31d04feba)
 
 45. Check service status in CE Command line **ps | grep keep**.
-    ```
+```
  ps | grep keep
  5988 root      3428 S    {keepalive.sh} /bin/sh /usr/bin/keepalive.sh
- 9677 edge      1120 R    grep keep
-   ```
+ 9677 edge      1120 R    grep keep  ```
+
 46. Verify Overview Status. Check if the status on both Master_node and Backup_node matches the expected status as provided.
 47. Now go to **Services** menu and click on **Keepalived**.
 
     ![image-43](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/dd7c7691-431b-48e7-aa58-4c8d5be78c05)
 
 48. Turn off Master_node. Check the Overview Status on Backup_node to ensure it transitions to MASTER/BACKUP state. Verify the updated IP addresses using the IP addr show command on Backup_node's terminal.
+
 ```
 root@Backup_node:~# ip addr show
 1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
@@ -268,7 +269,7 @@ root@Backup_node:~# ip addr show
     inet6 fe80::a00:27ff:fe3b:e7b0/64 scope link 
        valid_lft forever preferred_lft forever
 
-      ```
+  ```
      
 
 
