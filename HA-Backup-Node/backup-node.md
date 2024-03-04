@@ -222,10 +222,10 @@
     ![image-42](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4fd4e511-555d-40de-a067-22e31d04feba)
 
 45. Check service status in CE Command line **ps | grep keep**.
-```
+
  ps | grep keep
  5988 root      3428 S    {keepalive.sh} /bin/sh /usr/bin/keepalive.sh
- 9677 edge      1120 R    grep keep. ```
+ 9677 edge      1120 R    grep keep. 
 
 46. Verify Overview Status. Check if the status on both Master_node and Backup_node matches the expected status as provided.
 47. Now go to **Services** menu and click on **Keepalived**.
@@ -248,21 +248,21 @@ root@Backup_node:~# ip addr show
     link/ipip 0.0.0.0 brd 0.0.0.0
 4: ip6_vti0@NONE: <NOARP> mtu 1332 qdisc noop state DOWN group default qlen 1000
     link/tunnel6 :: brd :: permaddr 1e03:c9a5:3074::
-> 5: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+ 5: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
     link/ether 08:00:27:92:4b:a8 brd ff:ff:ff:ff:ff:ff
     inet 192.168.1.103/24 brd 192.168.1.255 scope global eth0
        valid_lft forever preferred_lft forever
     inet6 fe80::a00:27ff:fe92:4ba8/64 scope link 
        valid_lft forever preferred_lft forever
-> 6: eth1: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+ 6: eth1: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
     link/ether 08:00:27:dc:ee:80 brd ff:ff:ff:ff:ff:ff
     inet 100.100.100.2/24 brd 100.100.100.255 scope global eth1
        valid_lft forever preferred_lft forever
     inet6 fe80::a00:27ff:fedc:ee80/64 scope link 
        valid_lft forever preferred_lft forever
-> 7: eth2: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 1000
+ 7: eth2: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 1000
     link/ether 08:00:27:45:9c:a4 brd ff:ff:ff:ff:ff:ff
-> 8: eth3: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+ 8: eth3: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
     link/ether 08:00:27:3b:e7:b0 brd ff:ff:ff:ff:ff:ff
     inet 192.168.254.2/24 brd 192.168.254.255 scope global eth3
        valid_lft forever preferred_lft forever
