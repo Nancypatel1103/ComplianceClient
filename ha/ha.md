@@ -230,7 +230,7 @@
     ![image-43](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/761f945b-1d27-4102-87e0-341453b1702f)
 
 
-48. Turn off Master_node. Check the Overview Status on Backup_node to ensure it transitions to MASTER/BACKUP state. Verify the updated IP addresses using the IP addr show command on Backup_node's terminal.
+48. Turn off Backup_node. Check the Overview Status on Master_node to ensure it transitions to MASTER/BACKUP state. Verify the updated IP addresses using the IP addr show command on Master_node's terminal.
 ```
 root@Master_node:~# ip addr show
 1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
