@@ -114,6 +114,9 @@
    **Virtual Device Label**:- Enter the **Virtual Device Label** for **ex: ha**.                                                    
    **Scope**:- Enter the **Scope** for **ex: link**.                                                                                    
 24. After filling details click on **Save** button.                                                   
+
+    ![image-24](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ebe223e1-5d5b-4823-bde3-6f8c4ca50468)
+
 25. Click on **Interfaces** tab for **Track Interface**.                                                                     
 
      ![image-23](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/556cc821-0fba-4a4e-a2b0-459051e244a6)
