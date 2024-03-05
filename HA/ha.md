@@ -65,10 +65,10 @@
    **IPv4 gateway**: Enter the **IPv4 gateway** for **Ex: 192.168.1.1**. IPv4 gateway comes by default.                                                                                   
    **IPv4 broadcast**: Enter the **IPv4 broadcast** for **Ex: 100.100.100.255**. IPv4 broadcast comes by default.            
 
-    ![image-13](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4d6cb6e9-0af8-4663-aff5-56da0a5357a0)
+   ![image-13](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/75f38407-2755-4a95-94aa-e8c006103fc6)
 
 14. Click on **Save** button.
-    ![image-14](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/cd922595-a5b4-42ed-b877-70f9f0d77b1a)
+    ![image-14](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2c962b1b-9cf1-493e-aefd-a070ad5e987c)
 
 15. Then go to the **Services** menu. Go to **Keepalived** inside the **Services** menu.
 
