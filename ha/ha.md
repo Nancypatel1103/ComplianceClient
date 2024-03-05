@@ -94,7 +94,7 @@
 
     ![image-20](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b5dcb54c-2e9f-4c64-a33e-dcd22d749c30)
 
-21. Fill up the details to create an interface.                               
+21. Fill up the details to create an **IP Address**.                               
     **Name**: Enter the **Name** for **Ex:eth0**.                                                             
     **Address**: Enter the **Address** for **Ex:192.168.1.101**.                                            
     **Device**: Enter the **Device** for **Ex:eth0**.                                                             
@@ -107,7 +107,7 @@
 
      ![image-22](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c9cf1d08-6e49-4686-8ecb-54eae13da3e9)
 
-23. Add and create an eth2 interface in the same way as you created an interface for eth0.                    
+23. Add and create an **eth2 IP Address** in the same way as you created an interface for eth0.                    
    **Name**: Enter the **Name** for **ex eth2**.                                                                         
    **Address**: Enter the **Address** for **ex 172.30.1.254**.                                                                       
    **Device**: Enter the **Device** for **ex eth2**.                                                                          
