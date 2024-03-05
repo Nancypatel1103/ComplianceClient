@@ -59,16 +59,16 @@
 
     ![image-12](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/a559587f-12e8-461c-8a0f-c887557f4696)
 
-13. After clicking on the **CREATE INTERFACE** button a new window will open. Fill the given details there.
+13. After clicking on the **CREATE INTERFACE** button a new window will open. Fill in the given details there.
    **IPv4 address**: Enter the **IPv4 address** for **Ex:100.100.100.1**.                                                                                                                 
    **IPv4 netmask**: Select **IPv4 netmask** for **Ex: 255.255.255.0**.                                                                                                                   
    **IPv4 gateway**: Enter the **IPv4 gateway** for **Ex: 192.168.1.1**. IPv4 gateway comes by default.                                                                                   
    **IPv4 broadcast**: Enter the **IPv4 broadcast** for **Ex: 100.100.100.255**. IPv4 broadcast comes by default.            
 
-   ![image-13](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/75f38407-2755-4a95-94aa-e8c006103fc6)
+   ![image-13](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/068402dd-5a22-49b7-9831-07671a706c2c)
 
 14. Click on **Save** button.
-    ![image-14](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2c962b1b-9cf1-493e-aefd-a070ad5e987c)
+    ![image-14](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/3a878294-49af-4ee5-804c-22a91c0b9214)
 
 15. Then go to the **Services** menu. Go to **Keepalived** inside the **Services** menu.
 
@@ -115,7 +115,8 @@
    **Scope**:- Enter the **Scope** for **ex: link**.                                                                                    
 24. After filling details click on **Save** button.                                                   
 
-    ![image-24](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ebe223e1-5d5b-4823-bde3-6f8c4ca50468)
+    ![image-44](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/25aab84c-de8c-43f8-9611-3bc101ff4965)
+
 
 25. Click on **Interfaces** tab for **Track Interface**.                                                                     
 
