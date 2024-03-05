@@ -138,7 +138,7 @@
     ![image-26](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8cb1010f-7c0f-4e41-96b0-ea1e3f7e36ec)
 
 
-29. Same step for **eth1**. And after clicking **Save & Apply**.
+29. Same step for **eth1_ha**. And after clicking **Save & Apply**.
 
     ![image-27](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b23355e6-4569-494d-926f-26b84ec905d1)
 
