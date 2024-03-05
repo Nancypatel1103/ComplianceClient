@@ -183,11 +183,84 @@
 
     ![image-35](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/121c2091-9c77-44bc-9243-dd135ad76555)
 
-    
+38. Go to the **Peer** and fill in the details.
+    **Unicast Source IP**: Navigate and Select **100.100.0.30**.
+    **Peer**: Peer select **Master_node**. 
+    **HA Authentication Type**: Select **Simple Password**.
+    **Password**: Enter **Password** for **Ex:admin**.
 
-    
+    ![image-36](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/09a8cda8-4d2c-4930-9097-bef150c61c61)
 
+39. Click on **Save** button.
 
-    
+    ![image-37](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/60d4bbe2-f974-4ee0-9a55-38a09bd2ebf0)
 
-    
+40. Go to the **Track** and fill the details.
+    **Track Interfaces**: Select eth0_ha and eth1_ha
+
+    ![image-38](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5a628b56-287c-455c-ae0b-8c6b02e0220d)
+41. Click on **Save** button.
+
+    ![image-39](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ad03e3a1-2fe9-466b-9fc2-27f9e201a723)
+
+42. Go to **System** menu of Backup_node.
+
+    ![image-40](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4241620c-e323-45b4-b30c-55e92eed0e1b)
+
+43. Go to **Startup** menu.
+
+   ![image-41](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/27798e9c-578d-4d71-a96a-e7970cf3ad20)
+   
+44. Click on the **ENABLED** button to keepalive service and click on **RESTART** button Service.
+
+    ![image-42](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4fd4e511-555d-40de-a067-22e31d04feba)
+
+45. Check service status in CE Command line **ps | grep keep**.
+```
+ ps | grep keep
+ 5988 root      3428 S    {keepalive.sh} /bin/sh /usr/bin/keepalive.sh
+ 9677 edge      1120 R    grep keep. 
+```
+46. Verify Overview Status. Check if the status on both Master_node and Backup_node matches the expected status as provided.
+47. Now go to **Services** menu and click on **Keepalived**.
+
+    ![image-43](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/dd7c7691-431b-48e7-aa58-4c8d5be78c05)
+
+48. Turn off Master_node. Check the Overview Status on Backup_node to ensure it transitions to MASTER/BACKUP state. Verify the updated IP addresses using the IP addr show command on Backup_node's terminal.
+```
+root@Master_node:~# ip addr show
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: ip6tnl0@NONE: <NOARP> mtu 1452 qdisc noop state DOWN group default qlen 1000
+    link/tunnel6 :: brd :: permaddr 4a35:c191:6636::
+3: ip_vti0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN group default qlen 1000
+    link/ipip 0.0.0.0 brd 0.0.0.0
+4: ip6_vti0@NONE: <NOARP> mtu 1332 qdisc noop state DOWN group default qlen 1000
+    link/tunnel6 :: brd :: permaddr ae69:71fe:29b5::
+5: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether 08:00:27:c6:33:21 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.1.101/32 scope link eth0:ha
+       valid_lft forever preferred_lft forever
+    inet 192.168.1.102/24 brd 192.168.1.255 scope global eth0
+       valid_lft forever preferred_lft forever
+    inet6 fe80::a00:27ff:fec6:3321/64 scope link 
+       valid_lft forever preferred_lft forever
+6: eth1: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether 08:00:27:0f:37:6b brd ff:ff:ff:ff:ff:ff
+    inet 100.100.100.1/24 brd 100.100.100.255 scope global eth1
+       valid_lft forever preferred_lft forever
+    inet6 fe80::a00:27ff:fe0f:376b/64 scope link 
+       valid_lft forever preferred_lft forever
+7: eth2: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether 08:00:27:82:00:57 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.254.254/32 scope link eth2:ha
+       valid_lft forever preferred_lft forever
+    inet 192.168.254.1/24 brd 192.168.254.255 scope global eth2
+       valid_lft forever preferred_lft forever
+    inet6 fe80::a00:27ff:fe82:57/64 scope link 
+       valid_lft forever preferred_lft forever
+  ```
