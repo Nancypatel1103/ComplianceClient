@@ -227,7 +227,8 @@
 46. Verify Overview Status. Check if the status on both Master_node and Backup_node matches the expected status as provided.
 47. Now go to **Services** menu and click on **Keepalived**.
 
-    ![image-43](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8bf8259b-f7e5-4eaa-af59-edc764c0b014)
+    ![image-43](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/761f945b-1d27-4102-87e0-341453b1702f)
+
 
 48. Turn off Master_node. Check the Overview Status on Backup_node to ensure it transitions to MASTER/BACKUP state. Verify the updated IP addresses using the IP addr show command on Backup_node's terminal.
 ```
