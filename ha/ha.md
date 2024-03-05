@@ -188,15 +188,15 @@
 
 38. Go to the **Peer** and fill in the details.            
     **Unicast Source IP**: Navigate and Select **100.100.0.30**.           
-    **Peer**: Peer select **Master_node**.            
+    **Peer**: Peer select **Backup_node**.            
     **HA Authentication Type**: Select **Simple Password**.             
     **Password**: Enter **Password** for **Ex:admin**.                    
 
-    ![image-36](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/09a8cda8-4d2c-4930-9097-bef150c61c61)
+    ![image-36](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f9080289-8991-4b97-86b2-37f285e4eb9d)
 
 39. Click on **Save** button.                
 
-    ![image-37](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/60d4bbe2-f974-4ee0-9a55-38a09bd2ebf0)
+    ![image-37](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/253c3268-6ad3-45d9-a331-3befd685a079)
 
 40. Go to the **Track** and fill the details.                 
     **Track Interfaces**: Select **eth0_ha and eth1_ha**.               
