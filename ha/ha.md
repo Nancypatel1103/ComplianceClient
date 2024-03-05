@@ -59,7 +59,7 @@
 
     ![image-12](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/a559587f-12e8-461c-8a0f-c887557f4696)
 
-13. After clicking on the **CREATE INTERFACE** button a new window will open. Fill in the given details there.
+13. After clicking on the **CREATE INTERFACE** button a new window will open. Fill in the given details there.                      
    **IPv4 address**: Enter the **IPv4 address** for **Ex:100.100.100.1**.                                                                                                                 
    **IPv4 netmask**: Select **IPv4 netmask** for **Ex: 255.255.255.0**.                                                                                                                   
    **IPv4 gateway**: Enter the **IPv4 gateway** for **Ex: 192.168.1.1**. IPv4 gateway comes by default.                                                                                   
