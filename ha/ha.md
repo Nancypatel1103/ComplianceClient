@@ -32,7 +32,7 @@
 
 # Advance setting
 
-7. Go to **Advance setting**.                                                                                         
+7. Go to **Advance Setting**.                                                                                         
 
    ![image-7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6d446c22-fbad-4894-89d1-2055eefcf704)
 
