@@ -126,10 +126,10 @@
 
     ![image-24](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ebe223e1-5d5b-4823-bde3-6f8c4ca50468)
 
-27. Fill the details.            
-    **Name**: Enter the **Name** for **Ex:eth0_ha**.
-    **Device**: Enter the **Device** for **Ex:eth0**.
-    **Weight**: Enter the **Weight** for **Ex:100**.
+27. Fill the details.                    
+    **Name**: Enter the **Name** for **Ex:eth0_ha**.                 
+    **Device**: Enter the **Device** for **Ex:eth0**.               
+    **Weight**: Enter the **Weight** for **Ex:100**.              
 
     ![image-25](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/87f83bbe-0522-4de7-8d6f-cd2bc512940a)
 
@@ -152,9 +152,9 @@
 
     ![image-29](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7bf78193-253b-45c3-b71d-b83cfa619177)
 
-32. Fill the details.                 
-    **Name**: Enter the **Name** for **Ex:Backup_node**.          
-    **Peers Address**: Select the **Peers Address**. Navigate and Select custom enter IP 100.100.100.2 and press the **Enter** key.   
+32. Fill the details.                                       
+    **Name**: Enter the **Name** for **Ex:Backup_node**.                       
+    **Peers Address**: Select the **Peers Address**. Navigate and Select custom enter IP 100.100.100.2 and press the **Enter** key.    
 
     ![image-30](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/db9a3715-4412-483e-a703-1cab11e35e76)
 
@@ -198,8 +198,8 @@
 
     ![image-37](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/60d4bbe2-f974-4ee0-9a55-38a09bd2ebf0)
 
-40. Go to the **Track** and fill the details.            
-    **Track Interfaces**: Select **eth0_ha and eth1_ha**.              
+40. Go to the **Track** and fill the details.                 
+    **Track Interfaces**: Select **eth0_ha and eth1_ha**.               
 
     ![image-38](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5a628b56-287c-455c-ae0b-8c6b02e0220d)
 41. Click on **Save** button.
