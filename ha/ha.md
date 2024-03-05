@@ -107,7 +107,7 @@
 
      ![image-22](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c9cf1d08-6e49-4686-8ecb-54eae13da3e9)
 
-23. Add and create an eth2 interface in the same way as you created an interface for eth0.
+23. Add and create an eth2 interface in the same way as you created an interface for eth0.                    
    **Name**: Enter the **Name** for **ex eth2**.                                                                         
    **Address**: Enter the **Address** for **ex 172.30.1.254**.                                                                       
    **Device**: Enter the **Device** for **ex eth2**.                                                                          
@@ -122,11 +122,11 @@
 
      ![image-23](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/556cc821-0fba-4a4e-a2b0-459051e244a6)
 
-26. After **Interfaces** a new window will open. Click on **ADD** button.
+26. After **Interfaces** a new window will open. Click on the **ADD** button.
 
     ![image-24](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ebe223e1-5d5b-4823-bde3-6f8c4ca50468)
 
-27. Fill the details.
+27. Fill the details.            
     **Name**: Enter the **Name** for **Ex:eth0_ha**.
     **Device**: Enter the **Device** for **Ex:eth0**.
     **Weight**: Enter the **Weight** for **Ex:100**.
