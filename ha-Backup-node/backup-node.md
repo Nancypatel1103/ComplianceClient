@@ -100,7 +100,7 @@
     **Name**: Enter the **Name** for **Ex:eth0**.                                                                             
     **Address**: Enter the **Address** for **Ex:192.168.1.101**.                                                            
     **Device**: Enter the **Device** for **Ex:eth0**.                                                                           
-    **Virtual Device Label** Enter the **Virtual Device Label** for **Ex: Ha**.                                   
+    **Virtual Device Label** Enter the **Virtual Device Label** for **Ex: ha**.                                   
     **Scope**: Enter the **Scope** for **Ex:Link**.                                                   
 
     ![image-21](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/601c3a94-58e9-41c0-b19d-47166855f9c5)
@@ -181,7 +181,7 @@
     **Virtual Router ID**: Enter the **Virtual Router ID** for **Ex:100**.               
     **Priority**: Enter the **Priority** for **Ex:100**.                  
     **Interval**: Enter the **Interval** for **Ex:1**.                  
-    **Disable Preempt**: Enter the **Disable Preempt** for **Ex:NA**.                       
+    **Disable Preempt**: Enter the **Disable Preempt** for **Ex:na**.                       
     **Virtual IP Address**: Select the **Virtual IP Address**. Navigate Select **eth0,eth2**.               
 
     ![image-34](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c082e605-9218-4127-b223-6b2abc14828a)              
@@ -237,7 +237,7 @@ root@Master_node:~# ps | grep keep
 
     ![image-43](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/dd7c7691-431b-48e7-aa58-4c8d5be78c05)
 
-48. turn off the master node  check the status of backup node. When we turn off the master node, everything will be moved to the backup node. When we turn on the master node, it will move to the master node and the place of master/backup will be replaced by backup/backup.
+48. turn off the master node  and check the status of the backup node. When we turn off the master node, everything will be moved to the backup node. When we turn on the master node, it will move to the master node and the place of master/backup will be replaced by backup/backup.
 
     ![image-43](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/761f945b-1d27-4102-87e0-341453b1702f)
 
