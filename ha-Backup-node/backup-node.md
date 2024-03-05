@@ -19,7 +19,7 @@
 
 5. Click on **Edit** and a new window will open. Fill in the specified details given there.                                                                                                   
    **Protocol**:- Select Static Address in **Protocol**.                                                                                                                                  
-   **Royal Switch Protocol**:- There click on **Switch Protocol**.                                                                                                                         
+   **Really Switch Protocol**:- There click on **Switch Protocol**.                                                                                                                         
    ![image-5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ca057636-4c49-4c92-8634-bfdae5b017f6)
 
 6. After clicking on switch protocol there will be another information fillup.                                                                        
@@ -28,17 +28,16 @@
    **IPv4 gateway**: Enter the **IPv4 gateway** for **Ex: 192.168.1.1**.                                                                                                                  
    **IPv4 broadcast**: Enter the **IPv4 broadcast**. IPv4 broadcast comes by default.                                                                  
 
-   ![image-6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/3eb1db0a-8e62-4815-8765-acbcc503f1f0)
+  ![image-6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8b212010-5e8d-48fc-988d-d3202a6f708f)
 
 
 # Advance setting
 
 7. Go to **Advance setting**.                                                                                         
 
-   ![image-7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/dc943312-b04d-414b-9d0a-c5f64822dc14)
+   ![image-7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5aed8203-bfc7-4705-a08f-84bc3919102b)
 
-
-8. A new window will open there. Add **use custom DNS servers** there, enter and click on **+** icon, it will be added.              
+8. A new window will open there. Add **Use custom DNS servers** there, enter and click on the **+** icon, and it will be added.              
 
    ![image-8](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/3905481e-7523-4714-b46e-f48764856461)
 
@@ -62,7 +61,7 @@
 
     ![image-12](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6b82329e-0571-4ac7-8c11-9727a5c6926c)
 
-13. After clicking on the **CREATE INTERFACE** button a new window will open. Fill in the given details there.
+13. After clicking on the **CREATE INTERFACE** button a new window will open. Fill in the given details there.                     
    **IPv4 address**: Enter the **IPv4 address** for **Ex:100.100.100.2**.                                                                                                                 
    **IPv4 netmask**: Select **IPv4 netmask** for **Ex: 255.255.255.0**.                                                                                                                    
    **IPv4 gateway**: Enter the **IPv4 gateway** for **Ex: 192.168.1.1**. IPv4 gateway comes by default.                                                                                   
@@ -97,7 +96,7 @@
 
     ![image-20](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c95af12a-f479-4202-9a60-3b964bdbf28e)
 
-21. Fill up the details to create an interface.
+21. Fill up the details to create an **IP Address**.                         
     **Name**: Enter the **Name** for **Ex:eth0**.                                                                             
     **Address**: Enter the **Address** for **Ex:192.168.1.101**.                                                            
     **Device**: Enter the **Device** for **Ex:eth0**.                                                                           
@@ -111,7 +110,7 @@
      ![image-22](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/40bbad2f-1c6c-49ad-b7f2-4f65f409f111)
 
 
-23. Add and create an eth2 interface in the same way as you created an interface for eth0.
+23. Add and create an **eth3 IP Address** in the same way as you created an interface for eth0.                      
    **Name**: Enter the **Name** for **ex eth3**.                                                                         
    **Address**: Enter the **Address** for **ex 172.30.2.254**.                                                                       
    **Device**: Enter the **Device** for **ex eth3**.                                                                          
@@ -119,7 +118,8 @@
    **Scope**:- Enter the **Scope** for **ex: link**.                                                                                    
 24. After filling details click on **Save** button.                                                   
 
-    ![image-24](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/95c1ede1-bf70-404e-a5bf-0e96b6985531)
+    ![image-44](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7a615af7-b834-49eb-896a-117e7eb1397b)
+
 
 25. Click on **Interfaces** tab for **Track Interface**.                                                                        
 
@@ -141,9 +141,8 @@
 
     ![image-26](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/fd058b7d-9788-4430-a0c3-56eef4639975)
 
-> NOTE:- Same step for eth1
 
-29. And after click **Save & Apply**.
+29. Same step for **eth1**. And after clicking **Save & Apply**.
 
     ![image-27](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/479abd3f-6a8f-4433-83a3-283121d933e4)
 
@@ -157,9 +156,9 @@
 
     ![image-29](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c1b614e0-1b97-4fec-9678-697fc1b5c48c)
 
-32. Fill the details
-    **Name**: Enter the **Name** for **Ex:Backup_node**.
-    **Peers Address**: Select the **Peers Address**. Navigate and Select custom enter IP 100.100.100.1 and press the **Enter** key.
+32. Fill the details.               
+    **Name**: Enter the **Name** for **Ex:Backup_node**.              
+    **Peers Address**: Select the **Peers Address**. Navigate and Select custom enter IP 100.100.100.1 and press the **Enter** key.   
 
     ![image-30](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/42440dd7-533e-4c1c-9c04-21ffde57cfaa)
 
@@ -191,11 +190,11 @@
 
     ![image-35](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/07976a49-be73-474e-b78c-7db7833bf6db)                                
 
-38. Go to the **Peer** and fill in the details.
-    **Unicast Source IP**: Navigate and Select **100.100.0.30**.
-    **Peer**: Peer select **Master_node**. 
-    **HA Authentication Type**: Select **Simple Password**.
-    **Password**: Enter **Password** for **Ex:admin**.
+38. Go to the **Peer** and fill in the details.                
+    **Unicast Source IP**: Navigate and Select **100.100.0.30**.               
+    **Peer**: Peer select **Master_node**.               
+    **HA Authentication Type**: Select **Simple Password**.             
+    **Password**: Enter **Password** for **Ex:admin**.           
 
     ![image-36](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/09a8cda8-4d2c-4930-9097-bef150c61c61)
 
