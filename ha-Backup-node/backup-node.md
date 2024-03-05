@@ -278,7 +278,7 @@ root@Backup_node:~# ip addr show
     inet6 fe80::a00:27ff:fe3b:e7b0/64 scope link 
        valid_lft forever preferred_lft forever
   ```
-50. Afteraster_node turn off output of backup_node ip addr show.
+50. After **Master_node** turn off output of backup_node ip addr show.
 ```
 root@Backup_node:~# ip addr show
 1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
