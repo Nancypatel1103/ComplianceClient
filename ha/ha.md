@@ -229,10 +229,10 @@
 46. Verify Overview Status. Check if the status on both Master_node and Backup_node matches the expected status as provided.
 47. Now go to **Services** menu and click on **Keepalived**.
 
-    ![image-43](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/761f945b-1d27-4102-87e0-341453b1702f)
+    ![image-43](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7dc7af51-96d1-427b-941d-74a05ab1fb63)
 
 
-48. Turn off Backup_node. Check the Overview Status on Master_node to ensure it transitions to MASTER/BACKUP state. Verify the updated IP addresses using the IP addr show command on Master_node's terminal.
+48. After turning on the **Master_node**, Verify the updated IP addresses using the IP addr show command on Master_node's terminal.
 ```
 root@Master_node:~# ip addr show
 1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
