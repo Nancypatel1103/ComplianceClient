@@ -36,7 +36,7 @@
 
    ![image-7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6d446c22-fbad-4894-89d1-2055eefcf704)
 
-8. A new window will open there. Add **Use custom DNS servers** there, enter and click on the **+** icon, and it will be added.              
+8. A new window will open there. Add **Use custom DNS servers** there, enter, and click on the **+** icon, and it will be added.              
 
    ![image-8](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2e1e38cb-3102-487a-b499-3057db1e7ed9)
 
@@ -98,7 +98,7 @@
     **Name**: Enter the **Name** for **Ex:eth0**.                                                             
     **Address**: Enter the **Address** for **Ex:192.168.1.101**.                                            
     **Device**: Enter the **Device** for **Ex:eth0**.                                                             
-    **Virtual Device Label** Enter the **Virtual Device Label** for **Ex: Ha**.                           
+    **Virtual Device Label** Enter the **Virtual Device Label** for **Ex: ha**.                           
     **Scope**: Enter the **Scope** for **Ex:Link**.                               
 
     ![image-21](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8195872a-72f1-481c-99df-1c0cae076ef7)
@@ -177,7 +177,7 @@
     **Virtual Router ID**: Enter the **Virtual Router ID** for **Ex:100**.                    
     **Priority**: Enter the **Priority** for **Ex:100**.                     
     **Interval**: Enter the **Interval** for **Ex:1**.                           
-    **Disable Preempt**: Enter the **Disable Preempt** for **Ex:NA**.                         
+    **Disable Preempt**: Enter the **Disable Preempt** for **Ex:na**.                         
     **Virtual IP Address**: Select the **Virtual IP Address**. Navigate Select eth0,eth2.                         
 
     ![image-34](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6b2dd9ff-cb5a-4b2a-a600-81c9ed959e85)
@@ -206,11 +206,11 @@
 
     ![image-39](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ad03e3a1-2fe9-466b-9fc2-27f9e201a723)
 
-42. Go to **System** menu of Backup_node.
+42. Go to **System** menu.
 
     ![image-40](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4241620c-e323-45b4-b30c-55e92eed0e1b)
 
-43. Go to **Startup** menu.
+43. After going to **System** menu go to **Startup** menu in it located.
 
    ![image-41](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/27798e9c-578d-4d71-a96a-e7970cf3ad20)
    
@@ -220,9 +220,11 @@
 
 45. Check service status in CE Command line **ps | grep keep**.
 ```
- ps | grep keep
- 5988 root      3428 S    {keepalive.sh} /bin/sh /usr/bin/keepalive.sh
- 9677 edge      1120 R    grep keep. 
+3643 root      2188 S    /bin/sh /usr/bin/keepalived-rsync-inotify Backup Mas
+4783 root      3428 S    {keepalive.sh} /bin/sh /usr/bin/keepalive.sh
+11648 root      5812 S    /usr/sbin/keepalived -n -f /tmp/keepalived.conf
+11649 root      5816 S    {keepalived_vrrp} /usr/sbin/keepalived -n -f /tmp/ke
+30512 root      1120 R    grep keep
 ```
 46. Verify Overview Status. Check if the status on both Master_node and Backup_node matches the expected status as provided.
 47. Now go to **Services** menu and click on **Keepalived**.
