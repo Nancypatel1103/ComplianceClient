@@ -1,4 +1,4 @@
-# Interface Configuration on Master_node:
+# Interface Configuration on Master_node: 
 
 1.	Login to the UI of Master_node using the provided IP address.                                                        
 
