@@ -152,9 +152,9 @@
 
     ![image-29](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7bf78193-253b-45c3-b71d-b83cfa619177)
 
-32. Fill the details
-    **Name**: Enter the **Name** for **Ex:Backup_node**.
-    **Peers Address**: Select the **Peers Address**. Navigate and Select custom enter IP 100.100.100.2 and press **Enter** key.
+32. Fill the details.                 
+    **Name**: Enter the **Name** for **Ex:Backup_node**.          
+    **Peers Address**: Select the **Peers Address**. Navigate and Select custom enter IP 100.100.100.2 and press the **Enter** key.   
 
     ![image-30](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/db9a3715-4412-483e-a703-1cab11e35e76)
 
@@ -170,15 +170,15 @@
 
     ![image-33](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/bb4c4ea7-498e-46dc-9ed9-4f9617fd822e)
 
-36. Fill up the details
-    **Name**: Enter the **Name** for **Ex:Master**.              
-    **State**:Enter the **State** for **Ex:Master**.            
-    **Interface**: Select the **Interface** for **Ex:eth1**.               
-    **Virtual Router ID**: Enter the **Virtual Router ID** for **Ex:100**.           
-    **Priority**: Enter the **Priority** for **Ex:100**.               
-    **Interval**: Enter the **Interval** for **Ex:1**.             
-    **Disable Preempt**: Enter the **Disable Preempt** for **Ex:NA**.               
-    **Virtual IP Address**: Select the **Virtual IP Address**. Navigate Select eth0,eth2.           
+36. Fill up the details.                     
+    **Name**: Enter the **Name** for **Ex:Master**.               
+    **State**:Enter the **State** for **Ex:Master**.             
+    **Interface**: Select the **Interface** for **Ex:eth1**.                    
+    **Virtual Router ID**: Enter the **Virtual Router ID** for **Ex:100**.                    
+    **Priority**: Enter the **Priority** for **Ex:100**.                     
+    **Interval**: Enter the **Interval** for **Ex:1**.                           
+    **Disable Preempt**: Enter the **Disable Preempt** for **Ex:NA**.                         
+    **Virtual IP Address**: Select the **Virtual IP Address**. Navigate Select eth0,eth2.                         
 
     ![image-34](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6b2dd9ff-cb5a-4b2a-a600-81c9ed959e85)
 
@@ -186,20 +186,20 @@
 
     ![image-35](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/121c2091-9c77-44bc-9243-dd135ad76555)
 
-38. Go to the **Peer** and fill in the details.
-    **Unicast Source IP**: Navigate and Select **100.100.0.30**.
-    **Peer**: Peer select **Master_node**. 
-    **HA Authentication Type**: Select **Simple Password**.
-    **Password**: Enter **Password** for **Ex:admin**.
+38. Go to the **Peer** and fill in the details.            
+    **Unicast Source IP**: Navigate and Select **100.100.0.30**.           
+    **Peer**: Peer select **Master_node**.            
+    **HA Authentication Type**: Select **Simple Password**.             
+    **Password**: Enter **Password** for **Ex:admin**.                    
 
     ![image-36](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/09a8cda8-4d2c-4930-9097-bef150c61c61)
 
-39. Click on **Save** button.
+39. Click on **Save** button.                
 
     ![image-37](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/60d4bbe2-f974-4ee0-9a55-38a09bd2ebf0)
 
-40. Go to the **Track** and fill the details.
-    **Track Interfaces**: Select eth0_ha and eth1_ha
+40. Go to the **Track** and fill the details.            
+    **Track Interfaces**: Select **eth0_ha and eth1_ha**.              
 
     ![image-38](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5a628b56-287c-455c-ae0b-8c6b02e0220d)
 41. Click on **Save** button.
