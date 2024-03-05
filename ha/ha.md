@@ -22,7 +22,7 @@
 
    ![image-5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e00c1ede-81ed-42bc-a0bf-947d0ae798b2)            
 
-6. After clicking on switch protocol there will be another information fillup.                                                                        
+6. After clicking on switch protocol there will be another information fillup.                                                                                      
    **IPv4 address**: Enter the **IPv4 address** for **Ex:192.168.1.102**.                                                                          
    **IPv4 netmask**: Select **IPv4 netmask** for **Ex: 255.255.255.0**.                                                                                                          
    **IPv4 gateway**: Enter the **IPv4 gateway** for **Ex: 192.168.1.1**.                                                                                                                   
