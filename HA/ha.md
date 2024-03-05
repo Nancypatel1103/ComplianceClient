@@ -18,7 +18,7 @@
 
 5. Click on **Edit** and a new window will open. Fill in the specified details given there.                                                                                                   
    **Protocol**:- Select Static Address in **Protocol**.                                                                                                                                   
-   **Really Switch Protocol**:- There click on **Switch Protocol**.                                                                                                                      
+   **Really switch protocol**:- There click on **Switch Protocol**.                                                                                                                      
 
    ![image-5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e00c1ede-81ed-42bc-a0bf-947d0ae798b2)            
 
