@@ -196,14 +196,14 @@
     **HA Authentication Type**: Select **Simple Password**.             
     **Password**: Enter **Password** for **Ex:admin**.           
 
-    ![image-36](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/09a8cda8-4d2c-4930-9097-bef150c61c61)
+    ![image-36](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c0e99dac-c53f-4bd9-b43f-a60700d070cb)
 
 39. Click on **Save** button.
 
-    ![image-37](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/60d4bbe2-f974-4ee0-9a55-38a09bd2ebf0)
+    ![image-37](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/813418ab-cb47-4c27-9906-21768b53326e)
 
-40. Go to the **Track** and fill the details.
-    **Track Interfaces**: Select eth0_ha and eth1_ha
+40. Go to the **Track** and fill the details.                      
+    **Track Interfaces**: Select eth0_ha and eth1_ha                      
 
     ![image-38](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5a628b56-287c-455c-ae0b-8c6b02e0220d)
 
@@ -278,7 +278,7 @@ root@Backup_node:~# ip addr show
     inet6 fe80::a00:27ff:fe3b:e7b0/64 scope link 
        valid_lft forever preferred_lft forever
   ```
-50. After **Master_node** turn off output of backup_node ip addr show.
+50. After **Master_node** turn off output of **backup_node** ip addr show.
 ```
 root@Backup_node:~# ip addr show
 1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
