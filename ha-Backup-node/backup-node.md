@@ -237,11 +237,11 @@ root@Master_node:~# ps | grep keep
 
     ![image-43](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/dd7c7691-431b-48e7-aa58-4c8d5be78c05)
 
-48. turn off the master node  and check the status of the backup node. When we turn off the master node, everything will be moved to the backup node. When we turn on the master node, it will move to the master node and the place of master/backup will be replaced by backup/backup.
+48. Turn off the master node Check the status of the backup node. When we turn off the master node, everything will be moved to the backup node. Then get the master/backup. When we start the master node, it will go to the master node and replace master/backup with backup/backup.
 
-    ![image-43](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/761f945b-1d27-4102-87e0-341453b1702f)
+     ![image-43](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/761f945b-1d27-4102-87e0-341453b1702f)
 
-49. After turning on the **Backup_node**, Verify the updated IP addresses using the IP addr show command on **Backup_node's** terminal.
+50. Verify the updated IP addresses using the IP addr show command on **Backup_node's** terminal. Entering the **ip addr** command in the Backup node will show an output like this. **eth0 (192.168.1.103 and eth2 (192.168.254.2)** as virtual IP will be used. 
 
 ```
 root@Backup_node:~# ip addr show
