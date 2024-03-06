@@ -187,7 +187,7 @@
     ![image-35](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/121c2091-9c77-44bc-9243-dd135ad76555)
 
 38. Go to the **Peer** and fill in the details.            
-    **Unicast Source IP**: Navigate and Select **100.100.0.30**.           
+    **Unicast Source IP**: Navigate and Select **100.100.100.1**.           
     **Peer**: Peer select **Backup_node**.            
     **HA Authentication Type**: Select **Simple Password**.             
     **Password**: Enter **Password** for **Ex:admin**.                    
