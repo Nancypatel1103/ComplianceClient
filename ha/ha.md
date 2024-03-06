@@ -192,11 +192,11 @@
     **HA Authentication Type**: Select **Simple Password**.             
     **Password**: Enter **Password** for **Ex:admin**.                    
 
-    ![image-36](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f9080289-8991-4b97-86b2-37f285e4eb9d)
+    ![image-36](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/3bd6a912-e097-4a00-a930-461958249525)
 
 39. Click on **Save** button.                
 
-    ![image-37](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/253c3268-6ad3-45d9-a331-3befd685a079)
+    ![image-37](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e7bce692-9dbc-4d3e-969f-f3c837339acc)
 
 40. Go to the **Track** and fill the details.                 
     **Track Interfaces**: Select **eth0_ha and eth1_ha**.               
