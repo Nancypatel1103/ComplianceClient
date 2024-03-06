@@ -30,7 +30,7 @@
 
    ![image-6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4c97d7c3-7c58-4c6f-9790-a3eda0fd050f)
 
-# Advance setting
+## Advance setting
 
 7. Go to **Advance Setting**.                                                                                         
 
@@ -145,7 +145,7 @@
 
     ![image-28 ](https://github.com/Nancypatel1103/ComplianceClient/assets/153615969/68e59ddd-4481-4ecb-9b0d-b65ea4b87a32)
 
-# Add Backup_node as a peer
+## Add Backup_node as a peer
 
 30. Click on **Peers** tab.
 
@@ -219,21 +219,22 @@
 
 43. After login a new window will open. Go to the **Network** menu.                                                                                             
 
-    ![image-46](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/bc048c9a-1933-4af8-96ce-c397010ffaca)
+    ![image-45](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7189a909-8aec-4af4-be75-a45936aea89d)
 
 44.	Navigate to the **Interfaces** menu.                                                                                                                                               
 
-   ![image-47](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/73d6074f-3a23-4632-a1d5-01adaa80074b) 
+  ![image-46](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/398b48e1-b706-44db-8792-63067c71032c)
 
 45.	After login a new window will open. Select and **Edit** the **eth0** interface.                                                                                     
 
-   ![image-48](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/3bc3ac65-89e8-4e67-8fb5-7a88e0786ed7)          
+   ![image-47](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/410ef787-5d23-4035-a687-5f28f2c4cfc9)
+         
 
 46. Click on **Edit** and a new window will open. Fill in the specified details given there.                                                                                                   
    **Protocol**:- Select Static Address in **Protocol**.                                                                                                                                  
    **Really Switch Protocol**:- There click on **Switch Protocol**.                                                                                                                         
 
-   ![image-49](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1f4aa05a-3422-45a0-ab52-193255f6adb8)
+  ![image-48](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e6d56699-a7ba-425e-9d6e-ee1fd9e326cf)
 
 47. After clicking on switch protocol there will be another information fillup.                                                                        
    **IPv4 address**: Enter the **IPv4 address** for **Ex:192.168.1.103**.                                                                          
@@ -241,13 +242,14 @@
    **IPv4 gateway**: Enter the **IPv4 gateway** for **Ex: 192.168.1.1**.                                                                                                                  
    **IPv4 broadcast**: Enter the **IPv4 broadcast**. IPv4 broadcast comes by default.                                                                  
 
-  ![image-50](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/a3f7f956-11e1-495b-b428-638b7e9a94fa)
+  ![image-49](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/fa05b602-1dfe-434a-9539-c79597e7790e)
 
-# Advance setting
+## Advance setting
 
 48. Go to **Advance setting**.                                                                                         
 
-   ![image-51](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6dc185a8-4812-42e6-9367-7e93ae03834f)
+   ![image-50](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4a860f72-dcbc-46f7-a90d-67e6f58e3c88)
+
 
 49. A new window will open there. Add **Use custom DNS servers** there, enter, and click on the **+** icon, and it will be added.              
 
@@ -434,10 +436,165 @@
 
     ![image-87](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/580b4e5f-c0b2-4311-8a33-fe577e884acd)
 
-86. Verify Overview Status. Check if the status on both Master_node and Backup_node matches the expected status as provided.
-87. Now go to **Services** menu and click on **Keepalived**.
-     ![image-43](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/dd7c7691-431b-48e7-aa58-4c8d5be78c05)
+86. Check service status in CE Command line **ps | grep keep**.
+```
+3643 root      2188 S    /bin/sh /usr/bin/keepalived-rsync-inotify Backup Mas
+4783 root      3428 S    {keepalive.sh} /bin/sh /usr/bin/keepalive.sh
+11648 root      5812 S    /usr/sbin/keepalived -n -f /tmp/keepalived.conf
+11649 root      5816 S    {keepalived_vrrp} /usr/sbin/keepalived -n -f /tmp/ke
+30512 root      1120 R    grep keep
+```
+## Verify Overview Status on Both Nodes:
+88. When the configuration is successful in both nodes, the status will be like the below in both nods overview menus.
+89. Check if the status on both Master_node and Backup_node matches the expected status as provided.
+90. Now go to the **Services** menu and click on **Keepalived**.
+### Master_node
+91. When the **Master_node** is on. The **Master/Master** status will be seen when the backup node is off.
+    ![image-90](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/02c5a625-186f-4c8b-8341-007a631cbd1d)
 
-88. Turn off the master node Check the status of the backup node. When we turn off the master node, everything will be moved to the backup node. Then get the master/backup. When we start the master node, it will go to the master node and replace master/backup with backup/backup.
+## Backup_node
+92. When the **Backup_node is on. The **Backup/Backup** status will be seen when the master_node is off.
 
-     ![image-43](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/761f945b-1d27-4102-87e0-341453b1702f)
+   ![image-88](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f5e95d07-6c5e-42f7-884e-757697da9609)
+
+93. Turn off the master node Check the status of the backup node. When we turn off the master node, everything will be moved to the backup node. Then get the master/backup. When we start the master node, it will go to the master node and replace master/backup with backup/backup.
+
+     ![image-89](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/abcfe1f8-35d8-40e7-ba5c-4ee07dc1e6f7)
+
+94. Overview menu status shows like this in both node **Master_node and Backup_node**.
+
+## Test Failover:
+
+95. Entering the ip addr command in the Master node will show an output like this. **eth0 (192.168.1.101) and eth2 (192.168.254.254)** as virtual IP will be used. And then after off the Master_node, it will switch to the configuration Backup node.
+
+```
+root@Master_node:~# ip addr show
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: ip6tnl0@NONE: <NOARP> mtu 1452 qdisc noop state DOWN group default qlen 1000
+    link/tunnel6 :: brd :: permaddr 4a35:c191:6636::
+3: ip_vti0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN group default qlen 1000
+    link/ipip 0.0.0.0 brd 0.0.0.0
+4: ip6_vti0@NONE: <NOARP> mtu 1332 qdisc noop state DOWN group default qlen 1000
+    link/tunnel6 :: brd :: permaddr ae69:71fe:29b5::
+5: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether 08:00:27:c6:33:21 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.1.101/32 scope link eth0:ha
+       valid_lft forever preferred_lft forever
+    inet 192.168.1.102/24 brd 192.168.1.255 scope global eth0
+       valid_lft forever preferred_lft forever
+    inet6 fe80::a00:27ff:fec6:3321/64 scope link 
+       valid_lft forever preferred_lft forever
+6: eth1: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether 08:00:27:0f:37:6b brd ff:ff:ff:ff:ff:ff
+    inet 100.100.100.1/24 brd 100.100.100.255 scope global eth1
+       valid_lft forever preferred_lft forever
+    inet6 fe80::a00:27ff:fe0f:376b/64 scope link 
+       valid_lft forever preferred_lft forever
+7: eth2: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether 08:00:27:82:00:57 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.254.254/32 scope link eth2:ha
+       valid_lft forever preferred_lft forever
+    inet 192.168.254.1/24 brd 192.168.254.255 scope global eth2
+       valid_lft forever preferred_lft forever
+    inet6 fe80::a00:27ff:fe82:57/64 scope link 
+       valid_lft forever preferred_lft forever
+  ```
+96. Verify the updated IP addresses using the IP addr show command on **Backup_node's** terminal. Entering the **ip addr** command in the Backup node will show an output like this. **eth0 (192.168.1.103 and eth2 (192.168.254.2)** as virtual IP will be used. 
+
+```
+root@Backup_node:~# ip addr show
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: ip6tnl0@NONE: <NOARP> mtu 1452 qdisc noop state DOWN group default qlen 1000
+    link/tunnel6 :: brd :: permaddr 9607:ea3f:6936::
+3: ip_vti0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN group default qlen 1000
+    link/ipip 0.0.0.0 brd 0.0.0.0
+4: ip6_vti0@NONE: <NOARP> mtu 1332 qdisc noop state DOWN group default qlen 1000
+    link/tunnel6 :: brd :: permaddr 1e03:c9a5:3074::
+5: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether 08:00:27:92:4b:a8 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.1.103/24 brd 192.168.1.255 scope global eth0
+       valid_lft forever preferred_lft forever
+    inet6 fe80::a00:27ff:fe92:4ba8/64 scope link 
+       valid_lft forever preferred_lft forever
+6: eth1: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether 08:00:27:dc:ee:80 brd ff:ff:ff:ff:ff:ff
+    inet 100.100.100.2/24 brd 100.100.100.255 scope global eth1
+       valid_lft forever preferred_lft forever
+    inet6 fe80::a00:27ff:fedc:ee80/64 scope link 
+       valid_lft forever preferred_lft forever
+7: eth2: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 1000
+    link/ether 08:00:27:45:9c:a4 brd ff:ff:ff:ff:ff:ff
+8: eth3: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether 08:00:27:3b:e7:b0 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.254.2/24 brd 192.168.254.255 scope global eth3
+       valid_lft forever preferred_lft forever
+    inet6 fe80::a00:27ff:fe3b:e7b0/64 scope link 
+       valid_lft forever preferred_lft forever
+  ```
+97. After **Master_node** turn off output of **backup_node** ip addr show.
+```
+root@Backup_node:~# ip addr show
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: ip6tnl0@NONE: <NOARP> mtu 1452 qdisc noop state DOWN group default qlen 1000
+    link/tunnel6 :: brd :: permaddr 9607:ea3f:6936::
+3: ip_vti0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN group default qlen 1000
+    link/ipip 0.0.0.0 brd 0.0.0.0
+4: ip6_vti0@NONE: <NOARP> mtu 1332 qdisc noop state DOWN group default qlen 1000
+root@Master_node1:~# ip addr show
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: ip6tnl0@NONE: <NOARP> mtu 1452 qdisc noop state DOWN group default qlen 1000
+    link/tunnel6 :: brd :: permaddr 9607:ea3f:6936::
+3: ip_vti0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN group default qlen 1000
+    link/ipip 0.0.0.0 brd 0.0.0.0
+4: ip6_vti0@NONE: <NOARP> mtu 1332 qdisc noop state DOWN group default qlen 1000
+    link/tunnel6 :: brd :: permaddr 1e03:c9a5:3074::
+5: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether 08:00:27:92:4b:a8 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.1.101/32 scope link eth0:ha
+       valid_lft forever preferred_lft forever
+    inet 192.168.1.103/24 brd 192.168.1.255 scope global eth0
+       valid_lft forever preferred_lft forever
+    inet6 fe80::a00:27ff:fe92:4ba8/64 scope link 
+       valid_lft forever preferred_lft forever
+6: eth1: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether 08:00:27:dc:ee:80 brd ff:ff:ff:ff:ff:ff
+    inet 100.100.100.2/24 brd 100.100.100.255 scope global eth1
+       valid_lft forever preferred_lft forever
+    inet6 fe80::a00:27ff:fedc:ee80/64 scope link 
+       valid_lft forever preferred_lft forever
+7: eth2: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 1000
+    link/ether 08:00:27:45:9c:a4 brd ff:ff:ff:ff:ff:ff
+8: eth3: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether 08:00:27:3b:e7:b0 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.254.254/32 scope link eth3:ha
+       valid_lft forever preferred_lft forever
+    inet 192.168.254.2/24 brd 192.168.254.255 scope global eth3
+       valid_lft forever preferred_lft forever
+    inet6 fe80::a00:27ff:fe3b:e7b0/64 scope link 
+       valid_lft forever preferred_lft forever
+```
+
+
+    
+
+    
