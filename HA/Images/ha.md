@@ -369,7 +369,7 @@
     ![image-74](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/0581004c-827b-49a6-8f05-5b5a089e36d1)
 
 73. Fill the details.               
-    **Name**: Enter the **Name** for **Ex:Backup_node**.              
+    **Name**: Enter the **Name** for **Ex:Master_node**.              
     **Peers Address**: Select the **Peers Address**. Navigate and Select custom enter IP 100.100.100.1 and press the **Enter** key.   
 
     ![image-75](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7ee5fcbc-d94c-4245-8bbf-e8d3b8187cdb)
