@@ -219,21 +219,21 @@
 
 43. After login a new window will open. Go to the **Network** menu.                                                                                             
 
-    ![image-45](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/06fe0b57-a07f-45f3-81b5-b2dd23595d17)
+    ![image-46](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/bc048c9a-1933-4af8-96ce-c397010ffaca)
 
 44.	Navigate to the **Interfaces** menu.                                                                                                                                               
 
-   ![image-46](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/bc048c9a-1933-4af8-96ce-c397010ffaca)
+   ![image-47](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/73d6074f-3a23-4632-a1d5-01adaa80074b) 
 
 45.	After login a new window will open. Select and **Edit** the **eth0** interface.                                                                                     
 
-   ![image-47](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/73d6074f-3a23-4632-a1d5-01adaa80074b)          
+   ![image-48](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/3bc3ac65-89e8-4e67-8fb5-7a88e0786ed7)          
 
 46. Click on **Edit** and a new window will open. Fill in the specified details given there.                                                                                                   
    **Protocol**:- Select Static Address in **Protocol**.                                                                                                                                  
    **Really Switch Protocol**:- There click on **Switch Protocol**.                                                                                                                         
 
-   ![image-48](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/3bc3ac65-89e8-4e67-8fb5-7a88e0786ed7)
+   ![image-49](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1f4aa05a-3422-45a0-ab52-193255f6adb8)
 
 47. After clicking on switch protocol there will be another information fillup.                                                                        
    **IPv4 address**: Enter the **IPv4 address** for **Ex:192.168.1.103**.                                                                          
@@ -241,37 +241,36 @@
    **IPv4 gateway**: Enter the **IPv4 gateway** for **Ex: 192.168.1.1**.                                                                                                                  
    **IPv4 broadcast**: Enter the **IPv4 broadcast**. IPv4 broadcast comes by default.                                                                  
 
-  ![image-49](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1f4aa05a-3422-45a0-ab52-193255f6adb8)
+  ![image-50](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/a3f7f956-11e1-495b-b428-638b7e9a94fa)
 
 # Advance setting
 
 48. Go to **Advance setting**.                                                                                         
 
-   ![image-50](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/a3f7f956-11e1-495b-b428-638b7e9a94fa)
+   ![image-51](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6dc185a8-4812-42e6-9367-7e93ae03834f)
 
-49. A new window will open there. Add **Use custom DNS servers** there, enter and click on the **+** icon, and it will be added.              
+49. A new window will open there. Add **Use custom DNS servers** there, enter, and click on the **+** icon, and it will be added.              
 
-  ![image-51](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6dc185a8-4812-42e6-9367-7e93ae03834f)
+  ![image-52](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e5ff696b-6ee7-4e5a-9f2a-af22e190cfb2)
 
 50. Click on **Save** button. Click on the **Save** button, and then by default, you will return to the interfaces menu.                 
 
-   ![image-52](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e5ff696b-6ee7-4e5a-9f2a-af22e190cfb2)
-
+   ![image-53](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ca30e2d8-4c83-4634-bc31-e77b15511340)
 
 51. Navigate down and click on **ADD NEW INTERFACE**.                       
 
-    ![image-53](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ca30e2d8-4c83-4634-bc31-e77b15511340)
+    ![image-54](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/429fe160-9a9a-4a11-8c87-3f92e3109ac2)
 
 52. A new window will open. Fill in the details.                                                                                           
     **Name**: Enter the **Name** for **Ex: eth 1**.                                                                                                               
     **Protocol**: Select the **Protocol** for **Ex: Static address**.                                                                                                           
     **Device**: Enter the **Device** for **Ex: eth 1**.                                                                                                                                    
      
-    ![image-54](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/429fe160-9a9a-4a11-8c87-3f92e3109ac2)
+   ![image-55](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/9c583f86-1c65-4b0f-94be-b2b2f384878d)
 
 53. Click on **CREATE INTERFACE** button.                                                                                                                                              
 
-    ![image-55](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/9c583f86-1c65-4b0f-94be-b2b2f384878d)
+    ![image-56](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/012eaf51-999b-48b0-be11-82582db8c0c2)
 
 54. After clicking on the **CREATE INTERFACE** button a new window will open. Fill in the given details there.                     
    **IPv4 address**: Enter the **IPv4 address** for **Ex:100.100.100.2**.                                                                                                                 
@@ -279,35 +278,35 @@
    **IPv4 gateway**: Enter the **IPv4 gateway** for **Ex: 192.168.1.1**. IPv4 gateway comes by default.                                                                                   
    **IPv4 broadcast**: Enter the **IPv4 broadcast** for **Ex: 100.100.100.255**. IPv4 broadcast comes by default.            
 
-    ![image-56](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/012eaf51-999b-48b0-be11-82582db8c0c2)
+    ![image-57](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/96367cbd-a6e7-4781-9adf-b8c99cba291a)
 
 55. Click on **Save** button.
-    ![image-57](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/96367cbd-a6e7-4781-9adf-b8c99cba291a)
+    ![image-58](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/10b6ead0-33b6-46a3-a8f7-bb3b56fbbab4)
 
 56. Then go to the **Services** menu. Go to **Keepalived** inside the **Services** menu.
 
-    ![image-58](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/10b6ead0-33b6-46a3-a8f7-bb3b56fbbab4)
+    ![image-59](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/42cbc3b1-5f2d-4ac2-b23f-53c01ff9a8fd)
 
 57. After going to **Keepalived** a new window will open. Go to the **Globals** tab located there.
 
-    ![image-59](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/42cbc3b1-5f2d-4ac2-b23f-53c01ff9a8fd)
+   ![image-60](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/cef64d8f-e32f-4490-933f-6ea0227076fe)
 
 
 58. Click on the **Globals** tab, then the **Keepalived Global Settings** page will open. Enter **Router_ID** where **Router ID** is given there for **Ex:- Backup_node**.
 
-    ![image-60](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/cef64d8f-e32f-4490-933f-6ea0227076fe)
+    ![image-61](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/07c61ca8-0995-49d7-8fcb-7978d0a772ad)
 
 59. After click on **Save & Apply** button.                
 
-    ![image-61](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/07c61ca8-0995-49d7-8fcb-7978d0a772ad)
+    ![image-62](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/9d737a2b-75df-4cfe-badf-b2439c8edcc1)
 
 60. Go to **IP Address** tab for **IP Address**.
 
-    ![image-62](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/9d737a2b-75df-4cfe-badf-b2439c8edcc1)
+    ![image-63](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2d19bab3-41d5-46eb-a9bb-954c5ce6be24)
 
 61. Click on **ADD** button.
 
-    ![image-63](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2d19bab3-41d5-46eb-a9bb-954c5ce6be24)
+    ![image-64](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8688f245-68aa-435d-8157-2f955fd88775)
 
 62. Fill up the details to create an **IP Address**.                         
     **Name**: Enter the **Name** for **Ex:eth0**.                                                                             
@@ -316,11 +315,11 @@
     **Virtual Device Label** Enter the **Virtual Device Label** for **Ex: ha**.                                   
     **Scope**: Enter the **Scope** for **Ex:Link**.                                                   
 
-    ![image-64](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8688f245-68aa-435d-8157-2f955fd88775)
+    ![image-65](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/874c032a-42e1-4941-bcbe-2afad7f57853)
 
 63. Click on the **Save** button.     
 
-     ![image-65](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/874c032a-42e1-4941-bcbe-2afad7f57853)
+     ![image-66](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/013ebabc-026f-49f5-b8cb-d7824c8d3275)
 
 64. Add and create an **eth3 IP Address** in the same way as you created an interface for eth0.                      
    **Name**: Enter the **Name** for **ex eth3**.                                                                         
@@ -328,63 +327,63 @@
    **Device**: Enter the **Device** for **ex eth3**.                                                                          
    **Virtual Device Label**:- Enter the **Virtual Device Label** for **ex: ha**.                                                    
    **Scope**:- Enter the **Scope** for **ex: link**.                                                                                    
-65. After filling details click on **Save** button.                                                   
+65. After filling details click on the **Save** button.                                                   
 
-    ![image-66](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/013ebabc-026f-49f5-b8cb-d7824c8d3275)
+    ![image-67](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/cea0cf1e-2060-439c-b2f3-a0c6becc513f)
 
 
 66. Click on **Interfaces** tab for **Track Interface**.                                                                        
 
-     ![image-67](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/cea0cf1e-2060-439c-b2f3-a0c6becc513f)
+     ![image-68](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4fa3c482-5dae-4632-8012-b7649a43b590)
 
 67. After **Interfaces** a new window will open. Click on the **ADD** button.
 
-    ![image-68](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4fa3c482-5dae-4632-8012-b7649a43b590)
+    ![image-69](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6b181b16-660e-4a1b-9a41-9644a0cc885f)
 
 68. Fill the details.
     **Name**: Enter the **Name** for **Ex:eth0_ha**.
     **Device**: Enter the **Device** for **Ex:eth0**.
     **Weight**: Enter the **Weight** for **Ex:100**.
 
-    ![image-69](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6b181b16-660e-4a1b-9a41-9644a0cc885f)
+    ![image-70](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7e6274ed-37e2-4967-80e8-42832a898c7f)
 
 69. Click on **Save** button.
 
-    ![image-70](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7e6274ed-37e2-4967-80e8-42832a898c7f)
+    ![image-71](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8fd555e0-3dee-4e72-a879-90908750908d)
 
 70. Same step for **eth1**. And after clicking **Save & Apply**.
 
-    ![image-71](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8fd555e0-3dee-4e72-a879-90908750908d)
+    ![image-72](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ec909cfd-8475-4e92-a538-26c42fe8fc9e)
 
 # Add Backup_node as a peer
 
 71. Click on **Peers** tab.
 
-   ![image-72](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ec909cfd-8475-4e92-a538-26c42fe8fc9e)
+   ![image-73](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/89915756-88d1-48f2-8ab4-71a194d28404)
 
 
 72. Click on **Add** button.
 
-    ![image-73](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/89915756-88d1-48f2-8ab4-71a194d28404)
+    ![image-74](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/0581004c-827b-49a6-8f05-5b5a089e36d1)
 
 73. Fill the details.               
     **Name**: Enter the **Name** for **Ex:Backup_node**.              
     **Peers Address**: Select the **Peers Address**. Navigate and Select custom enter IP 100.100.100.1 and press the **Enter** key.   
 
-    ![image-74](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/0581004c-827b-49a6-8f05-5b5a089e36d1)
+    ![image-75](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7ee5fcbc-d94c-4245-8bbf-e8d3b8187cdb)
 
 74. Click on **Save** button.
 
-   ![image-75](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7ee5fcbc-d94c-4245-8bbf-e8d3b8187cdb)
+   ![image-76](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c552b53b-c3a5-426e-912d-494b458acc5d)
 
 
 75. Click on **Instance** tab **VRRP Instance**.
 
-    ![image-76](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c552b53b-c3a5-426e-912d-494b458acc5d)
+    ![image-77](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c6e92a82-5f09-42e1-8a8c-561005215395)
 
 76. After **Instance** a new window will open. Click on the **ADD** button.
 
-    ![image-77](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c6e92a82-5f09-42e1-8a8c-561005215395)
+    ![image-78](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d29a8e1d-77b4-4491-97b7-b8247432ae3b)            
 
 77. Fill up the details               
     **Name**: Enter the **Name** for **Ex:Backup**.                  
@@ -396,11 +395,11 @@
     **Disable Preempt**: Enter the **Disable Preempt** for **Ex:na**.                       
     **Virtual IP Address**: Select the **Virtual IP Address**. Navigate Select **eth0,eth2**.               
 
-    ![image-78](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d29a8e1d-77b4-4491-97b7-b8247432ae3b)            
+    ![image-79](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c38baaca-d1c2-4d51-8d69-e424cbe12cde)
 
 78. Click on **Save** button.
 
-    ![image-79](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c38baaca-d1c2-4d51-8d69-e424cbe12cde)
+    ![image-80](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d02e2b91-5784-484f-9cec-0c158bed5170)
 
 79. Go to the **Peer** and fill in the details.                
     **Unicast Source IP**: Navigate and Select **100.100.0.30**.               
@@ -408,28 +407,28 @@
     **HA Authentication Type**: Select **Simple Password**.             
     **Password**: Enter **Password** for **Ex:admin**.           
 
-    ![image-80](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d02e2b91-5784-484f-9cec-0c158bed5170)
+     ![image-81](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/508e03de-846d-440a-900e-4ac3d729579f)
 
 80. Click on **Save** button.
 
-    ![image-81](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/508e03de-846d-440a-900e-4ac3d729579f)
+    ![image-82](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/fea52efb-eb03-401b-8977-32cdf0478260)
 
 81. Go to the **Track** and fill the details.                      
     **Track Interfaces**: Select eth0_ha and eth1_ha                      
 
-  ![image-82](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/fea52efb-eb03-401b-8977-32cdf0478260)
+     ![image-83](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/51419b5d-522e-4960-9d42-09dbfec0e341)
 
 82. Click on **Save** button.
 
-    ![image-83](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/51419b5d-522e-4960-9d42-09dbfec0e341)
+    ![image-84](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/377be9b1-e49f-4e46-8f88-ec3ba0a0722f)
 
 83. Go to **System** menu of Backup_node.
 
-    ![image-84](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/377be9b1-e49f-4e46-8f88-ec3ba0a0722f)
-
+    ![image-85](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1601fc64-6854-4186-9ed0-383feb5c3e59)
+   
 84. Go to **Startup** menu.
 
-   ![image-85](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1601fc64-6854-4186-9ed0-383feb5c3e59)
+   ![image-86](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/55a7fe66-c1ee-4e50-bf0b-8bb4cf826ad0)
    
 85. Click on the **ENABLED** button to keepalive service and click on **RESTART** button Service.
 
