@@ -232,9 +232,8 @@
     ![image-43](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7dc7af51-96d1-427b-941d-74a05ab1fb63)
 
 
-48. After turning on the **Master_node**, Verify the updated IP addresses using the IP addr show command on Master_node's terminal.
-49. There will be two IPs in eth0. Where (192.168.1.101) is the virtual IP and (192.168.1.102) is the actual IP.
-In eth1 it shows 100.100.100.1 which is the IP of the master node. eth2 has two IPs. 192.168.254.1 is the actual IP and 192.168.254.254 is the virtual IP che.
+48. Entering the ip addr command in the Master node will show an output like this. **eth0 (192.168.1.101) and eth2 (192.168.254.254)** as virtual IP will be used. And then after off the Master_node, it will switch to the configuration Backup node.
+
 ```
 root@Master_node:~# ip addr show
 1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
