@@ -409,7 +409,8 @@
     **HA Authentication Type**: Select **Simple Password**.             
     **Password**: Enter **Password** for **Ex:admin**.           
 
-     ![image-81](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/508e03de-846d-440a-900e-4ac3d729579f)
+     ![image-81](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/3bcbb594-efc7-446a-b949-7c9eaab582a5)
+
 
 80. Click on **Save** button.
 
