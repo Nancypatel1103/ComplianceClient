@@ -101,11 +101,11 @@
     **Virtual Device Label** Enter the **Virtual Device Label** for **Ex: ha**.                           
     **Scope**: Enter the **Scope** for **Ex:Link**.                               
 
-    ![image-21](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8195872a-72f1-481c-99df-1c0cae076ef7)
+   ![image-21](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/146a67c4-f68d-4146-a614-403469dfa5be)
 
 22. Click on the **Save** button.     
 
-     ![image-22](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c9cf1d08-6e49-4686-8ecb-54eae13da3e9)
+     ![image-22](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/3c3816ac-5133-4328-be35-38e3df4a263a)
 
 23. Add and create an **eth2 IP Address** in the same way as you created an interface for eth0.                    
    **Name**: Enter the **Name** for **ex eth2**.                                                                         
