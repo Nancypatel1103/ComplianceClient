@@ -104,7 +104,7 @@
     **Virtual Device Label** Enter the **Virtual Device Label** for **Ex: ha**.                           
     **Scope**: Enter the **Scope** for **Ex:Link**.                               
 
-    ![image-21](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b450585c-2751-4cb1-95b4-bd60d98b5497)
+   ![image-21](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b450585c-2751-4cb1-95b4-bd60d98b5497)
 
 22. Click on the **Save** button.     
 
