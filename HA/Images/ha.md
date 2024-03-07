@@ -10,11 +10,11 @@
 
 3.	Navigate to the **Interfaces** menu.                                                                                 
 
-   ![image-3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6de25958-096a-4216-b478-7f924f482bb9)             
+    ![image-3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6de25958-096a-4216-b478-7f924f482bb9)             
 
 4.	After login a new window will open. Select and **Edit** the **eth0** interface.                                                         
 
-   ![image-4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1607d014-ab60-43d6-8a95-ce272732d42b)
+    ![image-4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1607d014-ab60-43d6-8a95-ce272732d42b)
 
 5. Click on **Edit** and a new window will open. Fill in the specified details given there.                                                                                                   
    **Protocol**:- Select Static Address in **Protocol**.                                                                                                                                   
@@ -34,7 +34,7 @@
 
 7. Go to **Advance Setting**.                                                                                         
 
-  ![image-7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/cb6757ad-6ff8-47da-8f6f-52e438ac3387)
+   ![image-7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/cb6757ad-6ff8-47da-8f6f-52e438ac3387)
 
 
 8. A new window will open there. Add **Use custom DNS servers** there, enter, and click on the **+** icon, and it will be added.              
@@ -47,7 +47,7 @@
 
 10. Navigate down and click on **ADD NEW INTERFACE**.                       
 
-   ![image-10](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f5991e3a-4a5a-46d7-bfe0-68c769976d3b)
+    ![image-10](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f5991e3a-4a5a-46d7-bfe0-68c769976d3b)
 
 11. A new window will open. Fill in the details.                                                                                           
     **Name**: Enter the **Name** for **Ex: eth 1**.                                                                                                               
@@ -66,7 +66,7 @@
    **IPv4 gateway**: Enter the **IPv4 gateway** for **Ex: 192.168.1.1**. IPv4 gateway comes by default.                                                                                   
    **IPv4 broadcast**: Enter the **IPv4 broadcast** for **Ex: 100.100.100.255**. IPv4 broadcast comes by default.            
 
-  ![image-13](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7bc142d4-4924-4a75-acf1-270b79bc118e)
+   ![image-13](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7bc142d4-4924-4a75-acf1-270b79bc118e)
 
 14. Click on **Save** button.
 
@@ -95,7 +95,7 @@
 
 20. Click on **ADD** button.
 
-   ![image-20](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/cdf9b195-cd75-4ede-a881-bf002d4a0a94)
+    ![image-20](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/cdf9b195-cd75-4ede-a881-bf002d4a0a94)
 
 21. Fill up the details to create an **IP Address**.                               
     **Name**: Enter the **Name** for **Ex:eth0**.                                                             
@@ -134,7 +134,7 @@
     **Device**: Enter the **Device** for **Ex:eth0**.               
     **Weight**: Enter the **Weight** for **Ex:100**.              
 
-   ![image-26 ](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/dc459398-b570-4e96-b484-b4d929763fda)
+    ![image-26 ](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/dc459398-b570-4e96-b484-b4d929763fda)
 
 28. Click on **Save** button.
 
@@ -203,7 +203,7 @@
 40. Go to the **Track** and fill the details.                 
     **Track Interfaces**: Select **eth0_ha and eth1_ha**.               
 
-   ![image-39 ](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7f8d7413-2784-4993-92c4-865c592aa33c)
+    ![image-39 ](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7f8d7413-2784-4993-92c4-865c592aa33c)
 
 41. Click on **Save** button.
 
@@ -222,17 +222,17 @@
 
 44.	Navigate to the **Interfaces** menu.                                                                                                                                               
 
-  ![image-46](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/398b48e1-b706-44db-8792-63067c71032c)
+   ![image-46](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/398b48e1-b706-44db-8792-63067c71032c)
 
 45.	After login a new window will open. Select and **Edit** the **eth0** interface.                                                                                     
 
-   ![image-47](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6ae095aa-2ffd-4997-a410-7e3267daeaad)         
+    ![image-47](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6ae095aa-2ffd-4997-a410-7e3267daeaad)         
 
 46. Click on **Edit** and a new window will open. Fill in the specified details given there.                                                                                                   
    **Protocol**:- Select Static Address in **Protocol**.                                                                                                                                  
    **Really Switch Protocol**:- There click on **Switch Protocol**.                                                                                                                         
 
-  ![image-48](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e6d56699-a7ba-425e-9d6e-ee1fd9e326cf)
+   ![image-48](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e6d56699-a7ba-425e-9d6e-ee1fd9e326cf)
 
 47. After clicking on switch protocol there will be another information fillup.                                                                        
    **IPv4 address**: Enter the **IPv4 address** for **Ex:192.168.1.103**.                                                                          
@@ -240,22 +240,22 @@
    **IPv4 gateway**: Enter the **IPv4 gateway** for **Ex: 192.168.1.1**.                                                                                                                  
    **IPv4 broadcast**: Enter the **IPv4 broadcast**. IPv4 broadcast comes by default.                                                                  
 
-  ![image-49](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/fa05b602-1dfe-434a-9539-c79597e7790e)
+   ![image-49](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/fa05b602-1dfe-434a-9539-c79597e7790e)
 
 ## Advance setting
 
 48. Go to **Advance setting**.                                                                                         
 
-   ![image-50](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4a860f72-dcbc-46f7-a90d-67e6f58e3c88)
+    ![image-50](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4a860f72-dcbc-46f7-a90d-67e6f58e3c88)
 
 
 49. A new window will open there. Add **Use custom DNS servers** there, enter, and click on the **+** icon, and it will be added.              
 
-  ![image-52](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e5ff696b-6ee7-4e5a-9f2a-af22e190cfb2)
+    ![image-52](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e5ff696b-6ee7-4e5a-9f2a-af22e190cfb2)
 
 50. Click on **Save** button. Click on the **Save** button, and then by default, you will return to the interfaces menu.                 
 
-   ![image-53](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ca30e2d8-4c83-4634-bc31-e77b15511340)
+    ![image-53](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ca30e2d8-4c83-4634-bc31-e77b15511340)
 
 51. Navigate down and click on **ADD NEW INTERFACE**.                       
 
@@ -266,7 +266,7 @@
     **Protocol**: Select the **Protocol** for **Ex: Static address**.                                                                                                           
     **Device**: Enter the **Device** for **Ex: eth 1**.                                                                                                                                    
      
-   ![image-55](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/9c583f86-1c65-4b0f-94be-b2b2f384878d)
+    ![image-55](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/9c583f86-1c65-4b0f-94be-b2b2f384878d)
 
 53. Click on **CREATE INTERFACE** button.                                                                                                                                              
 
@@ -289,7 +289,7 @@
 
 57. After going to **Keepalived** a new window will open. Go to the **Globals** tab located there.
 
-   ![image-60](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/cef64d8f-e32f-4490-933f-6ea0227076fe)
+    ![image-60](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/cef64d8f-e32f-4490-933f-6ea0227076fe)
 
 
 58. Click on the **Globals** tab, then the **Keepalived Global Settings** page will open. Enter **Router_ID** where **Router ID** is given there for **Ex:- Backup_node**.
@@ -359,7 +359,7 @@
 
 71. Click on **Peers** tab.
 
-   ![image-73](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/89915756-88d1-48f2-8ab4-71a194d28404)
+    ![image-73](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/89915756-88d1-48f2-8ab4-71a194d28404)
 
 
 72. Click on **Add** button.
@@ -374,7 +374,7 @@
 
 74. Click on **Save** button.
 
-   ![image-76](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c552b53b-c3a5-426e-912d-494b458acc5d)
+    ![image-76](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c552b53b-c3a5-426e-912d-494b458acc5d)
 
 
 75. Click on **Instance** tab **VRRP Instance**.
@@ -431,45 +431,46 @@
    
 84. Go to **Startup** menu.
 
-   ![image-86](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/55a7fe66-c1ee-4e50-bf0b-8bb4cf826ad0)
+    ![image-86](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/55a7fe66-c1ee-4e50-bf0b-8bb4cf826ad0)
    
 85. Click on the **ENABLED** button to keepalive service and click on **RESTART** button Service.
 
     ![image-87](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/87b341ad-56d8-4c62-a45f-67d9388b6316)
 
 86. Check service status in CE Command line **ps | grep keep**.
-```
-3643 root      2188 S    /bin/sh /usr/bin/keepalived-rsync-inotify Backup Mas
-4783 root      3428 S    {keepalive.sh} /bin/sh /usr/bin/keepalive.sh
-11648 root      5812 S    /usr/sbin/keepalived -n -f /tmp/keepalived.conf
-11649 root      5816 S    {keepalived_vrrp} /usr/sbin/keepalived -n -f /tmp/ke
-30512 root      1120 R    grep keep
-```
+   ```
+     3643 root      2188 S    /bin/sh /usr/bin/keepalived-rsync-inotify Backup Mas
+     4783 root      3428 S    {keepalive.sh} /bin/sh /usr/bin/keepalive.sh
+     11648 root      5812 S    /usr/sbin/keepalived -n -f /tmp/keepalived.conf
+     11649 root      5816 S    {keepalived_vrrp} /usr/sbin/keepalived -n -f /tmp/ke
+     30512 root      1120 R    grep keep
+   ```
 ## Verify Overview Status on Both Nodes:
 88. When the configuration is successful in both nodes, the status will be like the below in both nods overview menus.
 89. Check if the status on both Master_node and Backup_node matches the expected status as provided.
 90. Now go to the **Services** menu and click on **Keepalived**.
+
 ### Master_node
 
 91. When the configuration is done, the status of the node will appear. The status of the **Master_node** will be like this.
     ![image-90](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/02c5a625-186f-4c8b-8341-007a631cbd1d)
 
 - IP addr show of **Master_node** will be like this. **eth0 (192.168.1.101) and eth2 (192.168.254.254)** as virtual IP will be used.
-```
-root@Master_node:~# ip addr show
-1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+   ```
+     root@Master_node:~# ip addr show
+     1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
     link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
     inet 127.0.0.1/8 scope host lo
        valid_lft forever preferred_lft forever
     inet6 ::1/128 scope host 
        valid_lft forever preferred_lft forever
-2: ip6tnl0@NONE: <NOARP> mtu 1452 qdisc noop state DOWN group default qlen 1000
+    2: ip6tnl0@NONE: <NOARP> mtu 1452 qdisc noop state DOWN group default qlen 1000
     link/tunnel6 :: brd :: permaddr 4a35:c191:6636::
-3: ip_vti0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN group default qlen 1000
+   3: ip_vti0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN group default qlen 1000
     link/ipip 0.0.0.0 brd 0.0.0.0
-4: ip6_vti0@NONE: <NOARP> mtu 1332 qdisc noop state DOWN group default qlen 1000
+   4: ip6_vti0@NONE: <NOARP> mtu 1332 qdisc noop state DOWN group default qlen 1000
     link/tunnel6 :: brd :: permaddr ae69:71fe:29b5::
-5: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+   5: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
     link/ether 08:00:27:c6:33:21 brd ff:ff:ff:ff:ff:ff
     inet 192.168.1.101/32 scope link eth0:ha
        valid_lft forever preferred_lft forever
@@ -477,13 +478,13 @@ root@Master_node:~# ip addr show
        valid_lft forever preferred_lft forever
     inet6 fe80::a00:27ff:fec6:3321/64 scope link 
        valid_lft forever preferred_lft forever
-6: eth1: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+   6: eth1: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
     link/ether 08:00:27:0f:37:6b brd ff:ff:ff:ff:ff:ff
     inet 100.100.100.1/24 brd 100.100.100.255 scope global eth1
        valid_lft forever preferred_lft forever
     inet6 fe80::a00:27ff:fe0f:376b/64 scope link 
        valid_lft forever preferred_lft forever
-7: eth2: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+   7: eth2: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
     link/ether 08:00:27:82:00:57 brd ff:ff:ff:ff:ff:ff
     inet 192.168.254.254/32 scope link eth2:ha
        valid_lft forever preferred_lft forever
@@ -492,42 +493,43 @@ root@Master_node:~# ip addr show
     inet6 fe80::a00:27ff:fe82:57/64 scope link 
        valid_lft forever preferred_lft forever
   ```
+
 ## Backup_node
 92. **Backup_node** status will be as follows.
 
    ![image-88](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f5e95d07-6c5e-42f7-884e-757697da9609)
  
- - IP addr show of **Master_node will be like this. **eth0 (192.168.1.103 and eth2 (192.168.254.2)** as virtual IP will be used. 
+ - IP addr show of **Backup_node** will be like this. **eth0 (192.168.1.103 and eth2 (192.168.254.2)** as virtual IP will be used. 
 
-```
-root@Backup_node:~# ip addr show
-1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+   ```
+   root@Backup_node:~# ip addr show
+   1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
     link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
     inet 127.0.0.1/8 scope host lo
        valid_lft forever preferred_lft forever
     inet6 ::1/128 scope host 
        valid_lft forever preferred_lft forever
-2: ip6tnl0@NONE: <NOARP> mtu 1452 qdisc noop state DOWN group default qlen 1000
+   2: ip6tnl0@NONE: <NOARP> mtu 1452 qdisc noop state DOWN group default qlen 1000
     link/tunnel6 :: brd :: permaddr 9607:ea3f:6936::
-3: ip_vti0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN group default qlen 1000
+   3: ip_vti0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN group default qlen 1000
     link/ipip 0.0.0.0 brd 0.0.0.0
-4: ip6_vti0@NONE: <NOARP> mtu 1332 qdisc noop state DOWN group default qlen 1000
+   4: ip6_vti0@NONE: <NOARP> mtu 1332 qdisc noop state DOWN group default qlen 1000
     link/tunnel6 :: brd :: permaddr 1e03:c9a5:3074::
-5: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+   5: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
     link/ether 08:00:27:92:4b:a8 brd ff:ff:ff:ff:ff:ff
     inet 192.168.1.103/24 brd 192.168.1.255 scope global eth0
        valid_lft forever preferred_lft forever
     inet6 fe80::a00:27ff:fe92:4ba8/64 scope link 
        valid_lft forever preferred_lft forever
-6: eth1: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+   6: eth1: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
     link/ether 08:00:27:dc:ee:80 brd ff:ff:ff:ff:ff:ff
     inet 100.100.100.2/24 brd 100.100.100.255 scope global eth1
        valid_lft forever preferred_lft forever
     inet6 fe80::a00:27ff:fedc:ee80/64 scope link 
        valid_lft forever preferred_lft forever
-7: eth2: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 1000
+   7: eth2: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 1000
     link/ether 08:00:27:45:9c:a4 brd ff:ff:ff:ff:ff:ff
-8: eth3: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+   8: eth3: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
     link/ether 08:00:27:3b:e7:b0 brd ff:ff:ff:ff:ff:ff
     inet 192.168.254.2/24 brd 192.168.254.255 scope global eth3
        valid_lft forever preferred_lft forever
@@ -543,9 +545,9 @@ root@Backup_node:~# ip addr show
 
 - When the **Master_node** shuts down its ip goes to **Backup_node** then its app addr show will be like this.
 
-```
-root@Backup_node1:~# ip addr show
-1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+     ```
+ root@Backup_node1:~# ip addr show
+ 1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
     link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
     inet 127.0.0.1/8 scope host lo
        valid_lft forever preferred_lft forever
