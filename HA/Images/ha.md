@@ -449,13 +449,12 @@
 
 
 ## Verify Overview Status on Both Nodes:
-88. When the configuration is successful in both nodes, the status will be like the below in both nods overview menus.
-89. Check if the status on both Master_node and Backup_node matches the expected status as provided.
-90. Now go to the **Services** menu and click on **Keepalived**.
+88. Check if the status on both Master_node and Backup_node matches the expected status as provided.
+89. Now go to the **Services** menu and click on **Keepalived**.
 
 ### Master_node
 
-91. When the configuration is done, the status of the node will appear. The status of the **Master_node** will be like this.
+90. When the configuration is done, the status of the node will appear. The status of the **Master_node** will be like this.
     ![image-90](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/02c5a625-186f-4c8b-8341-007a631cbd1d)
 
 - IP addr show of **Master_node** will be like this. **eth0 (192.168.1.101) and eth2 (192.168.254.254)** as virtual IP will be used.
@@ -498,7 +497,7 @@
   ```
 
 ## Backup_node
-92. **Backup_node** status will be as follows.
+91. **Backup_node** status will be as follows.
 
     ![image-88](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f5e95d07-6c5e-42f7-884e-757697da9609)
  
@@ -542,7 +541,7 @@
 
 ## Testing:
 
-93. When the **Master_node** goes off, it will switch to the **Backup node's** node. Its status will be **Master/Backup** because the backup will go to the **Master_node**. And then when the **Master_node** turns on it will go back to **Master/Master**.
+92. When the **Master_node** goes off, it will switch to the **Backup node's** node. Its status will be **Master/Backup** because the backup will go to the **Master_node**. And then when the **Master_node** turns on it will go back to **Master/Master**.
 
      ![image-89](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/abcfe1f8-35d8-40e7-ba5c-4ee07dc1e6f7)
 
