@@ -47,7 +47,7 @@
 
 10. Navigate down and click on **ADD NEW INTERFACE**.                       
 
-   ![image-10](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/9c6d3bb1-aef4-4760-b621-1f9aab0d528a)
+   ![image-10](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f5991e3a-4a5a-46d7-bfe0-68c769976d3b)
 
 11. A new window will open. Fill in the details.                                                                                           
     **Name**: Enter the **Name** for **Ex: eth 1**.                                                                                                               
@@ -260,7 +260,7 @@
 
 51. Navigate down and click on **ADD NEW INTERFACE**.                       
 
-    ![image-54](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/429fe160-9a9a-4a11-8c87-3f92e3109ac2)
+    ![image-10](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f5991e3a-4a5a-46d7-bfe0-68c769976d3b)
 
 52. A new window will open. Fill in the details.                                                                                           
     **Name**: Enter the **Name** for **Ex: eth 1**.                                                                                                               
@@ -391,12 +391,12 @@
     **State**:Enter the **State** for **Ex:Backup**.               
     **Interface**: Select the **Interface** for **Ex:eth1**.                 
     **Virtual Router ID**: Enter the **Virtual Router ID** for **Ex:100**.               
-    **Priority**: Enter the **Priority** for **Ex:100**.                  
+    **Priority**: Enter the **Priority** for **Ex:50**.                  
     **Interval**: Enter the **Interval** for **Ex:1**.                  
     **Disable Preempt**: Enter the **Disable Preempt** for **Ex:na**.                       
     **Virtual IP Address**: Select the **Virtual IP Address**. Navigate Select **eth0,eth2**.               
 
-    ![image-79](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c38baaca-d1c2-4d51-8d69-e424cbe12cde)
+    ![image-79](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7fa0bcb0-676a-4736-8f53-373dfdcda665)
 
 78. Click on **Save** button.
 
@@ -424,6 +424,8 @@
 
     ![image-84](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/377be9b1-e49f-4e46-8f88-ec3ba0a0722f)
 
+## Ensure Keepalived Service is Enabled and Restarted on both nodes
+
 83. Go to **System** menu of Backup_node.
 
     ![image-85](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1601fc64-6854-4186-9ed0-383feb5c3e59)
@@ -434,7 +436,7 @@
    
 85. Click on the **ENABLED** button to keepalive service and click on **RESTART** button Service.
 
-    ![image-87](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/580b4e5f-c0b2-4311-8a33-fe577e884acd)
+    ![image-87](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/87b341ad-56d8-4c62-a45f-67d9388b6316)
 
 86. Check service status in CE Command line **ps | grep keep**.
 ```
@@ -449,24 +451,11 @@
 89. Check if the status on both Master_node and Backup_node matches the expected status as provided.
 90. Now go to the **Services** menu and click on **Keepalived**.
 ### Master_node
-91. When the **Master_node** is on. The **Master/Master** status will be seen when the backup node is off.
+
+91. When the configuration is done, the status of the node will appear. The status of the **Master_node** will be like this.
     ![image-90](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/02c5a625-186f-4c8b-8341-007a631cbd1d)
 
-## Backup_node
-92. When the **Backup_node** is on. The **Backup/Backup** status will be seen when the master_node is off.
-
-   ![image-88](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f5e95d07-6c5e-42f7-884e-757697da9609)
-
-93. Turn off the master node Check the status of the backup node. When we turn off the master node, everything will be moved to the backup node. Then get the master/backup. When we start the master node, it will go to the master node and replace master/backup with backup/backup.
-
-     ![image-89](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/abcfe1f8-35d8-40e7-ba5c-4ee07dc1e6f7)
-
-94. Overview menu status shows like this in both node **Master_node and Backup_node**.
-
-## Test Failover:
-
-95. Entering the ip addr command in the Master node will show an output like this. **eth0 (192.168.1.101) and eth2 (192.168.254.254)** as virtual IP will be used. And then after off the Master_node, it will switch to the configuration Backup node.
-
+- IP addr show of **Master_node will be like this. **eth0 (192.168.1.101) and eth2 (192.168.254.254)** as virtual IP will be used.
 ```
 root@Master_node:~# ip addr show
 1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
@@ -504,7 +493,12 @@ root@Master_node:~# ip addr show
     inet6 fe80::a00:27ff:fe82:57/64 scope link 
        valid_lft forever preferred_lft forever
   ```
-96. Verify the updated IP addresses using the IP addr show command on **Backup_node's** terminal. Entering the **ip addr** command in the Backup node will show an output like this. **eth0 (192.168.1.103 and eth2 (192.168.254.2)** as virtual IP will be used. 
+## Backup_node
+92. **Backup_node** status will be as follows.
+
+   ![image-88](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f5e95d07-6c5e-42f7-884e-757697da9609)
+ 
+ - IP addr show of **Master_node will be like this. **eth0 (192.168.1.103 and eth2 (192.168.254.2)** as virtual IP will be used. 
 
 ```
 root@Backup_node:~# ip addr show
@@ -541,21 +535,17 @@ root@Backup_node:~# ip addr show
     inet6 fe80::a00:27ff:fe3b:e7b0/64 scope link 
        valid_lft forever preferred_lft forever
   ```
-97. After **Master_node** turn off output of **backup_node** ip addr show.
-```
-root@Backup_node:~# ip addr show
-1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
-    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
-    inet 127.0.0.1/8 scope host lo
-       valid_lft forever preferred_lft forever
-    inet6 ::1/128 scope host 
-       valid_lft forever preferred_lft forever
-2: ip6tnl0@NONE: <NOARP> mtu 1452 qdisc noop state DOWN group default qlen 1000
-    link/tunnel6 :: brd :: permaddr 9607:ea3f:6936::
-3: ip_vti0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN group default qlen 1000
-    link/ipip 0.0.0.0 brd 0.0.0.0
-4: ip6_vti0@NONE: <NOARP> mtu 1332 qdisc noop state DOWN group default qlen 1000
-root@Master_node1:~# ip addr show
+
+## Testing:
+
+93. When the **Master_node** goes off, it will switch to the **Backup node's** node. Its status will be **Master/Backup** because the backup will go to the **Master_node**. And then when the **Master_node** turns on it will go back to **Master/Master**.
+
+     ![image-89](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/abcfe1f8-35d8-40e7-ba5c-4ee07dc1e6f7)
+
+- When the **Master_node** shuts down its ip goes to **Backup_node** then its app addr show will be like this.
+
+  ```
+root@Backup_node1:~# ip addr show
 1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
     link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
     inet 127.0.0.1/8 scope host lo
@@ -595,6 +585,3 @@ root@Master_node1:~# ip addr show
 ```
 
 
-    
-
-    
