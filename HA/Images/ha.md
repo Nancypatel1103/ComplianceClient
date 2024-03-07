@@ -538,8 +538,8 @@
        valid_lft forever preferred_lft forever
     inet6 fe80::a00:27ff:fe3b:e7b0/64 scope link 
        valid_lft forever preferred_lft forever
- 
-  ```
+    ```
+
 ## Testing:
 
 93. When the **Master_node** goes off, it will switch to the **Backup node's** node. Its status will be **Master/Backup** because the backup will go to the **Master_node**. And then when the **Master_node** turns on it will go back to **Master/Master**.
