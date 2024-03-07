@@ -548,7 +548,7 @@
 
 - When the **Master_node** shuts down its ip goes to **Backup_node** then its app addr show will be like this.
 
-   ```
+  ```
   root@Backup_node1:~# ip addr show
  1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
     link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
@@ -586,8 +586,7 @@
        valid_lft forever preferred_lft forever
     inet6 fe80::a00:27ff:fe3b:e7b0/64 scope link 
        valid_lft forever preferred_lft forever                    
-  
-   ```
+  ```
  
 
 
