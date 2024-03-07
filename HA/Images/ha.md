@@ -586,7 +586,7 @@
        valid_lft forever preferred_lft forever
     inet6 fe80::a00:27ff:fe3b:e7b0/64 scope link 
        valid_lft forever preferred_lft forever                    
-  ```
+    ```
  
 
 
