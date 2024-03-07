@@ -14,7 +14,7 @@
 
 4.	After login a new window will open. Select and **Edit** the **eth0** interface.                                                         
 
-   ![image-4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2eb24177-d3dc-435c-9932-528261d72954)          
+   ![image-4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1607d014-ab60-43d6-8a95-ce272732d42b)
 
 5. Click on **Edit** and a new window will open. Fill in the specified details given there.                                                                                                   
    **Protocol**:- Select Static Address in **Protocol**.                                                                                                                                   
@@ -226,8 +226,7 @@
 
 45.	After login a new window will open. Select and **Edit** the **eth0** interface.                                                                                     
 
-   ![image-47](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/410ef787-5d23-4035-a687-5f28f2c4cfc9)
-         
+   ![image-47](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6ae095aa-2ffd-4997-a410-7e3267daeaad)         
 
 46. Click on **Edit** and a new window will open. Fill in the specified details given there.                                                                                                   
    **Protocol**:- Select Static Address in **Protocol**.                                                                                                                                  
