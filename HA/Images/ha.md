@@ -539,7 +539,8 @@
     inet6 fe80::a00:27ff:fe3b:e7b0/64 scope link 
        valid_lft forever preferred_lft forever
   ```
-## Testing:
+
+ ## Testing:
 
 93. When the **Master_node** goes off, it will switch to the **Backup node's** node. Its status will be **Master/Backup** because the backup will go to the **Master_node**. And then when the **Master_node** turns on it will go back to **Master/Master**.
 
@@ -547,8 +548,8 @@
 
 - When the **Master_node** shuts down its ip goes to **Backup_node** then its app addr show will be like this.
 
- ```
-     root@Backup_node1:~# ip addr show
+```
+ root@Backup_node1:~# ip addr show
  1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
     link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
     inet 127.0.0.1/8 scope host lo
