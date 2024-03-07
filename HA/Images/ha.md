@@ -66,7 +66,7 @@
    **IPv4 gateway**: Enter the **IPv4 gateway** for **Ex: 192.168.1.1**. IPv4 gateway comes by default.                                                                                   
    **IPv4 broadcast**: Enter the **IPv4 broadcast** for **Ex: 100.100.100.255**. IPv4 broadcast comes by default.            
 
-   ![image-13](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7bc142d4-4924-4a75-acf1-270b79bc118e)
+     ![image-13](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7bc142d4-4924-4a75-acf1-270b79bc118e)
 
 14. Click on **Save** button.
 
@@ -222,7 +222,7 @@
 
 44.	Navigate to the **Interfaces** menu.                                                                                                                                               
 
-   ![image-46](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/398b48e1-b706-44db-8792-63067c71032c)
+    ![image-46](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/398b48e1-b706-44db-8792-63067c71032c)
 
 45.	After login a new window will open. Select and **Edit** the **eth0** interface.                                                                                     
 
@@ -232,7 +232,7 @@
    **Protocol**:- Select Static Address in **Protocol**.                                                                                                                                  
    **Really Switch Protocol**:- There click on **Switch Protocol**.                                                                                                                         
 
-   ![image-48](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e6d56699-a7ba-425e-9d6e-ee1fd9e326cf)
+    ![image-48](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e6d56699-a7ba-425e-9d6e-ee1fd9e326cf)
 
 47. After clicking on switch protocol there will be another information fillup.                                                                        
    **IPv4 address**: Enter the **IPv4 address** for **Ex:192.168.1.103**.                                                                          
@@ -240,7 +240,7 @@
    **IPv4 gateway**: Enter the **IPv4 gateway** for **Ex: 192.168.1.1**.                                                                                                                  
    **IPv4 broadcast**: Enter the **IPv4 broadcast**. IPv4 broadcast comes by default.                                                                  
 
-   ![image-49](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/fa05b602-1dfe-434a-9539-c79597e7790e)
+    ![image-49](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/fa05b602-1dfe-434a-9539-c79597e7790e)
 
 ## Advance setting
 
@@ -438,13 +438,16 @@
     ![image-87](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/87b341ad-56d8-4c62-a45f-67d9388b6316)
 
 86. Check service status in CE Command line **ps | grep keep**.
-   ```
-     3643 root      2188 S    /bin/sh /usr/bin/keepalived-rsync-inotify Backup Mas
-     4783 root      3428 S    {keepalive.sh} /bin/sh /usr/bin/keepalive.sh
-     11648 root      5812 S    /usr/sbin/keepalived -n -f /tmp/keepalived.conf
-     11649 root      5816 S    {keepalived_vrrp} /usr/sbin/keepalived -n -f /tmp/ke
-     30512 root      1120 R    grep keep
-   ```
+      ```
+           ps | grep keep
+           3643 root      2188 S    /bin/sh /usr/bin/keepalived-rsync-inotify Backup Mas
+           4783 root      3428 S    {keepalive.sh} /bin/sh /usr/bin/keepalive.sh
+           11648 root      5812 S    /usr/sbin/keepalived -n -f /tmp/keepalived.conf
+           11649 root      5816 S    {keepalived_vrrp} /usr/sbin/keepalived -n -f /tmp/ke
+           30512 root      1120 R    grep keep
+      ```
+
+
 ## Verify Overview Status on Both Nodes:
 88. When the configuration is successful in both nodes, the status will be like the below in both nods overview menus.
 89. Check if the status on both Master_node and Backup_node matches the expected status as provided.
@@ -497,7 +500,7 @@
 ## Backup_node
 92. **Backup_node** status will be as follows.
 
-   ![image-88](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f5e95d07-6c5e-42f7-884e-757697da9609)
+    ![image-88](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f5e95d07-6c5e-42f7-884e-757697da9609)
  
  - IP addr show of **Backup_node** will be like this. **eth0 (192.168.1.103 and eth2 (192.168.254.2)** as virtual IP will be used. 
 
@@ -545,7 +548,7 @@
 
 - When the **Master_node** shuts down its ip goes to **Backup_node** then its app addr show will be like this.
 
-     ```
+ ```
  root@Backup_node1:~# ip addr show
  1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
     link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
