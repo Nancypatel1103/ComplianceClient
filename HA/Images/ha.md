@@ -104,7 +104,7 @@
     **Virtual Device Label** Enter the **Virtual Device Label** for **Ex: ha**.                           
     **Scope**: Enter the **Scope** for **Ex:Link**.                               
 
-   ![image-21](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b450585c-2751-4cb1-95b4-bd60d98b5497)
+     ![image-21](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b450585c-2751-4cb1-95b4-bd60d98b5497)
 
 22. Click on the **Save** button.     
 
@@ -143,7 +143,7 @@
 
 29. Same step for **eth1_ha**. And after clicking **Save & Apply**.
 
-    ![image-28 ](https://github.com/Nancypatel1103/ComplianceClient/assets/153615969/68e59ddd-4481-4ecb-9b0d-b65ea4b87a32)
+      ![image-28 ](https://github.com/Nancypatel1103/ComplianceClient/assets/153615969/68e59ddd-4481-4ecb-9b0d-b65ea4b87a32)
 
 ## Add Backup_node as a peer
 
@@ -342,10 +342,10 @@
 
     ![image-69](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6b181b16-660e-4a1b-9a41-9644a0cc885f)
 
-68. Fill the details.
-    **Name**: Enter the **Name** for **Ex:eth0_ha**.
-    **Device**: Enter the **Device** for **Ex:eth0**.
-    **Weight**: Enter the **Weight** for **Ex:100**.
+68. Fill the details.                               
+    **Name**: Enter the **Name** for **Ex:eth0_ha**.                   
+    **Device**: Enter the **Device** for **Ex:eth0**.                    
+    **Weight**: Enter the **Weight** for **Ex:100**.                   
 
     ![image-70](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7e6274ed-37e2-4967-80e8-42832a898c7f)
 
@@ -454,7 +454,7 @@
     ![image-90](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/02c5a625-186f-4c8b-8341-007a631cbd1d)
 
 ## Backup_node
-92. When the **Backup_node is on. The **Backup/Backup** status will be seen when the master_node is off.
+92. When the **Backup_node** is on. The **Backup/Backup** status will be seen when the master_node is off.
 
    ![image-88](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f5e95d07-6c5e-42f7-884e-757697da9609)
 
