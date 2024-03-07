@@ -332,6 +332,9 @@ root@Master_node1:~# ip addr show
 ```
 
 
-    
+
+
+
+
 
     
