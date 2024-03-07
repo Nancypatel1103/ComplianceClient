@@ -138,7 +138,7 @@
 
 28. Click on **Save** button.
 
-   ![image-27 ](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/740c860c-ea6a-4c60-8669-1033b2557a59)
+  ![image-27 ](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/740c860c-ea6a-4c60-8669-1033b2557a59)
 
 
 29. Same step for **eth1_ha**. And after clicking **Save & Apply**.
@@ -404,7 +404,7 @@
     ![image-80](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d02e2b91-5784-484f-9cec-0c158bed5170)
 
 79. Go to the **Peer** and fill in the details.                
-    **Unicast Source IP**: Navigate and Select **100.100.0.30**.               
+    **Unicast Source IP**: Navigate and Select **100.100.100.2**.               
     **Peer**: Peer select **Master_node**.               
     **HA Authentication Type**: Select **Simple Password**.             
     **Password**: Enter **Password** for **Ex:admin**.           
