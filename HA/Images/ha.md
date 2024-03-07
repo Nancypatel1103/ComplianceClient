@@ -501,7 +501,7 @@
 
     ![image-88](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f5e95d07-6c5e-42f7-884e-757697da9609)
  
- - IP addr show of **Backup_node** will be like this. **eth0 (192.168.1.103 and eth2 (192.168.254.2)** as virtual IP will be used. 
+ - IP addr show of **Backup_node** will be like this. 
 
    ```
    root@Backup_node:~# ip addr show
