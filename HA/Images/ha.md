@@ -142,7 +142,7 @@
 
 29. Same step for **eth1_ha**. And after clicking **Save & Apply**.
 
-      ![image-28 ](https://github.com/Nancypatel1103/ComplianceClient/assets/153615969/68e59ddd-4481-4ecb-9b0d-b65ea4b87a32)
+    ![image-28 ](https://github.com/Nancypatel1103/ComplianceClient/assets/153615969/68e59ddd-4481-4ecb-9b0d-b65ea4b87a32)
 
 ## Add Backup_node as a peer
 
