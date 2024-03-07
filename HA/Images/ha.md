@@ -414,7 +414,7 @@
 
 80. Click on **Save** button.
 
-    ![image-82](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/fea52efb-eb03-401b-8977-32cdf0478260)
+    ![image-82](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7e91874b-5e62-409e-ac9e-f3293dd4f456)
 
 81. Go to the **Track** and fill the details.                      
     **Track Interfaces**: Select eth0_ha and eth1_ha                      
