@@ -813,11 +813,11 @@
 
 135. Navigate to the **Track Script** and choose the **Receiver**.
 
-    ![image-114](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4200fb06-b4e1-4db5-9bf9-1beb1b5d10c2)
+   ![image-114](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4200fb06-b4e1-4db5-9bf9-1beb1b5d10c2)
 
 136. Click on the **Save** button.
 
-    ![image-115](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/936a83d1-ee94-45a7-91f5-e867e959c662)
+   ![image-115](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/936a83d1-ee94-45a7-91f5-e867e959c662)
 
     
     
