@@ -587,7 +587,7 @@
        valid_lft forever preferred_lft forever
 ```
  
-
+# Sync Configuration on Master_node:
 
  
 
