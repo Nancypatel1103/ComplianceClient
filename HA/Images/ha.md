@@ -685,11 +685,11 @@
 
     - Then click on **Select File**. After clicking on **Select File**, click on browse and select the file.
 
-   ![image-104](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/05d4b411-5d1a-4b44-91a6-be396c0e40a3)
+    ![image-104](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/05d4b411-5d1a-4b44-91a6-be396c0e40a3)
 
 16. Click on **Save** button.
 
-   ![image-105](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c83676a1-06b9-4a87-bee1-e87c4833683f)
+    ![image-105](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c83676a1-06b9-4a87-bee1-e87c4833683f)
 
 17. Then click **SAVE & APPLY** button.
 
@@ -697,7 +697,7 @@
 
 18. Go to **Instant** tab.
 
-   ![image-107](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b6b0e397-6985-4980-a04d-fc55261047b7)
+    ![image-107](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b6b0e397-6985-4980-a04d-fc55261047b7)
 
 19. Click on **Edit** button.
 
