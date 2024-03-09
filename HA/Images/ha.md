@@ -686,35 +686,35 @@
 
     - Then click on **Select File**. After clicking on **Select File**, click on browse and select the file.
 
-    ![image-104](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/05d4b411-5d1a-4b44-91a6-be396c0e40a3)
+   ![image-104](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/05d4b411-5d1a-4b44-91a6-be396c0e40a3)
 
 108. Click on the **Save** button.
 
-    ![image-105](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c83676a1-06b9-4a87-bee1-e87c4833683f)
+   ![image-105](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c83676a1-06b9-4a87-bee1-e87c4833683f)
 
 109. Then click the **SAVE & APPLY** button.
 
-    ![image-106](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/12c969b5-3883-4358-8d85-70fd0a2f1dfe)
+   ![image-106](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/12c969b5-3883-4358-8d85-70fd0a2f1dfe)
 
 110. Go to the **Instant** tab.
 
-    ![image-107](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b6b0e397-6985-4980-a04d-fc55261047b7)
+   ![image-107](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b6b0e397-6985-4980-a04d-fc55261047b7)
 
 111. Click on the **Edit** button.
 
-    ![image-108](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/01143695-9668-40f9-8693-7b589ddb71da)
+   ![image-108](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/01143695-9668-40f9-8693-7b589ddb71da)
 
 112. Go to the **Tracking** tab.
 
-    ![image-109](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/91dc9ac5-34c1-4603-b5ab-b20768b502f0)
+   ![image-109](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/91dc9ac5-34c1-4603-b5ab-b20768b502f0)
 
 113. Navigate to the **Track Script** and choose the **sender**.
 
-    ![image-110](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/99f88db9-9c3c-49f0-afcf-6f96a1ed9c31)
+   ![image-110](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/99f88db9-9c3c-49f0-afcf-6f96a1ed9c31)
 
 114. Click on the **Save** button.
 
-    ![image-111](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/caf43e94-5858-4c48-8dff-747ac175041f)
+   ![image-111](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/caf43e94-5858-4c48-8dff-747ac175041f)
 
     
  # Sync Configuration on Backup_node:
