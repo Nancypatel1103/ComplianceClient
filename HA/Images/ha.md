@@ -663,13 +663,13 @@
       # ssh-keygen 
 Generating public/private rsa key pair.
 
-Enter file in which to save the key (/root/.ssh/id_rsa): Enter passphrase (empty for no passphrase): 
-Enter same passphrase again: 
-Your identification has been saved in /root/.ssh/id_rsa
-Your public key has been saved in /root/.ssh/id_rsa.pub
-The key fingerprint is:
+Enter file in which to save the key (/root/.ssh/id_rsa): Enter passphrase (empty for no passphrase):            
+Enter same passphrase again:            
+Your identification has been saved in /root/.ssh/id_rsa             
+Your public key has been saved in /root/.ssh/id_rsa.pub                   
+The key fingerprint is:                 
 SHA256:4uHsxMYJOH1fmso+h5ew4sH0pAJgmBhQjeV7/PTD9bI root@sharad-Latitude-5480
-The key's randomart image is:
+The key's randomart image is:                        
 +---[RSA 3072]----+
 |+..+.            |
 |oo...            |
@@ -680,8 +680,9 @@ The key's randomart image is:
 |  . + @+=.+ . .  |
 |   ..*+.+  . o   |
 |   ..o=+    E    |
-+----[SHA256]-----+
-```
++----[SHA256]-----+                 
+   
+       ```
      - Then click on **Select File**. After clicking on **Select File**, click on browse and select the file.
 
    ![image-104](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/05d4b411-5d1a-4b44-91a6-be396c0e40a3)
