@@ -589,23 +589,23 @@
  
 # Sync Configuration on Master_node:
 
-1.	Login to the UI of **Master_node** using the provided IP address.                                                        
+93.	Login to the UI of **Master_node** using the provided IP address.                                                        
 
   	![image-1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f10832aa-1fa0-4488-a12d-f95ce01c57a7)
 
-2. Go to the **Services** menu. Go to **Keepalived** inside the **Services** menu.
+94. Go to the **Services** menu. Go to **Keepalived** inside the **Services** menu.
 
    ![image-91](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/79824c3e-badd-4bda-9964-59334aa6b35c)
 
-4. After clicking **Keepalived** a window will open. Go to the **Script** tab.
+95. After clicking **Keepalived** a window will open. Go to the **Script** tab.
 
    ![image-92](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/96e4e5d6-5ad2-4252-826c-086129bca93b)
 
-6. A new window will open. Click on the **Add** button.
+96. A new window will open. Click on the **Add** button.
 
    ![image-93](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2f459080-9c0d-4e48-8651-8a99f3d86107)
 
-8. Fill the details.
+97. Fill the details.
    **Name**: Enter the **Name** for **Ex: sync_ha**.
    **Script**: Click on **Select file** and choose file(By default file will appear there, you have to select)
    **Interval**: Interval which will be 6 by default.
@@ -613,47 +613,48 @@
 
    ![image-94](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/463d5e15-535e-4f41-957c-d7ee00187858)
 
-10. Click on **Save** button.
+98. Click on **Save** button.
 
     ![image-95](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/63c24d24-8e47-4d50-91d2-841c36d14899)
 
-12. After clicking the **Save** button. And click on the **SAVE & APPLY** button.
+99. After clicking the **Save** button. And click on the **SAVE & APPLY** button.
 
     ![image-96](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/482db965-46d9-4993-a4e1-b4321ccf9a8c)
 
-14. Click on **SAVE & APPLY** then this will happen.
+100. Click on **SAVE & APPLY** then this will happen.
 
     ![image-97](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2f3391c7-3ac9-4be8-be06-598463836c23)
 
-16. Then click on **Add** button of **Track Script**.
+101. Then click on **Add** button of **Track Script**.
 
     ![image-98](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6ce3731a-898d-40c0-948d-4922f4d26b2e)
 
-18. Fill these details
+102. Fill these details
     **Name**: Enter the **Name** for **Ex:sender**
     **VRRP Script**: Select **sync_ha**.
     **Weight**: Enter the **Weight** for **Ex:100**.
 
   ![image-99](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/19e87116-0869-41dc-b515-90b8a0dd627b)
 
-20. Click on **Save** button.
+103. Click on the **Save** button.
 
     ![image-100](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f43fb55a-f8f6-4a71-a731-496066de3bbe)
 
-22. Go to **Peers** button.
+104. Go to the **Peers** button.
 
     ![image-101](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b5d38879-f563-4ef6-9974-feb9b46d8267)
 
-24. Click on **Edit** button.
+105. Click on the **Edit** button.
 
     ![image-102](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/0c995ace-1b37-4108-82a4-f613b03bf939)
 
-26. A new window will open. Then click the box of **Enable sync**.
+106. A new window will open. Then click the box of **Enable sync**.
 
     ![image-103](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/050eb52f-251d-4926-b715-ef751c4a402b)
 
-28. Fill the details.
+107. Fill in the details.
     **SSH Port**: Enter the port for **Ex:25321**.
+    **SSH Mode**: Select **Sender**.
     **sync Director**: The sync directory will appear by default.
     **Path SSH Private Key**: First go to your local terminal for the path to
     SSH private key.
@@ -687,36 +688,137 @@
 
     ![image-104](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/05d4b411-5d1a-4b44-91a6-be396c0e40a3)
 
-16. Click on **Save** button.
+108. Click on the **Save** button.
 
     ![image-105](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c83676a1-06b9-4a87-bee1-e87c4833683f)
 
-17. Then click **SAVE & APPLY** button.
+109. Then click the **SAVE & APPLY** button.
 
     ![image-106](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/12c969b5-3883-4358-8d85-70fd0a2f1dfe)
 
-18. Go to **Instant** tab.
+110. Go to the **Instant** tab.
 
     ![image-107](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b6b0e397-6985-4980-a04d-fc55261047b7)
 
-19. Click on **Edit** button.
+111. Click on the **Edit** button.
 
     ![image-108](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/01143695-9668-40f9-8693-7b589ddb71da)
 
-20. Go to **Tracking** tab.
+112. Go to the **Tracking** tab.
 
     ![image-109](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/91dc9ac5-34c1-4603-b5ab-b20768b502f0)
 
-21. Navigate to the **Track Script** and choose the **sender**.
+113. Navigate to the **Track Script** and choose the **sender**.
 
     ![image-110](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/99f88db9-9c3c-49f0-afcf-6f96a1ed9c31)
 
-22. Click on **Save** button.
+114. Click on the **Save** button.
 
     ![image-111](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/caf43e94-5858-4c48-8dff-747ac175041f)
 
     
+ # Sync Configuration on Backup_node:
+
+115.	Log in to the UI of **Master_node** using the provided IP address.                                                        
+
+  	![image-1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f10832aa-1fa0-4488-a12d-f95ce01c57a7)
+
+116. Go to the **Services** menu. Go to **Keepalived** inside the **Services** menu.
+
+   ![image-91](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/79824c3e-badd-4bda-9964-59334aa6b35c)
+
+117. After clicking **Keepalived** a window will open. Go to the **Script** tab.
+
+   ![image-92](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/96e4e5d6-5ad2-4252-826c-086129bca93b)
+
+118. A new window will open. Click on the **Add** button.
+
+   ![image-93](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2f459080-9c0d-4e48-8651-8a99f3d86107)
+
+119. Fill in the details.
+   **Name**: Enter the **Name** for **Ex: sync_ha**.
+   **Script**: Click on **Select file** and choose file(By default file will appear there, you have to select)
+   **Interval**: Interval which will be 6 by default.
+   **Weight**: Enter the **Weight** for **Ex: 100**.
+
+   ![image-94](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/463d5e15-535e-4f41-957c-d7ee00187858)
+
+120. Click on the **Save** button.
+
+    ![image-95](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/63c24d24-8e47-4d50-91d2-841c36d14899)
+
+121. After clicking the **Save** button. And click on the **SAVE & APPLY** button.
+
+    ![image-96](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/482db965-46d9-4993-a4e1-b4321ccf9a8c)
+
+122. Click on **SAVE & APPLY** then this will happen.
+
+    ![image-97](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2f3391c7-3ac9-4be8-be06-598463836c23)
+
+123. Then click on the **Add** button of **Track Script**.
+
+    ![image-98](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6ce3731a-898d-40c0-948d-4922f4d26b2e)
+
+124. Fill these details
+    **Name**: Enter the **Name** for **Ex:receiver**
+    **VRRP Script**: Select **sync_ha**.
+    **Weight**: Enter the **Weight** for **Ex:100**.
+   
+    ![image-112](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/52f8804e-36e1-494b-9455-92f0f62aa056)
+
+125. Click on the **Save** button.
+
+    ![image-100](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f43fb55a-f8f6-4a71-a731-496066de3bbe)
+
+126. Go to the **Peers** button.
+
+    ![image-101](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b5d38879-f563-4ef6-9974-feb9b46d8267)
+
+127. Click on the **Edit** button.
+
+    ![image-102](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/0c995ace-1b37-4108-82a4-f613b03bf939)
+
+128. A new window will open. Then click the box of **Enable sync**.
+
+    ![image-103](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/050eb52f-251d-4926-b715-ef751c4a402b)
+
+129. Fill in the details.
+    **SSH Port**: Enter the port for **Ex:25321**.
+    **sync Mode**: Select **Receiver**.
+    **SSH Public Key**: First go to your local terminal for the path to
+    SSH private key.
+    - They gave this command **cat/id-ras.pub**. If you give this command, a key will be generated, copy and paste there.
     
+    ![image-113](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c9238be2-92d2-4119-a83e-87e08b0d2eb9)
+
+130. Click on the **Save** button.
+
+    ![image-105](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c83676a1-06b9-4a87-bee1-e87c4833683f)
+
+131. Then click the **SAVE & APPLY** button.
+
+    ![image-106](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/12c969b5-3883-4358-8d85-70fd0a2f1dfe)
+
+132. Go to the **Instant** tab.
+
+    ![image-107](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b6b0e397-6985-4980-a04d-fc55261047b7)
+
+133. Click on the **Edit** button.
+
+    ![image-108](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/01143695-9668-40f9-8693-7b589ddb71da)
+
+134. Go to the **Tracking** tab.
+
+    ![image-109](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/91dc9ac5-34c1-4603-b5ab-b20768b502f0)
+
+135. Navigate to the **Track Script** and choose the **Receiver**.
+
+    ![image-114](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4200fb06-b4e1-4db5-9bf9-1beb1b5d10c2)
+
+136. Click on the **Save** button.
+
+    ![image-115](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/936a83d1-ee94-45a7-91f5-e867e959c662)
+
     
     
     
