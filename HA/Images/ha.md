@@ -589,5 +589,64 @@
  
 # Sync Configuration on Master_node:
 
- 
+1.	Login to the UI of **Master_node** using the provided IP address.                                                        
+
+  	![image-1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f10832aa-1fa0-4488-a12d-f95ce01c57a7)
+
+2. Go to the **Services** menu. Go to **Keepalived** inside the **Services** menu.
+3. After clicking **Keepalived** a window will open. Go to the **Script** tab.
+4. A new window will open. Click on the **Add** button.
+5. Fill the details.
+   **Name**: Enter the **Name** for **Ex: sync_ha**.
+   **Script**: Click on **Select file** and choose file(By default file will appear there, you have to select)
+   **Interval**: Interval which will be 6 by default.
+   **Weight**: Enter the **Weight** for **Ex: 100**.
+6. Click on **Save** button.
+7. After clicking the **Save** button. And click on the **SAVE & APPLY** button.
+8. Click on **SAVE & APPLY** then this will happen.
+9. Then click on **Add** button of **Track Script**.
+10. Fill this details
+    **Name**: Enter the **Name** for **Ex:sender**
+    **VRRP Script**: Select **sync_ha**.
+    **Weight**: Enter the **Weight** for **Ex:100**.
+11. Click on **Save** button.
+12. Go to **Peers** button.
+13. Click on **Edit** button.
+14. A new window will open. Then click the box of **Enable sync**.
+15. Fill the details.
+    **SSH Port**: Enter the port for **Ex:25321**.
+    **sync Director**: The sync directory will appear by default.
+    **Path SSH Private Key**: First go to your local terminal for the path to
+    SSH private key.
+    - They gave this command **ssh-keygen**.
+    - After giving the **ssh-keygen** command, enter 4 times and you will get the key.
+      ```
+      # ssh-keygen 
+Generating public/private rsa key pair.
+
+Enter file in which to save the key (/root/.ssh/id_rsa): Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /root/.ssh/id_rsa
+Your public key has been saved in /root/.ssh/id_rsa.pub
+The key fingerprint is:
+SHA256:4uHsxMYJOH1fmso+h5ew4sH0pAJgmBhQjeV7/PTD9bI root@sharad-Latitude-5480
+The key's randomart image is:
++---[RSA 3072]----+
+|+..+.            |
+|oo...            |
+|=.  .            |
+|o  o o           |
+|. o = B S . .    |
+| . + &.B * . .   |
+|  . + @+=.+ . .  |
+|   ..*+.+  . o   |
+|   ..o=+    E    |
++----[SHA256]-----+
+```
+16. 
+    
+    
+    
+    
+   
 
