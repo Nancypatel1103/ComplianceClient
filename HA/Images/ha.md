@@ -594,26 +594,41 @@
   	![image-1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f10832aa-1fa0-4488-a12d-f95ce01c57a7)
 
 2. Go to the **Services** menu. Go to **Keepalived** inside the **Services** menu.
-3. After clicking **Keepalived** a window will open. Go to the **Script** tab.
-4. A new window will open. Click on the **Add** button.
-5. Fill the details.
+
+   ![image-91](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/79824c3e-badd-4bda-9964-59334aa6b35c)
+
+4. After clicking **Keepalived** a window will open. Go to the **Script** tab.
+
+5. A new window will open. Click on the **Add** button.
+
+6. Fill the details.
    **Name**: Enter the **Name** for **Ex: sync_ha**.
    **Script**: Click on **Select file** and choose file(By default file will appear there, you have to select)
    **Interval**: Interval which will be 6 by default.
    **Weight**: Enter the **Weight** for **Ex: 100**.
-6. Click on **Save** button.
-7. After clicking the **Save** button. And click on the **SAVE & APPLY** button.
-8. Click on **SAVE & APPLY** then this will happen.
-9. Then click on **Add** button of **Track Script**.
-10. Fill this details
+
+7. Click on **Save** button.
+
+8. After clicking the **Save** button. And click on the **SAVE & APPLY** button.
+
+9. Click on **SAVE & APPLY** then this will happen.
+
+10. Then click on **Add** button of **Track Script**.
+
+11. Fill this details
     **Name**: Enter the **Name** for **Ex:sender**
     **VRRP Script**: Select **sync_ha**.
     **Weight**: Enter the **Weight** for **Ex:100**.
-11. Click on **Save** button.
-12. Go to **Peers** button.
-13. Click on **Edit** button.
-14. A new window will open. Then click the box of **Enable sync**.
-15. Fill the details.
+
+12. Click on **Save** button.
+
+13. Go to **Peers** button.
+
+14. Click on **Edit** button.
+
+15. A new window will open. Then click the box of **Enable sync**.
+
+16. Fill the details.
     **SSH Port**: Enter the port for **Ex:25321**.
     **sync Director**: The sync directory will appear by default.
     **Path SSH Private Key**: First go to your local terminal for the path to
@@ -643,7 +658,17 @@ The key's randomart image is:
 |   ..o=+    E    |
 +----[SHA256]-----+
 ```
-16. 
+     - Then click on **Select File**. After clicking on **Select File**, click on browse and select the file.
+
+16. Click on **Save** button.
+17. Then click **SAVE & APPLY** button.
+18. Go to **Instant** tab.
+19. Click on **Edit** button.
+20. Go to **Tracking** tab.
+21. Navigate to the **Track Script** and choose the **sender**.
+22. Click on **Save** button.
+
+    
     
     
     
