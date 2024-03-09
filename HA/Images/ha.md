@@ -623,11 +623,11 @@
 
 100. Click on **SAVE & APPLY** then this will happen.
 
-    ![image-97](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2f3391c7-3ac9-4be8-be06-598463836c23)
+   ![image-97](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2f3391c7-3ac9-4be8-be06-598463836c23)
 
-101. Then click on **Add** button of **Track Script**.
+101. Then click on the **Add** button of **Track Script**.
 
-    ![image-98](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6ce3731a-898d-40c0-948d-4922f4d26b2e)
+   ![image-98](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6ce3731a-898d-40c0-948d-4922f4d26b2e)
 
 102. Fill these details
     **Name**: Enter the **Name** for **Ex:sender**
@@ -638,19 +638,19 @@
 
 103. Click on the **Save** button.
 
-    ![image-100](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f43fb55a-f8f6-4a71-a731-496066de3bbe)
+   ![image-100](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f43fb55a-f8f6-4a71-a731-496066de3bbe)
 
 104. Go to the **Peers** button.
 
-    ![image-101](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b5d38879-f563-4ef6-9974-feb9b46d8267)
+   ![image-101](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b5d38879-f563-4ef6-9974-feb9b46d8267)
 
 105. Click on the **Edit** button.
 
-    ![image-102](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/0c995ace-1b37-4108-82a4-f613b03bf939)
+   ![image-102](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/0c995ace-1b37-4108-82a4-f613b03bf939)
 
 106. A new window will open. Then click the box of **Enable sync**.
 
-    ![image-103](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/050eb52f-251d-4926-b715-ef751c4a402b)
+   ![image-103](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/050eb52f-251d-4926-b715-ef751c4a402b)
 
 107. Fill in the details.
     **SSH Port**: Enter the port for **Ex:25321**.
@@ -684,7 +684,7 @@
       +----[SHA256]-----+     ```            
    
 
-    - Then click on **Select File**. After clicking on **Select File**, click on browse and select the file.
+     - Then click on **Select File**. After clicking on **Select File**, click on browse and select the file.
 
    ![image-104](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/05d4b411-5d1a-4b44-91a6-be396c0e40a3)
 
