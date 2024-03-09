@@ -682,7 +682,8 @@
       |   ..o=+    E    |
       +----[SHA256]-----+                 
    ```
-    - Then click on **Select File**. After clicking on **Select File**, click on browse and select the file.
+
+- Then click on **Select File**. After clicking on **Select File**, click on browse and select the file.
 
    ![image-104](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/05d4b411-5d1a-4b44-91a6-be396c0e40a3)
 
