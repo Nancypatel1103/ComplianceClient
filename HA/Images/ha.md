@@ -661,26 +661,26 @@
     - After giving the **ssh-keygen** command, enter 4 times and you will get the key.
       ```
       # ssh-keygen 
-Generating public/private rsa key pair.
+      Generating public/private rsa key pair.
 
-Enter file in which to save the key (/root/.ssh/id_rsa): Enter passphrase (empty for no passphrase):            
-Enter same passphrase again:            
-Your identification has been saved in /root/.ssh/id_rsa             
-Your public key has been saved in /root/.ssh/id_rsa.pub                   
-The key fingerprint is:                 
-SHA256:4uHsxMYJOH1fmso+h5ew4sH0pAJgmBhQjeV7/PTD9bI root@sharad-Latitude-5480
-The key's randomart image is:                        
-+---[RSA 3072]----+
-|+..+.            |
-|oo...            |
-|=.  .            |
-|o  o o           |
-|. o = B S . .    |
-| . + &.B * . .   |
-|  . + @+=.+ . .  |
-|   ..*+.+  . o   |
-|   ..o=+    E    |
-+----[SHA256]-----+                 
+      Enter file in which to save the key (/root/.ssh/id_rsa): Enter passphrase (empty for no passphrase):            
+      Enter same passphrase again:            
+      Your identification has been saved in /root/.ssh/id_rsa             
+      Your public key has been saved in /root/.ssh/id_rsa.pub                   
+      The key fingerprint is:                 
+      SHA256:4uHsxMYJOH1fmso+h5ew4sH0pAJgmBhQjeV7/PTD9bI root@sharad-Latitude-5480
+      The key's randomart image is:                        
+      +---[RSA 3072]----+
+      |+..+.            |
+      |oo...            |
+      |=.  .            |
+      |o  o o           |
+      |. o = B S . .    |
+      | . + &.B * . .   |
+      |  . + @+=.+ . .  |
+      |   ..*+.+  . o   |
+      |   ..o=+    E    |
+      +----[SHA256]-----+                 
    ```
     - Then click on **Select File**. After clicking on **Select File**, click on browse and select the file.
 
