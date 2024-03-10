@@ -718,7 +718,7 @@
     
  # Sync Configuration on Backup_node:
 
-115.	Log in to the UI of **Master_node** using the provided IP address.                                                        
+115.	Log in to the UI of **Backup_node** using the provided IP address.                                                        
 
   ![image-1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f10832aa-1fa0-4488-a12d-f95ce01c57a7)
 
