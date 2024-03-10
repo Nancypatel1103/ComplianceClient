@@ -793,7 +793,7 @@
 
 130. Click on the **Save** button.
 
-   ![image-105](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c83676a1-06b9-4a87-bee1-e87c4833683f)
+  ![image-116](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b706685f-9563-4f07-8adf-82c3bb5f3d80)
 
 131. Then click the **SAVE & APPLY** button.
 
@@ -801,7 +801,7 @@
 
 132. Go to the **Instant** tab.
 
-   ![image-107](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b6b0e397-6985-4980-a04d-fc55261047b7)
+    ![image-77](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c6e92a82-5f09-42e1-8a8c-561005215395)
 
 133. Click on the **Edit** button.
 
