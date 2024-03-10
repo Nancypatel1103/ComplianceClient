@@ -642,15 +642,15 @@
 
 104. Go to the **Peers** button.
 
-   ![image-101](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b5d38879-f563-4ef6-9974-feb9b46d8267)
+    ![image-102](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/0c995ace-1b37-4108-82a4-f613b03bf939)
 
 105. Click on the **Edit** button.
 
-   ![image-102](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/0c995ace-1b37-4108-82a4-f613b03bf939)
+   ![image-103](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/050eb52f-251d-4926-b715-ef751c4a402b)
 
 106. A new window will open. Then click the box of **Enable sync**.
 
-   ![image-103](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/050eb52f-251d-4926-b715-ef751c4a402b)
+   ![image-118](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/eecf43ff-8c4f-44cf-9c7a-954094687d8c)
 
 107. Fill in the details.
     **SSH Port**: Enter the port for **Ex:25321**.
@@ -768,19 +768,20 @@
 
 125. Click on the **Save** button.
 
-   ![image-100](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f43fb55a-f8f6-4a71-a731-496066de3bbe)
+   ![image-100](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ee345752-e29a-4c28-96ab-b1a4fc942779)
+
 
 126. Go to the **Peers** button.
 
-   ![image-101](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b5d38879-f563-4ef6-9974-feb9b46d8267)
+  ![image-117](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4f76f4f5-5562-426e-9244-6656747b6c27)
 
 127. Click on the **Edit** button.
 
-   ![image-102](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/0c995ace-1b37-4108-82a4-f613b03bf939)
+   ![image-120](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f17596cf-e307-4597-808f-36c0b3b81afe)
 
 128. A new window will open. Then click the box of **Enable sync**.
 
-   ![image-103](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/050eb52f-251d-4926-b715-ef751c4a402b)
+   ![image-119](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d72d3b81-3871-4b67-ba47-1a5f1646f7d4)
 
 129. Fill in the details.
     **SSH Port**: Enter the port for **Ex:25321**.
