@@ -801,7 +801,7 @@
 
 132. Go to the **Instant** tab.
 
-    ![image-77](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c6e92a82-5f09-42e1-8a8c-561005215395)
+   ![image-77](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c6e92a82-5f09-42e1-8a8c-561005215395)
 
 133. Click on the **Edit** button.
 
