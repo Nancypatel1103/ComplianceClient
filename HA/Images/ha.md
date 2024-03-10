@@ -767,7 +767,7 @@
 
 125. Click on the **Save** button.
 
-   ![image-100](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ee345752-e29a-4c28-96ab-b1a4fc942779)
+   ![image-122](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d4d42457-1208-4694-9907-867aba4e1d3d)
 
 
 126. Go to the **Peers** button.
