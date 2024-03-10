@@ -595,15 +595,15 @@
 
 94. Go to the **Services** menu. Go to **Keepalived** inside the **Services** menu.
 
-   ![image-91](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/79824c3e-badd-4bda-9964-59334aa6b35c)
+   ![image-92](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/96e4e5d6-5ad2-4252-826c-086129bca93b)
 
 95. After clicking **Keepalived** a window will open. Go to the **Script** tab.
 
-   ![image-92](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/96e4e5d6-5ad2-4252-826c-086129bca93b)
+   ![image-93](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2f459080-9c0d-4e48-8651-8a99f3d86107)
 
 96. A new window will open. Click on the **Add** button.
 
-   ![image-93](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2f459080-9c0d-4e48-8651-8a99f3d86107)
+   ![image-94](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/463d5e15-535e-4f41-957c-d7ee00187858)
 
 97. Fill the details.
    **Name**: Enter the **Name** for **Ex: sync_ha**.
@@ -611,34 +611,34 @@
    **Interval**: Interval which will be 6 by default.
    **Weight**: Enter the **Weight** for **Ex: 100**.
 
-   ![image-94](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/463d5e15-535e-4f41-957c-d7ee00187858)
+   ![image-95](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/63c24d24-8e47-4d50-91d2-841c36d14899)
 
 98. Click on **Save** button.
 
-    ![image-95](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/63c24d24-8e47-4d50-91d2-841c36d14899)
+    ![image-96](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/482db965-46d9-4993-a4e1-b4321ccf9a8c)
 
 99. After clicking the **Save** button. And click on the **SAVE & APPLY** button.
 
-    ![image-96](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/482db965-46d9-4993-a4e1-b4321ccf9a8c)
+    ![image-97](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2f3391c7-3ac9-4be8-be06-598463836c23)
 
 100. Click on **SAVE & APPLY** then this will happen.
 
-   ![image-97](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2f3391c7-3ac9-4be8-be06-598463836c23)
+   ![image-98](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6ce3731a-898d-40c0-948d-4922f4d26b2e)
 
 101. Then click on the **Add** button of **Track Script**.
 
-   ![image-98](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6ce3731a-898d-40c0-948d-4922f4d26b2e)
+   ![image-99](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/19e87116-0869-41dc-b515-90b8a0dd627b)
 
 102. Fill these details
     **Name**: Enter the **Name** for **Ex:sender**
     **VRRP Script**: Select **sync_ha**.
     **Weight**: Enter the **Weight** for **Ex:100**.
 
-  ![image-99](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/19e87116-0869-41dc-b515-90b8a0dd627b)
+  ![image-100](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f43fb55a-f8f6-4a71-a731-496066de3bbe)
 
 103. Click on the **Save** button.
 
-   ![image-100](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f43fb55a-f8f6-4a71-a731-496066de3bbe)
+   ![image-121](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b4c9c6ed-1eb7-48f4-b0d4-141f8cd29507)
 
 104. Go to the **Peers** button.
 
@@ -725,15 +725,15 @@
 
 116. Go to the **Services** menu. Go to **Keepalived** inside the **Services** menu.
 
-   ![image-91](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/79824c3e-badd-4bda-9964-59334aa6b35c)
+   ![image-92](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/96e4e5d6-5ad2-4252-826c-086129bca93b)
 
 117. After clicking **Keepalived** a window will open. Go to the **Script** tab.
 
-   ![image-92](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/96e4e5d6-5ad2-4252-826c-086129bca93b)
+   ![image-93](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2f459080-9c0d-4e48-8651-8a99f3d86107)
 
 118. A new window will open. Click on the **Add** button.
 
-   ![image-93](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2f459080-9c0d-4e48-8651-8a99f3d86107)
+   ![image-94](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/463d5e15-535e-4f41-957c-d7ee00187858)
 
 119. Fill in the details.
    **Name**: Enter the **Name** for **Ex: sync_ha**.
@@ -741,23 +741,23 @@
    **Interval**: Interval which will be 6 by default.
    **Weight**: Enter the **Weight** for **Ex: 100**.
 
-   ![image-94](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/463d5e15-535e-4f41-957c-d7ee00187858)
+   ![image-95](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/63c24d24-8e47-4d50-91d2-841c36d14899)
 
 120. Click on the **Save** button.
 
-   ![image-95](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/63c24d24-8e47-4d50-91d2-841c36d14899)
+   ![image-96](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/482db965-46d9-4993-a4e1-b4321ccf9a8c)
 
 121. After clicking the **Save** button. And click on the **SAVE & APPLY** button.
 
-   ![image-96](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/482db965-46d9-4993-a4e1-b4321ccf9a8c)
+   ![image-97](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2f3391c7-3ac9-4be8-be06-598463836c23)
 
 122. Click on **SAVE & APPLY** then this will happen.
 
-   ![image-97](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2f3391c7-3ac9-4be8-be06-598463836c23)
+   ![image-98](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6ce3731a-898d-40c0-948d-4922f4d26b2e)
 
 123. Then click on the **Add** button of **Track Script**.
 
-   ![image-98](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6ce3731a-898d-40c0-948d-4922f4d26b2e)
+   ![image-99](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/19e87116-0869-41dc-b515-90b8a0dd627b)
 
 124. Fill these details
     **Name**: Enter the **Name** for **Ex:receiver**
