@@ -642,7 +642,7 @@
 
 104. Go to the **Peers** button.
 
-    ![image-102](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/0c995ace-1b37-4108-82a4-f613b03bf939)
+   ![image-102](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/0c995ace-1b37-4108-82a4-f613b03bf939)
 
 105. Click on the **Edit** button.
 
@@ -652,14 +652,13 @@
 
    ![image-118](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/eecf43ff-8c4f-44cf-9c7a-954094687d8c)
 
-107. Fill in the details.
-    **SSH Port**: Enter the port for **Ex:25321**.
-    **SSH Mode**: Select **Sender**.
-    **sync Director**: The sync directory will appear by default.
-    **Path SSH Private Key**: First go to your local terminal for the path to
-    SSH private key.
-    - They gave this command **ssh-keygen**.
-    - After giving the **ssh-keygen** command, enter 4 times and you will get the key.
+107. Fill in the details.             
+    **SSH Port**: Enter the port for **Ex:25321**.            
+    **SSH Mode**: Select **Sender**.                         
+    **sync Director**: The sync directory will appear by default.                     
+    **Path SSH Private Key**: First go to your local terminal for the path to SSH private key.                                                    
+    - They gave this command **ssh-keygen**.             
+    - After giving the **ssh-keygen** command, enter 4 times and you will get the key.            
       ```
       # ssh-keygen 
       Generating public/private rsa key pair.
@@ -735,11 +734,11 @@
 
    ![image-94](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/463d5e15-535e-4f41-957c-d7ee00187858)
 
-119. Fill in the details.
-   **Name**: Enter the **Name** for **Ex: sync_ha**.
-   **Script**: Click on **Select file** and choose file(By default file will appear there, you have to select)
-   **Interval**: Interval which will be 6 by default.
-   **Weight**: Enter the **Weight** for **Ex: 100**.
+119. Fill in the details.                     
+   **Name**: Enter the **Name** for **Ex: sync_ha**.                      
+   **Script**: Click on **Select file** and choose file(By default file will appear there, you have to select).               
+   **Interval**: Interval which will be 6 by default.                  
+   **Weight**: Enter the **Weight** for **Ex: 100**.            
 
    ![image-95](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/63c24d24-8e47-4d50-91d2-841c36d14899)
 
@@ -759,10 +758,10 @@
 
    ![image-99](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/19e87116-0869-41dc-b515-90b8a0dd627b)
 
-124. Fill these details
-    **Name**: Enter the **Name** for **Ex:receiver**
-    **VRRP Script**: Select **sync_ha**.
-    **Weight**: Enter the **Weight** for **Ex:100**.
+124. Fill these details.                                            
+    **Name**: Enter the **Name** for **Ex:receiver**.                            
+    **VRRP Script**: Select **sync_ha**.                          
+    **Weight**: Enter the **Weight** for **Ex:100**.                     
    
    ![image-112](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/52f8804e-36e1-494b-9455-92f0f62aa056)
 
@@ -783,12 +782,12 @@
 
    ![image-119](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d72d3b81-3871-4b67-ba47-1a5f1646f7d4)
 
-129. Fill in the details.
-    **SSH Port**: Enter the port for **Ex:25321**.
-    **sync Mode**: Select **Receiver**.
+129. Fill in the details.                      
+    **SSH Port**: Enter the port for **Ex:25321**.                   
+    **sync Mode**: Select **Receiver**.                  
     **SSH Public Key**: First go to your local terminal for the path to
-    SSH private key.
-    - They gave this command **cat/id-ras.pub**. If you give this command, a key will be generated, copy and paste there.
+    SSH private key.                      
+    - They gave this command **cat/id-ras.pub**. If you give this command, a key will be generated, copy and paste there.         
     
    ![image-113](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c9238be2-92d2-4119-a83e-87e08b0d2eb9)
 
