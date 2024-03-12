@@ -1,5 +1,12 @@
+# HA Configuration
 
- # Interface Configuration on Master_node: 
+## What is a HA Configuration
+High Availability (HA) in both Backup_node and Master_node refers to the capability of the nodes to ensure uninterrupted operation and minimal downtime. In the context of networking, HA involves redundant systems and failover mechanisms that automatically switch to backup nodes in case of primary node failure. This ensures continuous access to services and resources, even during hardware or software failures. HA setups typically employ techniques like load balancing, clustering, and data replication to distribute workload and maintain service availability. In essence, HA in both Backup_node and Master_node enhances reliability, resilience, and fault tolerance in network infrastructures, crucial for critical applications and services.
+
+## Why do we need HA Configuration
+High Availability (HA) in both Backup_node and Master_node is essential to ensure uninterrupted operation of critical systems and services. HA setups provide redundancy and failover mechanisms that automatically switch to backup nodes in case of primary node failure. This reduces downtime, ensuring continuous access to resources and services for users. HA also enhances reliability, resilience, and fault tolerance in network infrastructures, crucial for maintaining productivity and meeting service level agreements. Additionally, HA minimizes the risk of data loss and ensures business continuity, making it indispensable for organizations relying on continuous operation of their IT infrastructure.
+
+## How to Interface Configuration on Master_node
 
 1.	Login to the UI of **Master_node** using the provided IP address.                                                        
 
@@ -31,7 +38,7 @@
 
    ![image-6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4c97d7c3-7c58-4c6f-9790-a3eda0fd050f)
 
-## Advance setting
+### Advance setting
 
 7. Go to **Advance Setting**.                                                                                         
 
@@ -145,7 +152,7 @@
 
     ![image-28 ](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/68e59ddd-4481-4ecb-9b0d-b65ea4b87a32)
 
-## Add Backup_node as a peer
+### Add Backup_node as a peer
 
 30. Click on **Peers** tab.
 
@@ -211,7 +218,7 @@
     ![image-40 ](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2d685835-970d-46b7-9c81-2c67551a70d0)
 
 
-# Interface Configuration on Backup_node:
+## How to interface configuration on Backup_node:
 
 42.	Login to the UI of **Backup_node** using the provided IP address.                                                                                                           
 
@@ -243,7 +250,7 @@
 
     ![image-49](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/fa05b602-1dfe-434a-9539-c79597e7790e)
 
-## Advance setting
+### Advance setting
 
 48. Go to **Advance setting**.                                                                                         
 
@@ -356,7 +363,7 @@
 
     ![image-72](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ec909cfd-8475-4e92-a538-26c42fe8fc9e)
 
-# Add Backup_node as a peer
+### Add Backup_node as a peer
 
 71. Click on **Peers** tab.
 
@@ -424,7 +431,7 @@
 
     ![image-84](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/377be9b1-e49f-4e46-8f88-ec3ba0a0722f)
 
-## Ensure Keepalived Service is Enabled and Restarted on both nodes
+### Ensure Keepalived Service is Enabled and Restarted on both nodes
 
 83. Go to **System** menu of Backup_node.
 
@@ -449,11 +456,11 @@
       ```
 
 
-## Verify Overview Status on Both Nodes:
+### Verify Overview Status on Both Nodes:
 88. Check if the status on both Master_node and Backup_node matches the expected status as provided.
 89. Now go to the **Services** menu and click on **Keepalived**.
 
-### Master_node
+#### Master_node
 
 90. When the configuration is done, the status of the node will appear. The status of the **Master_node** will be like this.
     ![image-90](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/02c5a625-186f-4c8b-8341-007a631cbd1d)
@@ -497,7 +504,7 @@
        valid_lft forever preferred_lft forever
   ```
 
-## Backup_node
+#### Backup_node
 91. **Backup_node** status will be as follows.
 
     ![image-88](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f5e95d07-6c5e-42f7-884e-757697da9609)
@@ -540,7 +547,7 @@
        valid_lft forever preferred_lft forever
     ```
 
-## Testing:
+### Testing:
 
 92. When the **Master_node** goes off, it will switch to the **Backup node's** node. Its status will be **Master/Backup** because the backup will go to the **Master_node**. And then when the **Master_node** turns on it will go back to **Master/Master**.
 
@@ -587,7 +594,7 @@
        valid_lft forever preferred_lft forever
 ```
  
-# Sync Configuration on Master_node:
+## How to Sync configuration on Master_node:
 
 93.	Login to the UI of **Master_node** using the provided IP address.                                                        
 
@@ -716,7 +723,7 @@
    ![image-111](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/caf43e94-5858-4c48-8dff-747ac175041f)
 
     
- # Sync Configuration on Backup_node:
+ ## How to Sync configuration on Backup_node:
 
 115.	Log in to the UI of **Backup_node** using the provided IP address.                                                        
 
