@@ -1,12 +1,12 @@
 # Hotspot
 
-## How to create a Captive Portal
+## How to create a Captive Portals
 
-1. Go to the **Captive Portal** menu.
+1. Go to the **Captive Portals** menu.
 
    ![image-1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/a84c3577-d2e7-4811-94e2-caf52425fff7)
 
-2. After going to the **Captive Portal** menu, click on the **Add New** button.
+2. After going to the **Captive Portals** menu, click on the **Add New** button.
 
    ![image-2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e1ac6fd4-4c67-4012-959d-982a37f6081d)
 
@@ -66,7 +66,7 @@
 
    ![image-10](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/03756174-0e85-428a-957e-716bfc05a184)
 
-9. There, click on the **Active** button of the **Paptive Portal**.
+9. There, click on the **Active** button of the **Captive Portal**.
 
    ![image-11](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c3434c1a-7894-48f5-82db-142515d6d301)
 
@@ -82,10 +82,10 @@
 
     ![image-14](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/308c4d46-4664-4488-9ac9-4fa08fbac9a2)
 
-## How to Edit Captive Portal
+## How to Edit Captive Portals
 
-1. Go to the **Captive Portal** want to **Edit** button.
-2. Click on the **Edit** button located on the right side of your **Captive Portal**.
+1. Go to the **Captive Portals** want to **Edit** button.
+2. Click on the **Edit** button located on the right side of your **Captive Portals**.
 
    ![image-15](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d5c6fe26-bf2a-4502-b529-47f6b809867d)
 
@@ -101,7 +101,7 @@
 
    ![image-18](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/488d0ecb-6414-46f4-ad80-e71f82641ab6)
 
-## How to Delete Captive Portal
+## How to Delete Captive Portals
 
 1. Click on the **delete** located on the right side.
 
