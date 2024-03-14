@@ -89,7 +89,33 @@
 
    ![image-15](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d5c6fe26-bf2a-4502-b529-47f6b809867d)
 
-3. 
+3. After clicking, a new window will open. From here you can change Enter **Name, Title, Body, Colors, Font, Logo, Background Image, Set Daily Limit Data (MB), Session Timeout, Idle Timeout, Ask for name, Ask for email, Whitelist Domain (Optional), and Login Methods**.
+
+   ![image-16](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d320d7d8-599e-4582-bbf9-b0746dce75ac)
+
+4. Then click on the **Update** button.
+
+   ![image-17](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/3fe0a2e3-b164-4e1f-ac40-9a9d3c39c678)
+
+5. After Clicking the **Update** button, you will get a message on the screen that **Captive Portal details are updated successfully**.
+
+   ![image-18](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/488d0ecb-6414-46f4-ad80-e71f82641ab6)
+
+## How to Delete Captive Portal
+
+1. Click on the **delete** located on the right side.
+
+   ![image-19](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/88f73b05-6440-4fe2-bf9c-fba348985f99)
+
+2. After click, a new window will open. There you will get a confirmation message. Click on the **Delete** button.
+
+   ![image-20](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/fecb26c6-535a-4618-9e40-79927647a456)
+
+3. As soon as you click on the **Delete** button, you will get a message on the screen that the **Captive Portal is deleted successfully**.
+
+   ![image-21](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4b44029e-10e9-4442-9408-a97c85fe3089)
+
+
 
 
    
