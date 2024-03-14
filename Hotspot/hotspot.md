@@ -1,6 +1,6 @@
 # Hotspot
 
-# How to configure a Hotspot
+## How to create a Captive Portal
 
 1. Go to the **Captive Portal** menu.
 
@@ -38,8 +38,65 @@
      ![image-5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/52c3352d-a231-4f63-af4d-acbe8c396439)
 
    - **Whitelist Domain (Optional)**:- Enter the **Whitelist Domain (Optional)** and after click **+** icon. Enter the domain you want to use in the **Whitelist Domain** and then click on the **+** icon given next to it, it will be added.
-   - **Login Methods**:- In the **Login Methods** select the one you want to login with. For Example:-                               
-              - 1. **Facebook**:- Click on the green check box to log in from **Facebook** so that the method will be added.
+   - **Login Methods**:- In the **Login Methods** select the one you want to login with.                                                   
+       For Example:-
+      - 1. **Facebook**:- Click on the check box to log in from **Facebook** so that the method will be added.
+        2. **Twitter**:- Click on the check box to log in from **Twitter** so that the method will be added.
+        3. **Google**:- Click on the check box to log in from **Google** so that the method will be added.
+        4. **Voucher**:- Click on the check box and the **Voucher** method will be added. There you have to enter the **Voucher** number and log in.
+        5. **Sms**:- Click on the check box and the **Sms** method will be added.
+
+      ![image-6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/075a15fa-b942-48b6-ba4d-9c22247a76e2)
+
+5. Next, click the **Save** button on the located right side.
+
+   ![image-7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ce263681-41e2-4e44-84f4-3f56ccf77b85)
+
+6. After Clicking the **Save** button, you will get a message on the screen that **Captive portal is created successfully**.
+
+   ![image-8](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/0cfa72ff-42cc-45c8-b669-7198cba3c1c9)
+
+## How to configure Hotspot
+
+7. Next, go to the **SSID** menu.
+
+   ![image-9](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/cc427f35-8a97-45ea-9e84-1c2af152f2ec)
+
+8. After going to the **SSID** menu click on the **Edit** button of the SSID you want to connect to.
+
+   ![image-10](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/03756174-0e85-428a-957e-716bfc05a184)
+
+9. There, click on the **Active** button of the **Paptive Portal**.
+
+   ![image-11](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c3434c1a-7894-48f5-82db-142515d6d301)
+
+10. Then navigate and **Select Captive Portal**.
+
+    ![image-12](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/792af331-75bc-48b9-95e6-ab4eff58a861)
+
+11. Click on the **Update** button.
+
+    ![image-13](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/955b44f4-8bb5-4cb9-a3d3-3bb13452988c)
+
+12. After Clicking the **Update** button, you will get a message on the screen that **SSID details are updated successfully**.
+
+    ![image-14](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/308c4d46-4664-4488-9ac9-4fa08fbac9a2)
+
+## How to Edit Captive Portal
+
+1. Go to the **Captive Portal** want to **Edit** button.
+2. Click on the **Edit** button located on the right side of your **Captive Portal**.
+
+   ![image-15](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d5c6fe26-bf2a-4502-b529-47f6b809867d)
+
+3. 
+
+
+   
+
+   
+   
+
 
 
 
