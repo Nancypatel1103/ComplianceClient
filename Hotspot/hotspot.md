@@ -90,7 +90,7 @@ Hotspots are essential for providing internet connectivity in public spaces like
 
     ![image-14](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/308c4d46-4664-4488-9ac9-4fa08fbac9a2)
 
-## How to Use client
+## How to use Hotspot to client
 
 1. Open the **WIFI**. After opening **WIFI** it will search.
 2. Then there will be **SSID** show. Click on it.
