@@ -76,7 +76,7 @@ Hotspots are essential for providing internet connectivity in public spaces like
 
 10. There, click on the **Active** button of the **Captive Portal**.
 
-   ![image-11](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c3434c1a-7894-48f5-82db-142515d6d301)
+    ![image-11](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c3434c1a-7894-48f5-82db-142515d6d301)
 
 11. Then navigate and **Select Captive Portal**.
 
