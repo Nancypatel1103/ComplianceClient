@@ -1,4 +1,9 @@
 # Hotspot
+## What is a Hotspot
+A hotspot is a physical location where people can wirelessly access the internet using Wi-Fi technology. It typically involves setting up a wireless network that allows users to connect their devices and access online services within a specific area.                   
+
+## Why do we need a Hotspot
+Hotspots are essential for providing internet connectivity in public spaces like cafes, airports, hotels, and libraries where people require access to online resources on their smartphones, laptops, or tablets. They facilitate convenient internet access for individuals on the go or in areas where traditional wired internet connections may not be available or practical.                    
 
 ## How to create a Captive Portals
 
