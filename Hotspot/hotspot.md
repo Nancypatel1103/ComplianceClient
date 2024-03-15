@@ -58,11 +58,11 @@
 
 ## How to configure Hotspot
 
-7. Next, go to the **SSID** menu.
+7. Next, go to the **SSIDs** menu.
 
    ![image-9](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/cc427f35-8a97-45ea-9e84-1c2af152f2ec)
 
-8. After going to the **SSID** menu click on the **Edit** button of the SSID you want to connect to.
+8. After going to the **SSIDs** menu click on the **Edit** button of the SSID you want to connect to.
 
    ![image-10](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/03756174-0e85-428a-957e-716bfc05a184)
 
