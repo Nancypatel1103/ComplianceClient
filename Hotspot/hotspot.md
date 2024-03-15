@@ -6,20 +6,23 @@ A hotspot is a physical location where people can wirelessly access the internet
 Hotspots are essential for providing internet connectivity in public spaces like cafes, airports, hotels, and libraries where people require access to online resources on their smartphones, laptops, or tablets. They facilitate convenient internet access for individuals on the go or in areas where traditional wired internet connections may not be available or practical.                    
 
 ## How to create a Captive Portals
-
-1. Go to the **Captive Portals** menu.
+1. Go to (https://devic.elemprin.com/#/login). After filling in the details click on the Login button.
+ 
+   ![image-25](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/22f123e1-5bc0-4d16-a38e-c4a529ac7632)
+  
+2. When you **Login**, you will reach the Dashboard by default. Then go to the **Captive Portals** menu.
 
    ![image-1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/a84c3577-d2e7-4811-94e2-caf52425fff7)
 
-2. After going to the **Captive Portals** menu, click on the **Add New** button.
+3. After going to the **Captive Portals** menu, click on the **Add New** button.
 
    ![image-2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e1ac6fd4-4c67-4012-959d-982a37f6081d)
 
-3. After clicking on the **Add New** button, a new window will open.
+4. After clicking on the **Add New** button, a new window will open.
 
    ![image-3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5d23138a-0798-4de6-9eaa-c94a42f6f812)
 
-4. Fill the details.
+5. Fill the details.
    - **Name**:- Enter the **Name** for **Ex:Demo**.
    - **Title**:- The **Title** comes in default, but if you want to change it, you can enter it there. After that, there are 3 lines from where you can choose which side you want to place the title like center, left, or right.
    - **Body**:- The **Body** comes in default, but if you want to change it, you can enter it there. After that, there are 3 lines from where you can choose which side you want to place the body like center, left, or right.
@@ -53,39 +56,56 @@ Hotspots are essential for providing internet connectivity in public spaces like
 
       ![image-6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/075a15fa-b942-48b6-ba4d-9c22247a76e2)
 
-5. Next, click the **Save** button on the located right side.
+6. Next, click the **Save** button on the located right side.
 
    ![image-7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ce263681-41e2-4e44-84f4-3f56ccf77b85)
 
-6. After Clicking the **Save** button, you will get a message on the screen that **Captive portal is created successfully**.
+7. After Clicking the **Save** button, you will get a message on the screen that **Captive portal is created successfully**.
 
    ![image-8](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/0cfa72ff-42cc-45c8-b669-7198cba3c1c9)
 
 ## How to configure Hotspot
 
-7. Next, go to the **SSIDs** menu.
+8. Next, go to the **SSIDs** menu.
 
    ![image-9](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/cc427f35-8a97-45ea-9e84-1c2af152f2ec)
 
-8. After going to the **SSIDs** menu click on the **Edit** button of the SSID you want to connect to.
+9. After going to the **SSIDs** menu click on the **Edit** button of the SSID you want to connect to.
 
    ![image-10](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/03756174-0e85-428a-957e-716bfc05a184)
 
-9. There, click on the **Active** button of the **Captive Portal**.
+10. There, click on the **Active** button of the **Captive Portal**.
 
    ![image-11](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c3434c1a-7894-48f5-82db-142515d6d301)
 
-10. Then navigate and **Select Captive Portal**.
+11. Then navigate and **Select Captive Portal**.
 
     ![image-12](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/792af331-75bc-48b9-95e6-ab4eff58a861)
 
-11. Click on the **Update** button.
+12. Click on the **Update** button.
 
     ![image-13](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/955b44f4-8bb5-4cb9-a3d3-3bb13452988c)
 
-12. After Clicking the **Update** button, you will get a message on the screen that **SSID details are updated successfully**.
+13. After Clicking the **Update** button, you will get a message on the screen that **SSID details are updated successfully**.
 
     ![image-14](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/308c4d46-4664-4488-9ac9-4fa08fbac9a2)
+
+## How to Use client
+
+1. Open the **WIFI**. After opening **WIFI** it will search.
+2. Then there will be **SSID** show. Click on it.
+3. Click on it and a new page will open. Fill in the details there and **Login**.
+
+   ![image-22](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/adfad7ed-ab80-4352-9272-c3aacd39ca70)
+
+4. Login there by entering your **Name, Email, and Mobile** and if you don't want to do that, you can also log in by entering the user name and password of **Facebook, Google, Twitter, and SMS**.
+
+   ![image-23](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f73dfb9a-f255-48d9-a68f-c078e4f5d301)
+
+5. Click on the **Login** button.
+
+   ![image-24](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d368c78d-4c43-4288-b85f-1a8ecab24c67)   
+   
 
 ## How to Edit Captive Portals
 
