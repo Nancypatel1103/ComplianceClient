@@ -10,7 +10,7 @@ Hotspots are essential for providing internet connectivity in public spaces like
  
    ![image-25](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/22f123e1-5bc0-4d16-a38e-c4a529ac7632)
   
-2. When you **Login**, you will reach the Dashboard by default. Then go to the **Captive Portals** menu.
+2. When you click the **Login**, you will reach the Dashboard by default. Then go to the **Captive Portals** menu.
 
    ![image-1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/a84c3577-d2e7-4811-94e2-caf52425fff7)
 
