@@ -1,7 +1,10 @@
 # Voucher
 
 ## What is a Voucher
+A digital authentication token called a voucher is used to provide access to particular resources or services. Usually, it consists of a specific code or identification that customers can use to exchange for access benefits like special discounts or internet connectivity.
+
 ## Why do we need a Voucher
+We may use it to log into Hotspot. One easy and safe way to manage access to resources or services is with vouchers. Whether it is for limited material, promotional offers, or internet connectivity in public areas, they enable enterprises to effectively control and distribute access privileges. Vouchers provide flexibility in granting temporary or one-time access credentials, improve security, and ease administration.
 
 ## How to create a Voucher
 1. Go to (https://devic.elemprin.com/#/login). After filling in the details click on the Login button.
