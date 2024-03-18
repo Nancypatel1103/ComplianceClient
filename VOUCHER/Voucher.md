@@ -7,11 +7,11 @@ A digital authentication token called a voucher is used to provide access to par
 We may use it to log into Hotspot. One easy and safe way to manage access to resources or services is with vouchers. Whether it is for limited material, promotional offers, or internet connectivity in public areas, they enable enterprises to effectively control and distribute access privileges. Vouchers provide flexibility in granting temporary or one-time access credentials, improve security, and ease administration.
 
 ## How to create a Voucher
-1. Go to (https://devic.elemprin.com/#/login). After filling in the details click on the Login button.
+1. Go to (https://devic.elemprin.com/#/login). After filling in the details click on the **Login** button.
  
    ![image-25](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/22f123e1-5bc0-4d16-a38e-c4a529ac7632)
   
-2. When you **Login**, you will reach the Dashboard by default. Then go to the **Captive Portals** menu.
+2. When you click the **Login** button, you will reach the Dashboard by default. Then go to the **Captive Portals** menu.
 
    ![image-1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/a84c3577-d2e7-4811-94e2-caf52425fff7)
 
