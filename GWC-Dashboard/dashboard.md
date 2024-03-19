@@ -2,12 +2,12 @@
 ## What is a Dashboard
 A dashboard is a graphical user interface that offers a visually appealing summary of metrics, data summaries, and key performance indicators. It usually compiles data from multiple sources into a single display, making it easy for consumers to track and evaluate data patterns.                
 ## Why do we need a Dashboard
-Dashboards are crucial instruments for making decisions because they let users evaluate the health and effectiveness of organizations, processes, or systems in real time. They support data-driven decision-making, offer real-time insights, and assist in identifying areas in need of maintenance or improvement. Dashboards improve communication within teams and departments, expedite information access, and increase openness.
+Dashboards are crucial instruments for making decisions because they let users evaluate the health and effectiveness of organizations, processes, or systems in real-time. They support data-driven decision-making, offer real-time insights, and assist in identifying areas in need of maintenance or improvement. Dashboards improve communication within teams and departments, expedite information access, and increase openness.
 
 ## How to check Dashboard
 1. Go to (https://devic.elemprin.com/#/login). After filling in the details click on the **Login** button.
 
-    ![image-1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/0a790f0a-52b1-42ee-a6c9-349ecd2ffcff)
+    ![image-1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8b067c61-0236-4d94-b608-a4353d82d624)
 
 2. After login the *Dashboard* will come by default.
 
@@ -51,7 +51,7 @@ Dashboards are crucial instruments for making decisions because they let users e
 
    ![image-7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/fdb27b80-d4e6-45d2-92d2-d055603b6c66)
 
-8. Scroll down a bit and you will see the **Captive Client**. A summary of **Captive Client** and **WiFi Clients** is given. A summary of how many WiFi clients and captive clients were connected on which **date and at what time**. In it you can see the summary of **1 day, 7 days, 6 months, and 1 month**.
+8. Scroll down a bit and you will see the **Captive Client**. A summary of **Captive Client** and **WiFi Clients** is given. A summary of how many WiFi clients and captive clients were connected on which **date and at what time**. In it you can see the summary of **1D, 7D, 6M, and 1M**.
 
     ![image-8](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/adee340c-6bd8-4585-9ec4-514a34de29b1)
 
