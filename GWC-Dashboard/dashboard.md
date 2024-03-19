@@ -27,7 +27,7 @@ Dashboards are crucial instruments for making decisions because they let users e
 
     ![image-4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/785912dc-1b55-4dfe-bd1e-fc93620960d9)
 
-5. **Clients** will be seen there. There it shows a summary of how many people connected using Wifi and how many used **Captive Portals**.
+5. **Clients** will be seen there. There it shows a summary of how many people connected using Wifi and how many used **Captive Portals**. You can see the summary of **1D, 7D, 6M, and 1M**.
 
     ![image-5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/31aeb7e1-55a9-465d-a884-387226daa91e)
 
