@@ -19,11 +19,11 @@ Dashboards are crucial instruments for making decisions because they let users e
 
     ![image-3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5b54f778-5e71-49aa-a351-2d84e2caa816)
 
-4. **Health** will be seen there. There you will find all the summaries in **Health**.
-   **Access piont**:- Shows total number of **Access Point** and how many uses.
-   **SSIDs**:- Shows how many **SSIDs** there are and how many are connected.
-   **Captive Portal**:- It shows that there are total 60 **Captive Portal** and 7 people are connected in it.
-   **Wifi client**:- Shows how many **WiFi Clients** there are and how many they use.
+4. **Health** will be seen there. There you will find all the summaries in **Health**.                
+   **Access piont**:- Shows total number of **Access Point** and how many uses.                 
+   **SSIDs**:- Shows how many **SSIDs** there are and how many are connected.                   
+   **Captive Portal**:- It shows that there are total 60 **Captive Portal** and 7 people are connected in it.            
+   **Wifi client**:- Shows how many **WiFi Clients** there are and how many they use.                
 
     ![image-4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/785912dc-1b55-4dfe-bd1e-fc93620960d9)
 
@@ -37,17 +37,17 @@ Dashboards are crucial instruments for making decisions because they let users e
 
    ![image-6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f14f5c6f-24bf-472f-be7f-a62a5f23437f)
 
-7. After going to **Dashboard-v2**, there will be **Health** shown after 5 seconds. Which will show a summary of **Gafrna App**.
-  **No of APS**:- Shows the value of how many **APS there are in total APS stands for Access Point**. For **ex 224**.
-  **No of Active APS**:- Shows the value of how many APS are active.
-  **No of WAN**:- WAN means SSID shows the total number of SSIDs. for **ex 114**.
-  **No of Active WAN**:- Shows the information about how many SSIDs are active in total.
-  **No of CPs**:- CPs means Captive Portal. Shows how many captive portals there are. For **ex 60**.
-  **No of Active CPs**:- Shows information about the total number of active CPs.
-  **No of wifi clients**:- Shows the total number of clients.
-  **No of active Wifi clients**:- It shows the total number of wifi clients.
-  **No of wifi Users**:- Shows the total number of wifi users.
-  **No of Active WiFi Users**:- Shows the total number of active WiFi users.
+7. After going to **Dashboard-v2**, there will be **Health** shown after 5 seconds. Which will show a summary of **Gafrna App**. 
+  **No of APS**:- Shows the value of how many **APS there are in total APS stands for Access Point**. For **ex 224**.          
+  **No of Active APS**:- Shows the value of how many APS are active.           
+  **No of WAN**:- WAN means SSID shows the total number of SSIDs. for **ex 114**.              
+  **No of Active WAN**:- Shows the information about how many SSIDs are active in total.           
+  **No of CPs**:- CPs means Captive Portal. Shows how many captive portals there are. For **ex 60**.          
+  **No of Active CPs**:- Shows information about the total number of active CPs.          
+  **No of wifi clients**:- Shows the total number of clients.              
+  **No of active Wifi clients**:- It shows the total number of wifi clients.            
+  **No of wifi Users**:- Shows the total number of wifi users.                 
+  **No of Active WiFi Users**:- Shows the total number of active WiFi users.                
 
    ![image-7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/fdb27b80-d4e6-45d2-92d2-d055603b6c66)
 
