@@ -93,7 +93,7 @@ Hotspots are essential for providing internet connectivity in public spaces like
 ## How to use Hotspot to client
 
 1. Open the **WIFI**. After opening **WIFI** it will search.
-2. Then there will be **SSID** show. Click on it. For **Ex:- here **Captive Portal** is added in **SSID** **test** so log in from it.
+2. Then there will be **SSID** show. Click on it. For **Ex:- here Captive Portal is added in SSID test so log in from it**.
 3. Click on it and a new page will open. Fill in the details there and **Login**.
 
    ![image-22](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/adfad7ed-ab80-4352-9272-c3aacd39ca70)
