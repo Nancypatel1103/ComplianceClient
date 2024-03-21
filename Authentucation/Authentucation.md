@@ -1,11 +1,12 @@
-# Authentication
+# Gwc-external-authentication
 
-## What is an Authentication
-The process of confirming a user's or entity's identity when they want to access a system, network, or resource is called authentication. To ensure permitted access, it entails verifying the user's credentials—password and username, for example—against recorded information.
-## Why do we need an Authentication
-For the purpose of maintaining security and restricting access to private data or resources, authentication is essential. It contributes to preventing unwanted access, and protecting privacy and data integrity. Authentication improves system security, reduces the possibility of data breaches, and guards against malevolent or unauthorized activity by authenticating users.
+## What is a Gwc-external-authentication
+Gwc-external-authentication is an authentication method used to verify user credentials externally, typically through a separate authentication service or system. It enables users to log in to a system or network using their credentials from an external source, such as a third-party authentication provider or an integrated authentication system.
 
-## How to connect Authentication
+## Why do we need a Gwc-external-authentication
+Gwc-external-authentication makes use of already-existing authentication systems to provide increased security and flexibility. It makes it easier to control user access and eliminates the need for users to memorize numerous sets of credentials. It also enables seamless connection with external identity suppliers. This approach preserves strong security standards while improving user experience.
+
+## How to connect Gwc-external-authentication
 
 1. Go to (https://devic.elemprin.com/#/login). After filling in the details click on the **Login** button.
 
@@ -27,7 +28,7 @@ For the purpose of maintaining security and restricting access to private data o
 
    ![image-5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/64340442-63f5-4d50-9890-4b67b347635d)
 
-## How to use Authentication to client
+## How to use Gwc-external-authentication to client
 
 1. Open the WIFI. After opening WIFI it will search.
 2. Then there will be an SSID show. Click on it. For **Ex:- here Captive Portal is added in SSID test so log in from it**.
