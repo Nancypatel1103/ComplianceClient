@@ -62,7 +62,8 @@ Giving the user feedback on the results of the authentication procedure is the l
 
    ![image-5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/29a2e43d-9ce2-4357-9134-c060c4b5f3c8)
 
-### So there below is a chart throw
+
+## So there below is a chart throw
 
 
  ![redirectionFlow](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7d793824-4d42-41f1-ac24-1d10a88cdea0)   
