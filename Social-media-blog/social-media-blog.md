@@ -15,13 +15,14 @@ The user can choose to use the features of their preferred social networking sit
 
    ![image-1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/670814db-6f3f-4532-a79d-52493b86d32b)       
 
-**2.** The query will redirect to a custom service with **parameters State, client secret, client, and callback URL**.
+**2.** When this action is taken, custom service is redirected, and there, parameters like the **callback URL, client secret, state, and client are sent for additional processing**.
+
 
 ### Step 3: User Verification
 
 An essential part of the authentication process is user verification, which makes sure that only people with permission can access the services they want.
 
-**1.** Enter their **Username and Password** for user verification. [i.e => /auth/custom-data/callback code=1234567&state=eyJnd19pZCI6IjY0ZmVkZWFiNGQ2MjIxM2Y0NDMzYmNjNiIsImNsaWVudF9tYWMiOiJjNDo0YjpkMjowMDo3ZjpkOCIsInNzaWQiOiJuZXdTU0lEIiwiaXAiOiIxOTIuMTY4LjEuMjA1IiwiaWQiOiI2NTAwMmZlNzMzMTc3MzJkNTFlNDgyMjIiLCJnd19hZGRyZXNzIjoiMTkyLjE2OC4xLjEiLCJnd19wb3J0IjoiMjA2MCIsInJlZGlyZWN0X3VybCI6Imh0dHAlM0ElMkYlMkYxOTIuMTY4LjEuMSUzQTIwNjAlMkZ3aWZpZG9nJTJGYXV0aCUzRnRva2VuJTNEIiwibW9kZSI6ImN1c3RvbS1kYXRhIn0= ]
+**1.** Enter their **Username and Password** for user verification. To verify their identity, the user is prompted to input their username and password associated with the selected social media platform [i.e => /auth/custom-data/callback code=1234567&state=eyJnd19pZCI6IjY0ZmVkZWFiNGQ2MjIxM2Y0NDMzYmNjNiIsImNsaWVudF9tYWMiOiJjNDo0YjpkMjowMDo3ZjpkOCIsInNzaWQiOiJuZXdTU0lEIiwiaXAiOiIxOTIuMTY4LjEuMjA1IiwiaWQiOiI2NTAwMmZlNzMzMTc3MzJkNTFlNDgyMjIiLCJnd19hZGRyZXNzIjoiMTkyLjE2OC4xLjEiLCJnd19wb3J0IjoiMjA2MCIsInJlZGlyZWN0X3VybCI6Imh0dHAlM0ElMkYlMkYxOTIuMTY4LjEuMSUzQTIwNjAlMkZ3aWZpZG9nJTJGYXV0aCUzRnRva2VuJTNEIiwibW9kZSI6ImN1c3RvbS1kYXRhIn0= ]
 
 
    ![image-2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e0abee1d-5e5e-4caa-acd3-da38c1bae28c)
@@ -31,7 +32,8 @@ An essential part of the authentication process is user verification, which make
 
 Following a successful verification process, the customs service requests the user's permission to expand the scope of information that the application can access.              
 
-**1.** The custom service will verify the user's details and if verified they will seek consent to the scope of the user's details.
+**1**. The custom service validates the user's details, ensuring their authenticity and eligibility to proceed further.
+**2.** After verification, the user is shown a consent prompt that details the precise data or features the application wants to access.
 
    ![image-3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f52987bd-f1ec-4a7f-b731-beb64341b773)
 
@@ -39,7 +41,7 @@ Following a successful verification process, the customs service requests the us
 
 Once the terms are accepted, the authentication process proceeds to a pivotal stage of redirection and token exchange.
 
-**1.** If they accept the consent then the client application will redirect to the **callback URL** with the service token. [i.e. => /verifyUrl code=1234567&state=eyJnd19pZCI6IjY0ZmVkZWFiNGQ2MjIxM2Y0NDMzYmNjNiIsImNsaWVudF9tYWMiOiJjNDo0YjpkMjowMDo3ZjpkOCIsInNzaWQiOiJuZXdTU0lEIiwiaXAiOiIxOTIuMTY4LjEuMjA1IiwiaWQiOiI2NTAwMmZlNzMzMTc3MzJkNTFlNDgyMjIiLCJnd19hZGRyZXNzIjoiMTkyLjE2OC4xLjEiLCJnd19wb3J0IjoiMjA2MCIsInJlZGlyZWN0X3VybCI6Imh0dHAlM0ElMkYlMkYxOTIuMTY4LjEuMSUzQTIwNjAlMkZ3aWZpZG9nJTJGYXV0aCUzRnRva2VuJTNEIiwibW9kZSI6ImN1c3RvbS1kYXRhIn0%3D].                                                         
+**1.** If the user accepts the consent terms, the client application redirects to the callback URL along with a service token. [i.e. => /verifyUrl code=1234567&state=eyJnd19pZCI6IjY0ZmVkZWFiNGQ2MjIxM2Y0NDMzYmNjNiIsImNsaWVudF9tYWMiOiJjNDo0YjpkMjowMDo3ZjpkOCIsInNzaWQiOiJuZXdTU0lEIiwiaXAiOiIxOTIuMTY4LjEuMjA1IiwiaWQiOiI2NTAwMmZlNzMzMTc3MzJkNTFlNDgyMjIiLCJnd19hZGRyZXNzIjoiMTkyLjE2OC4xLjEiLCJnd19wb3J0IjoiMjA2MCIsInJlZGlyZWN0X3VybCI6Imh0dHAlM0ElMkYlMkYxOTIuMTY4LjEuMSUzQTIwNjAlMkZ3aWZpZG9nJTJGYXV0aCUzRnRva2VuJTNEIiwibW9kZSI6ImN1c3RvbS1kYXRhIn0%3D].                                                         
 **2.** Our service will send a token with a callback URL to the verification URL of the custom service.
 
 ### Step 6: User Details Verification
