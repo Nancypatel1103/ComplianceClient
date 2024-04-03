@@ -1,5 +1,5 @@
 # Custom Social Media Redirect
-
+ 
 ## Easy Process for Social Media Redirects
 
 In the digital age, navigating authentication processes on different platforms is common. One such process includes custom social media redirection, a method that allows users to access the Services through a personalized route.
