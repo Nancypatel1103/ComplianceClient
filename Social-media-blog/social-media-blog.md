@@ -20,7 +20,7 @@ When connecting to a public WiFi network users often encounter the Gateway Contr
 
 After entering the GWC URL the user is often redirected to a social media authentication page asking them to log in using their social media credentials. These steps simplify the authentication process for the user to access the WiFi network and leverage existing social media accounts The popup window acts as a bridge between the GWC and the user's social media authentication system ensuring a seamless login experience.
 
-Gwc does not access the user's social media identity. It uses the social media platform's authentication system to verify the user's identity. GWC increases security for users by delegating authentication to third-party services such as Facebook and Google.  
+GWC does not access the user's social media identity. It uses the social media platform's authentication system to verify the user's identity. GWC increases security for users by delegating authentication to third-party services such as Facebook and Google.  
 
   ![image-2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e0abee1d-5e5e-4caa-acd3-da38c1bae28c)
 
