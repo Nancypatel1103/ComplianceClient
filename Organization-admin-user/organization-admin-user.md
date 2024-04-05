@@ -1,7 +1,7 @@
 # Organization Admin user
 
 ## How to Organization Admin User work
-1. Go to **(https://dev.gwcwifi.com/)**. After filling in the details click on the **Login** button.
+1. Go to **(https://devic.elemprin.com/#/login)**. After filling in the details click on the **Login** button.
 
     ![image-1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/038e24d4-0fbf-41cf-b85d-0fcc014432e4)
 
