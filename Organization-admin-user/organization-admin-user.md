@@ -29,7 +29,7 @@
 
     ![image-7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/966eb91b-7ce3-438c-8db9-2cba4fc4fd31)
 
-8.  You can see on the **captive portal** where the **captive portal** list is given, you can **Edit and Delete** the captive, then if you want to add a new one, you can also create a new captive portal by clicking on its **Add New** button. To download its record you can Download the record by clicking on **Download Record**.
+8.  You can see on the **Captive portal** where the **Captive portal** list is given, you can **Edit and Delete** the captive, then if you want to add a new one, you can also create a new captive portal by clicking on its **Add New** button. To download its record you can Download the record by clicking on **Download Record**.
 
     ![image-8](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/67208746-e0bf-4cf2-9a39-0c599ffcf939)
 
