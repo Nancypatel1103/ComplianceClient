@@ -210,13 +210,13 @@ High Availability (HA) in both Backup_node and Master_node is essential to ensur
     ![image-38 ](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d73b7150-5013-4086-a079-271e733fd9b4)
 
 40. Go to the **Track** and fill the details.                 
-    **Track Interfaces**: Select **eth0_ha and eth1_ha**.               
+    **Track Interfaces**: Select **eth0_ha and eth2_ha**.               
 
-    ![image-39 ](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7f8d7413-2784-4993-92c4-865c592aa33c)
+    ![image-39](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2ff0998c-b370-406e-b340-96dd9955f5b4)
 
 41. Click on **Save** button.
 
-    ![image-40 ](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2d685835-970d-46b7-9c81-2c67551a70d0)
+   ![image-40 ](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d01a0e55-64cb-4596-ae53-938a07c57891)
 
 
 ## How to interface configuration on Backup_node:
@@ -424,13 +424,13 @@ High Availability (HA) in both Backup_node and Master_node is essential to ensur
     ![image-82](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7e91874b-5e62-409e-ac9e-f3293dd4f456)
 
 81. Go to the **Track** and fill the details.                      
-    **Track Interfaces**: Select eth0_ha and eth1_ha                      
+    **Track Interfaces**: Select eth0_ha and eth3_ha                      
 
-     ![image-83](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/51419b5d-522e-4960-9d42-09dbfec0e341)
+     ![image-83](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/a89da737-735b-4198-9188-a0f665a56608)
 
 82. Click on **Save** button.
 
-    ![image-84](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/377be9b1-e49f-4e46-8f88-ec3ba0a0722f)
+    ![image-84](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/64591082-a13c-42b6-b615-79ed7dfa60ea)
 
 ### Ensure Keepalived Service is Enabled and Restarted on both nodes
 
