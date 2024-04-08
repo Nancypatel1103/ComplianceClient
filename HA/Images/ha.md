@@ -402,7 +402,7 @@ High Availability (HA) in both Backup_node and Master_node is essential to ensur
     **Priority**: Enter the **Priority** for **Ex:50**.                  
     **Interval**: Enter the **Interval** for **Ex:1**.                  
     **Disable Preempt**: Enter the **Disable Preempt** for **Ex:na**.                       
-    **Virtual IP Address**: Select the **Virtual IP Address**. Navigate Select **eth0,eth2**.               
+    **Virtual IP Address**: Select the **Virtual IP Address**. Navigate Select **eth0,eth3**.               
 
     ![image-79](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7fa0bcb0-676a-4736-8f53-373dfdcda665)
 
@@ -825,7 +825,12 @@ High Availability (HA) in both Backup_node and Master_node is essential to ensur
 
 136. Click on the **Save** button.
 
-   ![image-115](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/936a83d1-ee94-45a7-91f5-e867e959c662)
+   ![image-115](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/936a83d1-ee94-45a7-91f5-e867e959c662) 
+
+137. After synchronization, check that the config file of the master node should be in the backup node.
+- Enter this path `/usr/share/keepalived/rsync` and check if 3 config files appear as shown in the image below then understand that synchronization is complete. And if it doesn't come then something is not synced.
+
+  ![image-123](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/fc61826e-865b-406f-8d05-69b6c44444f4)
 
     
     
