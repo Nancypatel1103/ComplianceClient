@@ -148,15 +148,16 @@ High Availability (HA) in both Backup_node and Master_node is essential to ensur
 
     ![image-27 ](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/740c860c-ea6a-4c60-8669-1033b2557a59)
 
-29. Same step for **eth1_ha**. And after clicking **Save & Apply**.
+29. Same step for **eth2_ha**. And after clicking **Save & Apply**.
 
-    ![image-28 ](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/68e59ddd-4481-4ecb-9b0d-b65ea4b87a32)
+    ![image-28](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5073a1c4-3a23-4f1b-96ec-d7db75d6d6cd)
 
 ### Add Backup_node as a peer
 
 30. Click on **Peers** tab.
 
-    ![image-29](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/cbe580f9-3fa1-4787-89cf-8c68df3e02c7)
+    ![image-29](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/0a707720-5add-4263-8811-395c7160759d)
+
 
 31. Click on **Add** button.
 
@@ -359,15 +360,15 @@ High Availability (HA) in both Backup_node and Master_node is essential to ensur
 
     ![image-71](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8fd555e0-3dee-4e72-a879-90908750908d)
 
-70. Same step for **eth1**. And after clicking **Save & Apply**.
+70. Same step for **eth3_ha**. And after clicking **Save & Apply**.
 
-    ![image-72](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ec909cfd-8475-4e92-a538-26c42fe8fc9e)
+    ![image-72](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6338609f-6520-46b0-8a99-8f11300d6c6b)
 
 ### Add Backup_node as a peer
 
 71. Click on **Peers** tab.
 
-    ![image-73](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/89915756-88d1-48f2-8ab4-71a194d28404)
+    ![image-73](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7bed345a-f126-4f0f-a29a-8907e6ec58f4)
 
 
 72. Click on **Add** button.
