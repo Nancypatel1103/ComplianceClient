@@ -9,11 +9,11 @@
 
     ![image-2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/45fcab4c-d129-4b9a-ac4c-7e4e122cb2e1)
 
-3. After moving to the **Organization** you can edit the **Organization** there but it doesn't allow you to add a new **Organization** there.
+3. After moving to the **Organization** you can edit the **Organization** there but it doesn't allow you to add a new **Organization** there. He will see only his own **Organization** which he can update, other organizations are not visible to him.
 
     ![image-3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b4bf4320-86b6-495f-9bde-70e25aeb223d)
 
-4. Go to **Users** After going to **Users** you will see **User** from there you can reset your **Password** by clicking on the **key** but from there, you can't make any other changes. Then you can create a new user by clicking on the **Add New** button.
+4. Go to **Users** After going to **Users** you will see **User** from there you can reset your **Password** by clicking on the **key** but from there, you can't make any other changes. Then you can create a new user by clicking on the **Add New** button. **Organization admin** can only **Organization admin user** and create **User**. He cannot create a **Platform Admin User**.
 
     ![image-4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/387d4a90-a803-45d3-93d8-b79a238cb133)
 
