@@ -6,9 +6,48 @@
 
 ## How to set up On-Premise-Server
 
-Command to run **Docker** in the local machine
+1. Before you set up an **On-Premise-Server** you need to keep in mind that you need to have Docker on your local machine. Install Docker if Docker is not there. To install Doctor you can install Doctor by clicking on this **(https://docs.docker.com/engine/install/ubuntu/)** link.
 
-` docker-compose -d`
+### Install Docker Engine on Ubuntu
+2. Then issue the command in the local terminal in your local machine.                 
+   ```
+   sudo apt-get update
+   ```
 
-Create images in the docker hub and push its repository.
+4. Then run all these given commands one by one on your local machine.
+   ```
+   1. sudo apt-get install ca-certificates curl                                                                                                                 
+   2. udo install -m 0755 -d /etc/apt/keyrings                                                                                                                                      
+   3. sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg -o /etc/apt/keyrings/docker.asc                                                                             
+   4. sudo chmod a+r /etc/apt/keyrings/docker.asc                                                                                                    
+   5. echo \
+   "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/ubuntu \
+   $(. /etc/os-release && echo "$VERSION_CODENAME") stable" | \
+   sudo tee /etc/apt/sources.list.d/docker.list > /dev/null                                                                                                             
+   6. sudo apt-get update
 
+   ```
+
+5. Issue this command to install **Docker** on your local machine.
+
+   ```
+   sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+   ```
+6. After the **installation** is complete issue the following command to check if it runs or not.
+
+   ```
+   docker ps
+   ```
+
+7. Then 3 folder files are required to run on the permission server. **1. Doctor Compose.yml 2. Mongo and 3. .env**. The **Doctor Compose.yml** file contains all objects and images from the local machine.
+8. If you want to use Docker Compose .yml file you need to login to local machine first and it will ask for username and password to login. Command to login with Docker Hub.
+   ```
+   docker login
+   ```
+9. After the login is successful, **login succeeded** will be written there.
+10. Next create a **Deploy Folder** Create a **DB.file** inside the deploy folder.
+11. After creating the **Deploy Folder**, open your local terminal and issue commands to pull the **Mongo image into the Mongo DB**.
+    ```
+    docker-compose up --build -d
+    ``
+12. 
