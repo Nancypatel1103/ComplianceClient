@@ -50,4 +50,11 @@
     ```
     docker-compose up --build -d
     ``
-12. 
+12. Wait for some time after entering the command. It will pull the server image from the repository and extract the file and download it from Mongo.
+13. Next local db mount has to be changed if you want to store in a different location then that db mount path has to be changed which will be the path of the db store. If you don't change the db mount path it will crash the db and if the db crashes you won't be able to do any work.
+14. Then give the command to check if the server is running correctly or not
+    ```
+    Dokar ps
+    ```
+15. Then check local host: 3000 that it is working or not and can login from On Premise server and if you want to login with default user and password then change in file and use password username by giving doctor login command have to do
+
