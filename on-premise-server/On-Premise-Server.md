@@ -17,7 +17,7 @@
 3. Then run all these given commands one by one on your local machine.
    ```
    1. sudo apt-get install ca-certificates curl                                                                                                                 
-   2. udo install -m 0755 -d /etc/apt/keyrings                                                                                                                                      
+   2. sudo install -m 0755 -d /etc/apt/keyrings                                                                                                                                      
    3. sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg -o /etc/apt/keyrings/docker.asc                                                                             
    4. sudo chmod a+r /etc/apt/keyrings/docker.asc                                                                                                    
    5. echo \
@@ -54,7 +54,7 @@
 12. Next local db mount has to be changed if you want to store in a different location then that **db mount path** has to be changed which will be the path of the **db store**. If you don't change the db mount path it will crash the db and if the db crashes you won't be able to do any work.
 13. Then give the command to check if the server is running correctly or not
     ```
-    Dokar ps
+    docker ps
     ```
-14. Then check whether **local host:3000** is working or not and can log in from the **On-Premise-Server** if you want to log in with the default user and password then change in the file and use the password username by giving the `doctor login` command have to do.
+14. Then check whether **local host:3000** is working or not and can log in from the **On-Premise-Server** if you want to log in with the default user and password then change in the file and use the password username by giving the `docker login` command have to do.
 
