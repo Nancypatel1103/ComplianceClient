@@ -1,8 +1,10 @@
 # On-Premise-Server
 
 ## What is an On-Premise-Server 
+An on-premise server is one that is physically housed within the company and offers resources and services to users connected to the same network directly.
 
 ## Why do we need an On-Premise-Server
+The benefits of on-premise servers include lower latency, more control over data, and regulatory compliance.
 
 ## How to set up On-Premise-Server
 
