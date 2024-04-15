@@ -1,17 +1,17 @@
 # On-Premise-Server
 
 ## What is an On-Premise-Server 
-An on-premise server is one that is physically housed within the company and offers resources and services to users connected to the same network directly.
+An on-premise server is one that is physically hosted within the company and offers resources and services to users connected to the same network directly.
 
 ## Why do we need an On-Premise-Server
 The benefits of on-premise servers include lower latency, more control over data, and regulatory compliance.
 
 ## How to set up On-Premise-Server
 
-1. Before you set up an **On-Premise-Server** you need to keep in mind that you need to have **Docker** on your local machine. Install **Docker** if Docker is not there. To install Doctor you can install Doctor by clicking on this **(https://docs.docker.com/engine/install/ubuntu/)** link.
+1. Before you set up an **On-Premise-Server** you need to keep in mind that you need to have **Docker** on your local machine. Install **Docker** if Docker is not there. To install Docker, please visit the following link: ** https://docs.docker.com/engine/install/ubuntu/)** (Please note: This guide is specifically for Ubuntu machines. If you have a different operating system, you will need to choose accordingly.)
 
 ### Install Docker Engine on Ubuntu
-2. Then issue the command in the local terminal in your local machine.                 
+2. Then run the following command in your local terminal of the machine.                 
    ```
    sudo apt-get update
    ```
@@ -41,22 +41,39 @@ The benefits of on-premise servers include lower latency, more control over data
    docker ps
    ```
 
-6. Then 3 folder files are required to run on the permission server. **1. Doctor Compose.yml 2. Mongo and 3. .env**. The **Doctor Compose.yml** file contains all objects and images from the local machine.
-7. If you want to use the **Docker Compose.yml** file you need to log in to the local machine first and it will ask for a username and password to log in. Command to login with **Docker Hub**.
+6. Then 3 folder files are required to run on the permission server.             
+   **1. docker-compose.yml               
+   2. mongo and            
+   3. env**. The **docker Compose.yml** file contains all objects and images from the local machine.            
+7. If you want to use the **docker-compose.yml** file you need to log in to the local machine first and it will ask for a username and password to log in. Command to login with **Docker Hub**.                      
+   ` Note:- You have to log in with proper credentials to view the image privately. Otherwise, it cannot take the image pull.`
    ```
    docker login
    ```
 8. After the login is successful, **login succeeded** will be written there.
-9. Next, create a **Deploy Folder** Create a **DB.file** inside the deploy folder.
-10. After creating the **Deploy Folder**, open your local terminal and issue commands to pull the **Mongo image into the Mongo DB**.
+9. Next, create a **Deploy Folder** Create a **db-file** inside the deploy folder.
+10. After the **db-file** is created go back to the docker-compose.yml file open a local terminal and enter the command to pull all the on-premise server and mongo-db images there.
     ```
     docker-compose up --build -d
     ```
-11. Wait for some time after entering the command. It will pull the server image from the repository extract the file and download it from **Mongo**.
-12. Next local db mount has to be changed if you want to store in a different location then that **db mount path** has to be changed which will be the path of the **db store**. If you don't change the db mount path it will crash the db and if the db crashes you won't be able to do any work.
-13. Then give the command to check if the server is running correctly or not
+11. Wait for some time after entering the command. It will pull the server image from the repository.
+12. Then give the command to check if the server is running correctly or not
     ```
     docker ps
     ```
-14. Then check whether **local host:3000** is working or not and can log in from the **On-Premise-Server** if you want to log in with the default user and password then change in the file and use the password username by giving the `docker login` command have to do.
+14. Then check whether **https//localhost:3000** is working or not and can log in from the **On-Premise-Server** if you want to log in with the default user and password then change in the file and use the password username by giving the `docker login` command have to do.
+The default organization and user given in the env file is used for it ie               
+    **1. OrganizationName               
+    2. OrganizationAddress                 
+    3. OrganizationStatus                
+    4. UserEmail                
+    5. UserPassword                      
+    6. UserRole                       
+    7. UserStatus                  
+    8. UserFirstName                        
+    9. UserLastName                 
+    10. UserAddress**
+
+
+    ![image-1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/34559bf9-335c-46c7-a0b7-8e19bc11fe4d)
 
