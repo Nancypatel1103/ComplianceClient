@@ -17,19 +17,19 @@
 
     ![image-4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/387d4a90-a803-45d3-93d8-b79a238cb133)
 
-5. Go to **Access point** After going to the **Access point** you will see a list of devices you have permission to **Edit and Delete** devices and you can also create a new **Access point** by clicking on the **Add New** button shown above.
+5. Go to **Access point** After going to the **Access point** you will see a list of devices you have permission to **Edit and Delete** devices and you can also create a new **Access point** by clicking on the **Add New** button shown above. And he will be able to see only the access points of his own organization.
 
     ![image-5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/405b03c2-290a-4471-9c47-c1ac0910d4ac)
 
-6. Go to the next **SSIDs** and go to SSIDs then you will see the **SSIDs** list there and you can **Edit and Delete** that SSId. You can also create a new one by clicking on the **Add New** button.
+6. Go to the next **SSIDs** and go to SSIDs then you will see the **SSIDs** list there and you can **Edit and Delete** that SSId. You can also create a new one by clicking on the **Add New** button. And he will be able to see only the **SSID** of his own organization.
 
     ![image-6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1727a5c6-2622-4695-a659-cd20ebba8474)
 
-7.  If you go to **Wifi client**, you will see a list of **wifi clients** there. If you want to download the record, you can download it by clicking on the **Download Record** button.
+7.  If you go to **Wifi client**, you will see a list of **wifi clients** there. If you want to download the record, you can download it by clicking on the **Download Record** button. And he will be able to see only the **Wifi client** of his own organization.
 
     ![image-7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/966eb91b-7ce3-438c-8db9-2cba4fc4fd31)
 
-8.  You can see on the **Captive portal** where the **Captive portal** list is given, you can **Edit and Delete** the captive, then if you want to add a new one, you can also create a new captive portal by clicking on its **Add New** button. To download its record you can Download the record by clicking on **Download Record**.
+8.  You can see on the **Captive portal** where the **Captive portal** list is given, you can **Edit and Delete** the captive, then if you want to add a new one, you can also create a new captive portal by clicking on its **Add New** button. To download its record you can Download the record by clicking on **Download Record**. And he will be able to see only the **Captive portal** of his own organization.
 
     ![image-8](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/67208746-e0bf-4cf2-9a39-0c599ffcf939)
 
