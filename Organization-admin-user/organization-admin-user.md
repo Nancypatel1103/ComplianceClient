@@ -52,7 +52,7 @@ There are two types of users **1. Read only and 2. Full access**.
 
    ![image-10](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4f0e1a52-8cb7-4f34-8945-bfe0f9fcda69)
 
-6. **Access Point, SSID, and Captive Portal** You can't add new and don't have access to, you can just view those details.
+6. **Access Point, SSID, and Captive Portal** You can't add new and don't have access to them, you can just view those details.
 
    ![image-11](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b8e6c66a-0dbb-412a-bc4e-2c30da47a016)
 
@@ -65,7 +65,7 @@ There are two types of users **1. Read only and 2. Full access**.
 
    ![image-10](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4f0e1a52-8cb7-4f34-8945-bfe0f9fcda69)
 
-2. It can **Edit and Delete** **Access Point, SSID, and Captive Portal** device. You can also add a new one by clicking on the **Add New** button.
+2. It can **Edit and Delete** **Access Point, SSID, and Captive Portal**. You can also add a new one by clicking on the **Add New** button.
 
    ![image-14](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ad64d8d4-4007-46b7-8b71-a7f836094a60)
 
