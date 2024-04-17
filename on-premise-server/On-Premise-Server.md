@@ -44,7 +44,7 @@ The benefits of on-premise servers include lower latency, more control over data
 6. Then 3 folder files are required to run on the permission server.             
    **1. docker-compose.yml               
    2. mongo and            
-   3. env**. The **docker Compose.yml** file contains all objects and images from the local machine.            
+   3. .env**. The **docker-compose.yml** file contains all objects and images from the local machine.            
 7. If you want to use the **docker-compose.yml** file you need to log in to the local machine first and it will ask for a username and password to log in. Command to login with **Docker Hub**.                      
    ` Note:- You have to log in with proper credentials to view the image privately. Otherwise, it cannot take the image pull.`
    ```
@@ -52,7 +52,7 @@ The benefits of on-premise servers include lower latency, more control over data
    ```
 8. After the login is successful, **login succeeded** will be written there.
 9. Next, create a **Deploy Folder** Create a **db-file** inside the deploy folder.
-10. After the **db-file** is created go back to the docker-compose.yml file open a local terminal and enter the command to pull all the on-premise server and mongo-db images there.
+10. Additionally you need to set up a db folder for storing data in the local machine. you should create a "Deploy" folder as a parent and then create a **db-files** folder inside the **Deploy** folder.
     ```
     docker-compose up --build -d
     ```
