@@ -1,4 +1,6 @@
-
+# Grafana - Free open source analytics & monitoring tool
+Grafana is a free open-source analytics & monitoring tool with multi-language support. This allows users to create dynamic dashboards, monitoring the application
+performance.
 
 ## Problem
 
