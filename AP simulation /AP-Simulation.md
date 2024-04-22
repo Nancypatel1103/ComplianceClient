@@ -16,11 +16,11 @@ There are multiple reasons why an AP simulation is necessary:
 2. After that, to use the internet, the **SSID and Captive Portal** have to be connected with the device, and that Captive Portal has to be connected with the **SSID**. In this way, it has to be done manually.
 3. And the **simulation** is made to avoid having to do this process manually.
 4. For that, go to the terminal of your server and enter the command there.
-   - **No of devices**:- Write the number of devices you want to add **for ex:- Device:=1**.
+   - **No of devices**:- Write the number of devices you want to add **For Example:- Device:=1**.
    - **Organization ID**:- The ID of the organization you want to add.
-   - **No of SSID**:- Number of SSID you want to add. **Forex:- SSID=1**.
-   - **No of Assigned SSID**:- Number of assigned SSID you want to add. **Forex:- assign SSID=1**.
-   - **No Assign Cp**:- Number of captive portals you want to add. Forex:- **Assign Cp=1**.
+   - **No of SSID**:- Number of SSID you want to add. **For Example:- SSID=1**.
+   - **No of Assigned SSID**:- Number of assigned SSID you want to add. **For Example:- Assign SSID=1**.
+   - **No Assign Cp**:- Number of captive portals you want to add. **For Example:- Assign CP=1**.
 
    ```
      npm run test-utility noOfDevice=1 organizationId=62d2983b3c886000327c8d39 noOfSSID=1 noOfAssignedSSID=1 noOfCP=1 noOfAssignedCP=1
