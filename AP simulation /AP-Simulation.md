@@ -6,10 +6,10 @@ The process of simulating an Access Point's (AP) behavior in a network environme
 ## Why do we need an AP simulation 
 There are multiple reasons why an AP simulation is necessary:                       
 
-**Testing**: It lowers the possibility of mistakes or disruptions by enabling testing of network configurations and applications in a controlled environment prior to deployment.                                       
-**Validation**: Network configurations can be tested under a variety of scenarios for scalability, performance, and security without affecting the live environment.                                                 
-**Cost-Effectiveness**: By removing the need to buy actual hardware, simulating APs reduces expenses related to acquisition, upkeep, and space needs.                                                 
-**Convenience**: Users can simply recreate complex network scenarios and modify parameters with the simulations' flexibility and convenience.                                     
+- **Testing**: It lowers the possibility of mistakes or disruptions by enabling testing of network configurations and applications in a controlled environment prior to deployment.                                       
+- **Validation**: Network configurations can be tested under a variety of scenarios for scalability, performance, and security without affecting the live environment.                                                 
+- **Cost-Effectiveness**: By removing the need to buy actual hardware, simulating APs reduces expenses related to acquisition, upkeep, and space needs.                                                 
+- **Convenience**: Users can simply recreate complex network scenarios and modify parameters with the simulations' flexibility and convenience.                                     
 
 ## How to setup AP simulation 
 1. First install the **Device**. After installing the device, it has to be registered manually.
