@@ -24,7 +24,7 @@
 
 7. The name of the customer should appear where this is the company name. And they should come in between keeping the same space on each side.
 
-  ![image-7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b1ab5995-a143-40fc-a742-237616e421c3)
+   ![image-7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b1ab5995-a143-40fc-a742-237616e421c3)
 
 8. After signing up mail, its subject and mail body should be proper.
 
