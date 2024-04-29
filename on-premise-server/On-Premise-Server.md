@@ -8,7 +8,7 @@ The benefits of on-premise servers include lower latency, more control over data
 
 ## How to set up On-Premise-Server
 
-1. Before you set up an **On-Premise-Server** you need to keep in mind that you need to have **Docker** on your local machine. Install **Docker** if Docker is not there. To install Docker, please visit the following link: ** https://docs.docker.com/engine/install/ubuntu/)** (Please note: This guide is specifically for Ubuntu machines. If you have a different operating system, you will need to choose accordingly.)
+1. Before you set up an **On-Premise-Server** you need to keep in mind that you need to have **Docker** on your local machine. Install **Docker** if Docker is not there. To install Docker, please visit the following link: **https://docs.docker.com/engine/install/ubuntu/)** (Please note: This guide is specifically for Ubuntu machines. If you have a different operating system, you will need to choose accordingly.)
 
 ### Install Docker Engine on Ubuntu
 2. Then run the following command in your local terminal of the machine.                 
