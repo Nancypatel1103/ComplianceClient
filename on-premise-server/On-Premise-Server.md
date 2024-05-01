@@ -51,17 +51,16 @@ The benefits of on-premise servers include lower latency, more control over data
    docker login
    ```
 8. After the login is successful, **login succeeded** will be written there.
-9. Next, create a **Deploy Folder** Create a **db-file** inside the deploy folder.
-10. Additionally you need to set up a db folder for storing data in the local machine. you should create a "Deploy" folder as a parent and then create a **db-files** folder inside the **Deploy** folder.
+
     ```
     docker-compose up --build -d
     ```
-11. Wait for some time after entering the command. It will pull the server image from the repository.
-12. Then give the command to check if the server is running correctly or not
+9. Wait for some time after entering the command. It will pull the server image from the repository.
+10. Then give the command to check if the server is running correctly or not
     ```
     docker ps
     ```
-14. Then check whether **https//localhost:3000** is working or not and can log in from the **On-Premise-Server** if you want to log in with the default user and password then change in the file and use the password username by giving the `docker login` command have to do.
+11. Then check whether **https//localhost:3000** is working or not and can log in from the **On-Premise-Server** if you want to log in with the default user and password then change in the file and use the password username by giving the `docker login` command have to do.
 The default organization and user given in the env file is used for it ie               
     **1. OrganizationName               
     2. OrganizationAddress                 
@@ -76,4 +75,13 @@ The default organization and user given in the env file is used for it ie
 
 
     ![image-1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/34559bf9-335c-46c7-a0b7-8e19bc11fe4d)
+
+
+12. After going to localhost:3000, the login page will open, enter your username and password and log in.
+13. After login **Wizard Configuration** page will open and enter **External URL** there and click on next.
+14. Next, do you want to enable the Grafrana URL. If you want to do it then click on yes otherwise click on no and click on next.
+15. Next, do you want to enable Kafka URL. If you want to do it then click on yes otherwise click on no and click on finish.
+16. Click finish and it will land on the URL you entered.
+
+    
 
