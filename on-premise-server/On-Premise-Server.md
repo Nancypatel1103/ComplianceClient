@@ -35,32 +35,34 @@ The benefits of on-premise servers include lower latency, more control over data
    ```
    sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
    ```
-5. After the **installation** is complete issue the following command to check if it runs or not.
+5. After the **installation** is complete issue the following command to check if it runs or not. If you get the error shown here while installing Docker, use the **sudo docker ps** command.
+
+   ![image-7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/987db4d7-5356-46d6-a81a-cc42c02b9bc4)
 
    ```
    docker ps
    ```
 
-6. Then 3 folder files are required to run on the permission server.             
+7. Then 3 folder files are required to run on the permission server.             
    **1. docker-compose.yml               
    2. mongo and            
    3. .env**. The **docker-compose.yml** file contains all objects and images from the local machine.            
-7. If you want to use the **docker-compose.yml** file you need to log in to the local machine first and it will ask for a username and password to log in. Command to login with **Docker Hub**.                      
+8. If you want to use the **docker-compose.yml** file you need to log in to the local machine first and it will ask for a username and password to log in. Command to login with **Docker Hub**.                      
    ` Note:- You have to log in with proper credentials to view the image privately. Otherwise, it cannot take the image pull.`
    ```
    docker login
    ```
-8. After the login is successful, **login succeeded** will be written there.
+9. After the login is successful, **login succeeded** will be written there.
 
     ```
     docker-compose up --build -d
     ```
-9. Wait for some time after entering the command. It will pull the server image from the repository.
-10. Then give the command to check if the server is running correctly or not
+10. Wait for some time after entering the command. It will pull the server image from the repository.
+11. Then give the command to check if the server is running correctly or not
     ```
     docker ps
     ```
-11. Then check whether **https//localhost:3000** is working or not and can log in from the **On-Premise-Server** if you want to log in with the default user and password then change in the file and use the password username by giving the `docker login` command have to do.
+12. Then check whether **https//localhost:3000** is working or not and can log in from the **On-Premise-Server** if you want to log in with the default user and password then change in the file and use the password username by giving the `docker login` command have to do.
 The default organization and user given in the env file is used for it ie               
     **1. OrganizationName               
     2. OrganizationAddress                 
@@ -77,11 +79,27 @@ The default organization and user given in the env file is used for it ie
     ![image-1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/34559bf9-335c-46c7-a0b7-8e19bc11fe4d)
 
 
-12. After going to localhost:3000, the login page will open, enter your username and password and log in.
-13. After login **Wizard Configuration** page will open and enter **External URL** there and click on next.
-14. Next, do you want to enable the Grafrana URL. If you want to do it then click on yes otherwise click on no and click on next.
-15. Next, do you want to enable Kafka URL. If you want to do it then click on yes otherwise click on no and click on finish.
-16. Click finish and it will land on the URL you entered.
+13. After going to localhost:3000, the login page will open, enter your username and password and log in.
+
+    ![image-2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/48a28ed2-f447-456a-b617-feacc5b7de14)
+
+14. After login **Wizard Configuration** page will open and enter **External URL** there and click on next.
+
+    ![image-3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/27ac2035-a287-4400-bba4-9e32c8afc540)
+
+15. Next, do you want to enable the Grafrana URL. If you want to do it then click on yes otherwise click on no and click on next.
+
+    ![image-4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/af4c5795-10a2-4cdf-9e72-b5256960dd33)
+
+16. Next, do you want to enable Kafka URL. If you want to do it then click on yes otherwise click on no and click on finish.
+
+    ![image-5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/18e0ddd7-4c37-4e7c-bdd9-62f59a59d1ab)
+
+17. Click finish and it will land on the URL you entered. And Open the Dashboard.
+
+    ![image-6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/9b623c85-5c10-4e23-a1d3-13d71806a901)
+
+    
 
     
 
