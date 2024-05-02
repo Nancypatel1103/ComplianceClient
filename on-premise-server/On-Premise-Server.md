@@ -66,8 +66,9 @@ The benefits of on-premise servers include lower latency, more control over data
 
 11. Then check if **https//localhost:3000** is working and can login from **On-Premise-Server**. Use the username and password given here                
      **(Username: admin@example.com                                                                                                  
-     Password: admin@123)** And if you want to change the username, you can change the default username in your env file by issuing the `docker login` command. 
-    
+     Password: admin@123)** And if you want to change the default credentials, you can update the following 2 variables in the .env file.            
+     **defaultuseremail=<add_user_email> (ex.system@infiniteclouds.com)                                                      
+     defaultUserPassword=<updated_password> (ex. Infiniteclouds@1234)***
 
 12. After going to localhost:3000, the login page will open, enter your username and password and log in.
 
