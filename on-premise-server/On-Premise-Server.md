@@ -95,7 +95,7 @@ The benefits of on-premise servers include lower latency, more control over data
     - **Provider**: - Provider is provided by default.
     - **Application Key**: - Enter the application key. **For example 6F3csOpDAdBmtVii**.
     - **Secret Key**: - Enter the secret key. **For example T4XdHlWwmJ7XEwwU**.
-    - **Callback Url**: - Enter the config URL in Callback URL. **For example Configuration URL/auth/gwc-authentication/callback**.
+    - **Callback Url**: - Enter the config URL in Callback URL. **For example <Configuration URL>/auth/gwc-authentication/callback**.
     - **Login Url**: - Enter the login url. Login url/externalAuth must be entered. **For example Configuration URL/externalAuth**.
     - **Verification Url**: - Enter the verification URL. config url and verify url are required. **For example Configuration URL/verifyUrl**.
     - **Whitelist domains**: - Add domains. Here it is necessary to add the domain given in the image, if not add it, the page will not load.
