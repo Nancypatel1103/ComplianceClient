@@ -95,9 +95,9 @@ The benefits of on-premise servers include lower latency, more control over data
     - **Provider**: - Provider is provided by default.
     - **Application Key**: - Enter the application key. **For example 6F3csOpDAdBmtVii**.
     - **Secret Key**: - Enter the secret key. **For example T4XdHlWwmJ7XEwwU**.
-    - **Callback Url**: - Enter the config URL in Callback URL. **For example http://192.168.29.29:3000/auth/gwc-authentication/callback**.
-    - **Login Url**: - Enter the login url. Login url/externalAuth must be entered. **For example http://192.168.29.29:3000/externalAuth**.
-    - **Verification Url**: - Enter the verification URL. config url and verify url are required. **For example http://192.168.29.29:3000/verifyUrl**.
+    - **Callback Url**: - Enter the config URL in Callback URL. **For example <Configuration URL>/auth/gwc-authentication/callback**.
+    - **Login Url**: - Enter the login url. Login url/externalAuth must be entered. **For example <Configuration URL>/externalAuth**.
+    - **Verification Url**: - Enter the verification URL. config url and verify url are required. **For example <Configuration URL>/verifyUrl**.
     - **Whitelist domains**: - Add domains. Here it is necessary to add the domain given in the image, if not add it, the page will not load.
 
     ![image-9](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/32f75948-1b6f-45ef-a7b7-4f4c27f69f11)
