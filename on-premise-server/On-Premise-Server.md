@@ -90,6 +90,23 @@ The benefits of on-premise servers include lower latency, more control over data
 
     ![image-6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/9b623c85-5c10-4e23-a1d3-13d71806a901)
 
+17. If you want to use the hotspot, you have to go to the **settings** and configure it in **social management**.
+18.These details have to be filled where social management will open.
+    - **Provider**: - Provider is provided by default.
+    - **Application Key**: - Enter the application key. **For example 6F3csOpDAdBmtVii**.
+    - **Secret Key**: - Enter the secret key. **For example T4XdHlWwmJ7XEwwU**.
+    - **Callback Url**: - Enter the config URL in Callback URL. **For example http://192.168.29.29:3000/auth/gwc-authentication/callback**.
+    - **Login Url**: - Enter the login url. Login url/externalAuth must be entered. **For example http://192.168.29.29:3000/externalAuth**.
+    - **Verification Url**: - Enter the verification URL. config url and verify url are required. **For example http://192.168.29.29:3000/verifyUrl**.
+    - **Whitelist domains**: - Add domains. Here it is necessary to add the domain given in the image, if not add it, the page will not load.
+
+    ![image-9](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/32f75948-1b6f-45ef-a7b7-4f4c27f69f11)
+
+19. And after then click on **Save** button.
+
+    ![image-10](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/cebbbc23-8b33-468c-aa7b-d9ec7d96db2f)
+
+
     
 
     
