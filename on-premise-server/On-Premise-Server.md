@@ -92,7 +92,7 @@ The benefits of on-premise servers include lower latency, more control over data
 
 17. Configure **External Authentication** in the hotspot for the on-premise server by completing the following steps. This process is only intended for external authentication, not social management. **Social management** laughs when set up differently.                   
 
-    ![image-11](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/74e47c60-d32b-4942-88c8-2cd6dfaf02d4)
+    ![image-11](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c51072b5-8e45-43fe-a55c-4cc5c41d5df5)
 
 
 18. These details have to be filled in when social management opens.                                                                
