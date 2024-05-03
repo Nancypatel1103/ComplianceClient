@@ -90,8 +90,12 @@ The benefits of on-premise servers include lower latency, more control over data
 
     ![image-6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/9b623c85-5c10-4e23-a1d3-13d71806a901)
 
-17. If you want to use the hotspot, you have to go to the **settings** and configure it in **social management**.                      
-18. These details have to be filled where social management will open.                                                                
+17. Configure **External Authentication** in the hotspot for the on-premise server by completing the following steps. This process is only intended for external authentication, not social management. **Social management** laughs when set up differently.                   
+
+    ![image-11](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/74e47c60-d32b-4942-88c8-2cd6dfaf02d4)
+
+
+18. These details have to be filled in when social management opens.                                                                
     - **Provider**: - Provider is provided by default.
     - **Application Key**: - Enter the application key. **For example 6F3csOpDAdBmtVii**.
     - **Secret Key**: - Enter the secret key. **For example T4XdHlWwmJ7XEwwU**.
