@@ -2,7 +2,7 @@
 
 ## What is External Authentication 
 
-## Why do we need a External Authentication 
+## Why do we need an External Authentication 
 
 
 ## How to Create External Authentication
