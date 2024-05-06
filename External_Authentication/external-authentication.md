@@ -156,7 +156,7 @@ External Authentication offers several benefits:
 
    
 1. Go to the **API Config** you want to edit.
-2. Click on the Edit Located on the right side of your **API Config***.
+2. Click on the Edit Located on the right side of your **API Config**.
 
    ![image-13](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/18e0e27f-9344-456f-afe1-8a7aa0ba0381)
 
