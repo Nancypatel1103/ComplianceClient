@@ -26,7 +26,7 @@
 
 
 5. Clicking on the “Add New” button will open a new window where you can input the necessary details. 
-  - **Provider**: -  Enter Provider **For example Gwc-demo-exernal-authentication**.
+  - **Provider**: -  Enter Provider **For example Gwc-beta-exernal-authentication**.
   - **Organization**- Select Organization **for example: demo**.
   - **App id**: - Enter the application key. For example 6F3csOpDAdBmtVii.
   - **Secret Key**: - Enter the secret key. **For example T4XdHlWwmJ7XEwwU**.
