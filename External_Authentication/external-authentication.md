@@ -51,7 +51,7 @@
 
    ![image-7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6d84d293-33c8-4c5f-b747-2b463af07c1a)
 
-## How to connect External Authentication
+## How to configure External Authentication
 
 1. Go to the **Captive portal** menu. 
    ` note:- Before that, it is necessary to keep in mind that your external authentication and the organization of your device must be the same.`
@@ -106,10 +106,13 @@
 
 2. After click, a new window will open. There you will get a confirmation message. Click on the Delete button.
 
-    ![image-18](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/cbe705da-d0f3-463e-8b09-dae3fd4bbeaf)
+    ![image-18](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d4d26909-1f49-4593-a524-ae3517908324)
 
 3. As soon as you click on Delete, you will get a message on the screen that the **Config is deleted successfully**.
 
    ![image-19](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e4e3f9a9-a111-401d-99f7-92c353028026)
 
 
+## How to connect External Authentication
+
+1. 
