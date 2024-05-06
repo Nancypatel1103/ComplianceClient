@@ -82,25 +82,24 @@
 
 1. Start by connecting to the **SSID** on your device, then proceed to click on **sign in with Gwc-beta-external-authentication**.
 
-   ![image-20](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c3ef5e38-4201-435f-aa9b-6e02d09e3fa8)
+   ![image-20](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/9d989c7a-db3b-46c9-912e-e21c281e9259)
 
 2. Clicking will open a new window. Then, click on Continue anyway via the browser.
 
-   ![image-21](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6a4c30fe-4b4a-4e60-9b01-4e3d97372861)
+   ![image-21](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/50ff4de6-8396-4ad9-b6a4-42ed18277bd2)
 
 
 3. Next, it will be redirected to the server and there you should click on Gwc-beta-external-authentication.
 
-   ![image-22](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b80da199-9550-4d59-b74c-7414ff9ea907)
-
+    ![image-22](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/9ffd0d08-6a64-4f34-8762-4bf0eb562c21)
 
 4. Fill in your **username and password**, and then select the **login** option.
 
-   ![image-23](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1a8509d4-2178-483c-ba96-669baa064012)
+   ![image-23](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/644c248e-0cda-497a-8610-cb93ace2746e)
 
 5. A confirmation message will follow. Please click on the **yes** option over there
 
-   ![image-24](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/14465f08-1f06-495b-9d02-be8ca980c602)
+   ![image-24](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4db43756-cb7b-4e61-b299-f9b353e365c2)
 
 6. After that, a new window will open for connecting
 
