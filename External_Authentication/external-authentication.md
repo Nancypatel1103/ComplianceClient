@@ -78,10 +78,42 @@
    ![image-12](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/11be81fc-0e7a-4a58-82bd-e9c38663abba)
 
 
+## How to Connect External Authentication in Android
+
+1. Start by connecting to the **SSID** on your device, then proceed to click on **sign in with Gwc-beta-external-authentication**.
+
+   ![image-20](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/297a37da-4835-4614-8e1f-26ddee47ba6d)
+
+2. Clicking will open a new window. Then, click on Continue anyway via the browser.
+
+   ![image-21](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c6027a71-7dd5-4a84-9ea1-542e8c16b2cd)
+
+3. Next, it will be redirected to the server and there you should click on Gwc-beta-external-authentication.
+
+   ![image-22](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/fb2b5e94-b4fa-402b-924e-b1b34b4fb808)
+
+4. Fill in your **username and password**, and then select the **login** option.
+
+   ![image-23](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d8ea660f-6b8c-4fd2-ab36-c061226d4c64)
+
+5. A confirmation message will follow. Please click on the **yes** option over there
+
+   ![image-24](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5a8e33c5-cc0b-41b2-91c6-1d92c97ccd78)
+
+6. After that, a new window will open for connecting
+
+   ![image-25](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6e374b59-14cd-40e6-958c-694b838d8bbe)
+
+7. After that it will be redirected to the browser.
+
+   ![image-26](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d1537e38-4c53-452e-9aa7-d46e991936b8)
+
+
+
 ## How to Edit External Authentication
 
    
-1. Go to the **API Configt** you want to edit.
+1. Go to the **API Config** you want to edit.
 2. Click on the Edit Located on the right side of your **API Config***.
 
    ![image-13](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/18e0e27f-9344-456f-afe1-8a7aa0ba0381)
@@ -115,6 +147,3 @@
    ![image-19](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e4e3f9a9-a111-401d-99f7-92c353028026)
 
 
-## How to connect External Authentication
-
-1. 
