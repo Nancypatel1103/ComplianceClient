@@ -87,7 +87,7 @@ External Authentication offers several benefits:
 
 1. Start by connecting to the **SSID** on your device, then proceed to click on **sign in with Gwc-beta-external-authentication**.
 
-   ![image-20](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/9d989c7a-db3b-46c9-912e-e21c281e9259)
+   ![image-20](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e154754b-a2eb-475f-8fbd-a5493c730b30)
 
 2. Clicking will open a new window. Then, click on Continue anyway via the browser.
 
