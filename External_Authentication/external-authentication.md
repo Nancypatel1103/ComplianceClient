@@ -1,9 +1,14 @@
 # External Authentication 
 
 ## What is External Authentication 
-
+External Authentication refers to the process of verifying the identity of users accessing a system or application by relying on an external source for authentication. This method allows users to log in using credentials from another trusted service provider.
 ## Why do we need an External Authentication 
+External Authentication offers several benefits:
 
+- **Enhanced Security**: Leveraging authentication from trusted sources strengthens security measures.
+- **User Convenience**: Users can use existing credentials from familiar platforms, reducing the need to remember multiple passwords.
+- **Centralized Management**: Organizations can centrally manage user access and permissions.
+- **Scalability**: As user bases grow, external authentication systems can handle increased loads effectively.
 
 ## How to Create External Authentication
 
@@ -11,7 +16,7 @@
 
     ![image-1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e54f820d-0a0e-4bb6-be51-93898175ba6d)
 
-2. Once you click the **Login** button, you'll be automatically taken to the **Dashboard**. After that, go to the **Settings** menu.
+2. Upon logging in, access the Dashboard and proceed to the **Settings** menu.
 
     ![image-2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ced71884-fd14-4fe3-90e7-5794ada4a12c)
 
@@ -28,11 +33,11 @@
 5. Clicking on the “Add New” button will open a new window where you can input the necessary details. 
   - **Provider**: -  Enter Provider **For example Gwc-beta-exernal-authentication**.
   - **Organization**- Select Organization **for example: demo**.
-  - **App id**: - Enter the application key. For example 6F3csOpDAdBmtVii.
+  - **App id**: - Enter the application key. **For example 6F3csOpDAdBmtVii**.
   - **Secret Key**: - Enter the secret key. **For example T4XdHlWwmJ7XEwwU**.
   - **Callback Url**: - Enter the config URL in the Callback URL. **For example < APPLICATION_URL >/auth/gwc-authentication/callback**.
-  - **Login Url**: - Enter the login url. Login url/externalAuth must be entered. **For example < APPLICATION_URL >/externalAuth**.
-  - **Verification Url**: - Enter the verification URL. config url and verify url are required. **For example < APPLICATION_URL >/verifyUrl**.
+  - **Login Url**: - Enter the login url. Login URL/externalAuth must be entered. **For example < APPLICATION_URL >/externalAuth**.
+  - **Verification Url**: - Enter the verification URL. config URL and verify URL are required. **For example < APPLICATION_URL >/verifyUrl**.
   - **Whitelist domains**: - Add domains. Domain needs to be added. For example:              
     **1. stackpath.bootstrapcdn.com                               
     2. cdn.jsdelivr.net                        
