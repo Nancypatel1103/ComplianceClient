@@ -40,7 +40,8 @@
     4. maxcdn.bootstrapcdn.com                     
     5. fonts.googleapis.com**           
 
-    ![image-5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/a5f3b091-46d4-47e2-84bf-47f3d4c14299)
+    ![image-5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/9ca890d8-b6d4-425f-9cfe-e7f770e23522)
+
 
 5. And then, simply click on the **Save** button.
 
@@ -63,7 +64,7 @@
 
 3. After clicking, a window will open and you will scroll a little there, you will see the **login method**, and from there you can add. And if you add, that method will be shown on the screen.
 
-   ![image-10](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1ddbc951-d953-4892-bd7e-f0b9e42e4f87)
+   ![image-10](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/952cd89a-92b2-4447-b339-70f359827a73)
 
 4. After clicking on the **update** button.
 
@@ -81,11 +82,12 @@
 1. Go to the **API Configt** you want to edit.
 2. Click on the Edit Located on the right side of your **API Config***.
 
-   ![image-13](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/3bb3d8e0-cb99-4935-81e6-42980aa4cc54)
+   ![image-13](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/18e0e27f-9344-456f-afe1-8a7aa0ba0381)
 
-3. After clicking, a new window will open. From here you can change **Provider, App iD, Secret Key, Callback Url, Login Url, Verify Url, and Whitelist domain**.
 
-   ![image-14](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/921c16cc-639a-48d4-86f6-8942d4f5857a)
+3. After clicking, a new window will open. From here you can change **Provider, App ID, Secret Key, Callback Url, Login Url, Verify Url, and Whitelist domain**.
+
+   ![image-14](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/595ccfac-bec8-408c-a07c-5803cf0cd6a2)
 
 4. After clicking on the **Update** button.
 
@@ -100,7 +102,7 @@
 
 1. Click on the delete located on the right side.
 
-    ![image-17](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/491f34be-67e8-43c3-89a5-78b89d1c3665)
+    ![image-17](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/32b2a715-9110-4e63-b803-87fb0df4a448)
 
 2. After click, a new window will open. There you will get a confirmation message. Click on the Delete button.
 
