@@ -116,6 +116,40 @@ External Authentication offers several benefits:
 
    ![image-26](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d1537e38-4c53-452e-9aa7-d46e991936b8)
 
+## How to Connect External Authentication in iPhone
+
+1. Start by connecting to the **SSID** on your device, then proceed to click on **sign in with Gwc-beta-external-authentication**.
+
+   ![image-27](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1f5ad980-1fae-4958-8e52-e4a755e6efce)
+
+2. A new window will appear, prompting permission to use the network.
+
+   ![image-28](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f4dc3c75-4ef2-4143-80eb-2683601fc8f2)
+
+3. Then it will show that your connection is not private and click on **back to safety**.
+
+   ![image-29](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ba89f414-eb93-4391-96f0-d669894ef00c)
+
+4.  A confirmation message will appear, asking if you want to proceed. Click on **Continue anyway**.
+
+   ![image-30](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ff9bd6b4-8486-4735-9ba8-97630e080f4c)
+
+5. Fill in your **username and password**, and then select the **login** option.
+
+   ![image-31](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8fd17a7e-f978-419a-afb8-7d3c38471990)
+
+6. A confirmation message will follow. Please click on the **yes** option over there
+
+   ![image-24](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4f5eaa23-f5fd-4c34-895e-16dd65a62e64)
+
+7. After that, a new window will open for connecting
+
+   ![image-25](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6e374b59-14cd-40e6-958c-694b838d8bbe)
+
+8. After that it will be redirected to the browser.
+
+   ![image-26](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d1537e38-4c53-452e-9aa7-d46e991936b8)
+
 
 
 ## How to Edit External Authentication
