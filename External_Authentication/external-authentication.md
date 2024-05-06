@@ -4,7 +4,7 @@
 External Authentication refers to the process of verifying the identity of users accessing a system or application by relying on an external source for authentication. This method allows users to log in using credentials from another trusted service provider.
 ## Why do we need an External Authentication 
 External Authentication offers several benefits:
-
+ 
 - **Enhanced Security**: Leveraging authentication from trusted sources strengthens security measures.
 - **User Convenience**: Users can use existing credentials from familiar platforms, reducing the need to remember multiple passwords.
 - **Centralized Management**: Organizations can centrally manage user access and permissions.
