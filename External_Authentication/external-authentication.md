@@ -132,7 +132,7 @@ External Authentication offers several benefits:
 
 4.  A confirmation message will appear, asking if you want to proceed. Click on **Continue anyway**.
 
-   ![image-30](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ff9bd6b4-8486-4735-9ba8-97630e080f4c)
+    ![image-30](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ff9bd6b4-8486-4735-9ba8-97630e080f4c)
 
 5. Fill in your **username and password**, and then select the **login** option.
 
