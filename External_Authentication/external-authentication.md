@@ -91,20 +91,22 @@ External Authentication offers several benefits:
 
 2. Clicking will open a new window. Then, click on Continue anyway via the browser.
 
-   ![image-21](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/50ff4de6-8396-4ad9-b6a4-42ed18277bd2)
+   ![image-21](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/721c7fb3-f80c-43b2-b724-133aa66357fc)
 
 
 3. Next, it will be redirected to the server and there you should click on Gwc-beta-external-authentication.
 
-    ![image-22](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/9ffd0d08-6a64-4f34-8762-4bf0eb562c21)
+    ![image-22](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ff28490d-fafb-4b0d-9364-d06ebbf43487)
+
 
 4. Fill in your **username and password**, and then select the **login** option.
 
-   ![image-23](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/644c248e-0cda-497a-8610-cb93ace2746e)
+   ![image-23](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5f497579-9d16-43f6-9f5c-772cd8e31f70)
+
 
 5. A confirmation message will follow. Please click on the **yes** option over there
 
-   ![image-24](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4db43756-cb7b-4e61-b299-f9b353e365c2)
+   ![image-24](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7af6b4d5-dedc-4156-b93f-58293294518f)
 
 6. After that, a new window will open for connecting
 
