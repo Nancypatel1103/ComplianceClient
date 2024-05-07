@@ -123,7 +123,7 @@ External Authentication offers several benefits:
    ![image-27](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1f5ad980-1fae-4958-8e52-e4a755e6efce)
 
 
-2. Open a new window where you’ll find a link. Visit the link and click cancel.
+2. Open a new window where you will find a link. Copy that link and open it in another browser. And after copying it close the popup here by clicking cancel.
 
    ![image-32](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/babfd40e-94bb-4049-9a04-85315b689f69)
 
