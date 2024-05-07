@@ -43,8 +43,8 @@ External Authentication offers several benefits:
     2. cdn.jsdelivr.net                        
     3. code.jquery.com                      
     4. maxcdn.bootstrapcdn.com                     
-    5. fonts.googleapis.com
-    6. devichotspot.elemprin.com                                       
+    5. fonts.googleapis.com                                   
+    6. devichotspot.elemprin.com                                                                 
     7. betaextauth.infiniteclouds.com**                                  
 
     ![image-5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/9ca890d8-b6d4-425f-9cfe-e7f770e23522)
