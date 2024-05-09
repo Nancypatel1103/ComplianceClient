@@ -185,11 +185,11 @@ External Authentication offers several benefits:
 
     ![image-17](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/32b2a715-9110-4e63-b803-87fb0df4a448)
 
-2. After click, a new window will open. There you will get a confirmation message. Click on the Delete button.
+2. After click, a new window will open. There you will get a confirmation message. Click on the **Delete** button.
 
     ![image-18](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d4d26909-1f49-4593-a524-ae3517908324)
 
-3. As soon as you click on Delete, you will get a message on the screen that the **Config is deleted successfully**.
+3. As soon as you click on **Delete**, you will get a message on the screen that the **Config is deleted successfully**.
 
    ![image-19](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e4e3f9a9-a111-401d-99f7-92c353028026)
 
