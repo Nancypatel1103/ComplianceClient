@@ -34,7 +34,7 @@ Elemprin's cloud migration services simplify and speed up the transition to the 
       - Looking ahead, we prioritize innovation, providing customers with unparalleled value, and shaping the future of IT. We continue to innovate and grow.
 3.	Service & Product
 -	Overview of cloud gateway services:- The importance of ensuring secure connectivity and cloud-based services is shared by Elemprin. With our Cloud Gateway services, organizations can access the benefits of the cloud while maintaining optimal performance and security. Our advanced technology and expertise guarantee a smooth, secure, and flexible journey to the cloud. We are here to help.
--	Detailed description of each product:- . The primary objective of our CloudConnect service is to enable organizations to establish reliable and efficient connections with major cloud providers like AWS, Azure or Google Cloud Platform. By using CloudConnect, you can connect to the cloud from your local network and have secure access to important applications and data.
+-	Detailed description of each product:- The primary objective of our CloudConnect service is to enable organizations to establish reliable and efficient connections with major cloud providers like AWS, Azure, or Google Cloud Platform. By using CloudConnect, you can connect to the cloud from your local network and have secure access to important applications and data.
 -	Features and Benefits:-
 -	Collaboration
 4.	Solution
