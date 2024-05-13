@@ -42,7 +42,7 @@ Elemprin's cloud migration services simplify and speed up the transition to the 
 -	Features and Benefits:- You can easily scale your cloud infrastructure with ease thanks to our Cloud Gateway service.
 	  - Ensuring your data is secure in the cloud is a top-notch security measure, along with robust encryption protocols. 
 	  - We optimize our tools and techniques to ensure that cloud applications deliver the best performance and user experience for your customers and employees.
-        - By utilizing cost-efficient cloud solutions and optimizing resource utilization, we provide costless IT solutions that minimize performance and security risks.
+     - By utilizing cost-efficient cloud solutions and optimizing resource utilization, we provide costless IT solutions that minimize performance and security risks.
 -	Collaboration:- The Elemprin team is committed to working together. Through our close collaborations with customers, we are able to identify their unique requirements and challenges that make us the best choice for providing them with our services. We have a strong team dedicated to helping businesses move to the cloud, optimizing their infrastructure, and protecting their environment.
 4.	Solution
 -	Case studies highlighting successful implementations
