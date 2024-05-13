@@ -23,7 +23,7 @@ Accelerate your network's performance and reliability with Elemprin's network op
       - Cloud Migration Services:
 Elemprin's cloud migration services simplify and speed up the transition to the cloud. Ensure that your migration process is executed with great care by our team of experts.                                       
 2.	About
--	Company history:- Elemprin, a company founded in 2012, has been dedicated to making sweeping changes that will impact the IT industry. From humble beginnings, we have grown into a trusted name serving our clients across the globe with state-of-the-art technology solutions. We're proud to be a part of it, and we want our customers.
+-	Company history:- Elemprin, a company founded in (year), has been dedicated to making sweeping changes that will impact the IT industry. From humble beginnings, we have grown into a trusted name serving our clients across the globe with state-of-the-art technology solutions. We're proud to be a part of it, and we want our customers.
 -	Mission and values:- 
 -	Members of the team:- Be acquainted with the enthusiastic supporters of Elemprin. We are a group of professionals with extensive experience in various IT domains. We have a team of talented individuals, including developers and engineers, project managers, and designers, who are committed to driving innovation and delivering exceptional results for our clients.
 -	Achievements and milestones:- The IT industry has been marked by Elemprin's achievements, which have shaped our progress and growth. Our proudest achievements include, e.g.,.
