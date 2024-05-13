@@ -45,14 +45,19 @@ Elemprin's cloud migration services simplify and speed up the transition to the 
      - By utilizing cost-efficient cloud solutions and optimizing resource utilization, we provide costless IT solutions that minimize performance and security risks.
 -	Collaboration:- The Elemprin team is committed to working together. Through our close collaborations with customers, we are able to identify their unique requirements and challenges that make us the best choice for providing them with our services. We have a strong team dedicated to helping businesses move to the cloud, optimizing their infrastructure, and protecting their environment.
 4.	Solution
--	Case studies highlighting successful implementations
--	Industries served
--	Customization options
+-	Case studies highlighting successful implementations:- See how businesses like yours have overcome obstacles and achieved remarkable results with the help of our solutions. Read on to find out more. Our customers' operational and productivity improvements are reflected in our case studies. This is proven through continuous improvement across the board.
+-	Industries served:- We acknowledge that industries have their own needs and requirements.
+We are dedicated to catering to a broad spectrum of industries, which encompasses: Retail, Finance and Banking, Healthcare, Education, Manufacturing, Hospitality, Transportation, TechnologyWith our expertise, we can help you navigate the complexities of today's digital landscape in every sector.
+-	Customization options:- The Elemprin team is committed to working together. We work closely with each of our clients to understand their specific needs and goals, ensuring that our solutions are tailored to meet their requirements. Whether you need custom integrations, custom modules, or unique workflows, we have the flexibility and expertise to make it happen. Ready for your business to go the extra mile and learn more about how our solutions can help you achieve innovation, efficiency, growth, and thrive? We should embark on this journey together and utilize the full potential of your organization.
 5.	Support
--	Help and desk information
--	FAQs
--	Knowledge base
--	Customer Portal 
+-	Help and desk information:- Our help desk and desktop information services are tailored to provide you with efficient support when you require it. Whether you're experiencing technical difficulties or seeking assistance to use our services, our knowledgeable support team is here to help. Simply contact us through phone, email, or chat and we'll quickly resolve your issue and get you back on the right path.
+-	FAQs:- For frequently asked questions, our FAQ section is extensive and accessible. A list of commonly asked questions and surveys from customers has been compiled. From product features to billing questions, you'll find helpful explanations and solutions to your concerns.
+	1. General Questions: Ask questions about our company, our practices, and general inquiries.
+	2. Technical support FAQ: How to address technical problems, system requirements, and compatibility issues? 
+        3. Questions about Billing: Evaluate queries regarding billing cycles, payment methods, and subscription strategies.
+        4. The Product-Specific FAQs: Explore our frequently asked questions about the products or services we offer.
+-	Knowledge base:- With our extensive knowledge base, which includes articles, guides, tutorials, and troubleshooting tools all-ready, we aim to make your every experience as a customer of ours more convenient. Explore a wide range of topics, from installation guides and configuration guides to best practices and advanced features.We keep you informed with our database's latest updates and current solutions.
+-	Customer Portal:- 
 6.	Partner
 -	Partner program overview
 -	Benefits of partnership
