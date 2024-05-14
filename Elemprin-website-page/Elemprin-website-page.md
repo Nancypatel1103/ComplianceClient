@@ -53,13 +53,13 @@ We are dedicated to catering to a broad spectrum of industries, which encompasse
 -	Help and desk information:- Our help desk and desktop information services are tailored to provide you with efficient support when you require it. Whether you're experiencing technical difficulties or seeking assistance to use our services, our knowledgeable support team is here to help. Simply contact us through phone, email, or chat and we'll quickly resolve your issue and get you back on the right path.
 -	FAQs:- For frequently asked questions, our FAQ section is extensive and accessible. A list of commonly asked questions and surveys from customers has been compiled. From product features to billing questions, you'll find helpful explanations and solutions to your concerns.
 	1. General Questions: Ask questions about our company, our practices, and general inquiries.
-	2. Technical support FAQ: How to address technical problems, system requirements, and compatibility issues? 
-        3. Questions about Billing: Evaluate queries regarding billing cycles, payment methods, and subscription strategies.
+	2. Technical support FAQ: How to address technical problems, system requirements, and compatibility issues?    
+        3. Questions about Billing: Evaluate queries regarding billing cycles, payment methods, and subscription strategies.                        
         4. The Product-Specific FAQs: Explore our frequently asked questions about the products or services we offer.
--	Knowledge base:- With our extensive knowledge base, which includes articles, guides, tutorials, and troubleshooting tools all-ready, we aim to make your every experience as a customer of ours more convenient. Explore a wide range of topics, from installation guides and configuration guides to best practices and advanced features.We keep you informed with our database's latest updates and current solutions.
--	Customer Portal:- 
+-	Knowledge base:- With our extensive knowledge base, which includes articles, guides, tutorials, and troubleshooting tools all-ready, we aim to make your every experience as a customer of ours more convenient. Explore a wide range of topics, from installation guides and configuration guides to best practices and advanced features. We keep you informed with our database's latest updates and current solutions.
+-	Customer Portal:- We provide a dedicated Customer Portal where you can manage your account, submit tickets for support, monitor service requests, access exclusive resources in your account, and utilize our personalized customer portal. We at Elemprin are dedicated to providing exceptional customer service and our support team is committed to exceeding your expectations. If you have any questions or concerns, please contact us. Your success will be our priority. Thank you.
 6.	Partner
--	Partner program overview
+-	Partner program overview:- Hello and welcome to our affiliate program, we look forward to working together providing innovative solutions for customers and promoting mutual success. We are committed to building lasting partnerships with businesses like yours, leveraging our collective expertise to provide value to our customers. With our affiliate program, you can access a range of benefits and resources that help you expand your business, reach new audiences, and earn more money. Don't worry! Whether you are a technology provider, consultancy, or service provider, we believe that together we can achieve great things.
 -	Benefits of partnership
 -	Partner directory
 7.	Blog & Media
@@ -67,7 +67,7 @@ We are dedicated to catering to a broad spectrum of industries, which encompasse
 -	Press releases
 -	Media coverage
 8.	 Contact us
--	Conatct form
+-	Contact form
 -	Office location 
 9.	Experience
 -	Client testimonials
