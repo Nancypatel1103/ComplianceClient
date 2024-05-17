@@ -28,7 +28,7 @@ Radio accounting has several advantages, including network management, which ena
    - **Radius accounting**:- Select Radius accounting. For **Example:-Active**.
    - **Radius accounting port***:- Radius accounting port will be selected by default, if not then enter. **For Example:- 1813**.
    - **key**- Enter the key.
-   - **Config type**:- Select config type. It has two types, bridge, and router, you can choose any of them, I have selected bridge.
+   - **Config type**:- Select config type. It has two types, bridge, and router, you can choose any of them, you can set the config type as route and bridge. I have selected a bridge.
 
    ![image-4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6d1cf1ae-60a7-4086-88ce-3c9e969786cf)
 
@@ -51,7 +51,7 @@ Radio accounting has several advantages, including network management, which ena
 
      ![image-8](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/08675926-9115-4666-8b92-956c528f8f95)
 
-4. After clicking, a new window will open. If you scroll a little there, you will get Radio Configuration. Radio Configuration is of 2 types (1) 2.4 GHz and (2) 5.8 GHz.Then select Radio-SSID by clicking on the select SSID arrow there. **For example:- Radio-SSID-infi**.
+4. After clicking, a new window will open. If you scroll a little there, you will get Radio Configuration. Radio Configuration is of 2 types (1) 2.4 GHz and (2) 5.8 GHz.Then select Radio-SSID by clicking on the select SSID arrow. **For example:- Radio-SSID-infi**.
 
    ![image-9](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/18bea861-63b9-40ac-b63d-cc4aae9b4008)
 
