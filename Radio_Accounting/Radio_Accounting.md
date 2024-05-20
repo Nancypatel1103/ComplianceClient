@@ -64,7 +64,7 @@ Radio accounting has several advantages, including network management, which ena
    ![image-11](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/fddc4fca-e781-41e4-b328-f5b8da04c7f1)
 
 
-## How to connect Radio Accounting to the client.
+## How to connect Radio Accounting to the client in iPhone. 
 
 1. Connect **Radius Wifi** from the list of **Wifi**.
 
@@ -88,7 +88,23 @@ Radio accounting has several advantages, including network management, which ena
    ![image-16](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/dfc935a0-e0a3-4f19-a859-5e0472eb76a2)
 
 
+## How to connect Radio Accounting to the client in Android. 
 
+1. Connect **Radius Wifi** from the list of **Wifi**.
+   
+    ![image-17](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/884b4489-28b4-4620-8c97-9d8d0d6b21f1)
+
+2. If you connect **Wifi**, a window will open. Then enter **Identity, Anonymous identity, and Password  ** there. Enter **rio** for example in the Identity and Anonymous identity.
+   
+   ![image-18](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ee105ce3-9e19-4048-bff8-7123fb1d61f0)
+
+3. And then click on the **Right** icon.
+
+     ![image-19](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/99c11bcd-d704-4fb0-86b0-d46be6a7323a)
+
+4. If you click on **Right** icon, the **Radius SSID** will be connected.
+
+   ![image-20](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/29424435-e048-41c2-a253-76c164b1f6dd)
 
 
 
