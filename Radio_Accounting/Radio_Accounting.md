@@ -64,6 +64,29 @@ Radio accounting has several advantages, including network management, which ena
    ![image-11](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/fddc4fca-e781-41e4-b328-f5b8da04c7f1)
 
 
+## How to connect Radio Accounting to the client.
+
+1. Connect **Wifi**
+
+  ![image-12](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7a43ad37-34a1-4872-bf20-7414ddba5abe)
+
+2. If you connect **Wifi**, a window will open.
+
+   ![image-13](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/a0a898a3-06f0-4eff-b28a-1618a2790686)
+
+
+3. Then enter **Username and Password** there. Enter **rio** for example in the username. And then click on join on the right side there.
+
+   ![image-14](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/aaffb202-715a-4c9d-baad-9c9fb97f6c87)
+
+4. Click on join, then the certificate dashboard will open, and click on trust.
+
+  ![image-15](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f2ae1045-7057-497b-9fec-f7ebccff8a32)
+
+5. If you click on trust, the radio SSID will be connected.
+
+  ![image-16](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/dfc935a0-e0a3-4f19-a859-5e0472eb76a2)
+
 
 
 
