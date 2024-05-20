@@ -66,9 +66,9 @@ Radio accounting has several advantages, including network management, which ena
 
 ## How to connect Radio Accounting to the client.
 
-1. Connect **Wifi**
+1. Connect **Radius Wifi** from the list of **Wifi**.
 
-   ![image-12](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7a43ad37-34a1-4872-bf20-7414ddba5abe)
+   ![image-12](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/bce7eccf-7e49-46f3-91ce-848b3c807127)
 
 2. If you connect **Wifi**, a window will open.
 
