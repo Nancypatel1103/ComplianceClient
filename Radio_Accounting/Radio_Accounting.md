@@ -94,9 +94,12 @@ Radio accounting has several advantages, including network management, which ena
    
     ![image-17](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/884b4489-28b4-4620-8c97-9d8d0d6b21f1)
 
-2. If you connect **Wifi**, a window will open. Then enter **Identity, Anonymous identity, and Password  ** there. Enter **rio** for example in the Identity and Anonymous identity.
+2. If you connect **Wifi**, a window will open. Then enter **Identity, Anonymous identity, and Password  ** there. Enter **rio** for example in the Identity and Anonymous identity. Also, if there is none in the CA Certificate, then do none.
    
    ![image-18](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ee105ce3-9e19-4048-bff8-7123fb1d61f0)
+
+   ![image-18 1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/769218de-50a7-4fdc-bb23-72b15e302439)
+
 
 3. And then click on the **Right** icon.
 
