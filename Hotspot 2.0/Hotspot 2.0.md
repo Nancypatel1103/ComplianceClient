@@ -129,7 +129,7 @@ Hotspot 2.0 is essential because it enhances the user experience by providing au
 
    ![image-25](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/44569c38-0fcb-4c04-a6bf-39509571ae7e)
 
-## How to delete SSID
+## How to delete a Hotspot 2.0
 1. Click on the delete located on the right side.
 
    ![image-26](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/65501942-18d8-47f6-8a45-2239b1397359)
