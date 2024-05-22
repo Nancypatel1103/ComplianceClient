@@ -37,6 +37,8 @@ Hotspot 2.0 is essential because it enhances the user experience by providing au
       ![image-5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ad5ca41c-73a0-4515-ab08-57bad0253257)
 
 - **NAI Realms**
+- `Note:- NAI Realms are optional while saving and updating
+  `
    - Click on the **Add New** button.
 
      ![image-6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/18c48c0d-113e-495b-8636-4d5fcf9c77da)
@@ -46,8 +48,13 @@ Hotspot 2.0 is essential because it enhances the user experience by providing au
        - **Name**:  Enter the **Name** For **Example:- Name1**.
        - **Method ID**: Enter the **Method ID** For **Example:- Method1**.
        - **Authentication Methods**: Enter the **Authentication Methods** For **Example:- ATH01**.
+       - ```
+           Note: 1. If you select from NAI Realms to assign, it will come and you can unselect and unassign from NAI Realm to assign.
 
-         ![image-7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/9e332c30-d1fc-4076-9ed6-dc608875a5f0)
+                 2. The EAP method is optional in NAI Realms. NAI Realms can be created without the EAP method.
+         ```
+
+          ![image-7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/9e332c30-d1fc-4076-9ed6-dc608875a5f0)
       
    - After Click on **Create Realm** button.
 
