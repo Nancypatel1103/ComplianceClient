@@ -49,7 +49,7 @@ Hotspot 2.0 is essential because it enhances the user experience by providing au
        - **Method ID**: Enter the **Method ID** For **Example:- Method1**.
        - **Authentication Methods**: Enter the **Authentication Methods** For **Example:- ATH01**.
        - ```
-           Note: 1. If you select from NAI Realms to assign, it will come and you can unselect and unassign from NAI Realm to assign.
+           Note: 1. When creating, it will be in selected mode by default, but you have the option to not assign the NAI field.
 
                  2. The EAP method is optional in NAI Realms. NAI Realms can be created without the EAP method.
          ```
@@ -124,7 +124,7 @@ Hotspot 2.0 is essential because it enhances the user experience by providing au
 
    ![image-22](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/02c31d87-d7b5-48e2-a4b1-2917ad283ec4)
 
-3. After clicking, a new window will open. From here you can change Enter **Status, Profile Name, Operator Name, Venue Name, Venue Type, Network Type, Domain, and Roaming Consortium OIs**. You can also delete **NAI realms** by clicking on the checkbox and clicking on delete.
+3. After clicking, a new window will open. From here you can change Enter **Status, Profile Name, Operator Name, Venue Name, Venue Type, Network Type, Domain, and Roaming Consortium OIs**. You can also delete **NAI Realm** by clicking the checkbox and clicking Delete. Also, you are interested in assigning already created NAI fields. Select the checkboxes based on the **NAI Realm** that are currently accessible. Assign the **NAI Realm** by selecting multiple unchecked checkboxes and pressing the Update button.
 
    ![image-23](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6a0c43c4-5043-447b-8472-92f4f32aa745)
 
