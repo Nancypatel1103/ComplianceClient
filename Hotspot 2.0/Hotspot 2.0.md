@@ -149,7 +149,9 @@ Hotspot 2.0 is essential because it enhances the user experience by providing au
 
    ![image-28](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/cd7b378c-73c8-427e-a38c-66d29fa5d371)
 
+## How to use Organization user
 
+1. 
 
 
 
