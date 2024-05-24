@@ -221,7 +221,7 @@ Hotspot 2.0 is essential because it enhances the user experience by providing au
 
 13. As soon as you click on the **Save** button, you will get a message on the screen that **Device configuration is updated successfully**.
 
-   ![image-21](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/efbb24a3-e5ef-4ad0-9132-4b3c53d89969)
+    ![image-21](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/efbb24a3-e5ef-4ad0-9132-4b3c53d89969)
 
 14. ```
     Full access mode also has access to delete and edit, how to do that is explained in how to edit hotspot2.0 and how to delete hotspot 2.0.
@@ -297,7 +297,7 @@ Hotspot 2.0 is essential because it enhances the user experience by providing au
 
 13. As soon as you click on the **Save** button, you will get a message on the screen that **Device configuration is updated successfully**.
 
-   ![image-21](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/efbb24a3-e5ef-4ad0-9132-4b3c53d89969)
+    ![image-21](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/efbb24a3-e5ef-4ad0-9132-4b3c53d89969)
 
 14. ```
     Full access mode also has access to delete and edit, how to do that is explained in how to edit hotspot2.0 and how to delete hotspot 2.0.
