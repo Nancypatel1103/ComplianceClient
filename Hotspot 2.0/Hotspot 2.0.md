@@ -177,7 +177,7 @@ Hotspot 2.0 is essential because it enhances the user experience by providing au
    ![image-33](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/ae25913f-4db7-4c05-a4e5-37b7c5dd5075)
 
 ## How to Use organization user and full access user hotspot 2.0. 
-1. The use to create hotspot 2.0 in organization user and full access user is the same.
+1. The way to use hotspot 2.0 in organization user and full access user is the same.
 2. Click on the **SSIDs** tab.
 
    ![image-34](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c6c5fecf-5172-4feb-9b8c-1bc4e1544ae8)
