@@ -115,52 +115,52 @@ Hotspot 2.0 is essential because it enhances the user experience by providing au
 
 13. As soon as you click on the **Save** button, you will get a message on the screen that **Device configuration is updated successfully**.
 
-   ![image-21](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/efbb24a3-e5ef-4ad0-9132-4b3c53d89969)
+    ![image-21](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/efbb24a3-e5ef-4ad0-9132-4b3c53d89969)
 
 
 ## How to Edit a Hotspot 2.0
 1. Go to the **Hotspot 2.0** want to **Edit** button.
 2. Click on the **Edit** button located on the right side of your **Hotspot 2.0**.
 
-   ![image-22](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/02c31d87-d7b5-48e2-a4b1-2917ad283ec4)
+    ![image-22](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/02c31d87-d7b5-48e2-a4b1-2917ad283ec4)
 
 3. After clicking, a new window will open. From here you can change Enter **Status, Profile Name, Operator Name, Venue Name, Venue Type, Network Type, Domain, and Roaming Consortium OIs**. You can also delete **NAI Realm** by clicking the checkbox and clicking Delete. Also, you are interested in assigning already created NAI fields. Select the checkboxes based on the **NAI Realm** that are currently accessible. Assign the **NAI Realm** by selecting multiple unchecked checkboxes and pressing the Update button.
 
-   ![image-23](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6a0c43c4-5043-447b-8472-92f4f32aa745)
+    ![image-23](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6a0c43c4-5043-447b-8472-92f4f32aa745)
 
 5. Then click on the **Update** button.
    
-   ![image-24](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/fe70cedc-faa7-4efd-99bd-bbdbe7e54254)
+    ![image-24](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/fe70cedc-faa7-4efd-99bd-bbdbe7e54254)
 
 6. After Clicking the Update button, you will get a message on the screen that **SSID details are updated successfully**.
 
-   ![image-25](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/44569c38-0fcb-4c04-a6bf-39509571ae7e)
+    ![image-25](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/44569c38-0fcb-4c04-a6bf-39509571ae7e)
 
 ## How to delete a Hotspot 2.0
 1. Click on the delete located on the right side.
 
-   ![image-26](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/65501942-18d8-47f6-8a45-2239b1397359)
+    ![image-26](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/65501942-18d8-47f6-8a45-2239b1397359)
 
 2. After click, a new window will open. There you will get a confirmation message. Click on the **Delete** button.
   
-   ![image-27](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/bc1fe64f-95cf-477e-a77d-8e7d9d02b54a)
+    ![image-27](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/bc1fe64f-95cf-477e-a77d-8e7d9d02b54a)
 
 3. As soon as you click on Delete, you will get a message on the screen that **SSID is deleted successfully**.
 
    ![image-28](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/cd7b378c-73c8-427e-a38c-66d29fa5d371)
 
-## How to create  and use organization user and full access user hotspot 2.0. 
+## How to create and use organization user and full access user hotspot 2.0. 
 1. Organization users and full-access users can create, use, delete, and edit in the same way as shown above.
 2. **organization user, full access user, and platform admin** user 3 are the same, the difference between **organization user and full access** user is that the details of the organization in which he is created will be shown and he can select the same organization and the same organization A new one will be created in
 
    ![image-46](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1b277964-2e35-459f-bbb5-4ef15538e3aa)
 
 
-### How to create Read read-only
+### How to create Read-only hotspot 2.0. 
 1.  Only that view can read and has read-only access.
 2.  Go to the **SSIDs** menu.
    
-   ![image-2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1b7a6e9c-0beb-4028-8053-284e00c0cdd6)
+    ![image-2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1b7a6e9c-0beb-4028-8053-284e00c0cdd6)
 
 2. After going to the **SSIDs** menu, click on the **Hotspot 2.0** tab.
 
