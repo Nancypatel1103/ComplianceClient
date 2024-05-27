@@ -13,20 +13,21 @@ There are multiple reasons why an AP simulation is necessary:
 
 ## How to Setup AP simulation 
 1. First download the test utility on your PC.
-2. After downloading give command in terminal. 
-  `pwd`
-3. Run the **pwd** command then **cloud-ms-test-utility** will show and copy and open that folder.
-4. Then enter a command again in the terminal. Give command and enter.
+2. Go to the test utility through the terminal with the command cd  and give the path of the test utility folder
+3. Then enter a command in the terminal. Give command and enter.                                         
    `code .`
-5. Enter then **Visual Studio Code** will open.
-6. Then make the given changes in the image in the **.env and .env local** files given in it. **API URL** is given here for example **https://devicapi.elemprin.com/vi/** Enter your API URL in its place.
+4. Enter then **Visual Studio Code** will open.
+5. Then make the given changes in the image in the **.env and .env local** files given in it. **API URL** is given here for example **https://devicapi.elemprin.com/vi/** Enter your API URL in its place. (Edit in the .env and .env local files if not  Visual Studio Code)                                                 
    `Note:- Here you have to enter the address of the server`
     ![image-1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/33e65930-b7d0-4fb6-843c-e1ab8d6d4f4e)
 
-7. Then install the **Device**. After installing the device, it has to be registered manually.
-8. After that, to use the internet, the **SSID and Captive Portal** have to be connected with the device, and that Captive Portal has to be connected with the **SSID**. In this way, it has to be done manually.
-9. And the **simulation** is made to avoid having to do this process manually.
-10. For that, go to the terminal of your server and enter the command there.
+6. Then save the .env and .env local files.
+7. Next, run the given command in the terminal.                                         
+   `npm i --f`
+8. Then install the **Device**. After installing the device, it has to be registered manually.
+9. After that, to use the internet, the **SSID and Captive Portal** have to be connected with the device, and that Captive Portal has to be connected with the **SSID**. In this way, it has to be done manually.
+10. And the **simulation** is made to avoid having to do this process manually.
+11. For that, go to the terminal of your server and enter the command there.
    - **Utility**:- Runs the file by testing utility.js in the package file in the utility.
    - **No of devices**:- Write the number of devices you want to add **For Example:- Device:=1**. If you enter the number of the device, it will be registered in the system first. After the proper is registered it will assign to the organization.
    - **Organization ID**:- The ID of the Organization you want to add. The device will be registered with the organization. Copy the ID shown in the image in the organization ID and paste it here. For that ID, go to the organization and click on the edit button of your organization name, it will open as shown in the image, and copy the ID shown in it.
