@@ -20,7 +20,7 @@ There are multiple reasons why an AP simulation is necessary:
    `code .`
 5. Enter then **Visual Studio Code** will open.
 6. Then make the given changes in the image in the **.env and .env local** files given in it. **API URL** is given here for example **https://devicapi.elemprin.com/vi/** Enter your API URL in its place.
-
+   `Note:- Here you have to enter the address of the server`
     ![image-1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/33e65930-b7d0-4fb6-843c-e1ab8d6d4f4e)
 
 7. Then install the **Device**. After installing the device, it has to be registered manually.
@@ -29,7 +29,10 @@ There are multiple reasons why an AP simulation is necessary:
 10. For that, go to the terminal of your server and enter the command there.
    - **Utility**:- Runs the file by testing utility.js in the package file in the utility.
    - **No of devices**:- Write the number of devices you want to add **For Example:- Device:=1**. If you enter the number of the device, it will be registered in the system first. After the proper is registered it will assign to the organization.
-   - **Organization ID**:- The ID of the Organization you want to add. The device will be registered with the organization.
+   - **Organization ID**:- The ID of the Organization you want to add. The device will be registered with the organization. Copy the ID shown in the image in the organization ID and paste it here. For that ID, go to the organization and click on the edit button of your organization name, it will open as shown in the image, and copy the ID shown in it.
+   
+      ![image-2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1825b024-5933-49c5-9f38-a0245e8d13cf)
+
    - **No of SSID**:- Number of SSID you want to add. **For Example:- SSID=1**. SSID is generated after the organization is registered.
    - **No of Assigned SSID**:- Number of assigned SSID you want to add. **For Example:- Assign SSID=1**. After the captive portal is created, it will be assigned to the captive portal SSID. After the SSID is assigned, it is assigned to the SSID device.
    - **No of Assign CP**:- Number of captive portals you want to add. **For Example:- Assign CP=1**. Captive portal will be created after SSID becomes proper.
