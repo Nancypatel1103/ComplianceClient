@@ -49,7 +49,7 @@ Hotspot 2.0 is essential because it enhances the user experience by providing au
        - **Method ID**: Enter the **Method ID** For **Example:- Method1**.
        - **Authentication Methods**: Enter the **Authentication Methods** For **Example:- ATH01**.
        - ```
-           Note: 1. When creating, it will be in selected mode by default, but you have the option to not assign the NAI field.
+           Note: 1. By default, the NAI field will be assigned when creating. However, you can uncheck the checkbox to avoid assigning it.
 
                  2. The EAP method is optional in NAI Realms. NAI Realms can be created without the EAP method.
          ```
