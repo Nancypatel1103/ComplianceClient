@@ -20,7 +20,10 @@ There are multiple reasons why an AP simulation is necessary:
    `code .`
 5. Enter then **Visual Studio Code** will open.
 6. Then make the given changes in the image in the **.env and .env local** files given in it. **API URL** is given here for example **https://devicapi.elemprin.com/vi/** Enter your API URL in its place.
-7. First install the **Device**. After installing the device, it has to be registered manually.
+
+    ![image-1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/33e65930-b7d0-4fb6-843c-e1ab8d6d4f4e)
+
+7. Then install the **Device**. After installing the device, it has to be registered manually.
 8. After that, to use the internet, the **SSID and Captive Portal** have to be connected with the device, and that Captive Portal has to be connected with the **SSID**. In this way, it has to be done manually.
 9. And the **simulation** is made to avoid having to do this process manually.
 10. For that, go to the terminal of your server and enter the command there.
