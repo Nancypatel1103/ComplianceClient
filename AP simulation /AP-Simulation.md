@@ -13,7 +13,7 @@ There are multiple reasons why an AP simulation is necessary:
 
 ## How to Setup AP simulation 
 1. First download the test utility on your PC.
-2. Go to the test utility through the terminal with the command cd  and give the path of the test utility folder
+2. Go to the test utility through the terminal with the command **cd** and give the path of the test utility folder
 3. Then enter a command in the terminal. Give command and enter.                                         
    `code .`
 4. Enter then **Visual Studio Code** will open.
