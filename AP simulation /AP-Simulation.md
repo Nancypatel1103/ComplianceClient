@@ -46,6 +46,12 @@ There are multiple reasons why an AP simulation is necessary:
 12. After that, if you look at the server, the device is connected and online.
 13. Until you click ctrl+c, the **keepalive** request will be sent to the terminal and the device will remain online until then.
 14. When you click ctrl+c then the **keepalive** request will stop sending and the device will go offline.
+15. If you run the **npm run test-utility** command then the keepalive request will come and **AP** will be assigned and your device will show online.
+
+    ![image-3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8f30ea9a-999b-43c5-8d8f-c67cf1f2f432)
+
+
+     
 
 
 
