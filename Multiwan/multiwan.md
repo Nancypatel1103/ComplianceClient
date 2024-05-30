@@ -58,4 +58,4 @@ output of /etc/config/network file.
 
    ![image-8](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8c067dad-9a9b-4ae4-b490-f1e45e87a6a9)
 
-7. 
+7.  
