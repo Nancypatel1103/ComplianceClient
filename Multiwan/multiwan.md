@@ -35,19 +35,8 @@ We need a MultiWAN network to maintain our internet connection. MultiWAN provide
 
    ![image-6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/48781000-0f53-4879-a3a8-2bfa9d600bdd)
 
-```
-Note:- Mwan3 requires that all interfaces have a unique metric configured in /etc/config/network.
 
-Names must match the interface name found in /etc/config/network.
-
-Names may contain characters A-Z, a-z, 0-9, _ and no spaces-
-
-Interfaces may not share the same name as configured members, policies or rules.
-
-output of /etc/config/network file.
-```
-
-6. Member creation after configuring multi van in Cloud. So for member creation, go to the interface like eth0, eth1 and enable it. And to configure the option as follows.
+9. Member creation after configuring MultiWAN in the Cloud. So for member creation, go to the interface like eth0, eth1 and enable it. And to configure the option as follows.
    - Interface name:- eth0,eth1
    - Target IP:- we use this IP 8.8.8.8/4.2.2.2
    - Failure interval:- 5 seconds
@@ -56,27 +45,27 @@ output of /etc/config/network file.
    - Ping timeout:- If the ping is not received in 2 seconds then the timeout will occur.
    - Metrics:- 2
    - Weight:- 2                                       
-   -enabled :- click on
+   - enabled:- click on
 
    ![image-7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/88e3b8f5-a78b-435e-bd71-f8391db467d8)
 
    ![image-8](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8c067dad-9a9b-4ae4-b490-f1e45e87a6a9)
 
-7. Then go to Luci go to **MultiWAN Manager** and click on Member tab. If you go to the **Member** tab, you will be shown two members that have been created in the cloud. Here the value of Metrics will be less. Its priority will be first. Metrics means route path.
+10. Then go to Luci go to **MultiWAN Manager** and click on Member tab. If you go to the **Member** tab, you will be shown two members that have been created in the cloud. Here the value of Metrics will be less. Its priority will be first. Metrics means route path.
    - Name: eth1_m1_w1             
    - Interface: eth1              
    - Metrics: 1                   
    - Weight: 1                     
-` Note:- Members are profiles attaching a metric and weight to an MWAN interface. Names may contain characters A-Z, a-z, 0-9, _ and no spaces.
+` Note:- Members are profiles attaching a metric and weight to an MWAN interface. Names may contain characters A-Z, a-z, 0-9, _, and no spaces.
 Members may not share the same name as configured interfaces, policies, or rules.`
 
      ![image-9](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/673869d8-1b1e-41ba-911c-bfc6dcc6c704)
 
-8. Next go to the **Policies** tab. There you will see failover policies. When a **CE** is closed with the help of policies, it automatically converts to its other CE. It is shown in the policies.
+11. Next go to the **Policies** tab. There you will see failover policies. When a **CE** is closed with the help of policies, it automatically converts to its other CE. It is shown in the policies.
 
    ![image-10](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/65805448-aabb-4222-8fcb-bba10a1797d4)
 
-9. Then navigate to the **Rules** tab. There you will find the rules. In the rules, its **name, protocol, source address, source port, destination address, destination port and policy assigned** will be found, which specifies the rules. And will use the traffic in a specific way.
+12. Then navigate to the **Rules** tab. There you will find the rules. In the rules, its **name, protocol, source address, source port, destination address, destination port, and policy assigned** will be found, which specifies the rules. And will use the traffic in a specific way.
 
     ![image-11](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1e5daffc-754d-4fd4-be9f-31be8bfd23d0)
 
