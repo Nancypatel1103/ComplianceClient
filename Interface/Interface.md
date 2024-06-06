@@ -66,7 +66,7 @@
 
     ![image-15](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/dd0cc996-1807-499a-9c53-984c62eaa632)
 
-19. Installer can give you complete information or you can do it yourself if you want. There will be an opportunity to review the parameters before ubantu installs.
+19. Installer can give you complete information or you can do it yourself if you want. There will be an opportunity to review the parameters before ubuntu installs.
 
     ![image-16](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8ce818fa-77f1-4cab-b68b-3e84aac84e3c)
 
@@ -78,7 +78,7 @@
 
     ![image-18](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c7072095-82c8-4fed-b9b4-37a20b7e7720)
 
-22. A new window will open in which the profile has to be setup. Fill the details by entering your name, your server name, your username and password and then click on done button.
+22. A new window will open in which the profile has to be set up. Fill in the details by entering your name, your server name, your username and password and then click on done button.
 
     ![image-19](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c59a0d5f-a678-43f7-8ba7-97eacb9150a4)
 
