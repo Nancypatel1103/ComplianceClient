@@ -70,42 +70,34 @@
 
     ![image-16](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8ce818fa-77f1-4cab-b68b-3e84aac84e3c)
 
-20. The next screen summarizes the choices you made in the previous step. If you are happy with everything, select Done.
-
-    ![image-17](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e1781583-2234-4fac-8eba-5a1e9daa9eae)
-
-21. A message will be received on the screen indicating that there is a destructive action. Then click on continue and proceed.
-
-    ![image-18](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c7072095-82c8-4fed-b9b4-37a20b7e7720)
-
-22. A new window will open in which the profile has to be set up. Fill in the details by entering your name, your server name, your username and password and then click on done button.
+20. A new window will open in which the profile has to be set up. Fill in the details by entering your name, your server name, your username and password and then click on done button.
 
     ![image-19](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c59a0d5f-a678-43f7-8ba7-97eacb9150a4)
 
-23. Then there will be an opportunity to select an OpenSSH server. It will be needed to connect to the virtual machine via SSH. So make sure it is selected or not. There is an option to import SSH keys for github and launchpad. Then click on done.
+21. Then there will be an opportunity to select an OpenSSH server. It will be needed to connect to the virtual machine via SSH. So make sure it is selected or not. There is an option to import SSH keys for Git Hub and launchpad. Then click on Done.
 
     ![image-20](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f49a8752-90ce-451b-b7fd-401476033834)
 
-24. Here you can select from a list of popular snaps to install on your system. Snaps are self-contained software packages that work across a range of Linux distributions. Then click on Done button
+22. Here you can select from a list of popular snaps to install on your system. Snaps are self-contained software packages that work across a range of Linux distributions. Then click on Done button
 
     ![image-21](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/95fefb04-cac2-49b1-93d7-5c66f3738255)
 
-25. And that's it, the installer will now install Ubuntu 22.04. Once it finishes reboot now should be selected.
+23. And that's it, the installer will now install Ubuntu 22.04. Once it finishes reboot now should be selected.
 
     ![image-22](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/780ad35f-dee6-4328-a75c-e889330db5c8)
 
-26. Once Ubuntu is installed, open a terminal and run update and packages upgrade command.
+24. Once Ubuntu is installed, open a terminal and run the update and packages upgrade command.
     ```
     sudo apt update
     sudo apt upgrade
     ```
-27. Run the SSH command in the terminal to check that SSH is install. Assign an IP address to your Ubuntu server on the local network. In VirtualBox Manager, change the network adapter setting to "Bridged Adapter" and note the IP address assigned to your main network adapter.
+25. Run the SSH command in the terminal to check that SSH is installed. Assign an IP address to your Ubuntu server on the local network. In VirtualBox Manager, change the network adapter setting to "Bridged Adapter" and note the IP address assigned to your main network adapter.
 
     ```
     sudo apt-get install openssh-server
     ```
 
-28. You can start and stop the virtual machine using VBoxManage command from the terminal.
+26. You can start and stop the virtual machine using the VBoxManage command from the terminal.
    - To power on:
     ```
     VBoxManage startvm "Ubuntu Server 22.04" --type headless
@@ -115,22 +107,30 @@
      VBoxManage controlvm "Ubuntu Server 22.04" poweroff
      ```
 
-29. To connect via SSH from your host OS, ensure you have the SSH client installed. For most Unix-like systems.
+27. To connect via SSH from your host OS, ensure you have the SSH client installed. For most Unix-like systems.
     ```
     sudo apt install openssh-client
     ```
-30. Then connect to your Ubuntu server.
+28. Then connect to your Ubuntu server.
     ```
     ssh username@ip_address
     ```
 
-31. For enhanced security, generate an SSH key pair and copy the public key to your Ubuntu server.
+29. For enhanced security, generate an SSH key pair and copy the public key to your Ubuntu server.
     ```
     ssh-keygen -o -b 4096 -t rsa
     ssh-copy-id -i ~/.ssh/id_rsa.pub username@ip_address
     ```
-32. It will now be connected. After connecting navigate to your Ip address. The IP address used in ubuntu should be used here.
-33. Login by ip address after connecting. **For ex:- 198.168.29.206:3000**. Enter **Username and Password** there and click on **Login** button.
+30. After Ubuntu is installed, go into the terminal and issue a command. Keep the username added in Ubuntu in the Ubuntu server username.
+   ```
+   sudo vi /etc/sudoers.d/<ubuntu_server_username>
+   ```
+31. Next, enter the username and do all, and give the command which is given here, enter your username instead of **heery**.
+    ```
+    herry ALL=(ALL) NOPASSWD: ALL
+    ```
+31. It will now be connected. After connecting navigate to your IP address. The IP address used in Ubuntu should be used here.
+33. Login by IP address after connecting. **For ex:- 198.168.29.206:3000**. Enter **Username and Password** there and click on **Login** button.
 34. After login Wizard Configuration page will open and enter External URL there and click on next button.
 35. Next, do you want to enable the Grafrana URL. If you want to do it then click on yes otherwise click on no and click on next button.
 36. Next, do you want to enable Kafka URL. If you want to do it then click on yes otherwise click on no click on next button.
