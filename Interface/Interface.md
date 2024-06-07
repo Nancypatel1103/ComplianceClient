@@ -96,8 +96,6 @@ Interfaces are essential to maintain modularity, extensibility, and code reusabi
     sudo apt upgrade
     ```
 
-     ```
-
 25. Then connect to your Ubuntu server.
     ```
     ssh username@ip_address
@@ -149,7 +147,7 @@ Interfaces are essential to maintain modularity, extensibility, and code reusabi
     ```
     ![image-27](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e3940e89-43f1-4f32-976c-79b100da000b)
 
-35. When the application runs, you will see the application run successfully message there.
+35. When the application runs, you will see the **Nest application successfully started** message there.
 
     ![image-28](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/a2442c61-205f-4f0f-ad38-39084e8357a7)
 
@@ -177,7 +175,7 @@ Interfaces are essential to maintain modularity, extensibility, and code reusabi
 
     ![image-33](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/62648f4a-0c2c-467c-b25c-5cd3e1f04b92)
 
-44. After clicking on the update button, you will see a Successfully No message in your terminal.
+44. After clicking on the update button, you will see a **Successfully** No message in your terminal.
 45. As soon as the successful message is received, every process running on this IP will be stopped and it will move to another IP that you have entered here. It means that the application will run on the IP given by you in the IP then check whether the application is running on the IP given by you or not.
 46. Run the command given here to bring up the application as explained further.
     ```
