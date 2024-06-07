@@ -165,7 +165,7 @@ Interfaces are essential to maintain modularity, extensibility, and code reusabi
 
     ![image-31](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/601869d6-c659-42c7-9f78-a876f037c77d)
 
-41. Click finish and it will land on the URL you entered. Open the Dashboard and Go to the **Setting** menu.
+41. Click finish and it will land on the URL you entered. Open the Dashboard and go to the **Setting** menu.
 42. If you go to the **Setting** menu, Then go to the Interface tab. By default something like this will appear. Click on the **Edit** button there.
   
     ![image-32](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/84067113-2a37-4826-b779-f74d0f7c6451)
