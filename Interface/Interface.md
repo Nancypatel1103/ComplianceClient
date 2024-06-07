@@ -4,7 +4,7 @@
 A user interface acts as a contractual arrangement that specifies how different software elements should interact with each other. It defines a set of methods that a class must implement, ensuring consistency and interoperability between different parts of the system.
 
 ## Why do we need an Interface
-Interfaces are essential to maintain modularity, extensibility and code reusability in software development. By defining clear boundaries and expectations of how components communicate, interfaces facilitate collaboration between developers and enable the integration of different modules into compatible systems.
+Interfaces are essential to maintain modularity, extensibility, and code reusability in software development. By defining clear boundaries and expectations of how components communicate, interfaces facilitate collaboration between developers and enable the integration of different modules into compatible systems.
 
 ## How to Configure an Interface
 1. First install Ubuntu on the virtual box. Before installing the Ubuntu server, a virtual box must be installed on your machine. So check if it is installed or not and if not how to install it is explained in the link here(https://www.virtualbox.org/wiki/Downloads)
@@ -146,7 +146,7 @@ Interfaces are essential to maintain modularity, extensibility and code reusabil
     ```
    ![image-25](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1d355c92-3cca-48d6-9205-9011e2b9d67f)
 
-33. Then rub the docker compose command.
+33. Then run the docker-compose command.
    ```
     docker-compose up --build -d
    ```
@@ -162,9 +162,9 @@ Interfaces are essential to maintain modularity, extensibility and code reusabil
   ![image-26](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/561e0ca9-5b9d-4227-bcfc-b8e361598d49)
 
 
-37. After installing docker create a folder named premise in your machine. Then add the file inside the source from the stp command. In the etc file, add the file with the name of the user inside Sudo. For Example Command `scp on-premise.zip sharad@172.20.10.12:/home/sharad/on-premise`
+37. After installing docker create a folder named On premise in your machine. Then add the file inside the source from the scp command. In the etc file, add the file with the name of the user inside Sudo. For Example Command `scp on-premise.zip sharad@172.20.10.12:/home/sharad/on-premise`
 
-38. Then enter the below-given command to bring up the application.
+38. Enter the following command to run the application.
     ```
     npm run start:on-premise-controller
     ```
@@ -189,17 +189,17 @@ Interfaces are essential to maintain modularity, extensibility and code reusabil
    ![image-31](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/601869d6-c659-42c7-9f78-a876f037c77d)
 
 45. Click finish and it will land on the URL you entered. Open the Dashboard and Go to the **Setting** menu.
-46. If you go to the **Setting** menu, by default something like this will appear. Click on the **Edit** button there.
+46. If you go to the **Setting** menu, Then go to the Interface tab. By default something like this will appear. Click on the **Edit** button there.
   
   ![image-32](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/84067113-2a37-4826-b779-f74d0f7c6451)
 
 47. If you click on edit, a new window will open where you will see the interface name, IP address, subnet mask, and Gateway IP. By default the name of the interface will appear as shown in the image. which comes from the Ubuntu Server. Also enter the IP address, subnet mask, and Gateway IP as shown in the image. After that click on the **Update** button.
-    `Note:- Here the range of your IP address will be the same as the IP address and the same will be in the subnet mass. Here you will not be able to give any IP address or submit mass, here the IP address given in your range will come and the range mask will come.`
+    `Note:- Here the range of your IP address will be the same as the IP address and the same will be in the subnet mask. Here you will not be able to give any IP address or subnet mask, here the IP address given in your range will come and the subnet mask will come.`
 
   ![image-33](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/62648f4a-0c2c-467c-b25c-5cd3e1f04b92)
 
 48. After clicking on the update button, you will see a Successfully No message in your terminal.
-49. As soon as the successful message is received, every process running on this IP will be stopped and it will move to another IP that you have entered here. It means that the application will run on the IP given by you in the IPL then check whether the application is running on the IP given by you or not.
+49. As soon as the successful message is received, every process running on this IP will be stopped and it will move to another IP that you have entered here. It means that the application will run on the IP given by you in the IP then check whether the application is running on the IP given by you or not.
 50. Run the command given here to bring up the application as explained further.
     ```
     npm run start:on-premise-controller
