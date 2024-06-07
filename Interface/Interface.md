@@ -72,7 +72,7 @@ Interfaces are essential to maintain modularity, extensibility, and code reusabi
 
 19. The installer can give you complete information. Here you have to select a custom storage layout. LVM does not support groups.
 
-    ![image-16](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8ce818fa-77f1-4cab-b68b-3e84aac84e3c)
+    ![image-16](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6411031a-aa2d-46b9-a4ec-ca51689a6d5b)
 
 20. A new window will open in which the profile has to be set up. Fill in the details by entering your name, your server name, your username, and password, and then click on the done button.
 
