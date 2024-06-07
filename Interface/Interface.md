@@ -7,8 +7,8 @@ A user interface acts as a contractual arrangement that specifies how different 
 Interfaces are essential to maintain modularity, extensibility, and code reusability in software development. By defining clear boundaries and expectations of how components communicate, interfaces facilitate collaboration between developers and enable the integration of different modules into compatible systems.
 
 ## How to Configure an Interface
-1. First install Ubuntu on the virtual box. Before installing the Ubuntu server, a virtual box must be installed on your machine. So check if it is installed or not and if not how to install it is explained in the link here(https://www.virtualbox.org/wiki/Downloads). And installing Ubuntu version 22.04 version.
-2. Next, download it from the Ubuntu server page. Then select option number two, and your PC will download the 1.37 GB ISO file.
+1. First install Ubuntu on the virtual box. Before installing the Ubuntu server, a virtual box must be installed on your machine. So check if it is installed or not and if not how to install it is explained in the link here **(https://www.virtualbox.org/wiki/Downloads)**. And installing Ubuntu version **22.04** version.
+2. Next, download it from the Ubuntu server page. Then select option number two, and your PC will download the **1.37 GB** ISO file.
 3. Install Virtual Box Start with the Virtual Box Manager interface from which you will manage all your virtual machines.
 
     ![image-1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7424acac-f202-4fae-ae69-05b2765a96dd)
@@ -17,15 +17,15 @@ Interfaces are essential to maintain modularity, extensibility, and code reusabi
 
     ![image-2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c544c686-cc7b-4cc7-a70c-587c13c3fd3f)
 
-5. Proceed by clicking Next and then the wizard will ask you to select megabytes of memory to allocate to the virtual machine. Forex:- 2GB
+5. Proceed by clicking Next and then the wizard will ask you to select megabytes of memory to allocate to the virtual machine. **Forex:- 2GB**.
 
     ![image-3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e1fdbfe2-5237-4f13-86e1-f6414aa3d841)
 
-6. Click on the Next button again. and will ask to add a virtual hard disk to your machine. Then make sure that Create a virtual hard disk is selected. Then click on the Create button.
+6. Click on the **Next** button again. and will ask to add a virtual hard disk to your machine. Then make sure that Create a virtual hard disk is selected. Then click on the Create button.
 
     ![image-4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/879dcdd5-9f23-4fe9-b0cf-9c54a18a2c8c)
 
-7. Select the file type for the new virtual hard disk. Make sure VDI (Virtual Disk Image) is checked or not then click on the Next button.
+7. Select the file type for the new virtual hard disk. Make sure **VDI (Virtual Disk Image)** is checked or not then click on the **Next** button.
 
     ![image-5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c93b7166-2244-45da-bd90-9e30c8a62125)
 
@@ -33,7 +33,7 @@ Interfaces are essential to maintain modularity, extensibility, and code reusabi
 
     ![image-6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/9fa01ddd-d4fc-4057-8604-d56ff119b124)
 
-9. Then finally select the virtual hard disk size in megabytes. It should have a default size of 10GB. And increase it as it sees fit. Then click on the Create button.
+9. Then finally select the virtual hard disk size in megabytes. It should have a default size of **10GB**. And increase it as it sees fit. Then click on the Create button.
 
     ![image-7](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b5c47fa8-03d3-40a2-806c-3780419204b1)
 
@@ -41,28 +41,28 @@ Interfaces are essential to maintain modularity, extensibility, and code reusabi
 
     ![image-8](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7cc7ad8b-c15f-40e3-81b4-360c2f7c1a57)
 
-11. A new window will open where you will see all the different languages. Select the language from there. For Ex:- English
+11. A new window will open where you will see all the different languages. Select the language from there. **For Ex:- English**.
 
     ![image-9](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/eacf8a98-cbf6-4001-b82d-896336481cfd)
 
-12. Next if the installer is updated then choose to install or ignore it for ex:- choose to install the update.
+12. Next if the installer is updated then choose to install or ignore it **for ex:- choose to install the update**.
 13. Install after update.
 
     ![image-10](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/bf0c9646-32eb-400f-8ffa-dfc7d39b6c10)
 
-14. Next select the keyboard layout for ex:- Here German keyboard is selected. Then click on the OK button.
+14. Next select the keyboard layout **for ex:- Here German keyboard is selected**. Then click on the **OK** button.
 
     ![image-11](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/31de024b-095b-4996-add8-3837f9278aa0)
 
-15. Then you have to choose default among them. In which a small runtime footprint is customized. Select default and click on the done button.
+15. Then you have to choose default among them. In which a small runtime footprint is customized. Select default and click on the Done button.
 
     ![image-12](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/9bc72874-e467-4ee6-ad84-38a31650a99d)
 
-16. Click Done then it will try to configure the Ubuntu standard network interface. It can only accept default and then click on the done button.
+16. Click Done button then it will try to configure the Ubuntu standard network interface. It can only accept default and then click on the Done button.
 
     ![image-13](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/7abfa309-b205-411f-8ba4-1ef2abb321ba)
 
-17. If the system requires a proxy to connect to the Internet, add its details in the next dialog and click on the done button.
+17. If the system requires a proxy to connect to the Internet, add its details in the next dialog and click on the **Done** button.
 
     ![image-14](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8c2145ec-0923-4478-be34-949de9ce1167)
 
@@ -70,23 +70,24 @@ Interfaces are essential to maintain modularity, extensibility, and code reusabi
 
     ![image-15](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/dd0cc996-1807-499a-9c53-984c62eaa632)
 
-19. The installer can give you complete information. Here you have to select a custom storage layout. LVM does not support groups.
+19. The installer can give you complete information. Here you have to select a custom storage layout. Unselect and **set up this disk as an LVM group**. LVM does not support groups.
 
-    ![image-16](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6411031a-aa2d-46b9-a4ec-ca51689a6d5b)
+    ![image-16](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/71d25558-ca31-4b4b-b41d-c9d8f9e4b7e3)
 
-20. A new window will open in which the profile has to be set up. Fill in the details by entering your name, your server name, your username, and password, and then click on the done button.
+
+20. A new window will open in which the profile has to be set up. Fill in the details by entering **your name, your server name, your username, and password**, and then click on the **Done** button.
 
     ![image-19](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/c59a0d5f-a678-43f7-8ba7-97eacb9150a4)
 
-21. Then there will be an opportunity to select an OpenSSH server. It will be needed to connect to the virtual machine via SSH. So make sure it is selected or not. There is an option to import SSH keys for Git Hub and Launchpad. Then click on Done.
+21. Then there will be an opportunity to select an **OpenSSH** server. It will be needed to connect to the virtual machine via SSH. So make sure it is selected or not. There is an option to import SSH keys for **Git Hub and Launchpad**. Then click on the **Done** button.
 
     ![image-20](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f49a8752-90ce-451b-b7fd-401476033834)
 
-22. Here you can select from a list of popular snaps to install on your system. Snaps are self-contained software packages that work across a range of Linux distributions. Then click on the Done button
+22. Here you can select from a list of popular snaps to install on your system. Snaps are self-contained software packages that work across a range of Linux distributions. Then click on the **Done** button
 
     ![image-21](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/95fefb04-cac2-49b1-93d7-5c66f3738255)
 
-23. And that's it, the installer will now install Ubuntu server version 22.04. Once it finishes reboot now should be selected.
+23. And that's it, the installer will now install **Ubuntu server version 22.04**. Once it finishes reboot now should be selected.
 
     ![image-22](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/780ad35f-dee6-4328-a75c-e889330db5c8)
 
@@ -140,7 +141,7 @@ Interfaces are essential to maintain modularity, extensibility, and code reusabi
     ![image-26](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/561e0ca9-5b9d-4227-bcfc-b8e361598d49)
 
 
-33. After installing docker create a folder named on-premise in your machine. Then add the file inside the source from the scp command. In the etc file, add the file with the name of the user inside Sudo. For Example Command `scp on-premise.zip herry@192.168.29.209/home/herry/on-premise`
+33. After installing docker create a folder named on-premise in your machine. Then add the file inside the source from the scp command. In the etc file, add the file with the name of the user inside `Sudo`. For Example Command `scp on-premise.zip herry@192.168.29.209/home/herry/on-premise`. Here the command .zip will be followed by user@ip: path name.
 
 34. Enter the following command to run the application.
     ```
@@ -171,7 +172,7 @@ Interfaces are essential to maintain modularity, extensibility, and code reusabi
   
     ![image-32](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/84067113-2a37-4826-b779-f74d0f7c6451)
 
-43. If you click on edit, a new window will open where you will see the interface name, IP address, subnet mask, and Gateway IP. By default the name of the interface will appear as shown in the image. which comes from the Ubuntu Server. Also enter the IP address, subnet mask, and Gateway IP as shown in the image. After that click on the **Update** button.
+43. If you click on edit, a new window will open where you will see the **interface name, IP address, subnet mask, and Gateway IP**. By default the name of the interface will appear as shown in the image. which comes from the Ubuntu Server. Also enter the **IP address, subnet mask, and Gateway IP** as shown in the image. After that click on the **Update** button.
     `Note:- Here the range of your IP address will be the same as the IP address and the same will be in the subnet mask. Here you will not be able to give any IP address or subnet mask, here the IP address given in your range will come and the subnet mask will come.`
 
     ![image-33](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/62648f4a-0c2c-467c-b25c-5cd3e1f04b92)
