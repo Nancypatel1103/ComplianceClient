@@ -70,7 +70,7 @@ Interfaces are essential to maintain modularity, extensibility, and code reusabi
 
     ![image-15](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/dd0cc996-1807-499a-9c53-984c62eaa632)
 
-19. Installer can give you complete information or you can do it yourself if you want. There will be an opportunity to review the parameters before Ubuntu installs.
+19. The installer can give you complete information. Here you have to select a custom storage layout. LVM does not support groups.
 
     ![image-16](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8ce818fa-77f1-4cab-b68b-3e84aac84e3c)
 
@@ -86,7 +86,7 @@ Interfaces are essential to maintain modularity, extensibility, and code reusabi
 
     ![image-21](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/95fefb04-cac2-49b1-93d7-5c66f3738255)
 
-23. And that's it, the installer will now install Ubuntu 22.04. Once it finishes reboot now should be selected.
+23. And that's it, the installer will now install Ubuntu server version 22.04. Once it finishes reboot now should be selected.
 
     ![image-22](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/780ad35f-dee6-4328-a75c-e889330db5c8)
 
@@ -95,39 +95,16 @@ Interfaces are essential to maintain modularity, extensibility, and code reusabi
     sudo apt update
     sudo apt upgrade
     ```
-25. Run the SSH command in the terminal to check that SSH is installed. Assign an IP address to your Ubuntu server on the local network. In VirtualBox Manager, change the network adapter setting to "Bridged Adapter" and note the IP address assigned to your main network adapter.
 
-    ```
-    sudo apt-get install openssh-server
-    ```
-
-26. You can start and stop the virtual machine using the VBoxManage command from the terminal.
-  
-   - To power on:                   
-     ```
-     VBoxManage startvm "Ubuntu Server 22.04" --type headless
-     ```
-  
-   - To power off:
-     ```
-     VBoxManage controlvm "Ubuntu Server 22.04" poweroff
      ```
 
-27. To connect via SSH from your host OS, ensure you have the SSH client installed. For most Unix-like systems.
-    ```
-    sudo apt install openssh-client
-    ```
-28. Then connect to your Ubuntu server.
+25. Then connect to your Ubuntu server.
     ```
     ssh username@ip_address
     ```
 
-29. For enhanced security, generate an SSH key pair and copy the public key to your Ubuntu server.
-    ```
-    ssh-keygen -o -b 4096 -t rsa
-    ssh-copy-id -i ~/.ssh/id_rsa.pub username@ip_address
-    ```
-30. After Ubuntu is installed, go into the terminal and issue a command. Keep the username added in Ubuntu in the Ubuntu server username.
+
+26. After Ubuntu is installed, go into the terminal and issue a command. Keep the username added in Ubuntu in the Ubuntu server username.
     ```
      sudo vi /etc/sudoers.d/<ubuntu_server_username>
     ```
@@ -135,83 +112,83 @@ Interfaces are essential to maintain modularity, extensibility, and code reusabi
     ![image-23](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b4989321-47a7-4d38-b477-8fc2f8208070)
 
 
-31. Next, enter the username and do all, and give the command which is given here, enter your username instead of **heery**.
+27. Next, enter the username and do all, and give the command which is given here, enter your username instead of **heery**.
      ```
     herry ALL=(ALL) NOPASSWD: ALL
      ```
     ![image-24](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1d2fa4bb-a468-4a2c-8c9f-678a2865f96b)
  
 
-32. Next, run the cd on-premise command.
+28. Next, run the cd on-premise command.
     ```
     cd on-premise/
     ```
     ![image-25](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1d355c92-3cca-48d6-9205-9011e2b9d67f)
 
-33. Then run the docker-compose command.
+29. Then run the docker-compose command.
     ```
      docker-compose up --build -d
     ```
-34. Give the command given here for the image.
+30. Give the command given here for the image.
     ```
     docker image ls
     ```
-35. Wait for some time after entering the command. It will pull the server image from the repository.
-36. Then give the command to check if the server is running correctly or not.
+31. Wait for some time after entering the command. It will pull the server image from the repository.
+32. Then give the command to check if the server is running correctly or not.
     ```
     docker ps
     ```
     ![image-26](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/561e0ca9-5b9d-4227-bcfc-b8e361598d49)
 
 
-37. After installing docker create a folder named On premise in your machine. Then add the file inside the source from the scp command. In the etc file, add the file with the name of the user inside Sudo. For Example Command `scp on-premise.zip sharad@172.20.10.12:/home/sharad/on-premise`
+33. After installing docker create a folder named On premise in your machine. Then add the file inside the source from the scp command. In the etc file, add the file with the name of the user inside Sudo. For Example Command `scp on-premise.zip sharad@172.20.10.12:/home/sharad/on-premise`
 
-38. Enter the following command to run the application.
+34. Enter the following command to run the application.
     ```
     npm run start:on-premise-controller
     ```
     ![image-27](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e3940e89-43f1-4f32-976c-79b100da000b)
 
-39. When the application runs, you will see the application run successfully message there.
+35. When the application runs, you will see the application run successfully message there.
 
     ![image-28](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/a2442c61-205f-4f0f-ad38-39084e8357a7)
 
-40. After successfully running login your application using the IP address used on Ubuntu. **For ex:- 198.168.29.206:3000**. Enter **Username and Password** (username:- admin@example.com, Password:admin@123) there and click on the **Login** button.
+36. After successfully running login your application using the IP address used on Ubuntu. **For ex:- 198.168.29.206:3000**. Enter **Username and Password** (username:- admin@example.com, Password:admin@123) there and click on the **Login** button.
  
     ![image-29](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f8c74843-3e4f-4dd4-a5f0-e35479897cd8)
 
-41. After login **Wizard Configuration** page will open enter the External URL there and click on the next button.
+37. After login **Wizard Configuration** page will open enter the External URL there and click on the next button.
 
     ![image-30](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/49cae9cd-3a9b-496b-87cc-506edd7b9533)
 
-42. Next, do you want to enable the Grafrana URL? If you want to do it then click on yes otherwise click on no and click on the next button.
-43. Next, do you want to enable the Kafka URL? If you want to do it then click on yes otherwise click on no and click on the next button.
-44. After that reset cardantile will open and enter the password and password then click on the finish button.
+38. Next, do you want to enable the Grafrana URL? If you want to do it then click on yes otherwise click on no and click on the next button.
+39. Next, do you want to enable the Kafka URL? If you want to do it then click on yes otherwise click on no and click on the next button.
+40. After that reset cardantile will open and enter the password and password then click on the finish button.
 
     ![image-31](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/601869d6-c659-42c7-9f78-a876f037c77d)
 
-45. Click finish and it will land on the URL you entered. Open the Dashboard and Go to the **Setting** menu.
-46. If you go to the **Setting** menu, Then go to the Interface tab. By default something like this will appear. Click on the **Edit** button there.
+41. Click finish and it will land on the URL you entered. Open the Dashboard and Go to the **Setting** menu.
+42. If you go to the **Setting** menu, Then go to the Interface tab. By default something like this will appear. Click on the **Edit** button there.
   
     ![image-32](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/84067113-2a37-4826-b779-f74d0f7c6451)
 
-47. If you click on edit, a new window will open where you will see the interface name, IP address, subnet mask, and Gateway IP. By default the name of the interface will appear as shown in the image. which comes from the Ubuntu Server. Also enter the IP address, subnet mask, and Gateway IP as shown in the image. After that click on the **Update** button.
+43. If you click on edit, a new window will open where you will see the interface name, IP address, subnet mask, and Gateway IP. By default the name of the interface will appear as shown in the image. which comes from the Ubuntu Server. Also enter the IP address, subnet mask, and Gateway IP as shown in the image. After that click on the **Update** button.
     `Note:- Here the range of your IP address will be the same as the IP address and the same will be in the subnet mask. Here you will not be able to give any IP address or subnet mask, here the IP address given in your range will come and the subnet mask will come.`
 
     ![image-33](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/62648f4a-0c2c-467c-b25c-5cd3e1f04b92)
 
-48. After clicking on the update button, you will see a Successfully No message in your terminal.
-49. As soon as the successful message is received, every process running on this IP will be stopped and it will move to another IP that you have entered here. It means that the application will run on the IP given by you in the IP then check whether the application is running on the IP given by you or not.
-50. Run the command given here to bring up the application as explained further.
+44. After clicking on the update button, you will see a Successfully No message in your terminal.
+45. As soon as the successful message is received, every process running on this IP will be stopped and it will move to another IP that you have entered here. It means that the application will run on the IP given by you in the IP then check whether the application is running on the IP given by you or not.
+46. Run the command given here to bring up the application as explained further.
     ```
     npm run start:on-premise-controller
     ```
-51. After running the command you can see in the image that it has moved to another IP address.
-52. Login by entering your username and password and clicking on the **login** button.
+47. After running the command you can see in the image that it has moved to another IP address.
+48. Login by entering your username and password and clicking on the **login** button.
 
     ![image-34](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5646efa2-c56e-40c5-976e-7634e2ecad80)
 
-53. And if the license is expired then click on **login** then you will get an error show as shown in the image.
+49. And if the license is expired then click on **login** then you will get an error show as shown in the image.
 
     ![image-35](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/bfc9bb15-46ff-48a6-8938-a636c27d5c7d)
 
