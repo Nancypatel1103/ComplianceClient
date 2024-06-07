@@ -7,13 +7,9 @@ A MultiWAN configuration enables a network to use multiple Internet connections 
 We need a MultiWAN network to maintain our internet connection. MultiWAN provides redundancy by switching to an alternate Internet connection in case of failure, minimizing downtime. Its load balancing helps the network make more use of its available bandwidth by evenly distributing traffic across multiple connections. Improved usability, faster speeds, and efficient use of network resources are the primary benefits for businesses that rely on stable Internet connections.
 
 ## Set the configuration MultiWAN
-1. Create the first two **CEs**. Go to **LAN-CE** and then go to Settings. Go to **settings** then a window will open go to **network** and configure **Addpter-1 and Addpter-2**. Select Bridge in Attach in **Addpter-1 and Internal Network in Addpter-2**. Name **multiwan2 in the last name**.
-2. Next, click on the **OK** button.
 
-   ![image-1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/421c0883-3452-4dff-901b-bf30a628a14e)
-
-3. After that, go to the cloud gateway **(https://dev.hi-clouds.com/login) and (https://beta1.hi-clouds.com/login)** and login to the **CE Device** menu and select the device and then go to the **interface** menu and click on the **edit** button of its interface.
-4. If you click on the **edit** button, then a new page of **Update Ethernet Interface** will be opened in which the zone type will be **WAN** by default and similarly by opening another **Ethernet Internet**, if the zone type is not **WAN** then select **WAN** and then click on **Update** button.
+1. After that, go to the cloud gateway **(https://dev.hi-clouds.com/login) and (https://beta1.hi-clouds.com/login)** and login to the **CE Device** menu and select the device and then go to the **interface** menu and click on the **edit** button of its interface.
+2. If you click on the **edit** button, then a new page of **Update Ethernet Interface** will be opened in which the zone type will be **WAN** by default and similarly by opening another **Ethernet Internet**, if the zone type is not **WAN** then select **WAN** and then click on **Update** button.
 
    ![image-2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2ca5fb26-4ed8-46e9-99af-55ca2c05117c)
 
