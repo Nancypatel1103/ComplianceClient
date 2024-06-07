@@ -7,7 +7,7 @@ A user interface acts as a contractual arrangement that specifies how different 
 Interfaces are essential to maintain modularity, extensibility, and code reusability in software development. By defining clear boundaries and expectations of how components communicate, interfaces facilitate collaboration between developers and enable the integration of different modules into compatible systems.
 
 ## How to Configure an Interface
-1. First install Ubuntu on the virtual box. Before installing the Ubuntu server, a virtual box must be installed on your machine. So check if it is installed or not and if not how to install it is explained in the link here(https://www.virtualbox.org/wiki/Downloads)
+1. First install Ubuntu on the virtual box. Before installing the Ubuntu server, a virtual box must be installed on your machine. So check if it is installed or not and if not how to install it is explained in the link here(https://www.virtualbox.org/wiki/Downloads). And installing Ubuntu version 22.04 version.
 2. Next, download it from the Ubuntu server page. Then select option number two, and your PC will download the 1.37 GB ISO file.
 3. Install Virtual Box Start with the Virtual Box Manager interface from which you will manage all your virtual machines.
 
