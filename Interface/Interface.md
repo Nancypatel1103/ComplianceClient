@@ -70,7 +70,7 @@ Interfaces are essential to maintain modularity, extensibility, and code reusabi
 
     ![image-15](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/dd0cc996-1807-499a-9c53-984c62eaa632)
 
-19. The installer can give you complete information. Here you have to select a custom storage layout. Unselect and **set up this disk as an LVM group**. LVM does not support groups.
+19. The installer can give you complete information. Here you have to select a custom storage layout. Unselect and **set up this disk as an LVM group**.
 
     ![image-16](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/71d25558-ca31-4b4b-b41d-c9d8f9e4b7e3)
 
