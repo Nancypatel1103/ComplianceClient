@@ -155,13 +155,13 @@ Interfaces are essential to maintain modularity, extensibility, and code reusabi
  
     ![image-29](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f8c74843-3e4f-4dd4-a5f0-e35479897cd8)
 
-37. After login **Wizard Configuration** page will open enter the External URL there and click on the next button.
+37. After login **Wizard Configuration** page will open enter the External URL there and click on the **Next** button.
 
     ![image-30](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/49cae9cd-3a9b-496b-87cc-506edd7b9533)
 
-38. Next, do you want to enable the Grafrana URL? If you want to do it then click on yes otherwise click on no and click on the next button.
-39. Next, do you want to enable the Kafka URL? If you want to do it then click on yes otherwise click on no and click on the next button.
-40. After that reset cardantile will open and enter the password and password then click on the finish button.
+38. Next, do you want to enable the Grafrana URL? If you want to do it then click on yes otherwise click on no and click on the **Next** button.
+39. Next, do you want to enable the Kafka URL? If you want to do it then click on yes otherwise click on no and click on the **Next** button.
+40. After that reset cardantile will open and enter the password and password then click on the **Finish** button.
 
     ![image-31](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/601869d6-c659-42c7-9f78-a876f037c77d)
 
