@@ -187,7 +187,7 @@ Interfaces are essential to maintain modularity, extensibility, and code reusabi
 
     ![image-34](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5646efa2-c56e-40c5-976e-7634e2ecad80)
 
-49. And if the license is expired then click on **login** then you will get an error show as shown in the image.
+49. And if the license is expired then click on **login** then you will get an error show as shown in the image. if you are getting error this message then your license expires please contact to support team.
 
     ![image-35](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/bfc9bb15-46ff-48a6-8938-a636c27d5c7d)
 
