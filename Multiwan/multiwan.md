@@ -9,13 +9,17 @@ We need a MultiWAN network to maintain our internet connection. MultiWAN provide
 ## Set the configuration MultiWAN
 
 1. After that, go to the cloud gateway **(https://dev.hi-clouds.com/login) and (https://beta1.hi-clouds.com/login)** and login to the **CE Device** menu and select the device and then go to the **interface** menu and click on the **edit** button of its interface.
+
+   ![image-1](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/72876f7b-3cb8-4716-b6cb-a2853245fdbb)
+
 2. If you click on the **edit** button, then a new page of **Update Ethernet Interface** will be opened in which the zone type will be **WAN** by default and similarly by opening another **Ethernet Internet**, if the zone type is not **WAN** then select **WAN** and then click on **Update** button.
 
    ![image-2](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/2ca5fb26-4ed8-46e9-99af-55ca2c05117c)
 
 5. After clicking the update button **WAN** will show in both zone types.
 
-   ![image-3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/6a7e93f5-a561-4151-99a6-225580b2add0)
+   ![image-3](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d60b1e87-ecc1-45f9-b2db-1409960eedc1)
+
 
 ### Failour Configuration
 
@@ -701,9 +705,9 @@ Active ipv6 user rules:
 
 ```
 
-output show mwan3 status in Details. 
+the output shows mwan3 status in Details. 
 
-- ping use wirh command `mwan3 use eth0 ping -4 google.com` output will be like this.
+- ping use with command `mwan3 use eth0 ping -4 google.com` output will be like this.
 
 ```sh
 
