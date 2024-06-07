@@ -110,7 +110,7 @@ Interfaces are essential to maintain modularity, extensibility, and code reusabi
     ![image-23](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b4989321-47a7-4d38-b477-8fc2f8208070)
 
 
-27. Next, enter the username and do all, and give the command which is given here, enter your username instead of **heery**.
+27. Next, enter the username and do all, and give the command which is given here, enter your username instead of **herry**.
      ```
     herry ALL=(ALL) NOPASSWD: ALL
      ```
