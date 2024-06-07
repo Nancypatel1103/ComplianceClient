@@ -102,10 +102,12 @@ Interfaces are essential to maintain modularity, extensibility, and code reusabi
     ```
 
 26. You can start and stop the virtual machine using the VBoxManage command from the terminal.
-   - To power on:
-    ```
-    VBoxManage startvm "Ubuntu Server 22.04" --type headless
-    ```
+  
+   - To power on:                   
+     ```
+     VBoxManage startvm "Ubuntu Server 22.04" --type headless
+     ```
+  
    - To power off:
      ```
      VBoxManage controlvm "Ubuntu Server 22.04" poweroff
@@ -126,30 +128,30 @@ Interfaces are essential to maintain modularity, extensibility, and code reusabi
     ssh-copy-id -i ~/.ssh/id_rsa.pub username@ip_address
     ```
 30. After Ubuntu is installed, go into the terminal and issue a command. Keep the username added in Ubuntu in the Ubuntu server username.
-   ```
-   sudo vi /etc/sudoers.d/<ubuntu_server_username>
-   ```
-   
-   ![image-23](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b4989321-47a7-4d38-b477-8fc2f8208070)
+    ```
+     sudo vi /etc/sudoers.d/<ubuntu_server_username>
+    ```
+
+    ![image-23](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/b4989321-47a7-4d38-b477-8fc2f8208070)
 
 
 31. Next, enter the username and do all, and give the command which is given here, enter your username instead of **heery**.
-    ```
+     ```
     herry ALL=(ALL) NOPASSWD: ALL
-    ```
-  ![image-24](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1d2fa4bb-a468-4a2c-8c9f-678a2865f96b)
+     ```
+    ![image-24](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1d2fa4bb-a468-4a2c-8c9f-678a2865f96b)
  
 
 32. Next, run the cd on-premise command.
     ```
     cd on-premise/
     ```
-   ![image-25](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1d355c92-3cca-48d6-9205-9011e2b9d67f)
+    ![image-25](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1d355c92-3cca-48d6-9205-9011e2b9d67f)
 
 33. Then run the docker-compose command.
-   ```
-    docker-compose up --build -d
-   ```
+    ```
+     docker-compose up --build -d
+    ```
 34. Give the command given here for the image.
     ```
     docker image ls
@@ -159,7 +161,7 @@ Interfaces are essential to maintain modularity, extensibility, and code reusabi
     ```
     docker ps
     ```
-  ![image-26](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/561e0ca9-5b9d-4227-bcfc-b8e361598d49)
+    ![image-26](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/561e0ca9-5b9d-4227-bcfc-b8e361598d49)
 
 
 37. After installing docker create a folder named On premise in your machine. Then add the file inside the source from the scp command. In the etc file, add the file with the name of the user inside Sudo. For Example Command `scp on-premise.zip sharad@172.20.10.12:/home/sharad/on-premise`
@@ -168,35 +170,35 @@ Interfaces are essential to maintain modularity, extensibility, and code reusabi
     ```
     npm run start:on-premise-controller
     ```
-  ![image-27](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e3940e89-43f1-4f32-976c-79b100da000b)
+    ![image-27](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/e3940e89-43f1-4f32-976c-79b100da000b)
 
 39. When the application runs, you will see the application run successfully message there.
 
-   ![image-28](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/a2442c61-205f-4f0f-ad38-39084e8357a7)
+    ![image-28](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/a2442c61-205f-4f0f-ad38-39084e8357a7)
 
 40. After successfully running login your application using the IP address used on Ubuntu. **For ex:- 198.168.29.206:3000**. Enter **Username and Password** (username:- admin@example.com, Password:admin@123) there and click on the **Login** button.
  
-  ![image-29](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f8c74843-3e4f-4dd4-a5f0-e35479897cd8)
+    ![image-29](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/f8c74843-3e4f-4dd4-a5f0-e35479897cd8)
 
 41. After login **Wizard Configuration** page will open enter the External URL there and click on the next button.
 
-  ![image-30](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/49cae9cd-3a9b-496b-87cc-506edd7b9533)
+    ![image-30](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/49cae9cd-3a9b-496b-87cc-506edd7b9533)
 
 42. Next, do you want to enable the Grafrana URL? If you want to do it then click on yes otherwise click on no and click on the next button.
 43. Next, do you want to enable the Kafka URL? If you want to do it then click on yes otherwise click on no and click on the next button.
 44. After that reset cardantile will open and enter the password and password then click on the finish button.
 
-   ![image-31](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/601869d6-c659-42c7-9f78-a876f037c77d)
+    ![image-31](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/601869d6-c659-42c7-9f78-a876f037c77d)
 
 45. Click finish and it will land on the URL you entered. Open the Dashboard and Go to the **Setting** menu.
 46. If you go to the **Setting** menu, Then go to the Interface tab. By default something like this will appear. Click on the **Edit** button there.
   
-  ![image-32](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/84067113-2a37-4826-b779-f74d0f7c6451)
+    ![image-32](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/84067113-2a37-4826-b779-f74d0f7c6451)
 
 47. If you click on edit, a new window will open where you will see the interface name, IP address, subnet mask, and Gateway IP. By default the name of the interface will appear as shown in the image. which comes from the Ubuntu Server. Also enter the IP address, subnet mask, and Gateway IP as shown in the image. After that click on the **Update** button.
     `Note:- Here the range of your IP address will be the same as the IP address and the same will be in the subnet mask. Here you will not be able to give any IP address or subnet mask, here the IP address given in your range will come and the subnet mask will come.`
 
-  ![image-33](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/62648f4a-0c2c-467c-b25c-5cd3e1f04b92)
+    ![image-33](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/62648f4a-0c2c-467c-b25c-5cd3e1f04b92)
 
 48. After clicking on the update button, you will see a Successfully No message in your terminal.
 49. As soon as the successful message is received, every process running on this IP will be stopped and it will move to another IP that you have entered here. It means that the application will run on the IP given by you in the IP then check whether the application is running on the IP given by you or not.
@@ -207,7 +209,7 @@ Interfaces are essential to maintain modularity, extensibility, and code reusabi
 51. After running the command you can see in the image that it has moved to another IP address.
 52. Login by entering your username and password and clicking on the **login** button.
 
-  ![image-34](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5646efa2-c56e-40c5-976e-7634e2ecad80)
+    ![image-34](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/5646efa2-c56e-40c5-976e-7634e2ecad80)
 
 53. And if the license is expired then click on **login** then you will get an error show as shown in the image.
 
