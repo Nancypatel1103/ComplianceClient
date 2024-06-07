@@ -141,7 +141,7 @@ Interfaces are essential to maintain modularity, extensibility, and code reusabi
     ![image-26](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/561e0ca9-5b9d-4227-bcfc-b8e361598d49)
 
 
-33. After installing docker create a folder named On premise in your machine. Then add the file inside the source from the scp command. In the etc file, add the file with the name of the user inside Sudo. For Example Command `scp on-premise.zip sharad@172.20.10.12:/home/sharad/on-premise`
+33. After installing docker create a folder named on-premise in your machine. Then add the file inside the source from the scp command. In the etc file, add the file with the name of the user inside Sudo. For Example Command `scp on-premise.zip sharad@172.20.10.12:/home/sharad/on-premise`
 
 34. Enter the following command to run the application.
     ```
