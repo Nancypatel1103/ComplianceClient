@@ -23,20 +23,24 @@ We need a MultiWAN network to maintain our internet connection. MultiWAN provide
 
 ### Failour Configuration
 
-6. Go to the **MUTLIWAN** menu and click on the **Configure MultiWan checkbox** there. If you click on the check box, two options will be shown **1. Select mode and 2. Notification email**. Select Failover in select mode. Enter your email in the notification email **Example sharadbhagwat121@gmail.com**. Email can also be provided for notification. There it will show yes in **Enabled** interface **eth0 and eth1** and then click on the **Save Config** button.
+6. Go to the **MUTLIWAN** menu and click on the **Configure MultiWan checkbox** there. 
+
+   ![image-16](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/4588fd5e-1260-4134-96e6-a52ddb51c3fe)
+
+7. If you click on the check box, two options will be shown **1. Select mode and 2. Notification email**. Select Failover in select mode. Enter your email in the notification email **Example demo123@gmail.com**. Email can also be provided for notification. There it will show yes in **Enabled** interface **eth0 and eth1** and then click on the **Save Config** button.
 
    ![image-4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/cd15a6eb-6d16-4f71-9364-962bb06d496d)
 
-7. Then click on the **Web terminal** of the device. And login **Luci**. After login go to **MultiWAN Manager** and there in the overview **eth1 and eth2** will show you online.
+8. Then click on the **Web terminal** of the device. And login **Luci**. After login go to **MultiWAN Manager** and there in the overview **eth1 and eth2** will show you online.
 
    ![image-5](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/57f3cb40-0c69-4419-8c8c-0fee814fc382)
 
-8. Next, now go to the **Interface** tab. It will show you the configuration interface.
+9. Next, now go to the **Interface** tab. It will show you the configuration interface.
 
    ![image-6](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/48781000-0f53-4879-a3a8-2bfa9d600bdd)
 
 
-9. Member creation after configuring MultiWAN in the Cloud. So for member creation, go to the interface like eth0, eth1 and enable it. And to configure the option as follows.
+10. Member creation after configuring MultiWAN in the Cloud. So for member creation, go to the interface like eth0, eth1 and enable it. And to configure the option as follows.
    - Interface name:- eth0,eth1
    - Target IP:- we use this IP 8.8.8.8/4.2.2.2
    - Failure interval:- 5 seconds
@@ -51,7 +55,7 @@ We need a MultiWAN network to maintain our internet connection. MultiWAN provide
 
    ![image-8](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/8c067dad-9a9b-4ae4-b490-f1e45e87a6a9)
 
-10. Then go to Luci go to **MultiWAN Manager** and click on Member tab. If you go to the **Member** tab, you will be shown two members that have been created in the cloud. Here the value of Metrics will be less. Its priority will be first. Metrics means route path.
+11. Then go to Luci go to **MultiWAN Manager** and click on Member tab. If you go to the **Member** tab, you will be shown two members that have been created in the cloud. Here the value of Metrics will be less. Its priority will be first. Metrics means route path.
    - Name: eth1_m1_w1             
    - Interface: eth1              
    - Metrics: 1                   
