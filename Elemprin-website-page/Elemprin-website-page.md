@@ -20,7 +20,21 @@ From initial steps on the journey to cloud or improving an existing environment,
       - Cloud Gateway Solutions:
 Connect your infrastructure to the cloud with Elemprin's seamless cloud gateway solutions. Start your cloud journey with increased scalability, security, and flexibility.                                 
       - Cybersecurity Services:
-        Elemprin's comprehensive cyber security solutions for organizations offer a range of protection options. Our team provides comprehensive threat detection, prevention, and incident response, as well as adherence to strict guidelines for managing compliance.         -                                 
+        Elemprin's comprehensive cyber security solutions for organizations offer a range of protection options. Our team provides comprehensive threat detection, prevention, and incident response, as well as adherence to strict guidelines for managing compliance.         In addition to our core offerings, we also have a number of specialized products and services including:
+     - Access Point Management: This is important for making sure that access points are managed effectively and optimized in order to make networks more efficient.
+     - AP Utility Tools Checking: The use of advanced utility tools for thorough checking and maintenance of access points to ensure they work properly all the time.
+     - Authentication Solutions: We put strong measures in place so as to protect your network and resources through authenticated control systems.
+     - Bandwidth Management: A method used to control or measure signals which are sent along a channel so that they do not interfere with each other – bandwidth management can help improve user experience while optimizing performance for networks.
+     - CE Registration Compliance: Helping you with regulatory requirements by registering relevant products and services for CE compliance.
+     - Hotspot 2.0 Implementation: The technology behind seamless secure wifi connectivity using Hotspot 2.0 should be deployed where possible.
+     - Interface Optimization: Network interfaces need to be streamlined if they’re ever going to be any good in terms of performance and usability.
+     -  Multi-WAN Solutions: Setting up multiple wide area networks (WANs) is one way through which reliability can be increased while at the same time not letting any extra bandwidth go unused.
+     -  Radio Accounting: Radio usage and allocations can easily get out of hand so keeping track on them might just save enough network resources for everyone’s Christmas party downloads this year.
+     -  Radio Configuration: The performance and coverage provided by radios should match each other perfectly; this means that radio configurations have to be adjusted until everything is working as it should over here.
+     -  Voucher Management: The implementation of voucher-based authentication systems is important for access control because it guarantees security.
+     -  Whitelist and Blacklist Management: Who can and cannot access your network needs to be controlled through whitelists as well as blacklists hence these should always remain under constant scrutiny no matter what happens…
+
+                                
 2.	About
 -	**Company history**:- Elemprin, a company founded in (year), has been dedicated to making sweeping changes that will impact the IT industry. With a focus on innovation and quality, we have developed into renowned names that provide cutting-edge technology solutions to customers worldwide. It brings us pride and we aim to satisfy our customers.
 -	**Mission and values**:- Our aim is uncomplicated: to offer IT solutions that transform business operations. Elemprin We adhere to the following core principles that shape our business: Innovation is our passion and we continuously innovate in the field of IT.
