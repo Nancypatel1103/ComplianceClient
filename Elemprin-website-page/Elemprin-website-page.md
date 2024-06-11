@@ -68,12 +68,65 @@ This is what Harshad contributes to strengthening majorly our projects. As a tea
       - We have established ourselves in important markets and are expanding our global presence with a growing number of satisfied customers.
       - Looking ahead, we prioritize innovation, providing customers with unparalleled value, and shaping the future of IT. We continue to innovate and grow.
 3.	Service & Product
--	**Overview of cloud gateway services**:- The importance of ensuring secure connectivity and cloud-based services is shared by Elemprin. With our Cloud Gateway services, organizations can access the benefits of the cloud while maintaining optimal performance and security. Our advanced technology and expertise guarantee a smooth, secure, and flexible journey to the cloud. We are here to help.
--	**Detailed description of each product**:-
-      1. The primary objective of our CloudConnect service is to enable organizations to establish reliable and efficient connections with major cloud providers like AWS, Azure, or Google Cloud Platform. By using CloudConnect, you can connect to the cloud from your local network and have secure access to important applications and data.
-      2. With CloudSecure, you can trust that your data and infrastructure in the cloud are protected. Providing you with the peace of mind you need to use the cloud securely, CloudSecure provides advanced threat detection, data encryption, and access control features.
-      3. Get the most out of your cloud applications with CloudOptimize.We offer optimization tools and techniques to optimize your cloud infrastructure for maximum speed, scalability, and cost, making it the best choice.
-      4. We provide CloudBackup, our automatic backup and recovery solution for cloud environments, to safeguard valuable data. To quickly recover from data loss or system failure, CloudBackup makes it possible to back up your cloud data and applications.
+-	Given the versatile nature of OpenWrt and the domains of development, networking, and security, we offer a range of services that cater to different client needs.
+
+Custom Firmware Development:
+- Elevate your network's capabilities with our custom firmware development services. We craft tailor-made firmware solutions designed to align with your hardware's unique specifications. This service encompasses:
+- Optimized Performance: Fine-tuning firmware for enhanced network speeds, seamless streaming, and smoother browsing experiences.
+- Hardware Compatibility: Crafting firmware that maximizes your hardware's potential for peak performance.
+- Feature Enhancement: Adding custom features and functionalities to match your network requirements.
+
+Network Setup and Optimization:
+Our network optimization services are designed to transform your network into a seamless and efficient ecosystem. We offer:
+
+- Initial Setup: Setting up your OpenWrt-based network infrastructure, ensuring seamless connectivity and proper configuration.
+- Performance Fine-Tuning: Tweaking network settings for optimal speeds, reduced latency, and improved overall performance.
+- Troubleshooting and Support: Expert assistance in identifying and resolving network issues quickly and effectively.
+- Provide consultation and assistance in designing, setting up, and optimizing OpenWrt-based networks for homes, businesses, or specialized environments.
+
+Wireless Access Point Firmware Development:
+- Offer expertise in developing, deploying, and configuring wireless networks, including mesh networking, access points, and Wi-Fi range extension.
+
+Security Assessment and Hardening:
+Secure your network with Elemprin's security expertise. Our services include:
+
+- Comprehensive Assessments: In-depth analysis of your network's security posture, identifying vulnerabilities and potential threats.
+- Hardening Solutions: Implementing robust security measures to safeguard against cyber threats and unauthorized access.
+- Continuous Monitoring: Ongoing surveillance to ensure your network remains resilient against evolving security challenges.
+
+Firewall Configuration:
+- Configure OpenWrt's firewall to establish robust security policies, including traffic filtering, port forwarding, and intrusion prevention.
+
+VPN and Remote Access Setup:
+- Assist clients in setting up Virtual Private Networks (VPNs) and remote access solutions for secure communication and data transfer.
+
+Guest Network Management:
+- Develop solutions for creating and managing guest networks, including captive portals, time-limited access, and bandwidth control.
+
+Network Monitoring and Analytics:
+- Build/Manage systems for network monitoring, traffic analysis, and reporting to enhance network visibility and troubleshooting.
+
+IoT Device Security:
+- Offer services to secure Internet of Things (IoT) devices, ensuring they are isolated from the main network and properly protected.
+
+Content Filtering and Parental Controls:
+- Provide solutions for content filtering, parental controls, and safe browsing using OpenWrt to safeguard users from inappropriate content.
+
+Multi-WAN Load Balancing and Failover:
+- Implement solutions to optimize internet connectivity by balancing traffic across multiple WAN connections or providing failover capabilities.
+
+VoIP and QoS Implementation:
+- Configure Quality of Service (QoS) to prioritize VoIP traffic, ensuring reliable and high-quality voice communication.
+
+Network Automation and Scripting:
+- Develop scripts and automation tools to streamline network management tasks, such as firmware updates, backup and restore, and configuration changes.
+
+Training and Workshops:
+- Offer training sessions and workshops to educate clients on OpenWrt usage, customization, security best practices, and troubleshooting.
+
+OpenWrt Consulting and Support:
+- Provide consulting services to help clients plan, strategize, and make informed decisions regarding their OpenWrt-based projects.
+
 -	**Features and Benefits**:- You can easily scale your cloud infrastructure with ease thanks to our Cloud Gateway service.
 	  - Ensuring your data is secure in the cloud is a top-notch security measure, along with robust encryption protocols. 
 	  - We optimize our tools and techniques to ensure that cloud applications deliver the best performance and user experience for your customers and employees.
