@@ -68,69 +68,72 @@ This is what Harshad contributes to strengthening majorly our projects. As a tea
       - We have established ourselves in important markets and are expanding our global presence with a growing number of satisfied customers.
       - Looking ahead, we prioritize innovation, providing customers with unparalleled value, and shaping the future of IT. We continue to innovate and grow.
 3.	Service & Product
--	Given the versatile nature of OpenWrt and the domains of development, networking, and security, we offer a range of services that cater to different client needs.
+-	Given the versatile nature of OpenWrt and the domains of development, networking, and security, we offer a range of services 
+        that cater to different client needs.
+       - Custom Firmware Development:
+            - Elevate your network's capabilities with our custom firmware development services. We craft tailor-made firmware solutions 
+              designed to align with your hardware's unique specifications. This service encompasses:
+            - Optimized Performance: Fine-tuning firmware for enhanced network speeds, seamless streaming, and smoother browsing 
+              experiences.
+            - Hardware Compatibility: Crafting firmware that maximizes your hardware's potential for peak performance.
+            - Feature Enhancement: Adding custom features and functionalities to match your network requirements.
 
-Custom Firmware Development:
-- Elevate your network's capabilities with our custom firmware development services. We craft tailor-made firmware solutions designed to align with your hardware's unique specifications. This service encompasses:
-- Optimized Performance: Fine-tuning firmware for enhanced network speeds, seamless streaming, and smoother browsing experiences.
-- Hardware Compatibility: Crafting firmware that maximizes your hardware's potential for peak performance.
-- Feature Enhancement: Adding custom features and functionalities to match your network requirements.
+       - Network Setup and Optimization:
+             Our network optimization services are designed to transform your network into a seamless and efficient ecosystem. We offer:
 
-Network Setup and Optimization:
-Our network optimization services are designed to transform your network into a seamless and efficient ecosystem. We offer:
+            - Initial Setup: Setting up your OpenWrt-based network infrastructure, ensuring seamless connectivity and proper configuration.
+            - Performance Fine-Tuning: Tweaking network settings for optimal speeds, reduced latency, and improved overall performance.
+            - Troubleshooting and Support: Expert assistance in identifying and resolving network issues quickly and effectively.
+            - Provide consultation and assistance in designing, setting up, and optimizing OpenWrt-based networks for homes, businesses, or specialized environments.
 
-- Initial Setup: Setting up your OpenWrt-based network infrastructure, ensuring seamless connectivity and proper configuration.
-- Performance Fine-Tuning: Tweaking network settings for optimal speeds, reduced latency, and improved overall performance.
-- Troubleshooting and Support: Expert assistance in identifying and resolving network issues quickly and effectively.
-- Provide consultation and assistance in designing, setting up, and optimizing OpenWrt-based networks for homes, businesses, or specialized environments.
+       - Wireless Access Point Firmware Development:
+            - Offer expertise in developing, deploying, and configuring wireless networks, including mesh networking, access points, and 
+          Wi-Fi range extension.
 
-Wireless Access Point Firmware Development:
-- Offer expertise in developing, deploying, and configuring wireless networks, including mesh networking, access points, and Wi-Fi range extension.
+      - Security Assessment and Hardening:
+             Secure your network with Elemprin's security expertise. Our services include:
 
-Security Assessment and Hardening:
-Secure your network with Elemprin's security expertise. Our services include:
+           - Comprehensive Assessments: In-depth analysis of your network's security posture, identifying vulnerabilities and potential threats.
+           - Hardening Solutions: Implementing robust security measures to safeguard against cyber threats and unauthorized access.
+           - Continuous Monitoring: Ongoing surveillance to ensure your network remains resilient against evolving security challenges.
 
-- Comprehensive Assessments: In-depth analysis of your network's security posture, identifying vulnerabilities and potential threats.
-- Hardening Solutions: Implementing robust security measures to safeguard against cyber threats and unauthorized access.
-- Continuous Monitoring: Ongoing surveillance to ensure your network remains resilient against evolving security challenges.
+      - Firewall Configuration:
+           - Configure OpenWrt's firewall to establish robust security policies, including traffic filtering, port forwarding, and intrusion prevention.
 
-Firewall Configuration:
-- Configure OpenWrt's firewall to establish robust security policies, including traffic filtering, port forwarding, and intrusion prevention.
+      - VPN and Remote Access Setup:
+          - Assist clients in setting up Virtual Private Networks (VPNs) and remote access solutions for secure communication and data transfer.
 
-VPN and Remote Access Setup:
-- Assist clients in setting up Virtual Private Networks (VPNs) and remote access solutions for secure communication and data transfer.
+     - Guest Network Management:
+          - Develop solutions for creating and managing guest networks, including captive portals, time-limited access, and bandwidth control.
 
-Guest Network Management:
-- Develop solutions for creating and managing guest networks, including captive portals, time-limited access, and bandwidth control.
+     - Network Monitoring and Analytics:
+          - Build/Manage systems for network monitoring, traffic analysis, and reporting to enhance network visibility and troubleshooting.
 
-Network Monitoring and Analytics:
-- Build/Manage systems for network monitoring, traffic analysis, and reporting to enhance network visibility and troubleshooting.
+    - IoT Device Security:
+         - Offer services to secure Internet of Things (IoT) devices, ensuring they are isolated from the main network and properly protected.
 
-IoT Device Security:
-- Offer services to secure Internet of Things (IoT) devices, ensuring they are isolated from the main network and properly protected.
+    - Content Filtering and Parental Controls:
+         - Provide solutions for content filtering, parental controls, and safe browsing using OpenWrt to safeguard users from inappropriate content.
 
-Content Filtering and Parental Controls:
-- Provide solutions for content filtering, parental controls, and safe browsing using OpenWrt to safeguard users from inappropriate content.
+    - Multi-WAN Load Balancing and Failover:
+        - Implement solutions to optimize internet connectivity by balancing traffic across multiple WAN connections or providing failover capabilities.
 
-Multi-WAN Load Balancing and Failover:
-- Implement solutions to optimize internet connectivity by balancing traffic across multiple WAN connections or providing failover capabilities.
+    - VoIP and QoS Implementation:
+       - Configure Quality of Service (QoS) to prioritize VoIP traffic, ensuring reliable and high-quality voice communication.
 
-VoIP and QoS Implementation:
-- Configure Quality of Service (QoS) to prioritize VoIP traffic, ensuring reliable and high-quality voice communication.
+    - Network Automation and Scripting:
+       - Develop scripts and automation tools to streamline network management tasks, such as firmware updates, backup and restore, and configuration changes.
 
-Network Automation and Scripting:
-- Develop scripts and automation tools to streamline network management tasks, such as firmware updates, backup and restore, and configuration changes.
+    - Training and Workshops:
+       - Offer training sessions and workshops to educate clients on OpenWrt usage, customization, security best practices, and troubleshooting.
 
-Training and Workshops:
-- Offer training sessions and workshops to educate clients on OpenWrt usage, customization, security best practices, and troubleshooting.
-
-OpenWrt Consulting and Support:
-- Provide consulting services to help clients plan, strategize, and make informed decisions regarding their OpenWrt-based projects.
+    - OpenWrt Consulting and Support:
+       - Provide consulting services to help clients plan, strategize, and make informed decisions regarding their OpenWrt-based projects.
 
 -	**Features and Benefits**:- You can easily scale your cloud infrastructure with ease thanks to our Cloud Gateway service.
 	  - Ensuring your data is secure in the cloud is a top-notch security measure, along with robust encryption protocols. 
 	  - We optimize our tools and techniques to ensure that cloud applications deliver the best performance and user experience for your customers and employees.
-     - By utilizing cost-efficient cloud solutions and optimizing resource utilization, we provide costless IT solutions that minimize performance and security risks.
+     - By utilizing cost-efficient cloud solutions and optimizing resource utilization, we provide costless IT Sevices  that minimize performance and security risks.
 -	**Collaboration**:- The Elemprin team is committed to working together. We personally work closely with each and every client to understand their specific needs and goals, ensuring that our solutions are tailored to meet their requirements. Custom integrations, customized modules, or unique workflow concepts are all within our capabilities. Would your business be interested in learning more about how our solutions can help you achieve innovation, efficiency, growth, and success? Please read below.
 4.	Solution
 -	**Case studies highlighting successful implementations**:- See how businesses like yours have overcome obstacles and achieved remarkable results with the help of our solutions. Read on to find out more. Our customers' operational and productivity improvements are reflected in our case studies. This is proven through continuous improvement across the board.
@@ -139,11 +142,41 @@ We are dedicated to catering to a broad spectrum of industries, which encompasse
 -	**Customization options**:- The Elemprin team is committed to working together. We work closely with each of our clients to understand their specific needs and goals, ensuring that our solutions are tailored to meet their requirements. Whether you need custom integrations, custom modules, or unique workflows, we have the flexibility and expertise to make it happen. Ready for your business to go the extra mile and learn more about how our solutions can help you achieve innovation, efficiency, growth, and thrive? We should embark on this journey together and utilize the full potential of your organization.
 5.	Support
 -	**Help and desk information**:- Our help desk and desktop information services are tailored to provide you with efficient support when you require it. Whether you're experiencing technical difficulties or seeking assistance to use our services, our knowledgeable support team is here to help. Simply contact us through phone, email, or chat and we'll quickly resolve your issue and get you back on the right path.
--	**FAQs**:- For frequently asked questions, our FAQ section is extensive and accessible. A list of commonly asked questions and surveys from customers has been compiled. From product features to billing questions, you'll find helpful explanations and solutions to your concerns.
-	1. General Questions: Ask questions about our company, our practices, and general inquiries.
-	2. Technical support FAQ: How to address technical problems, system requirements, and compatibility issues?    
-        3. Questions about Billing: Evaluate queries regarding billing cycles, payment methods, and subscription strategies.                        
-        4. The Product-Specific FAQs: Explore our frequently asked questions about the products or services we offer.
+-	**FAQs**:- - Q-1. What is OpenWrt?                                                                                               
+                     Ans. OpenWrt is an open-source Linux-based operating system that powers routers and other networking devices. It allows for customization, performance optimization, and enhanced security.
+
+       - Q-2. Why should I choose Elemprin for OpenWrt consulting?                                                            
+         Ans. Elemprin combines extensive expertise in OpenWrt, networking, and security to provide tailored solutions that optimize your network's performance, security, and capabilities.
+
+    - * Services and Process
+
+       - Q-3. What consulting services does Elemprin offer?                                                                            
+         Ans. Elemprin offers a range of services including custom firmware development, network optimization, security assessments, guest network management, VPN setup, and more.
+
+       - Q-4. How do I get started with Elemprin's consulting services?                                                  
+         Ans. Simply contact us to discuss your needs. We'll work with you to understand your requirements and recommend the best service package.
+
+       - Q-5. What is the typical process for a consulting engagement?                                    
+         Ans. Our process involves consultation, assessment, solution development, implementation, and ongoing support. Each engagement is customized to your specific needs.
+
+   - * Pricing and Packages
+
+       - Q-6. How much do Elemprin's consulting services cost?                                   
+         Ans. Our pricing varies based on the service package and the scope of work. Each client needs their unique tailore solutions and budget contraint, we define custom service package for eacch of them
+
+   - * Technical Details
+
+       - Q-7. Do I need to have technical knowledge to benefit from Elemprin's services?                                
+         Ans. While technical knowledge can be beneficial, it's not mandatory. Our team will guide you through the process and provide explanations in a clear and understandable manner.
+
+  - * Contact and Support
+
+       - Q-8. How can I reach out to Elemprin for further assistance?                                          
+         Ans. Feel free to contact us via email or phone. We're here to answer your questions and provide guidance.
+
+       - Q-9. Do you offer customer support after the consulting engagement is complete?                                  
+         Ans. Yes, we offer ongoing customer support to address any questions or issues that may arise after the consulting engagement.
+
 -	**Knowledge base**:- With our extensive knowledge base, which includes articles, guides, tutorials, and troubleshooting tools all-ready, we aim to make your every experience as a customer of ours more convenient. Explore a wide range of topics, from installation guides and configuration guides to best practices and advanced features. We keep you informed with our database's latest updates and current solutions.
 -	**Customer Portal**:- We provide a dedicated Customer Portal where you can manage your account, submit tickets for support, monitor service requests, access exclusive resources in your account, and utilize our personalized customer portal. We at Elemprin are dedicated to providing exceptional customer service and our support team is committed to exceeding your expectations. If you have any questions or concerns, please contact us. Your success will be our priority. Thank you.
 6.	Partner
