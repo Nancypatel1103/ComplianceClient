@@ -177,18 +177,18 @@ This is what Harshad contributes to strengthening majorly our projects. As a tea
 -	**Partner Program Introduction**: Hello and welcome to our partner program. We're excited to be working with you in bringing new, cutting-edge services to our relationship of mutual success with the customer. Our aim has always been to build lasting relationships with businesses like our own, using pooled knowledge to offer further innovation that adds value to customers. The different benefits and available options that come with this affiliate program: help you grow your business, target new audiences, and make more money. Not to worry! Be you a technology provider, consultancy, or service provider, we have the ultimate confidence that we will together do some amazing work.
 -	**Partnership Benefits**: You will derive a number of advantages from being an ally of ours that comes with the intention of driving your organizational goals and scaling your growth rapidly at the same time:                                                   
         1. Every customer receives the best technology service at the best market prices.                                      
- 	2. Marketing materials, sales support, and co-marketing opportunities to boost your brand together with further referrals. E-commerce transactions assistance is also provided.                                                        
+ 	2. Marketing materials, sales support, and co-marketing opportunities to boost your brand together with further referrals. E-commerce transaction assistance is also provided.                                                        
  	3. Training and Certification programs that will arm your team with an edge and give them the confidence to win.
  	4. There will be a seasoned Specialist who will help support your partner in aligning it and realizing the benefits of our 
             partnership.                                                                        
  	5. Joint business planning and marketing strategies will cater to your bespoke business needs, leading to mutual benefit.        
  	6. Expand your market reach and generate revenue with our broad customer base and partner network. We are expanding more 
             opportunities in other markets as well.                                                                     
--	**Partner directory**:- We have a comprehensive partner directory that highlights the exceptional added value we provide to our customers through our partnerships. Our partners are diverse and inclusive. Learn how to find the right partner for your business by exploring our partner profiles. Our directory provides a comprehensive list of partners that can be trusted, including technology partners, system integrators, or consultants. Become a part of our affiliate program today and experience the growth, innovation, and success that only this can bring!
+-	**Partner directory**:- There is a comprehensive partner directory, which highlights the exceptional added value that we provide with our partners to our customers. Our partners are diverse and inclusive. Learn how to find the right partner for your business by exploring the partner profiles. Partners in the directory Our directory provides a comprehensive list of partners your business can trust - technology partners, system integrators, or consultants. Join our affiliate program today and share in the growth, innovation, and success this alone can offer!
 7.	Blog & Media
--	**Company blog with articles on industry trends, tips, and insights**:- We offer our team of experts a platform to exchange their knowledge, expertise, and perspectives on diverse subjects within our industry through the company blog. Our blog provides a wide range of information on technology developments, project management practices, and emerging trends. Examine our publications to remain up-to-date on the newest and most innovative technologies available.
--	**Press releases**:-  We publish press releases to inform you about Elemprin's latest events, achievements, and milestones. All of our company's activities, including new products and exclusive partnerships, are covered in our press releases. Learn about us in the communication segment and discover ways to revolutionize technology.
--	**Media coverage**:- Looking for updates on Elemprin from the media? Check our media sources for news. Read real stories and get exclusives! Find out how our innovations, triumphs, and concepts are transforming the industry. We are committed to excellence and innovation, as evidenced by our media, which includes stimulating interviews and in-depth analysis. The principles of transparency and information sharing are upheld by Elemprin. Stay updated on the latest technology and innovations by visiting our blog and media page. Participate in our efforts to advance innovation, creativity, and the digital era.
+-	**Company blog with materials about industry trends, tips, and insights**: We provide our team of experts with a platform to share their knowledge, expertise, and views on various topics within the framework of our business through the company blog. Here on the blog, one can find materials covering a wide range of topics-from news about the latest technology developments and project management practices to emergent trends. Check out our publications to keep up to date with the latest and most innovative technologies.
+-	**New releases: We issue numerous news releases in order to keep you informed of the latest activity, achievement and event that takes place in Elemprin. From new products to exclusive partnerships - such activities of our company fall under the ambit of our news releases. Learn about us in these communications segments and find ways to revolutionize technology.
+-	**Media coverage**:- Would you like to receive Elemprin updates from the media? Check the media for updates. Read real-life stories or Exclusives. Get inspired about how our innovations are changing the game in the industry, about our successes and our ideas. We're committed to excellence and innovation, as reflected by our media, where you'll find stimulating interviews and in-depth analysis. Transparency and information sharing stand proper whilst principles are observed annex Elemprin. Keep reading on our blog and media page for the latest news on technologies and innovations. Join us in the works for the promotion of innovation, creativity, and digitalization.
 8.	 Contact us
 -	**Contact form**:- Use the form below to send an email and we will get back to you as soon. Can you furnish us with the most comprehensive information about your inquiry?
 [Contact form].
@@ -226,15 +226,37 @@ Elemprin's success is based on the belief that our customers deserve better. Bec
 10.	Resources
 -	**eBooks**:- Our e-book is designed to help you navigate the confusing waters of technology. Get in touch today! Explore our selection of eBooks, carefully selected to offer the essential information, strategies, and best practices for both novices and experts in the digital realm. With our selection of e-books that cover new technologies and skills in various fields, you can focus on improving your professional skills. Not only are we providing eBooks as guides, but we're also exploring new ideas and changing the game. Empower yourself with knowledge and stay ahead of the curve with our extensive collection of eBooks. Jumpstart your quest for the championship.
 11.	Technology
--	**Overview of the technology behind cloud gateway solutions**:- Elemprin IT Solutions believes that cloud gateway solutions are the key to modern businesses. Our cloud gateway solutions enable organizations to access the entire cloud by leveraging our technology, which allows us to securely and efficiently connect on-premise infrastructure. We rely on highly secure encryption protocols, strong authentication mechanisms, and dynamic routing algorithms to ensure the security of your data as it moves from our on-premises facility to the cloud. Our cloud gateway solutions are designed to be highly flexible, scalable, and secure.
--	**Innovation roadmap**:- The primary focus of Elemprin IT Solutions is on innovation. We are committed to continuously evolving our customer experience through innovative solutions. Our roadmap is a result of this journey. We are currently engaged in research and development efforts to explore new technologies, improve current solutions for IT problems, and develop new approaches to cloud computing and cyber security.We invest in innovation and trends to help our clients stand out from their competition by ensuring they are ahead of the curve.
--	**Tech stack**:- Several carefully chosen tools, frameworks, and platforms are integrated into our technology stack to ensure the stability and flexibility of cloud gateways. Some of the key components of our technology stack include:
-     - The automation of infrastructure uses Terraform, Ansible, and other tools to optimize the provisioning and management of cloud resources.
-     - The foundation of our container strategy lies in the utilization of Docker and Kubernetes, which facilitate fast application, scalability, and portability.
-     - We rely on the most up-to-date cloud platforms, including AWS and Azure, as well as Google Cloud, to construct a flexible and expandable infrastructure for our solutions.
-     - We have access to the most advanced security tools in the industry, including Palo Alto Networks, Cisco ASA, and Snort IDS/IPS, for threat detection, intrusion prevention, or security analysis.
-     - We rely on monitoring tools like Prometheus and Grafana to gather information about system performance, troubleshoot, and optimize resource usage.
-Our cloud gateway solutions at Elemprin are designed to provide our customers with the highest level of technological innovation and value-added. Get in touch with us today to discover how we can leverage state-of-the-art technology to enhance your business.
+-	Technologies We Use
+
+As today's tech evolves day by day, we do not have any binding with technologies as we have to be open to adapting them and making them work by leveraging the tools available. But we do have some preferences that we use are
+
+Cloud Platforms:
+AWS/Google Cloud/Azure
+
+Databases:
+MongoDB, MySQL, Redis
+
+Monitoring
+Grafana, Prmotheous, Zabbix
+
+Messaging Service
+Kafka
+
+Development
+Git, Stash, Bitbucket,
+
+Backend Development
+Node.Js, Next.Js, Java Spring Boot
+
+UI Development
+Angular, React
+
+Desktop Development
+Electron
+
+System Development
+Shell, Bash, C, Linux, C++, Rust
+
 12.	Learn
 -	**Training program**:- Our training programs have been developed by industry professionals with a focus on hands-on experience and knowledge of the latest technologies. From novices to established professionals, our courses are structured to provide you with the necessary skills to kick-start your career. Our courses cater to a wide range of learners, covering topics such as computer science, machine learning, and cyber security, in addition to popular programming like Python and Java.
 -	**Certificate**:- Obtain certifications that are recognized in the industry after our training.Your qualifications and experience are recognized, making them a valuable asset to your profession. Whether you're looking to advance your career or explore new avenues, our certifications can help you stand out as an expert in the technology field you want to focus on.
