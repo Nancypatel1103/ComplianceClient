@@ -4,7 +4,7 @@
 An expired license refers to the end of the period for a software license. As most software is only leased to the user, an expired license means that the rights given to the user are legally not applicable. Time-bound licensing refers mainly to trial licenses, subscriptions, and other kinds of agreements between the user and the software provider.
 
 ## Why do we need License Expires
-The license should be expired to maintain the agreed legal and contracted agreement on software usage. This is a form of control and management by the software provider in the distribution of the products and compliance with the payment and upgrade requirements. This also keeps the users up-to-date with the newest version, with the newest security-enhancing updates.
+The license must expire to maintain the agreed legal and contractual obligations on software usage. This is a form of control and management by the software provider for delivery of products and compliance with payment and upgrade requirements. This also keeps users up-to-date with the latest version, the latest security-enhancing updates.
 
 ## How to know when a License Expires
 1. When you logged you will get a message shown on the screen like this. Which is a warning message. This will show that **your trial licenses are expired in 29d 0h 14m 39s. Please contact your support team to renew the license**.
