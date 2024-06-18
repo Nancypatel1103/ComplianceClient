@@ -31,7 +31,7 @@ These interface warning messages are critical to the stability and reliability o
   ![image-4](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/1bd360e1-5dd6-4620-b8a3-12c3bf2c5d71)
 
 
-## How to see save Interface Warning Message
+## How to see update Interface Warning Message
 
 1. If you click on the edit button, then such a window will open, except that you cannot edit the interface name, you can change the **IP Address, Subnet Mask, DNS, and Gateway IP**. Then click on the **Update** button.
 2. Upon clicking the **Update** button, you will see a message **To avoid issues with the device going offline, use the domain name instead of the IP address. Still you want to continue?**. Click on the **Yes** button.
