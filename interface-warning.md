@@ -4,7 +4,7 @@
 An interface warning message is a system or software application warning message that alerts the user to probable problems with network interface settings. Most of these warning prompts usually appear during the course of user configuration, when one is setting or changing interface parameters like the IP address, subnet mask, DNS, and gateway IP. Most of these warnings are extremely useful and prevent silly configuration mistakes in a device that may lead to loss of connectivity or malfunction.
 
 ## Why do we need an Interface Warning Message
-These interface warning messages are critical to the stability and reliability of network configurations. They keep users from making mistakes that can cause a network to go down or a device to disconnect, not to mention opening security vulnerabilities. Through real-time notifications, they guide users on how to correctly input the parameters and understand any potential jeopardies before moving forward. Clearly, this proactive attitude reduces the occurrence of network issues and enhances users' confidence in changing any settings on the network.
+These interface warning messages are critical to the stability and reliability of network configurations. They keep users from making mistakes that can cause a network to go down or a device to disconnect, not to mention opening security vulnerabilities. Through real-time notifications, they guide users on how to correctly input the parameters and understand any potential risk before moving forward. Clearly, this proactive attitude reduces the occurrence of network issues and enhances users' confidence in changing any settings on the network.
 
 ## How to see save Interface Warning Message
 
